@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242424",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-23T22:05:53.065000Z",
+  "market_createdAt": "2022-03-23T22:05:53.065Z",
+  "market_updatedAt": "2024-04-24T23:58:08.37554Z",
+  "market_startDate": "2022-03-23T22:42:31.64Z",
+  "market_endDate": "2022-07-24T00:00:00Z",
+  "market_closedTime": "2022-06-22 20:15:54+00",
+  "conditionId": "0x70952782193d07f17fedb91cd4a84165da877605e8be22522411a89f8dc0ac8e",
+  "slug": "will-katie-britt-win-the-2022-alabama-republican-senate-nomination",
+  "question": "Will Katie Britt win the 2022 Alabama Republican Senate nomination?"
+}

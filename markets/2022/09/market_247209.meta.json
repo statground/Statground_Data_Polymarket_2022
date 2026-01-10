@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247209",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-08T19:30:36.674000Z",
+  "market_createdAt": "2022-09-08T19:30:36.674Z",
+  "market_updatedAt": "2024-04-22T22:41:36.511987Z",
+  "market_startDate": "2022-09-08T19:38:05.514Z",
+  "market_endDate": "2022-10-29T00:00:00Z",
+  "market_closedTime": "2022-10-30 10:45:28+00",
+  "conditionId": "0x275af38d7d252211ceb77d37ee85ce0ad3a7dc689c3bc5d805b54ee7e7d44967",
+  "slug": "who-will-win-jake-paul-vs-anderson-silva-on-october-29",
+  "question": "Who will win Jake Paul vs. Anderson Silva on October 29?"
+}

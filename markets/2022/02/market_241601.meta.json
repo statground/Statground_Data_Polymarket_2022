@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241601",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-18T15:51:00.245000Z",
+  "market_createdAt": "2022-02-18T15:51:00.245Z",
+  "market_updatedAt": "2024-04-24T23:37:39.537035Z",
+  "market_startDate": "2022-02-18T20:12:38.723Z",
+  "market_endDate": "2022-02-18T00:00:00Z",
+  "market_closedTime": "2022-02-19 18:30:22+00",
+  "conditionId": "0xdcf6c6ff7f67dd67335fa7caf1ada8996b50f8b525f962ee4ba87d30ea92ad67",
+  "slug": "nhl-will-the-hurricanes-beat-the-predators-by-more-than-1p5-goals-in-their-february-18-matchup-7-pm-et",
+  "question": "NHL: Will the Hurricanes beat the Predators by more than 1.5 goals in their February 18 matchup (7 PM ET)?"
+}

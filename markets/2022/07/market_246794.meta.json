@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246794",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-22T16:14:49.021000Z",
+  "market_createdAt": "2022-07-22T16:14:49.021Z",
+  "market_updatedAt": "2023-01-31T06:38:21.421Z",
+  "market_startDate": "2022-07-22T16:35:01.028Z",
+  "market_endDate": "2022-08-01T00:00:00Z",
+  "market_closedTime": "2022-08-02 18:15:53+00",
+  "conditionId": "0x0e191842c977819099c1a029ec68a46b236c835e67e90418c8d8eddb7d78fecc",
+  "slug": "will-dc-league-of-super-pets-gross-more-than-40-million-domestically-on-its-opening-weekend",
+  "question": "Will 'DC League of Super-Pets' gross more than $40 million domestically on its opening weekend?"
+}

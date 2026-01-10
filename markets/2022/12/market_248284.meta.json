@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248284",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-22T17:09:22.245000Z",
+  "market_createdAt": "2022-12-22T17:09:22.245Z",
+  "market_updatedAt": "2023-02-10T01:03:40.973Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-24T00:00:00Z",
+  "market_closedTime": "2022-12-25 02:30:42+00",
+  "conditionId": "0x852808d01707cfb05a7607de5c013b3032a233121feb9dac7e07f8a525d21324",
+  "slug": "nfl-saturday-eagles-vs-cowboys",
+  "question": "NFL Saturday: Eagles vs. Cowboys"
+}

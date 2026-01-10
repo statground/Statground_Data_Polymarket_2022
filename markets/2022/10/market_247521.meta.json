@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247521",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-12T18:50:18.667000Z",
+  "market_createdAt": "2022-10-12T18:50:18.667Z",
+  "market_updatedAt": "2023-01-31T19:34:09.962Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-17T00:00:00Z",
+  "market_closedTime": "2022-10-18 07:00:59+00",
+  "conditionId": "0xc0faa57b01ea2ada12c991f806829cc1cedc36f14621dccbd61ac4aea1b77923",
+  "slug": "nfl-monday-broncos-vs-chargers",
+  "question": "NFL Monday: Broncos vs. Chargers"
+}

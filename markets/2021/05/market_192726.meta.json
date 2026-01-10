@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "192726",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-11T16:25:04.791000Z",
+  "market_createdAt": "2021-05-11T16:25:04.791Z",
+  "market_updatedAt": "2024-04-22T23:01:37.220219Z",
+  "market_startDate": null,
+  "market_endDate": "2021-09-30T00:00:00Z",
+  "market_closedTime": "2021-10-01 18:42:13+00",
+  "conditionId": "0x4aee108111151eea43b1e6c008e60f5338329ea70897623e3494139b56233f65",
+  "slug": "will-joe-biden-be-president-of-the-usa-on-september-30-2021",
+  "question": "Will Joe Biden be President of the USA on September 30, 2021?"
+}

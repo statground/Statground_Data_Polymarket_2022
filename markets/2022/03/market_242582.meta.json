@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242582",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-28T09:04:02.185000Z",
+  "market_createdAt": "2022-03-28T09:04:02.185Z",
+  "market_updatedAt": "2024-04-22T23:58:05.652283Z",
+  "market_startDate": "2022-03-28T16:28:59.654Z",
+  "market_endDate": "2022-03-28T00:00:00Z",
+  "market_closedTime": "2022-03-29 09:55:22+00",
+  "conditionId": "0x7a068c545d43e495c63addda9ab55dba48210529b3a9908cba8741606db44e59",
+  "slug": "nba-who-will-win-cavaliers-vs-magic-scheduled-for-march-28-700-pm-et",
+  "question": "NBA: Who will win Cavaliers vs. Magic, scheduled for March 28, 7:00 PM ET?"
+}

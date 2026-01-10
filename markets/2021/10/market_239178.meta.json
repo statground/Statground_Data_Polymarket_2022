@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239178",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-31T08:29:40.639000Z",
+  "market_createdAt": "2021-10-31T08:29:40.639Z",
+  "market_updatedAt": "2024-04-22T22:42:13.495047Z",
+  "market_startDate": "2021-10-31T09:20:11.358Z",
+  "market_endDate": "2021-10-31T00:00:00Z",
+  "market_closedTime": "2021-11-01 10:24:27+00",
+  "conditionId": "0xdaa846374b134ad36702c68d797fdf6fb48be8fe4f8c3544cdf3fdbbcd23be72",
+  "slug": "nba-who-will-win-the-trail-blazers-v-hornets-game-on-october-31st",
+  "question": "NBA: Who will win the Trail Blazers v. Hornets game on October 31st?"
+}

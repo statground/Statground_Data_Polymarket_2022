@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240398",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T12:52:22.111000Z",
+  "market_createdAt": "2022-01-11T12:52:22.111Z",
+  "market_updatedAt": "2023-05-08T19:02:27.724Z",
+  "market_startDate": "2022-01-12T21:54:55.689Z",
+  "market_endDate": "2022-07-01T00:00:00Z",
+  "market_closedTime": "2022-07-02 14:30:43+00",
+  "conditionId": "0xfde5283ca467ccc28ef5eacd526b4b20a8d90b1a6c4b92104ad6a2286a65e58b",
+  "slug": "will-donald-trump-be-president-of-the-usa-on-july-1-2022",
+  "question": "Will Donald Trump be President of the USA on July 1, 2022?"
+}

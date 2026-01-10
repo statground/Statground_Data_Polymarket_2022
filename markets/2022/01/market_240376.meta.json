@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240376",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T01:58:58.604000Z",
+  "market_createdAt": "2022-01-11T01:58:58.604Z",
+  "market_updatedAt": "2024-04-23T00:29:03.601922Z",
+  "market_startDate": "2022-01-12T21:09:08.156Z",
+  "market_endDate": "2022-05-22T00:00:00Z",
+  "market_closedTime": "2022-05-24 17:00:38+00",
+  "conditionId": "0x88701d4d186a72acdfc04dd8e6fc1dfe27857dc6f7f15840151b649b595b010f",
+  "slug": "will-liverpool-get-2nd-place-in-the-2021-22-english-premier-league",
+  "question": "Will Liverpool get 2nd place in the 2021-22 English Premier League?"
+}

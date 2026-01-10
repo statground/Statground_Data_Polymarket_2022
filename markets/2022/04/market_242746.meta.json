@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242746",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-02T09:06:07.783000Z",
+  "market_createdAt": "2022-04-02T09:06:07.783Z",
+  "market_updatedAt": "2024-04-23T00:16:47.637151Z",
+  "market_startDate": "2022-04-02T16:34:13.152Z",
+  "market_endDate": "2022-04-02T00:00:00Z",
+  "market_closedTime": "2022-04-03 07:02:57+00",
+  "conditionId": "0x9c786d03fdc6ebee7f92d8a327ac1211f22355bb2324c79707b1127bd84aa4ff",
+  "slug": "nhl-will-the-panthers-beat-the-devils-by-more-than-1pt5-goals-in-their-april-2-1230-pm-et-matchup",
+  "question": "NHL: Will the Panthers beat the Devils by more than 1.5 goals in their April 2, 12:30 PM ET matchup?"
+}

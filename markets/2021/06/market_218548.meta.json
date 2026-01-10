@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218548",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-17T05:45:02.858000Z",
+  "market_createdAt": "2021-06-17T05:45:02.858Z",
+  "market_updatedAt": "2024-04-23T00:50:22.355619Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-19T00:00:00Z",
+  "market_closedTime": "2021-06-20 21:11:04+00",
+  "conditionId": "0x1a61ec1a802c0d7b2c06b437a4a29c5225824e00a928a985672c3061241be2b4",
+  "slug": "will-hungary-or-france-win-their-euro-2020-match",
+  "question": "Will Hungary or France win their Euro 2020 match?"
+}

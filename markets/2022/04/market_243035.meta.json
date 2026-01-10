@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243035",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-08T14:51:22.305000Z",
+  "market_createdAt": "2022-04-08T14:51:22.305Z",
+  "market_updatedAt": "2023-01-31T19:12:13.155Z",
+  "market_startDate": "2022-04-08T15:18:10.058Z",
+  "market_endDate": "2022-04-10T00:00:00Z",
+  "market_closedTime": "2022-04-11 02:15:49+00",
+  "conditionId": "0xc0f8c056829d14946ab62c6c38e068cb5cf97ca8e01cdc055a13dd0c419c23e8",
+  "slug": "formula-1-who-will-finish-ahead-at-the-2022-australian-grand-prix-max-verstappen-or-charles-leclerc",
+  "question": "Formula 1: Who will finish ahead at the 2022 Australian Grand Prix: Max Verstappen or Charles Leclerc?"
+}

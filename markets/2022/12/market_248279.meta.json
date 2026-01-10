@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248279",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-21T19:48:50.112000Z",
+  "market_createdAt": "2022-12-21T19:48:50.112Z",
+  "market_updatedAt": "2023-02-10T01:03:37.507Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-30T00:00:00Z",
+  "market_closedTime": "2022-12-30 22:46:16+00",
+  "conditionId": "0xdece0a6eda3a1272aa88324e927f956903e28ea1b66f8dccbe9561e09356493a",
+  "slug": "will-the-price-of-eth-be-above-1200-on-december-30",
+  "question": "Will the price of $ETH be above $1200 on December 30?"
+}

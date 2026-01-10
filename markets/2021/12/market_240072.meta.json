@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240072",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-16T23:04:41.027000Z",
+  "market_createdAt": "2021-12-16T23:04:41.027Z",
+  "market_updatedAt": "2024-04-22T22:51:07.002347Z",
+  "market_startDate": "2021-12-17T21:19:55.284Z",
+  "market_endDate": "2021-12-19T00:00:00Z",
+  "market_closedTime": "2021-12-21 00:20:11+00",
+  "conditionId": "0x0424f1edc9ab66002d7e3c25f918b170db06c94256a80e77edb60b31699f8bd6",
+  "slug": "nfl-will-the-dolphins-beat-the-jets-by-more-than-9pt5-points-in-their-december-19-matchup",
+  "question": "NFL: Will the Dolphins beat the Jets by more than 9.5 points in their December 19 matchup?"
+}

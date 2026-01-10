@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241767",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-28T13:20:12.187000Z",
+  "market_createdAt": "2022-02-28T13:20:12.187Z",
+  "market_updatedAt": "2024-04-22T23:02:16.045622Z",
+  "market_startDate": "2022-02-28T15:01:45.377Z",
+  "market_endDate": "2022-02-28T00:00:00Z",
+  "market_closedTime": "2022-03-01 23:32:39+00",
+  "conditionId": "0xc38c3349677241bb0ba6f7d720f5182ee5e97c9e9f30b646b09632c17f2ee20c",
+  "slug": "nba-who-will-win-the-bucks-vs-hornets-scheduled-for-february-28-8-pm-et",
+  "question": "NBA: Who will win the Bucks vs. Hornets, scheduled for February 28 (8 PM ET)?"
+}

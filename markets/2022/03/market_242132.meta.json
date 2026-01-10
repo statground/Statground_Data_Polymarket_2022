@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242132",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-16T11:46:55.590000Z",
+  "market_createdAt": "2022-03-16T11:46:55.59Z",
+  "market_updatedAt": "2024-04-25T00:01:20.321841Z",
+  "market_startDate": "2022-03-16T17:11:00.183Z",
+  "market_endDate": "2022-03-16T00:00:00Z",
+  "market_closedTime": "2022-03-17 12:16:16+00",
+  "conditionId": "0xe86ed3422fe01655d0318f9fe41d514796b7d42779403d267039b3b49f70888c",
+  "slug": "nba-will-the-warriors-beat-the-celtics-by-more-than-3pt5-points-in-their-march-16-10-pm-et-matchup",
+  "question": "NBA: Will the Warriors beat the Celtics by more than 3.5 points in their March 16 (10 PM ET) matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243369",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-17T13:46:58.936000Z",
+  "market_createdAt": "2022-04-17T13:46:58.936Z",
+  "market_updatedAt": "2023-01-31T18:53:29.04Z",
+  "market_startDate": "2022-04-17T14:59:58.435Z",
+  "market_endDate": "2022-04-17T00:00:00Z",
+  "market_closedTime": "2022-04-18 06:31:54+00",
+  "conditionId": "0xad329360be71e110d0535549c99908e24c1c3fe11056e3fb550ad67d0d4cf44e",
+  "slug": "nhl-will-the-ducks-beat-the-blue-jackets-by-more-than-1pt5-goals-in-their-april-17-matchup-830-pm-et",
+  "question": "NHL: Will the Ducks beat the Blue Jackets by more than 1.5 goals in their April 17 matchup (8:30 PM ET)?"
+}

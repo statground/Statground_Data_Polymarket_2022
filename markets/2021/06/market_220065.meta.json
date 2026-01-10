@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "220065",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-28T21:00:01.071000Z",
+  "market_createdAt": "2021-06-28T21:00:01.071Z",
+  "market_updatedAt": "2024-04-25T00:02:16.533539Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-04T00:00:00Z",
+  "market_closedTime": "2021-07-03 01:42:30+00",
+  "conditionId": "0x5884430aaee3171d3c7823d3cf1a46a6f2c3dcbe5360d8c685190da9e041fcf5",
+  "slug": "will-magnus-carlsen-win-the-goldmoney-asian-rapid",
+  "question": "Will Magnus Carlsen win the Goldmoney Asian Rapid?"
+}

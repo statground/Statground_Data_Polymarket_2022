@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240061",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-16T11:39:13.878000Z",
+  "market_createdAt": "2021-12-16T11:39:13.878Z",
+  "market_updatedAt": "2024-04-22T23:51:17.292233Z",
+  "market_startDate": "2021-12-16T17:54:34.337Z",
+  "market_endDate": "2021-12-16T00:00:00Z",
+  "market_closedTime": "2021-12-17 17:14:28+00",
+  "conditionId": "0xebebc4453d0aeae25fee210728ad4c80f96ab9d58fe3390ffc104affc1a48b6f",
+  "slug": "nfl-will-the-chiefs-beat-the-chargers-by-more-than-3pt5-points-in-their-december-16-matchup",
+  "question": "NFL: Will the Chiefs beat the Chargers by more than 3.5 points in their December 16 matchup?"
+}

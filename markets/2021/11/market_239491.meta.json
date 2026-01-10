@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239491",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-17T14:37:08.295000Z",
+  "market_createdAt": "2021-11-17T14:37:08.295Z",
+  "market_updatedAt": "2024-04-23T00:09:11.745723Z",
+  "market_startDate": "2021-11-17T19:27:54.196Z",
+  "market_endDate": "2021-11-25T00:00:00Z",
+  "market_closedTime": "2021-11-26 15:53:27+00",
+  "conditionId": "0x15cff011c1fbc791eb36c53d4e75f5f16079dfd0c145b99844587789a5debf67",
+  "slug": "will-ens-ethereum-name-service-be-above-50-on-november-25",
+  "question": "Will $ENS (Ethereum Name Service) be above $50 on November 25?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238966",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-07T21:11:18.790000Z",
+  "market_createdAt": "2021-10-07T21:11:18.79Z",
+  "market_updatedAt": "2024-04-24T23:38:01.288637Z",
+  "market_startDate": "2021-10-07T22:43:12.911Z",
+  "market_endDate": "2021-11-24T00:00:00Z",
+  "market_closedTime": "2021-11-25 04:58:33+00",
+  "conditionId": "0xaacde2880b00ea3631abcb76146098237ae3bb3ddbca975a038b8afeb059418e",
+  "slug": "will-the-7-day-average-of-covid-cases-on-november-17th-be-higher-than-the-7-day-average-of-covid-cases-on-november-10th",
+  "question": "Will the 7-day COVID-19 case average on November 17th be higher than it was a week earlier?"
+}

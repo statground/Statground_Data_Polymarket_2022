@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239202",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-02T10:51:41.575000Z",
+  "market_createdAt": "2021-11-02T10:51:41.575Z",
+  "market_updatedAt": "2024-04-24T23:40:44.564519Z",
+  "market_startDate": "2021-11-02T17:02:19.107Z",
+  "market_endDate": "2021-11-02T00:00:00Z",
+  "market_closedTime": "2021-11-03 17:54:56+00",
+  "conditionId": "0x7befd74c92d5509d369f026863876b301e4b8a80bd5f086900f4ac0cae6fcb61",
+  "slug": "nba-who-will-win-the-heat-v-mavericks-game-on-november-2nd",
+  "question": "NBA: Who will win the Heat v. Mavericks game on November 2nd?"
+}

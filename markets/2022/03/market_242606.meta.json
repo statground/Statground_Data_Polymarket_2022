@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242606",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-29T13:19:53.095000Z",
+  "market_createdAt": "2022-03-29T13:19:53.095Z",
+  "market_updatedAt": "2024-04-26T02:48:33.643542Z",
+  "market_startDate": "2022-03-29T15:54:10.822Z",
+  "market_endDate": "2022-05-04T00:00:00Z",
+  "market_closedTime": "2022-04-28 08:45:35+00",
+  "conditionId": "0xbe28773158bf7c973bf7ddc833d5ce62fbd700a13b27d8063c3e3726c5722cef",
+  "slug": "will-apecoin-ape-reach-20-by-may-4",
+  "question": "Will ApeCoin (APE) reach $20 by May 4?"
+}

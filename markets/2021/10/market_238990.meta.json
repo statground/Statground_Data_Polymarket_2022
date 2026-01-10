@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238990",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-13T22:32:33.240000Z",
+  "market_createdAt": "2021-10-13T22:32:33.24Z",
+  "market_updatedAt": "2024-04-22T23:58:10.013359Z",
+  "market_startDate": "2021-10-14T16:56:55.32Z",
+  "market_endDate": "2021-11-30T00:00:00Z",
+  "market_closedTime": "2021-12-01 20:55:08+00",
+  "conditionId": "0x5d1d5c130b3efa03cabc590f4d398ed651773ed0d0ad15d7a331f1a3e8df2cd8",
+  "slug": "will-tether-lose-its-peg-by-november-30-2021",
+  "question": "Will Tether lose its peg by November 30, 2021?"
+}

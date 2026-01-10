@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241250",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-01T14:18:20.107000Z",
+  "market_createdAt": "2022-02-01T14:18:20.107Z",
+  "market_updatedAt": "2023-01-31T21:15:17.205Z",
+  "market_startDate": "2022-02-04T21:46:15.833Z",
+  "market_endDate": "2022-02-13T00:00:00Z",
+  "market_closedTime": "2022-02-14 11:16:55+00",
+  "conditionId": "0xf660ae648bac4b7fbeb64046c83aa2f0c952f2706b97e7f1060e87949c37f959",
+  "slug": "superbowl-lvi-who-will-win",
+  "question": "Superbowl LVI: Who will win Rams v. Bengals?"
+}

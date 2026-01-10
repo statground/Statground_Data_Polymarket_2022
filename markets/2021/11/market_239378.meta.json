@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239378",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-12T11:11:58.698000Z",
+  "market_createdAt": "2021-11-12T11:11:58.698Z",
+  "market_updatedAt": "2024-04-22T23:23:49.921464Z",
+  "market_startDate": "2021-11-12T20:18:07.059Z",
+  "market_endDate": "2021-11-12T00:00:00Z",
+  "market_closedTime": "2021-11-14 00:02:03+00",
+  "conditionId": "0x10140063e15cce22aa149cc6e522ba885ea030eeb439a218a7252e2c09bfda4c",
+  "slug": "nba-will-the-nets-beat-the-pelicans-by-more-than-7pt5-points-in-their-november-12th-matchup",
+  "question": "NBA: Will the Nets beat the Pelicans by more than 7.5 points in their November 12th matchup?"
+}

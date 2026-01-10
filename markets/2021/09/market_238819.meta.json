@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238819",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-21T19:11:38.539000Z",
+  "market_createdAt": "2021-09-21T19:11:38.539Z",
+  "market_updatedAt": "2023-01-31T20:44:33.625Z",
+  "market_startDate": "2021-09-21T20:43:54.535Z",
+  "market_endDate": "2021-10-01T00:00:00Z",
+  "market_closedTime": "2021-10-01 18:43:21+00",
+  "conditionId": "0xfde47096dc88bc6ffeb44fb7f4a87ea6c076fab07d30c038feb8dadc33f9f3d8",
+  "slug": "what-will-the-price-of-ada-be-on-october-1-2021-1",
+  "question": "What will the price of $ADA be on October 1, 2021?"
+}

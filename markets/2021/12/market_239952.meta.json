@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239952",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-10T16:56:12.696000Z",
+  "market_createdAt": "2021-12-10T16:56:12.696Z",
+  "market_updatedAt": "2024-04-26T02:48:32.280272Z",
+  "market_startDate": "2021-12-10T18:20:56.07Z",
+  "market_endDate": "2021-12-10T00:00:00Z",
+  "market_closedTime": "2021-12-11 18:14:45+00",
+  "conditionId": "0xf83dbff264dedd3c4f9e9747cdccb3882bf6363c6a92e0883af1e9f336d43b14",
+  "slug": "nba-will-the-kings-beat-the-hornets-by-more-than-1pt5-points-in-their-december-10-matchup",
+  "question": "NBA: Will the Kings beat the Hornets by more than 1.5 points in their December 10 matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241171",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-29T10:00:32.653000Z",
+  "market_createdAt": "2022-01-29T10:00:32.653Z",
+  "market_updatedAt": "2024-04-23T00:25:09.259048Z",
+  "market_startDate": "2022-01-29T18:02:43.762Z",
+  "market_endDate": "2022-01-29T00:00:00Z",
+  "market_closedTime": "2022-01-31 01:11:12+00",
+  "conditionId": "0x98c4a3aa4668357cc8ce7e98f1d8623f911e443faefde18125c5f6fb39ad89aa",
+  "slug": "nba-will-the-mavericks-beat-the-pacers-by-more-than-95-points-in-their-january-29-7-pm-et-matchup",
+  "question": "NBA: Will the Mavericks beat the Pacers by more than 9.5 points in their January 29 (7 PM ET) matchup?"
+}

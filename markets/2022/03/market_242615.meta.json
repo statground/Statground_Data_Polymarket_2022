@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242615",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-29T15:02:17.912000Z",
+  "market_createdAt": "2022-03-29T15:02:17.912Z",
+  "market_updatedAt": "2024-04-24T23:58:31.74851Z",
+  "market_startDate": null,
+  "market_endDate": "2022-03-29T00:00:00Z",
+  "market_closedTime": "2022-03-30 08:45:33+00",
+  "conditionId": "0x3534f03e9c76f31731a1f493cc21f1c0228ba4f495ddf645b27261ae3c6f4f3b",
+  "slug": "nhl-will-the-predators-beat-the-senators-by-more-than-1pt5-goals-in-their-march-29-matchup-8-pm-et",
+  "question": "NHL: Will the Predators beat the Senators by more than 1.5 goals in their March 29 matchup (8 PM ET)?"
+}

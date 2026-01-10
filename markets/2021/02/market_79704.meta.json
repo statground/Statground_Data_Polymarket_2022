@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "79704",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-08T16:05:03.703000Z",
+  "market_createdAt": "2021-02-08T16:05:03.703Z",
+  "market_updatedAt": "2023-01-31T21:05:50.758Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-16T00:00:00Z",
+  "market_closedTime": "2021-02-17 17:04:48+00",
+  "conditionId": "0xc8fb588f6df095e8d4fc3ca735fb0024eb1e4b218d2a19ca5eee9d96870e176f",
+  "slug": "will-the-average-ethereum-gas-price-be-below-165-gwei-on-february-16",
+  "question": "Will the average Ethereum gas price be below 165 Gwei on February 16?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242440",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-24T18:18:16.844000Z",
+  "market_createdAt": "2022-03-24T18:18:16.844Z",
+  "market_updatedAt": "2024-04-22T23:15:13.272765Z",
+  "market_startDate": "2022-03-24T19:16:15.649Z",
+  "market_endDate": "2022-03-24T00:00:00Z",
+  "market_closedTime": "2022-03-25 12:28:34+00",
+  "conditionId": "0x70f039e0d6f6ff257ffb3521b8425d3634767fc3881d66cd02bad101ed51741d",
+  "slug": "march-madness-who-will-win-the-arkansas-vs-gonzaga-scheduled-for-march-24-709-pm-et",
+  "question": "March Madness: Who will win Arkansas vs. Gonzaga, scheduled for March 24 (7:09 PM ET)?"
+}

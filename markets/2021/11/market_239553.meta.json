@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239553",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-22T12:20:53.863000Z",
+  "market_createdAt": "2021-11-22T12:20:53.863Z",
+  "market_updatedAt": "2024-04-24T23:34:35.791435Z",
+  "market_startDate": "2021-11-22T17:42:20.72Z",
+  "market_endDate": "2021-11-30T00:00:00Z",
+  "market_closedTime": "2021-12-01 21:07:04+00",
+  "conditionId": "0xa54d533e756e93f47d88fcce5e27e78d94a5bc5884bcf909fec1d3b1c5734d13",
+  "slug": "will-there-be-another-1071st-nfl-scorigami-in-november-2021",
+  "question": "Will there be another (1071st) NFL Scorigami in November 2021?"
+}

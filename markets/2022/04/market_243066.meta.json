@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243066",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-10T16:13:16.086000Z",
+  "market_createdAt": "2022-04-10T16:13:16.086Z",
+  "market_updatedAt": "2023-01-31T20:44:33.741Z",
+  "market_startDate": "2022-04-10T16:39:20.598Z",
+  "market_endDate": "2022-04-10T00:00:00Z",
+  "market_closedTime": "2022-04-11 09:16:35+00",
+  "conditionId": "0xe3513fb3d4684004ae0fd5e9c237d16953d4245f1604bbc27a8c3fcb1fabe390",
+  "slug": "nba-will-the-warriors-beat-the-pelicans-by-more-than-4pt5-points-in-their-april-10-930-pm-et-matchup",
+  "question": "NBA: Will the Warriors beat the Pelicans by more than 4.5 points in their April 10 (9:30 PM ET) matchup?"
+}

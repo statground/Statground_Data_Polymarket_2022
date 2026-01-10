@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239309",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-09T11:10:22.300000Z",
+  "market_createdAt": "2021-11-09T11:10:22.3Z",
+  "market_updatedAt": "2024-04-22T22:38:42.129347Z",
+  "market_startDate": "2021-11-09T16:58:20.931Z",
+  "market_endDate": "2021-11-11T00:00:00Z",
+  "market_closedTime": "2021-11-12 19:53:05+00",
+  "conditionId": "0x4846c769239c278b5ecebb5c7ebeb47cccb354719c90d3aead732b40b4ba6f43",
+  "slug": "international-soccer-will-there-be-4-or-more-goals-in-greece-v-spain-game-on-november-11",
+  "question": "International soccer: Will there be 4 or more goals in Greece v. Spain game on November 11?"
+}

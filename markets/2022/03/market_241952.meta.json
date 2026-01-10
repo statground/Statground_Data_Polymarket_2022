@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241952",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-07T17:47:40.734000Z",
+  "market_createdAt": "2022-03-07T17:47:40.734Z",
+  "market_updatedAt": "2024-04-22T22:52:50.734978Z",
+  "market_startDate": null,
+  "market_endDate": "2022-03-11T00:00:00Z",
+  "market_closedTime": "2022-03-12 02:30:38+00",
+  "conditionId": "0xb89128d18201f829c9b5b8f0e7e7cd2a2eb3365fa7b1b88e2e8c5f330dfd3cd6",
+  "slug": "will-the-moscow-stock-exchange-market-open-for-stock-trading-by-march-11-2022",
+  "question": "Will the Moscow Stock Exchange market (MOEX) open for trading by March 11, 2022?"
+}

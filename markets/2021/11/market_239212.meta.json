@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239212",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-03T11:59:10.197000Z",
+  "market_createdAt": "2021-11-03T11:59:10.197Z",
+  "market_updatedAt": "2023-07-17T23:44:49.289Z",
+  "market_startDate": "2021-11-03T16:21:02.227Z",
+  "market_endDate": "2021-11-10T00:00:00Z",
+  "market_closedTime": "2021-11-11 05:52:26+00",
+  "conditionId": "0xfaa91630bbaa92dbe519cee982acbb88fb0e2ec071c24087d94a85295d6a76bf",
+  "slug": "will-the-price-of-matic-polygon-or-ada-cardano-be-higher-on-november-10th",
+  "question": "Will the price of $MATIC (Polygon) or $ADA (Cardano) be higher on November 10th?"
+}

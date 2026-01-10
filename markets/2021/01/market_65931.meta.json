@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "65931",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-01-29T16:20:05.347000Z",
+  "market_createdAt": "2021-01-29T16:20:05.347Z",
+  "market_updatedAt": "2024-04-23T00:47:36.964106Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-02T00:00:00Z",
+  "market_closedTime": "2021-02-02 18:48:40+00",
+  "conditionId": "0xced8db7281a4a1e3f92e572104e248f0ebdf060b20b81758270969da358c5079",
+  "slug": "will-dogecoin-be-above-069-on-february-2nd",
+  "question": "Will Dogecoin be above $.069 on February 2nd?"
+}

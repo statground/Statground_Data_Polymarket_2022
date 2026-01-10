@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "194704",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-12T15:50:18.844000Z",
+  "market_createdAt": "2021-05-12T15:50:18.844Z",
+  "market_updatedAt": "2023-01-31T15:34:58.361Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-12T00:00:00Z",
+  "market_closedTime": "2021-05-13 14:33:43+00",
+  "conditionId": "0xb653d6c2678fd6038e7aa7ed03a9f69c816dfece25b4ef176804b6ea65e81c05",
+  "slug": "will-robert-colescott-s-george-washington-carver-crossing-the-delaware-sell-for-more-than-12-million-at-sotheby-s",
+  "question": "Will Robert Colescott’s “George Washington Carver Crossing the Delaware” sell for more than $12 million at Sotheby’s?"
+}

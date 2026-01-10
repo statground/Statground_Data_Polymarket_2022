@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239125",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-28T22:55:39.804000Z",
+  "market_createdAt": "2021-10-28T22:55:39.804Z",
+  "market_updatedAt": "2024-04-22T22:57:31.153072Z",
+  "market_startDate": "2021-10-29T18:25:49.596Z",
+  "market_endDate": "2021-11-15T00:00:00Z",
+  "market_closedTime": "2021-11-16 10:06:32+00",
+  "conditionId": "0xa2f3a6676584750804cd99fede9fc03cc90ce9f4a7ccfba8234e6e75ee922b60",
+  "slug": "will-bitcoin-btc-price-reach-70000-before-november-15-2021",
+  "question": "Will Bitcoin ($BTC) price reach $70,000 before November 15, 2021?"
+}

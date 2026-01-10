@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240333",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T00:34:10.436000Z",
+  "market_createdAt": "2022-01-11T00:34:10.436Z",
+  "market_updatedAt": "2024-04-22T23:15:19.480259Z",
+  "market_startDate": "2022-01-12T20:41:13.594Z",
+  "market_endDate": "2022-06-19T00:00:00Z",
+  "market_closedTime": "2022-04-27 18:15:31+00",
+  "conditionId": "0x291a8ae031ad436d7b59a9d2b4dd92a9aa2b20a69f3198900709a93c2ddcb737",
+  "slug": "will-the-brooklyn-nets-win-the-nba-21-22-championship",
+  "question": "Will the Brooklyn Nets win the NBA ‘21-’22 Championship?"
+}

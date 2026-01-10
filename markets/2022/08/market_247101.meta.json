@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247101",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-23T19:04:23.565000Z",
+  "market_createdAt": "2022-08-23T19:04:23.565Z",
+  "market_updatedAt": "2023-01-31T09:33:45.275Z",
+  "market_startDate": "2022-08-23T19:19:32.308Z",
+  "market_endDate": "2022-09-09T00:00:00Z",
+  "market_closedTime": "2022-09-11 02:30:53+00",
+  "conditionId": "0x7e73536058e6adee4cff2ff292fb08f17079b10f230eab06e36945666ce3af1f",
+  "slug": "538-will-voters-prefer-republicans-or-democrats-on-september-9",
+  "question": "538: Will voters prefer Republicans or Democrats on September 9?"
+}

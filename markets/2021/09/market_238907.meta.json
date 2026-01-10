@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238907",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-29T16:05:08.579000Z",
+  "market_createdAt": "2021-09-29T16:05:08.579Z",
+  "market_updatedAt": "2024-04-25T00:12:11.415558Z",
+  "market_startDate": "2021-09-30T22:19:08.587Z",
+  "market_endDate": "2021-11-30T00:00:00Z",
+  "market_closedTime": "2021-11-26 19:31:37+00",
+  "conditionId": "0x58db6c41467254bdf454ae824349658f23eff4402e9511c8d6bf0d7322c28d8f",
+  "slug": "will-taylor-swifts-re-recording-of-her-album-red-beat-kanyes-donda-sales-in-first-week-streams",
+  "question": "Will Taylor Swift’s re-recording of her album “Red” beat Kanye's \"Donda\" in first week streams?"
+}

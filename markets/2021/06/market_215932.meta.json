@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "215932",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-11T18:30:01.064000Z",
+  "market_createdAt": "2021-06-11T18:30:01.064Z",
+  "market_updatedAt": "2024-04-23T00:52:43.900442Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-02T00:00:00Z",
+  "market_closedTime": "2021-07-03 01:41:44+00",
+  "conditionId": "0xa27a05f8482a37d3e4617e1d90d707ddc3dd603ad412d935910cd1425fad5a5c",
+  "slug": "will-joe-bidens-approval-rating-be-53-or-higher-on-july-1-2021",
+  "question": "Will Joe Biden's approval rating be 53% or higher on July 1, 2021?"
+}

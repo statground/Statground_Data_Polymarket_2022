@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242024",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-11T22:47:07.071000Z",
+  "market_createdAt": "2022-03-11T22:47:07.071Z",
+  "market_updatedAt": "2024-04-22T23:47:05.476384Z",
+  "market_startDate": "2022-03-11T23:02:34.209Z",
+  "market_endDate": "2022-03-23T00:00:00Z",
+  "market_closedTime": "2022-03-23 21:00:33+00",
+  "conditionId": "0x60b0d1f6fa1f4987024f6d195d7b5b69b5c98dc0be2e0164b435eba92e6a8a93",
+  "slug": "will-joe-bidens-fivethirtyeight-approval-rating-be-42pt8-or-higher-on-march-22",
+  "question": "Will Joe Biden's FiveThirtyEight approval rating be 42.8% or higher on March 22?"
+}

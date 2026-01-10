@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "46924",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-01-18T16:55:03.274000Z",
+  "market_createdAt": "2021-01-18T16:55:03.274Z",
+  "market_updatedAt": "2024-04-25T00:11:28.669539Z",
+  "market_startDate": "2021-01-18T00:00:00Z",
+  "market_endDate": "2021-01-25T00:00:00Z",
+  "market_closedTime": "2021-01-25 20:35:02+00",
+  "conditionId": "0x9ebe7361d7eb51a88a4b5b80eddc99ad2f193ed78005c0be899595f8177fb16d",
+  "slug": "how-many-tweets-will-donald-j-trump-jr-post-from-jan-18th-to-25th",
+  "question": "How many tweets will @DonaldJTrumpJr post from Jan 18th to 25th?"
+}

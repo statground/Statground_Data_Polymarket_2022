@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239416",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-13T12:53:07.883000Z",
+  "market_createdAt": "2021-11-13T12:53:07.883Z",
+  "market_updatedAt": "2024-04-25T00:02:43.726596Z",
+  "market_startDate": "2021-11-13T19:50:26.099Z",
+  "market_endDate": "2021-11-13T00:00:00Z",
+  "market_closedTime": "2021-11-14 19:47:07+00",
+  "conditionId": "0x087f2987f24a08fa38f2660450f3eaa17f86edc973a2a93a7a428993677af829",
+  "slug": "nba-will-the-raptors-beat-the-pistons-by-more-than-8pt5-points-in-their-november-13th-matchup",
+  "question": "NBA: Will the Raptors beat the Pistons by more than 8.5 points in their November 13th matchup?"
+}

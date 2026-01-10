@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238672",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-28T17:10:02.062000Z",
+  "market_createdAt": "2021-08-28T17:10:02.062Z",
+  "market_updatedAt": "2024-04-23T00:56:54.437198Z",
+  "market_startDate": "2021-08-28T17:20:15.231Z",
+  "market_endDate": "2021-08-28T00:00:00Z",
+  "market_closedTime": "2021-08-30 15:47:32+00",
+  "conditionId": "0x24a55af5785f28ace4d94efc98bd79c041dd00c570a4114106c8d31c82c6fab3",
+  "slug": "will-the-bears-beat-the-titans-by-more-than-2-points-in-their-nfl-preseason-matchup",
+  "question": "Will the Bears beat the Titans by more than 2 points in their NFL preseason matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "108739",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-03-23T22:30:03.649000Z",
+  "market_createdAt": "2021-03-23T22:30:03.649Z",
+  "market_updatedAt": "2024-04-23T00:48:03.178662Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-13T00:00:00Z",
+  "market_closedTime": "2021-04-13 19:23:16+00",
+  "conditionId": "0xb5c23362559b2e0f258fcd6693a700a74737385ffa7b92129cb8fb210ba88222",
+  "slug": "what-will-monthly-nft-trading-volume-be-on-april-13-2021-1",
+  "question": "What will monthly NFT trading volume be on April 13, 2021?"
+}

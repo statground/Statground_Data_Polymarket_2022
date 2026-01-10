@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247788",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-27T15:15:11.926000Z",
+  "market_createdAt": "2022-10-27T15:15:11.926Z",
+  "market_updatedAt": "2023-01-31T13:15:27.35Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-08T00:00:00Z",
+  "market_closedTime": "2022-11-10 06:15:42+00",
+  "conditionId": "0x675ef08708100b15c4e6fc1b9a7dc29aa8e1d10a4efc9d9a1d20817874bf27e5",
+  "slug": "538-will-voters-prefer-republicans-or-democrats-on-election-day",
+  "question": "538: Will voters prefer Democrats or Republicans on Election Day?"
+}

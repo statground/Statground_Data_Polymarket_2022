@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242131",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-16T11:43:13.373000Z",
+  "market_createdAt": "2022-03-16T11:43:13.373Z",
+  "market_updatedAt": "2024-04-24T23:40:02.229467Z",
+  "market_startDate": "2022-03-16T17:10:49.087Z",
+  "market_endDate": "2022-03-16T00:00:00Z",
+  "market_closedTime": "2022-03-17 12:15:56+00",
+  "conditionId": "0x12c89a49fba537b848228f93bc0958dc880ebc45573923c8c83b0863739ccbde",
+  "slug": "nba-will-the-mavericks-beat-the-nets-by-more-than-1pt5-points-in-their-march-16-7pt30-pm-et-matchup",
+  "question": "NBA: Will the Mavericks beat the Nets by more than 1.5 points in their March 16 (7.30 PM ET) matchup?"
+}

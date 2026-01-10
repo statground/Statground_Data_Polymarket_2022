@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242010",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-11T10:52:48.642000Z",
+  "market_createdAt": "2022-03-11T10:52:48.642Z",
+  "market_updatedAt": "2024-04-24T23:44:22.609524Z",
+  "market_startDate": "2022-03-11T20:36:20.808Z",
+  "market_endDate": "2022-03-11T00:00:00Z",
+  "market_closedTime": "2022-03-12 10:15:43+00",
+  "conditionId": "0xbd40d862b35865995b5e5733a69642770b689ef433fc4ef4626270c7e7b6b93a",
+  "slug": "nba-who-will-win-the-grizzlies-vspt-knicks-scheduled-for-march-11-8-pm-et",
+  "question": "NBA: Who will win the Grizzlies vs. Knicks, scheduled for March 11 (8 PM ET)?"
+}

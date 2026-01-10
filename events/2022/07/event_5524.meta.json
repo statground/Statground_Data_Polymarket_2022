@@ -1,0 +1,23 @@
+{
+  "entity": "event",
+  "event_id": "5524",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2022-07-27T14:41:48.736000Z",
+  "event_createdAt": "2022-07-27T14:41:48.736Z",
+  "event_creationDate": "2022-02-20T00:00:00Z",
+  "event_startDate": "2022-02-20T00:00:00Z",
+  "event_endDate": "2022-02-20T00:00:00Z",
+  "event_updatedAt": "2024-04-22T21:23:22.842862Z",
+  "markets_len": 4,
+  "market_ids": [
+    "241628",
+    "241629",
+    "241630",
+    "241631"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "4"
+  ],
+  "series_slug": "nhl"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "156345",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-26T19:15:03.519000Z",
+  "market_createdAt": "2021-04-26T19:15:03.519Z",
+  "market_updatedAt": "2024-04-25T00:15:22.208082Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-04T00:00:00Z",
+  "market_closedTime": "2021-05-04 20:58:50+00",
+  "conditionId": "0x37e611f92778be86f7a24546c64074322b3faae4e1e067df74b0e8ed0b7f3201",
+  "slug": "will-man-city-or-psg-advance-to-the-finals-of-the-champions-league",
+  "question": "Will Man City or PSG advance to the finals of the Champions League?"
+}

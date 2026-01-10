@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "72118",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-03T19:55:03.050000Z",
+  "market_createdAt": "2021-02-03T19:55:03.05Z",
+  "market_updatedAt": "2024-04-22T23:24:58.99801Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-10T00:00:00Z",
+  "market_closedTime": "2021-02-10 22:04:45+00",
+  "conditionId": "0x28a5f486f533d12340bb7e635c4e4642a4352c9772ce88e08879fb681095245d",
+  "slug": "how-many-more-tweets-will-be-on-the-mcuban-account-on-february-10-2021",
+  "question": "How many more tweets will be on the @MCuban account on February 10, 2021?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244161",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-03T20:24:26.293000Z",
+  "market_createdAt": "2022-05-03T20:24:26.293Z",
+  "market_updatedAt": "2023-01-31T13:05:21.637Z",
+  "market_startDate": "2022-05-03T21:26:12.716Z",
+  "market_endDate": "2022-05-09T00:00:00Z",
+  "market_closedTime": "2022-05-10 01:00:54+00",
+  "conditionId": "0xd5e462d30fb25ba68f6ad590d1e2a0a0d051c0bf5a9d1e15d795e6a84c2090a8",
+  "slug": "bayc-metaverse-will-the-floor-price-of-otherdeed-be-above-3pt5-eth-on-may-9",
+  "question": "BAYC Metaverse: Will the floor price of Otherdeed be above 3.5 ETH on May 9?"
+}

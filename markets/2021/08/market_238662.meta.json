@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238662",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-26T19:48:01.291000Z",
+  "market_createdAt": "2021-08-26T19:48:01.291Z",
+  "market_updatedAt": "2024-04-23T00:30:51.620964Z",
+  "market_startDate": "2021-08-28T17:19:58.383Z",
+  "market_endDate": "2021-08-28T00:00:00Z",
+  "market_closedTime": "2021-08-30 06:06:54+00",
+  "conditionId": "0x2cd45694d89fb6d80fd5ce1138a44be74e5595f430c3c21569d1d7c5363c52d8",
+  "slug": "will-the-seahawks-beat-the-chargers-by-more-than-6-points-in-their-nfl-preseason-matchup",
+  "question": "Will the Seahawks beat the Chargers by more than 6 points in their NFL preseason matchup?"
+}

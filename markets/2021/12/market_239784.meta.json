@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239784",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-02T14:01:14.386000Z",
+  "market_createdAt": "2021-12-02T14:01:14.386Z",
+  "market_updatedAt": "2024-04-23T00:23:38.921053Z",
+  "market_startDate": "2021-12-02T19:22:35.512Z",
+  "market_endDate": "2021-12-02T00:00:00Z",
+  "market_closedTime": "2021-12-03 23:50:56+00",
+  "conditionId": "0x6919057d23b8943d4f49cc2f53dc3c5e17dc69e5aa8dd64de2cfc5bc15b82d83",
+  "slug": "nba-will-the-sum-of-points-in-bulls-v-knicks-be-greater-than-213pt5",
+  "question": "NBA: Will the sum of points in Bulls v Knicks be greater than 213.5?"
+}

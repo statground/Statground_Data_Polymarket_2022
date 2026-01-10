@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240272",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-01T21:20:03.964000Z",
+  "market_createdAt": "2022-01-01T21:20:03.964Z",
+  "market_updatedAt": "2024-04-25T00:04:57.546477Z",
+  "market_startDate": "2022-01-02T18:33:30.247Z",
+  "market_endDate": "2022-01-02T00:00:00Z",
+  "market_closedTime": "2022-01-03 15:15:09+00",
+  "conditionId": "0xa1edc505fa2e6845cb559cd9d0113ee4bfd6269099d307985a70231c6e6c618f",
+  "slug": "nfl-will-the-cowboys-beat-the-cardinals-by-more-than-5pt5-points-in-their-january-2-matchup",
+  "question": "NFL: Will the Cowboys beat the Cardinals by more than 5.5 points in their January 2 matchup?"
+}

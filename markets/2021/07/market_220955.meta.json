@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "220955",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-01T20:45:00.997000Z",
+  "market_createdAt": "2021-07-01T20:45:00.997Z",
+  "market_updatedAt": "2024-04-22T23:03:08.370569Z",
+  "market_startDate": null,
+  "market_endDate": "2021-08-31T00:00:00Z",
+  "market_closedTime": "2021-09-02 17:33:35+00",
+  "conditionId": "0x6d4b888057e9e790d2d9c72fc503f3bd8afac075c4e14eb033d0a0eb8283291c",
+  "slug": "will-harry-kane-sign-for-manchester-city-on-or-before-august-31-2021",
+  "question": "Will Harry Kane sign for Manchester City on or before August 31, 2021?"
+}

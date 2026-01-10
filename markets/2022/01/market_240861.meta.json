@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240861",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-19T18:58:05.378000Z",
+  "market_createdAt": "2022-01-19T18:58:05.378Z",
+  "market_updatedAt": "2024-04-23T00:17:51.341685Z",
+  "market_startDate": "2022-01-19T19:38:07.575Z",
+  "market_endDate": "2022-01-19T00:00:00Z",
+  "market_closedTime": "2022-01-21 13:15:01+00",
+  "conditionId": "0xa0f1e319760d62a641d09784059608ba9b3c625d0948d1e0ee5efc0207ebdc30",
+  "slug": "will-president-biden-mention-china-in-his-press-conference-on-january-19",
+  "question": "Will President Biden mention China in his press conference on January 19 ?"
+}

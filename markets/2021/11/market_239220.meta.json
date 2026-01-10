@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239220",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-03T15:14:55.607000Z",
+  "market_createdAt": "2021-11-03T15:14:55.607Z",
+  "market_updatedAt": "2024-04-24T23:16:30.556216Z",
+  "market_startDate": "2021-11-03T16:32:56.373Z",
+  "market_endDate": "2021-11-03T00:00:00Z",
+  "market_closedTime": "2021-11-04 16:59:53+00",
+  "conditionId": "0xa71c3e4d04f2845441b7d9ab5524e46d5c8d8a0fd7385e6bde72515a0677f4fa",
+  "slug": "nba-will-the-76ers-beat-the-bulls-by-more-than-2pt5-points-in-their-november-3rd-matchup",
+  "question": "NBA: Will the 76ers beat the Bulls by more than 2.5 points in their November 3rd matchup?"
+}

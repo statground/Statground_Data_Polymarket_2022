@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "193034",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-11T20:05:06.853000Z",
+  "market_createdAt": "2021-05-11T20:05:06.853Z",
+  "market_updatedAt": "2024-04-22T23:51:57.879818Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-20T00:00:00Z",
+  "market_closedTime": "2021-06-20 21:07:28+00",
+  "conditionId": "0xd5c988896aa4fa3176e2ce0968e1889b97f308b28f38837925eb78946f4d3550",
+  "slug": "will-tesla-announce-that-it-will-allow-vehicle-purchases-using-dogecoin-before-june-20",
+  "question": "Will Tesla announce that it will allow vehicle purchases using Dogecoin before June 20?"
+}

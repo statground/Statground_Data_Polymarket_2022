@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244288",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-06T08:07:12.496000Z",
+  "market_createdAt": "2022-05-06T08:07:12.496Z",
+  "market_updatedAt": "2023-01-31T19:35:11.231Z",
+  "market_startDate": "2022-05-06T14:25:15.884Z",
+  "market_endDate": "2022-05-06T00:00:00Z",
+  "market_closedTime": "2022-05-07 07:30:49+00",
+  "conditionId": "0xb9bef49fecb9a75cb4fe7db4329ccff160575ac2bc265c6c2370e6d3bd6f02d5",
+  "slug": "nhl-who-will-win-oilers-vs-kings-scheduled-for-may-6-1000-pm-et",
+  "question": "NHL: Who will win Oilers vs. Kings, scheduled for May 6, 10:00 PM ET?"
+}

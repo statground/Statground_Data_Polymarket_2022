@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243834",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-27T08:04:54.603000Z",
+  "market_createdAt": "2022-04-27T08:04:54.603Z",
+  "market_updatedAt": "2023-01-31T03:04:23.865Z",
+  "market_startDate": "2022-04-27T15:44:39.648Z",
+  "market_endDate": "2022-04-27T00:00:00Z",
+  "market_closedTime": "2022-04-28 07:02:53+00",
+  "conditionId": "0x7402437f4155908c8c932459d2cc3248dbc035044e17ea84b7cc688ee5507679",
+  "slug": "nhl-will-the-knights-beat-the-blackhawks-by-more-than-1pt5-goals-in-their-april-27-830-pm-et-matchup",
+  "question": "NHL: Will the Knights beat the Blackhawks by more than 1.5 goals in their April 27, 8:30 PM ET matchup?"
+}

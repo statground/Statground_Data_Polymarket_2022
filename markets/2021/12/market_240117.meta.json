@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240117",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-20T23:22:16.154000Z",
+  "market_createdAt": "2021-12-20T23:22:16.154Z",
+  "market_updatedAt": "2024-04-23T00:21:07.979232Z",
+  "market_startDate": "2021-12-21T18:25:30.561Z",
+  "market_endDate": "2022-01-04T00:00:00Z",
+  "market_closedTime": "2022-01-06 03:06:03+00",
+  "conditionId": "0xe60a27beb36020a06b462228a1e7b030b2769a31d1d32a1fa22603089c7e692b",
+  "slug": "will-at-least-99-of-us-covid-19-cases-be-from-the-omicron-variant-on-january-1-2022",
+  "question": "Will at least 99% of U.S. COVID-19 cases be from the Omicron variant on January 1, 2022?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240790",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-17T16:51:19.503000Z",
+  "market_createdAt": "2022-01-17T16:51:19.503Z",
+  "market_updatedAt": "2024-04-23T00:41:50.748098Z",
+  "market_startDate": "2022-01-17T17:49:24.61Z",
+  "market_endDate": "2022-01-17T00:00:00Z",
+  "market_closedTime": "2022-01-19 21:29:50+00",
+  "conditionId": "0x1274a74dd066057fd5e11e1b10783d5c78e75034e24050c63de7b07640d8d2bd",
+  "slug": "nba-will-the-heat-beat-the-raptors-by-more-than-3p5-points-in-their-january-17-matchup",
+  "question": "NBA: Will the Heat beat the Raptors by more than 3.5 points in their January 17 matchup?"
+}

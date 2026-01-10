@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241359",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-07T11:15:16.481000Z",
+  "market_createdAt": "2022-02-07T11:15:16.481Z",
+  "market_updatedAt": "2024-04-24T23:56:38.225677Z",
+  "market_startDate": "2022-02-07T17:43:51.741Z",
+  "market_endDate": "2022-02-07T00:00:00Z",
+  "market_closedTime": "2022-02-09 17:55:57+00",
+  "conditionId": "0x208c2bed471da71e57f9062c5a9b81a46e7f02eae5a58b085a2fc293e079a607",
+  "slug": "nba-who-will-win-the-suns-vs-bulls-scheduled-for-february-7-8-pm-et",
+  "question": "NBA: Who will win the Suns vs. Bulls, scheduled for February 7 (8 PM ET)?"
+}

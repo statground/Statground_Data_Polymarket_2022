@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241804",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-01T16:13:58.288000Z",
+  "market_createdAt": "2022-03-01T16:13:58.288Z",
+  "market_updatedAt": "2024-04-24T23:44:15.714609Z",
+  "market_startDate": "2022-03-01T17:58:32.226Z",
+  "market_endDate": "2022-03-01T00:00:00Z",
+  "market_closedTime": "2022-03-02 16:24:27+00",
+  "conditionId": "0x08c13bc30dfc15a4476afe9632003cafa416e78711bf29360a263afaf7e55340",
+  "slug": "nba-who-will-win-the-mavericks-vs-lakers-scheduled-for-march-1-10-pm-et",
+  "question": "NBA: Who will win the Mavericks vs. Lakers, scheduled for March 1 (10 PM ET)?"
+}

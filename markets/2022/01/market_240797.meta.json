@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240797",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-17T17:06:32.275000Z",
+  "market_createdAt": "2022-01-17T17:06:32.275Z",
+  "market_updatedAt": "2024-04-22T23:24:01.975935Z",
+  "market_startDate": "2022-01-17T18:00:09.19Z",
+  "market_endDate": "2022-01-17T00:00:00Z",
+  "market_closedTime": "2022-01-20 17:46:59+00",
+  "conditionId": "0xd18bfc3b96078d98a8afdee9b06bc40d9d7a2f61cb1a930717397861d335bbf0",
+  "slug": "nhl-will-the-coyotes-beat-the-canadiens-by-more-than-1p5-goals-in-their-january-17-matchup",
+  "question": "NHL: Will the Coyotes beat the Canadiens by more than 1.5 goals in their January 17 matchup?"
+}

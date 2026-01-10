@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239517",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-20T15:18:34.374000Z",
+  "market_createdAt": "2021-11-20T15:18:34.374Z",
+  "market_updatedAt": "2024-04-26T02:50:04.363685Z",
+  "market_startDate": "2021-11-20T20:00:06.802Z",
+  "market_endDate": "2021-11-20T00:00:00Z",
+  "market_closedTime": "2021-11-21 15:51:17+00",
+  "conditionId": "0xdaa8e60c426f62c1f5fee4c55a756d2463873dbd254f7905664b8b0e432dccd0",
+  "slug": "nba-will-the-hawks-beat-the-hornets-by-more-than-6pt5-points-in-their-november-20th-matchup",
+  "question": "NBA: Will the Hawks beat the Hornets by more than 6.5 points in their November 20th matchup?"
+}

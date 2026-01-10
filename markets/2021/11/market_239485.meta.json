@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239485",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-17T14:19:27.245000Z",
+  "market_createdAt": "2021-11-17T14:19:27.245Z",
+  "market_updatedAt": "2024-04-23T00:28:14.433034Z",
+  "market_startDate": "2021-11-17T19:25:19.755Z",
+  "market_endDate": "2021-11-21T00:00:00Z",
+  "market_closedTime": "2021-11-22 18:41:47+00",
+  "conditionId": "0xefba9700443e42b887595c63fec46d33f92aeeb9f7404a641b40708bafea428a",
+  "slug": "nfl-will-the-eagles-beat-the-saints-by-more-than-1pt5-points-in-their-november-21st-matchup",
+  "question": "NFL: Will the Eagles beat the Saints by more than 1.5 points in their November 21st matchup?"
+}

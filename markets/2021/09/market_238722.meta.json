@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238722",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-09T18:24:02.176000Z",
+  "market_createdAt": "2021-09-09T18:24:02.176Z",
+  "market_updatedAt": "2024-04-22T22:56:20.457001Z",
+  "market_startDate": "2021-09-09T22:44:43.919Z",
+  "market_endDate": "2021-09-12T00:00:00Z",
+  "market_closedTime": "2021-09-13 17:26:49+00",
+  "conditionId": "0xe993a2dfa1a29131b0b6c11a87bae99c7f4ea9acbf81b4a267a49218a0006ba7",
+  "slug": "rams-7pt5-v-bears-spread",
+  "question": "Rams (-7.5) v. Bears Spread"
+}

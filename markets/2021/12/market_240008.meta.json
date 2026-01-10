@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240008",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-13T10:08:58.006000Z",
+  "market_createdAt": "2021-12-13T10:08:58.006Z",
+  "market_updatedAt": "2024-04-24T23:26:42.983362Z",
+  "market_startDate": "2021-12-13T19:10:48.385Z",
+  "market_endDate": "2021-12-13T00:00:00Z",
+  "market_closedTime": "2021-12-14 15:24:25+00",
+  "conditionId": "0x053a6dfc2fb2429970ad4c2a0b64593c46f9fca253f195177444686ed702dffb",
+  "slug": "nba-will-the-warriors-beat-the-pacers-by-more-than-4pt5-points-in-their-december-13-matchup",
+  "question": "NBA: Will the Warriors beat the Pacers by more than 4.5 points in their December 13 matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239225",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-03T15:29:56.121000Z",
+  "market_createdAt": "2021-11-03T15:29:56.121Z",
+  "market_updatedAt": "2024-04-23T00:30:53.724845Z",
+  "market_startDate": "2021-11-03T16:48:02.367Z",
+  "market_endDate": "2021-11-03T00:00:00Z",
+  "market_closedTime": "2021-11-04 16:53:55+00",
+  "conditionId": "0xc471b9496e291fb0ea107761b04a7d68bfa5f76ff7194d5b6d6070c6516dc7ae",
+  "slug": "nba-will-the-kings-beat-the-pelicans-by-more-than-5pt5-points-in-their-november-3rd-matchup",
+  "question": "NBA: Will the Kings beat the Pelicans by more than 5.5 points in their November 3rd matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241145",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-28T12:44:42.389000Z",
+  "market_createdAt": "2022-01-28T12:44:42.389Z",
+  "market_updatedAt": "2024-04-22T23:15:45.206215Z",
+  "market_startDate": "2022-01-28T20:33:37.319Z",
+  "market_endDate": "2022-01-28T00:00:00Z",
+  "market_closedTime": "2022-01-30 01:11:44+00",
+  "conditionId": "0x00ca32364581065967b06fab81e7c6a0b3fa4092cfbf2a75554815169ad65918",
+  "slug": "nhl-will-the-penguins-beat-the-red-wings-by-more-than-1p5-goals-in-their-january-28-matchup-7-pm-et",
+  "question": "NHL: Will the Penguins beat the Red Wings by more than 1.5 goals in their January 28 matchup (7 PM ET)?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239295",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-08T10:29:41.830000Z",
+  "market_createdAt": "2021-11-08T10:29:41.83Z",
+  "market_updatedAt": "2024-04-23T00:25:50.395336Z",
+  "market_startDate": "2021-11-08T20:13:27.435Z",
+  "market_endDate": "2021-11-08T00:00:00Z",
+  "market_closedTime": "2021-11-09 16:57:29+00",
+  "conditionId": "0x154f1e9e4ecf8265879ddee79ec377380ba02e4af36f45ba63e1bb5000d68b86",
+  "slug": "nba-will-the-grizzlies-beat-the-timberwolves-by-more-than-5pt5-points-in-their-november-8th-matchup",
+  "question": "NBA: Will the Grizzlies beat the Timberwolves by more than 5.5 points in their November 8th matchup?"
+}

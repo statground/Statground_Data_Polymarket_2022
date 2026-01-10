@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240079",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-16T23:16:49.759000Z",
+  "market_createdAt": "2021-12-16T23:16:49.759Z",
+  "market_updatedAt": "2024-04-22T23:31:23.417419Z",
+  "market_startDate": "2021-12-17T22:33:24.09Z",
+  "market_endDate": "2021-12-20T00:00:00Z",
+  "market_closedTime": "2021-12-21 18:25:44+00",
+  "conditionId": "0xe3ca2ff695b795003bbbb2810780db89524697a721a39ef59a1697c31bfa313f",
+  "slug": "nfl-will-the-vikings-beat-the-bears-by-more-than-4pt5-points-in-their-december-20-matchup",
+  "question": "NFL: Will the Vikings beat the Bears by more than 4.5 points in their December 20 matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241238",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-01T13:07:44.353000Z",
+  "market_createdAt": "2022-02-01T13:07:44.353Z",
+  "market_updatedAt": "2024-04-22T23:30:03.382692Z",
+  "market_startDate": null,
+  "market_endDate": "2022-02-01T00:00:00Z",
+  "market_closedTime": "2022-02-02 23:59:59+00",
+  "conditionId": "0x9579e41132b1db43ae69d559c080441b601d39b62b5a74b39c225621fe4495f3",
+  "slug": "nba-who-will-win-the-raptors-vs-heat-scheduled-for-february-1-730-pm-et",
+  "question": "NBA: Who will win the Raptors vs. Heat, scheduled for February 1 (7.30 PM ET)?"
+}

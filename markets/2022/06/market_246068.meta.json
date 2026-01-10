@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246068",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-01T13:12:37.478000Z",
+  "market_createdAt": "2022-06-01T13:12:37.478Z",
+  "market_updatedAt": "2024-04-22T22:30:13.138196Z",
+  "market_startDate": "2022-06-01T14:44:37.052Z",
+  "market_endDate": "2022-06-01T00:00:00Z",
+  "market_closedTime": "2022-06-02 05:15:43+00",
+  "conditionId": "0xa4e7bb2cd13108f6335b44fd44e514f8f25edb4b4538514857712c444c2c90eb",
+  "slug": "2022-finalissima-who-will-win-the-italy-vs-argentina-game-on-june-1",
+  "question": "2022 Finalissima: Who will win the Italy vs. Argentina game on June 1?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247452",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-06T20:45:20.091000Z",
+  "market_createdAt": "2022-10-06T20:45:20.091Z",
+  "market_updatedAt": "2023-01-31T15:40:41.874Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-09T00:00:00Z",
+  "market_closedTime": "2022-10-09 06:46:03+00",
+  "conditionId": "0x28df3bc06b6f96627b2f8fba4102302ec2b07b08b08c5135aad34a57849f92f4",
+  "slug": "al-wild-card-mariners-vs-blue-jays",
+  "question": "AL Wild Card: Mariners vs. Blue Jays"
+}

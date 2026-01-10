@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246798",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-22T20:49:54.654000Z",
+  "market_createdAt": "2022-07-22T20:49:54.654Z",
+  "market_updatedAt": "2023-01-31T20:31:46.297Z",
+  "market_startDate": "2022-07-22T23:34:54.649Z",
+  "market_endDate": "2022-08-03T00:00:00Z",
+  "market_closedTime": "2022-08-03 19:15:40+00",
+  "conditionId": "0xe6965bda5c89b185bb34f067c7d65f8b35a8baf96f3f59c716044c7344784bbd",
+  "slug": "will-75-of-americans-think-the-usa-is-on-the-wrong-track-on-august-1",
+  "question": "Will 75% of Americans think the USA is on the Wrong Track on August 1?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238912",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-29T16:44:21.001000Z",
+  "market_createdAt": "2021-09-29T16:44:21.001Z",
+  "market_updatedAt": "2024-04-24T23:22:10.561825Z",
+  "market_startDate": "2021-09-29T17:56:48.736Z",
+  "market_endDate": "2021-10-12T00:00:00Z",
+  "market_closedTime": "2021-10-12 16:28:23+00",
+  "conditionId": "0x1b6ed5a03d6aba997ef6260f416a7dc309281dcdafe66d154cefacc8d6955b95",
+  "slug": "will-new-world-be-a-top-5-game-on-steam-two-weeks-after-release",
+  "question": "Will New World be a Top 5 game on Steam two weeks after release?"
+}

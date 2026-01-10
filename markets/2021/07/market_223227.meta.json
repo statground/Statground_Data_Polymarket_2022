@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "223227",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-09T16:25:01.053000Z",
+  "market_createdAt": "2021-07-09T16:25:01.053Z",
+  "market_updatedAt": "2024-04-22T23:00:01.48091Z",
+  "market_startDate": null,
+  "market_endDate": "2021-08-01T00:00:00Z",
+  "market_closedTime": "2021-07-26 15:04:25+00",
+  "conditionId": "0x5d868575c257654a4a98b68eb0ced174d3659f31fe508a5d7b05bb6fdc87bf71",
+  "slug": "will-188-million-people-have-received-a-dose-of-an-approved-covid-19-vaccine-in-the-us-by-august-1",
+  "question": "Will 188 million people have received a dose of an approved COVID-19 vaccine in the US by August 1?"
+}

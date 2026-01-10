@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "201707",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-20T16:00:05.226000Z",
+  "market_createdAt": "2021-05-20T16:00:05.226Z",
+  "market_updatedAt": "2024-04-22T23:11:07.050893Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-20T00:00:00Z",
+  "market_closedTime": "2021-05-21 14:39:41+00",
+  "conditionId": "0x56a8635ef59d16c65230c738d85f578c8720b5cf6fc62cc0b3cae24f9c0ee70f",
+  "slug": "will-the-pacers-or-the-wizards-win-their-nba-play-in-tournament-matchup-1",
+  "question": "Will the Pacers or the Wizards win their NBA play-in tournament matchup?"
+}

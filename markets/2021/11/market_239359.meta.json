@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239359",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-10T21:05:11.379000Z",
+  "market_createdAt": "2021-11-10T21:05:11.379Z",
+  "market_updatedAt": "2024-04-24T23:50:03.314368Z",
+  "market_startDate": "2021-11-10T22:29:19.462Z",
+  "market_endDate": "2021-11-11T00:00:00Z",
+  "market_closedTime": "2021-11-12 19:22:47+00",
+  "conditionId": "0x66d48cb8287641891716835c63087a32aca97f8a7bcfb137adae69ce85d20aae",
+  "slug": "will-claude-monets-au-jardin-la-famille-de-lartiste-lot-41c-sell-for-more-than-18m-at-christies-on-november-11",
+  "question": "Will Claude Monet's “Au jardin, la famille de l’artiste” (Lot 41C) sell for more than $18m at Christie’s on November 11?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240268",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-01T20:52:54.621000Z",
+  "market_createdAt": "2022-01-01T20:52:54.621Z",
+  "market_updatedAt": "2024-04-24T23:26:33.521757Z",
+  "market_startDate": "2022-01-01T21:34:58.98Z",
+  "market_endDate": "2022-01-01T00:00:00Z",
+  "market_closedTime": "2022-01-03 15:14:25+00",
+  "conditionId": "0xa5812db672c2b6ac9a9dc02de8db730ad980ac1aaf412bd878744497da724653",
+  "slug": "nba-will-the-spurs-beat-the-pistons-by-more-than-6pt5-points-in-their-january-1-matchup",
+  "question": "NBA: Will the Spurs beat the Pistons by more than 6.5 points in their January 1 matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239449",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-15T22:43:12.386000Z",
+  "market_createdAt": "2021-11-15T22:43:12.386Z",
+  "market_updatedAt": "2024-04-24T07:41:34.333434Z",
+  "market_startDate": "2021-11-15T23:53:32.763Z",
+  "market_endDate": "2021-11-18T00:00:00Z",
+  "market_closedTime": "2021-11-19 20:43:01+00",
+  "conditionId": "0x6d0b1ade94a5580ee1eb3bf45b2080a24e065fb9412b644f1368aeb16ef9787b",
+  "slug": "what-will-the-official-edition-of-the-united-states-constitution-sell-for-at-sothebys",
+  "question": "What will the “Official Edition” of the United States Constitution sell for at Sotheby’s?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218544",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-16T20:40:01.950000Z",
+  "market_createdAt": "2021-06-16T20:40:01.95Z",
+  "market_updatedAt": "2024-04-22T23:11:59.549216Z",
+  "market_startDate": null,
+  "market_endDate": "2021-08-28T00:00:00Z",
+  "market_closedTime": "2021-08-30 17:12:26+00",
+  "conditionId": "0x42b260bcf561587c2e870cc698e6dd4500cb88dcb840e5f24a9a15847b3850cf",
+  "slug": "will-there-be-more-than-1k-daily-covid-19-cases-in-japan-on-august-27",
+  "question": "Will there be more than 1K daily COVID-19 cases in Japan on August 27?"
+}

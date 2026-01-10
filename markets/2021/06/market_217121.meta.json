@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "217121",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-13T19:55:01.192000Z",
+  "market_createdAt": "2021-06-13T19:55:01.192Z",
+  "market_updatedAt": "2023-01-31T20:10:16.991Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-13T00:00:00Z",
+  "market_closedTime": "2021-06-14 15:34:14+00",
+  "conditionId": "0xd33ab1b913db6b167008676d1745d9caec8a149bd71a5097f1ebb383f8be668f",
+  "slug": "will-surojit-chatterjee-or-matt-huang-win-in-their-cryptochamps-finals-chess-match",
+  "question": "Will Surojit Chatterjee or Matt Huang win in their CryptoChamps Finals chess match?"
+}

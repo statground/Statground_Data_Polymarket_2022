@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238943",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-04T18:11:59.194000Z",
+  "market_createdAt": "2021-10-04T18:11:59.194Z",
+  "market_updatedAt": "2024-04-22T23:00:11.198689Z",
+  "market_startDate": "2021-10-07T17:21:28.748Z",
+  "market_endDate": "2021-11-01T00:00:00Z",
+  "market_closedTime": "2021-10-31 03:25:58+00",
+  "conditionId": "0xb0ebadd973b4771fa6b7542fff3777d9f6b0b2a8fbe6e328a0de1c3be460d2b5",
+  "slug": "will-there-be-a-named-tropical-system-wanda-that-forms-before-november-1st-2021",
+  "question": "Will there be a named tropical system Wanda that forms before November 1st, 2021?"
+}

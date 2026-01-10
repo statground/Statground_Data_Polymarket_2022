@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242594",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-28T21:42:48.823000Z",
+  "market_createdAt": "2022-03-28T21:42:48.823Z",
+  "market_updatedAt": "2024-04-23T00:30:40.366615Z",
+  "market_startDate": "2022-03-28T22:27:25.187Z",
+  "market_endDate": "2022-06-30T00:00:00Z",
+  "market_closedTime": "2022-05-24 18:00:36+00",
+  "conditionId": "0xd929f727390893a30869893a973f60a0cce9f1db4f15f4b50ce8d0b40bea784b",
+  "slug": "will-unslashed-insurance-payout-for-an-anchor-ust-depeg-by-june-30-2022",
+  "question": "Will Unslashed Insurance payout for an Anchor + UST depeg by June 30, 2022?"
+}

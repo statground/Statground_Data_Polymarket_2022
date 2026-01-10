@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218593",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-21T17:05:01.243000Z",
+  "market_createdAt": "2021-06-21T17:05:01.243Z",
+  "market_updatedAt": "2024-04-25T00:01:31.654927Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-22T00:00:00Z",
+  "market_closedTime": "2021-07-05 18:20:57+00",
+  "conditionId": "0x1debe9432c970f6e08972fd54bfe7242ff3c8e2bdfc68c8a0c77d8876e8dd33c",
+  "slug": "will-the-hawks-win-the-2021-nba-finals-2",
+  "question": "Will the Hawks win the 2021 NBA Finals?"
+}

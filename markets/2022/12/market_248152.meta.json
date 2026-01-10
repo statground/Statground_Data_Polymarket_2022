@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248152",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-01T17:23:55.326000Z",
+  "market_createdAt": "2022-12-01T17:23:55.326Z",
+  "market_updatedAt": "2023-01-31T17:34:23.547Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-03T00:00:00Z",
+  "market_closedTime": "2022-12-03 19:00:37+00",
+  "conditionId": "0x93be4ea8a93f56dc8fcb16a2dc12cff8d8439051dea1d1b5a1120031ad067719",
+  "slug": "world-cup-saturday-will-netherlands-beat-usa",
+  "question": "World Cup: Saturday - Will Netherlands beat USA?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240613",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-12T11:02:46.648000Z",
+  "market_createdAt": "2022-01-12T11:02:46.648Z",
+  "market_updatedAt": "2024-11-16T02:57:00.77111Z",
+  "market_startDate": "2022-01-12T21:22:33.938Z",
+  "market_endDate": "2024-11-08T12:00:00Z",
+  "market_closedTime": "2024-11-14 23:58:16+00",
+  "conditionId": "0x26ee82bee2493a302d21283cb578f7e2fff2dd15743854f53034d12420863b55",
+  "slug": "which-party-will-win-the-2024-united-states-presidential-election",
+  "question": "Which party wins 2024 US Presidential Election?"
+}

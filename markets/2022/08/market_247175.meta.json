@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247175",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-30T18:16:25.765000Z",
+  "market_createdAt": "2022-08-30T18:16:25.765Z",
+  "market_updatedAt": "2024-04-24T23:42:12.722503Z",
+  "market_startDate": "2022-08-31T17:39:02.317Z",
+  "market_endDate": "2022-09-11T00:00:00Z",
+  "market_closedTime": "2022-09-04 23:46:19+00",
+  "conditionId": "0xd3bab087d9f18d161e4f04108302a7850fe1070fe348dc517feb48b184a6a7b8",
+  "slug": "ufc-fight-night-paris-jourdain-vs-wood",
+  "question": "UFC Fight Night Paris: Jourdain vs. Wood"
+}

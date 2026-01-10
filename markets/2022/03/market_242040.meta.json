@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242040",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-12T20:24:44.040000Z",
+  "market_createdAt": "2022-03-12T20:24:44.04Z",
+  "market_updatedAt": "2024-04-25T00:15:02.405655Z",
+  "market_startDate": "2022-03-12T21:38:43.995Z",
+  "market_endDate": "2022-03-12T00:00:00Z",
+  "market_closedTime": "2022-03-13 11:49:08+00",
+  "conditionId": "0x14f1e75ba995bdc35def8c3fd0c26c423e68834dc6898e8364f9aeb8a0a083b1",
+  "slug": "nhl-will-the-lightning-beat-the-oilers-by-more-than-1pt5-goals-in-their-march-12-matchup-10-pm-et",
+  "question": "NHL: Will the Lightning beat the Oilers by more than 1.5 goals in their March 12 matchup (10 PM ET)?"
+}

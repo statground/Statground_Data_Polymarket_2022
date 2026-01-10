@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240831",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-18T18:58:31.044000Z",
+  "market_createdAt": "2022-01-18T18:58:31.044Z",
+  "market_updatedAt": "2024-04-22T23:40:11.034597Z",
+  "market_startDate": "2022-01-18T22:15:35.933Z",
+  "market_endDate": "2022-02-02T00:00:00Z",
+  "market_closedTime": "2022-02-04 23:38:40+00",
+  "conditionId": "0x7b31ce4f8e9ae2efa5a097264828f25714949ab397864b34197387b5c199fe09",
+  "slug": "will-caf-con-aroma-de-mujer-season-1-be-the-1-netflix-show-worldwide-on-the-week-ending-january-30",
+  "question": "Will 'Café con aroma de mujer: Season 1' be the #1 Netflix show worldwide on the week ending January 30?"
+}

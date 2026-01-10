@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "31064",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-01-07T19:05:03.050000Z",
+  "market_createdAt": "2021-01-07T19:05:03.05Z",
+  "market_updatedAt": "2024-04-22T23:29:15.216256Z",
+  "market_startDate": null,
+  "market_endDate": "2021-01-21T00:00:00Z",
+  "market_closedTime": "2021-01-13 22:10:21+00",
+  "conditionId": "0xae9d0ce9578b795d446dbba1c6776579219597f74e0bcdc2d4bc11f1dc619e7d",
+  "slug": "will-donald-trump-be-impeached-again-before-the-end-of-his-term",
+  "question": "Will Donald Trump be impeached again before the end of his term?"
+}

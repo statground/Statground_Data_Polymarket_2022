@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239253",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-05T12:43:16.214000Z",
+  "market_createdAt": "2021-11-05T12:43:16.214Z",
+  "market_updatedAt": "2024-04-26T02:50:03.034086Z",
+  "market_startDate": "2021-11-05T19:52:58.897Z",
+  "market_endDate": "2021-11-05T00:00:00Z",
+  "market_closedTime": "2021-11-06 11:12:22+00",
+  "conditionId": "0xb4a3e542fd950e4211346eda4b13b58ce9eea9f675c302db151f2fb8a909bff5",
+  "slug": "nba-will-the-raptors-beat-the-cavaliers-by-more-than-5pt5-points-in-their-november-5th-matchup",
+  "question": "NBA: Will the Raptors beat the Cavaliers by more than 5.5 points in their November 5th matchup?"
+}

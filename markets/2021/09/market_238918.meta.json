@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238918",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-30T19:34:49.176000Z",
+  "market_createdAt": "2021-09-30T19:34:49.176Z",
+  "market_updatedAt": "2024-04-23T00:09:51.987915Z",
+  "market_startDate": "2021-10-04T21:35:28.95Z",
+  "market_endDate": "2021-11-06T00:00:00Z",
+  "market_closedTime": "2021-10-15 22:06:59+00",
+  "conditionId": "0xf42ecc4a2bf702d789db11f892a5f28669909bad6f02215b3784a8f36af62544",
+  "slug": "will-a-team-from-north-america-get-out-of-groups-at-the-2021-lol-worlds",
+  "question": "Will a team from North America get out of groups at the 2021 LoL Worlds?"
+}

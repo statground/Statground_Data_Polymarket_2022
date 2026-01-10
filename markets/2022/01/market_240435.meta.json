@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240435",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T15:46:00.192000Z",
+  "market_createdAt": "2022-01-11T15:46:00.192Z",
+  "market_updatedAt": "2024-04-23T00:52:36.24601Z",
+  "market_startDate": "2022-01-12T20:53:12.634Z",
+  "market_endDate": "2022-04-01T00:00:00Z",
+  "market_closedTime": "2022-04-02 22:30:31+00",
+  "conditionId": "0x016008132bf390cef59044e39334f36bc149d2846e411cf2f949e596fb6aec2b",
+  "slug": "will-the-cdc-declare-a-variant-of-high-consequence-by-april-1-2022",
+  "question": "Will the CDC declare a variant of high consequence by April 1, 2022?"
+}

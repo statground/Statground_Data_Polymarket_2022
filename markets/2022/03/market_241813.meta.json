@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241813",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-02T00:44:30.780000Z",
+  "market_createdAt": "2022-03-02T00:44:30.78Z",
+  "market_updatedAt": "2024-04-22T23:56:47.088653Z",
+  "market_startDate": "2022-03-04T16:00:21.026Z",
+  "market_endDate": "2022-04-20T00:00:00Z",
+  "market_closedTime": "2022-04-21 00:01:16+00",
+  "conditionId": "0xb7af122fa3ee8527464a5d45a6e1e42e7486a3a1226f1d91e83dc8f8e1cc70a0",
+  "slug": "will-elon-musk-have-the-highest-net-worth-on-april-20",
+  "question": "Will Elon musk have the highest net worth on April 20?"
+}

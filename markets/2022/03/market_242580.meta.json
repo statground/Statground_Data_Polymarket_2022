@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242580",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-28T09:03:23.630000Z",
+  "market_createdAt": "2022-03-28T09:03:23.63Z",
+  "market_updatedAt": "2024-04-24T23:26:27.681722Z",
+  "market_startDate": "2022-03-28T16:47:40.668Z",
+  "market_endDate": "2022-03-28T00:00:00Z",
+  "market_closedTime": "2022-03-29 08:41:53+00",
+  "conditionId": "0x4e165eaf61a4b00f409aeab6bed82cbf0073e3156e39675ad8f8728327ae80e2",
+  "slug": "nhl-will-the-oilers-beat-the-coyotes-by-more-than-2pt5-goals-in-their-march-28-930-pm-et-matchup",
+  "question": "NHL: Will the Oilers beat the Coyotes by more than 2.5 goals in their March 28, 9:30 PM ET matchup?"
+}

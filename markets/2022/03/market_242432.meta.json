@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242432",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-24T16:14:17.276000Z",
+  "market_createdAt": "2022-03-24T16:14:17.276Z",
+  "market_updatedAt": "2024-04-22T23:38:51.671796Z",
+  "market_startDate": "2022-04-05T16:28:39.896Z",
+  "market_endDate": "2022-08-01T00:00:00Z",
+  "market_closedTime": "2022-05-06 06:31:42+00",
+  "conditionId": "0x768670a876434ced912c5c34553ba89cf4993228d8efbdef3920d2d10a5da36b",
+  "slug": "will-the-yuan-be-worth-less-than-0pt15-usd-by-august-1-2022",
+  "question": "Will the Yuan be worth less than $0.15 USD by August 1, 2022?"
+}

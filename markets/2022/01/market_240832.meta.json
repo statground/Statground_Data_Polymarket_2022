@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240832",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-18T19:37:47.768000Z",
+  "market_createdAt": "2022-01-18T19:37:47.768Z",
+  "market_updatedAt": "2024-04-24T23:29:25.302669Z",
+  "market_startDate": "2022-01-18T22:16:00.294Z",
+  "market_endDate": "2022-02-02T00:00:00Z",
+  "market_closedTime": "2022-02-04 23:48:10+00",
+  "conditionId": "0x83b57219587479d7970f93488898731f35e5d0a8af76b52de0f18f6e6b82085d",
+  "slug": "will-archive-81-be-the-1-netflix-show-worldwide-on-the-week-ending-january-30",
+  "question": "Will 'Archive 81' be the #1 Netflix show worldwide on the week ending January 30?"
+}

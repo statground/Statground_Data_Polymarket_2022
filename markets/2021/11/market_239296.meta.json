@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239296",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-08T10:32:13.830000Z",
+  "market_createdAt": "2021-11-08T10:32:13.83Z",
+  "market_updatedAt": "2024-04-25T00:02:20.640047Z",
+  "market_startDate": "2021-11-08T20:14:25.154Z",
+  "market_endDate": "2021-11-08T00:00:00Z",
+  "market_closedTime": "2021-11-09 16:57:53+00",
+  "conditionId": "0x1ab7162292f36a13a3917eba6e6a46658370d805b5d7e9412c2f916f3520638e",
+  "slug": "nba-will-the-mavericks-beat-the-pelicans-by-more-than-8pt5-points-in-their-november-8th-matchup",
+  "question": "NBA: Will the Mavericks beat the Pelicans by more than 8.5 points in their November 8th matchup?"
+}

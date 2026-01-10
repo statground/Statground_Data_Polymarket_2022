@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241648",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-23T14:04:30.657000Z",
+  "market_createdAt": "2022-02-23T14:04:30.657Z",
+  "market_updatedAt": "2024-04-22T23:09:31.334159Z",
+  "market_startDate": "2022-02-23T16:44:24.46Z",
+  "market_endDate": "2022-03-06T00:00:00Z",
+  "market_closedTime": "2022-03-07 14:30:41+00",
+  "conditionId": "0xbdb7cd78889551bbb8723dee391892b4eb76d7f931db69cca9274ccf5ef0cbeb",
+  "slug": "will-truth-social-be-the-1-social-networking-app-in-the-us-apple-app-store-on-march-6",
+  "question": "Will Truth Social be the #1 Social Networking App in the US Apple App Store on March 6?"
+}

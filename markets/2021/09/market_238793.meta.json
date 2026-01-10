@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238793",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-17T19:54:43.098000Z",
+  "market_createdAt": "2021-09-17T19:54:43.098Z",
+  "market_updatedAt": "2024-04-23T00:53:12.817076Z",
+  "market_startDate": "2021-09-17T21:12:04.258Z",
+  "market_endDate": "2021-09-19T00:00:00Z",
+  "market_closedTime": "2021-09-20 02:48:06+00",
+  "conditionId": "0x5079109bb73c4cea46e37cf822be40b8c4422d8e1cdd62af129871442832d8a1",
+  "slug": "patriots-6-v-jets-spread",
+  "question": "Patriots (-6) v. Jets Spread"
+}

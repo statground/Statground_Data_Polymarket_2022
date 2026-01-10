@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242800",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-03T09:14:31.048000Z",
+  "market_createdAt": "2022-04-03T09:14:31.048Z",
+  "market_updatedAt": "2024-04-22T22:30:26.061334Z",
+  "market_startDate": "2022-04-03T16:42:31.176Z",
+  "market_endDate": "2022-04-03T00:00:00Z",
+  "market_closedTime": "2022-04-04 07:17:18+00",
+  "conditionId": "0xe509696f61f9f890a73b5d58a31bb808fc06f5e36943a3a3a6e91af7a58a53d8",
+  "slug": "nba-will-the-bucks-beat-the-mavericks-by-more-than-4pt5-points-in-their-april-3-110-pm-et-matchup",
+  "question": "NBA: Will the Bucks beat the Mavericks by more than 4.5 points in their April 3, 1:10 PM ET matchup?"
+}

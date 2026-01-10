@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241218",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-31T08:20:06.329000Z",
+  "market_createdAt": "2022-01-31T08:20:06.329Z",
+  "market_updatedAt": "2024-04-23T00:40:18.119988Z",
+  "market_startDate": "2022-01-31T22:02:59.325Z",
+  "market_endDate": "2022-01-31T00:00:00Z",
+  "market_closedTime": "2022-02-02 16:24:25+00",
+  "conditionId": "0xa7da8067b7f55e18d09adcd3121ad6cc2f4117c139ee8d79ee8c0c1b03e8318c",
+  "slug": "nhl-will-the-maple-leafs-beat-the-devils-by-more-than-1p5-goals-in-their-january-31-matchup-730-pm-et",
+  "question": "NHL: Will the Maple Leafs beat the Devils by more than 1.5 goals in their January 31 matchup (7.30 PM ET)?"
+}

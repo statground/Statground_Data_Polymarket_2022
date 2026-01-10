@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242622",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-29T23:04:23.007000Z",
+  "market_createdAt": "2022-03-29T23:04:23.007Z",
+  "market_updatedAt": "2023-01-31T17:53:57.45Z",
+  "market_startDate": "2022-03-29T23:12:16.993Z",
+  "market_endDate": "2022-05-01T00:00:00Z",
+  "market_closedTime": "2022-04-04 21:15:39+00",
+  "conditionId": "0xf3bb107bce262961d6ed764f4d53fbd5b86a242376130cf662990318a894fd2c",
+  "slug": "grammys-2022-will-billie-eilish-win-a-grammy",
+  "question": "GRAMMYs 2022: Will Billie Eilish win a Grammy?"
+}

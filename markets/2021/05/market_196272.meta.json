@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "196272",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-13T18:05:05.674000Z",
+  "market_createdAt": "2021-05-13T18:05:05.674Z",
+  "market_updatedAt": "2024-04-23T00:50:28.352933Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-13T00:00:00Z",
+  "market_closedTime": "2021-05-14 16:06:10+00",
+  "conditionId": "0x4094192bf620ee396c7df7be8eba9d68f375c03761094ce753671e64d504a5d2",
+  "slug": "will-roy-lichtensteins-interior-perfect-pitcher-sell-for-more-than-30-million-at-christies",
+  "question": "Will Roy Lichtenstein’s “Interior: Perfect Pitcher” sell for more than $30 million at Christie’s?"
+}

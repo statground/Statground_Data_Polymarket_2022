@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "85124",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-12T23:15:04.325000Z",
+  "market_createdAt": "2021-02-12T23:15:04.325Z",
+  "market_updatedAt": "2024-04-23T00:15:03.62341Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-13T00:00:00Z",
+  "market_closedTime": "2021-02-14 22:08:58+00",
+  "conditionId": "0xdbe204f730892f821355f6331592a76d6aa82699cafa5e7565b04dcc98db463f",
+  "slug": "will-the-76ers-or-the-suns-win-their-february-13th-matchup",
+  "question": "Will the 76ers or the Suns win their February 13th matchup?"
+}

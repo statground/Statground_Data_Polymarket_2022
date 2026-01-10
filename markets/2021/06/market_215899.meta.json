@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "215899",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-11T17:20:01.262000Z",
+  "market_createdAt": "2021-06-11T17:20:01.262Z",
+  "market_updatedAt": "2024-04-23T00:11:01.356818Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-12T00:00:00Z",
+  "market_closedTime": "2021-06-13 17:50:31+00",
+  "conditionId": "0x676cc0c12d1ba7c36831f06f8797ee234c8eb8df557d327321a0a764602f34df",
+  "slug": "who-will-win-ufc-263-figueiredo-vs-moreno",
+  "question": "Who will win UFC 263: Figueiredo vs. Moreno?"
+}

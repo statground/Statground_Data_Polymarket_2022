@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "113045",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-03-30T19:40:02.200000Z",
+  "market_createdAt": "2021-03-30T19:40:02.2Z",
+  "market_updatedAt": "2024-04-23T00:27:05.047125Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-06T00:00:00Z",
+  "market_closedTime": "2021-04-07 17:14:28+00",
+  "conditionId": "0xb37b445d6ff5b98da761198ddc230eb3d839cbac5c6b8eaebe1c86b25b2beab8",
+  "slug": "how-many-more-tweets-will-be-on-the-laurenboebert-account-on-april-6-2021",
+  "question": "How many more tweets will be on the @laurenboebert account on April 6, 2021?"
+}

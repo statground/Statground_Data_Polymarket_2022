@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "158494",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-27T17:40:03.891000Z",
+  "market_createdAt": "2021-04-27T17:40:03.891Z",
+  "market_updatedAt": "2023-01-31T18:01:56.202Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-01T00:00:00Z",
+  "market_closedTime": "2021-04-30 06:11:05+00",
+  "conditionId": "0x52f9229bf506f19515f8ef718f8c3a2a323a583b36cf541c84b21686204cdc5d",
+  "slug": "will-the-first-4-picks-in-the-nfl-draft-all-be-quarterbacks",
+  "question": "Will the first 4 picks in the NFL draft all be quarterbacks?"
+}

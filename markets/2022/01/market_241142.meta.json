@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241142",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-28T12:34:05.796000Z",
+  "market_createdAt": "2022-01-28T12:34:05.796Z",
+  "market_updatedAt": "2024-04-26T02:47:07.418852Z",
+  "market_startDate": "2022-01-28T20:32:39.85Z",
+  "market_endDate": "2022-01-28T00:00:00Z",
+  "market_closedTime": "2022-01-30 01:12:36+00",
+  "conditionId": "0x6f5a777c3831ba6d243bd43b67eace645d161a58d8a7b1126c0de2ed6d019bdd",
+  "slug": "nba-will-the-trail-blazers-beat-the-rockets-by-more-than-2p5-points-in-their-january-28-8pm-et-matchup",
+  "question": "NBA: Will the Trail Blazers beat the Rockets by more than 2.5 points in their January 28 (8PM ET) matchup?"
+}

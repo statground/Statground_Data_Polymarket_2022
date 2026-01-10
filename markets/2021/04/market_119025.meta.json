@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "119025",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-08T20:55:06.239000Z",
+  "market_createdAt": "2021-04-08T20:55:06.239Z",
+  "market_updatedAt": "2024-04-22T23:40:37.707503Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-29T00:00:00Z",
+  "market_closedTime": "2021-04-29 19:46:54+00",
+  "conditionId": "0x7bdc1c62269c5fde735c11079c7ea5906d387a43651191b5e21ea2a425011f22",
+  "slug": "will-us-gdp-growth-be-more-than-49-in-q1-2021",
+  "question": "Will US GDP growth be more than 4.9% in Q1 2021? "
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240549",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T18:54:07.374000Z",
+  "market_createdAt": "2022-01-11T18:54:07.374Z",
+  "market_updatedAt": "2024-04-23T00:45:13.469585Z",
+  "market_startDate": "2022-01-12T21:14:59.48Z",
+  "market_endDate": "2022-03-31T00:00:00Z",
+  "market_closedTime": "2022-04-02 13:15:21+00",
+  "conditionId": "0x3638c42f88441505aa0087c57553e6c2b3974a546c1d1fb08fd7350d5e1313f4",
+  "slug": "will-known-origin-airdrop-a-native-token-by-march-31st-2022",
+  "question": "Will Known Origin airdrop a native token by March 31st, 2022?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247197",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-07T17:06:07.332000Z",
+  "market_createdAt": "2022-09-07T17:06:07.332Z",
+  "market_updatedAt": "2023-01-31T09:05:04.372Z",
+  "market_startDate": "2022-09-07T18:37:08.997Z",
+  "market_endDate": "2022-09-11T00:00:00Z",
+  "market_closedTime": "2022-09-08 15:45:35+00",
+  "conditionId": "0xa4f80b70d772c19cf56a21d042ff2c72b8e4e6730d2e8b169f396fa9dd0b80a6",
+  "slug": "will-jannik-sinner-win-the-2022-us-open",
+  "question": "Will Jannik Sinner win the 2022 US Open?"
+}

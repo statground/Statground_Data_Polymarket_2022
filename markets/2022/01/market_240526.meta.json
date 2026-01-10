@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240526",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T18:25:41.840000Z",
+  "market_createdAt": "2022-01-11T18:25:41.84Z",
+  "market_updatedAt": "2024-04-23T00:23:32.685534Z",
+  "market_startDate": "2022-01-12T20:46:28.124Z",
+  "market_endDate": "2022-02-20T00:00:00Z",
+  "market_closedTime": "2022-02-20 20:30:54+00",
+  "conditionId": "0x62a4f7ffa86e82046b5114530beb549151e36b525eb254865a76e9495d500968",
+  "slug": "who-will-have-a-higher-net-worth-on-february-20-warren-buffett-or-sergey-brin",
+  "question": "Who will have a higher net worth on February 20: Warren Buffett or Sergey Brin?"
+}

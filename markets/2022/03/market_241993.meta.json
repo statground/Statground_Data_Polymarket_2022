@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241993",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-09T10:22:24.266000Z",
+  "market_createdAt": "2022-03-09T10:22:24.266Z",
+  "market_updatedAt": "2024-04-24T23:20:54.945514Z",
+  "market_startDate": "2022-03-09T16:52:27.88Z",
+  "market_endDate": "2022-03-09T00:00:00Z",
+  "market_closedTime": "2022-03-10 11:48:24+00",
+  "conditionId": "0xde96d7b9f2fcc951d8821c2ea289e66e2a34b38b6e5971afeabbef4bc739785d",
+  "slug": "nhl-will-the-oilers-beat-the-capitals-by-more-than-1pt5-goals-in-their-march-9-matchup-8-pm-et",
+  "question": "NHL: Will the Oilers beat the Capitals by more than 1.5 goals in their March 9 matchup (8 PM ET)?"
+}

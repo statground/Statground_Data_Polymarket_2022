@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242436",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-24T17:38:52.925000Z",
+  "market_createdAt": "2022-03-24T17:38:52.925Z",
+  "market_updatedAt": "2024-04-22T23:18:00.958791Z",
+  "market_startDate": "2022-03-24T18:41:25.821Z",
+  "market_endDate": "2022-03-24T00:00:00Z",
+  "market_closedTime": "2022-03-25 15:29:53+00",
+  "conditionId": "0x2912535e13da44f4eee50cc14b86d7b692312ae63eed184eff2e011323280f61",
+  "slug": "nba-who-will-win-the-nuggets-vs-suns-scheduled-for-march-24-9-pm-et",
+  "question": "NBA: Who will win the Nuggets vs. Suns, scheduled for March 24 (9 PM ET)?"
+}

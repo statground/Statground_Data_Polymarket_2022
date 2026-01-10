@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "42115",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-01-15T15:15:04.146000Z",
+  "market_createdAt": "2021-01-15T15:15:04.146Z",
+  "market_updatedAt": "2023-01-31T21:15:18.769Z",
+  "market_startDate": null,
+  "market_endDate": "2021-01-18T00:00:00Z",
+  "market_closedTime": "2021-01-18 15:45:04+00",
+  "conditionId": "0x8184cf050517b5980bd92ff26818b8de5a78905d1737f10a05afd41551eb6074",
+  "slug": "will-the-buccaneers-or-the-saints-win-their-jan-17th-matchup",
+  "question": "Will the Buccaneers or the Saints win their Jan 17th matchup?"
+}

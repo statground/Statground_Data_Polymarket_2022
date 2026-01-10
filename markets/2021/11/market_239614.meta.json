@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239614",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-26T09:22:25.536000Z",
+  "market_createdAt": "2021-11-26T09:22:25.536Z",
+  "market_updatedAt": "2024-04-26T02:51:06.588843Z",
+  "market_startDate": "2021-11-26T19:20:34.916Z",
+  "market_endDate": "2021-11-26T00:00:00Z",
+  "market_closedTime": "2021-11-27 20:52:56+00",
+  "conditionId": "0xcd809e45ca667699bcd802a2aa2f45e23aa538782e9b7f4c006dbef156389876",
+  "slug": "nba-will-the-grizzlies-beat-the-hawks-by-more-than-1pt5-points-in-their-november-26th-matchup",
+  "question": "NBA: Will the Grizzlies beat the Hawks by more than 1.5 points in their November 26th matchup?"
+}

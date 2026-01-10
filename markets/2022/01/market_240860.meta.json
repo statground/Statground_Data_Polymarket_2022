@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240860",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-19T18:53:56.983000Z",
+  "market_createdAt": "2022-01-19T18:53:56.983Z",
+  "market_updatedAt": "2024-04-24T23:31:18.95759Z",
+  "market_startDate": "2022-01-19T19:37:55.014Z",
+  "market_endDate": "2022-01-19T00:00:00Z",
+  "market_closedTime": "2022-01-21 13:14:19+00",
+  "conditionId": "0x5939abcf78f616e57d2c3b673bdd269c309fd9190eb58e705c8a21888f093c37",
+  "slug": "will-president-biden-mention-russia-in-his-press-conference-on-january-19",
+  "question": "Will President Biden mention Russia in his press conference on January 19?"
+}

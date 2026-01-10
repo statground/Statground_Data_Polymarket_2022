@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "201483",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-19T21:25:03.903000Z",
+  "market_createdAt": "2021-05-19T21:25:03.903Z",
+  "market_updatedAt": "2023-01-31T15:54:28.617Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-23T00:00:00Z",
+  "market_closedTime": "2021-05-23 19:05:48+00",
+  "conditionId": "0x2047ecbce8cabe6a4c638b00fddee4b6d1b9b0abe956be80726dcdadc6f73938",
+  "slug": "will-hikaru-nakamura-or-ian-nepomniachtchi-win-in-their-ftx-crypto-cup-preliminary-match-1",
+  "question": "Will Hikaru Nakamura or Ian Nepomniachtchi win in their FTX Crypto Cup preliminary match?"
+}

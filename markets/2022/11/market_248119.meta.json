@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248119",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-21T20:13:14.378000Z",
+  "market_createdAt": "2022-11-21T20:13:14.378Z",
+  "market_updatedAt": "2023-01-31T20:21:33.229Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-28T00:00:00Z",
+  "market_closedTime": "2022-11-29 00:16:06+00",
+  "conditionId": "0x2f789718f4fdd76f5070717f5d36a3b6b7b329a4d7d1b719d3da75fd9eea5eb8",
+  "slug": "world-cup-2022-monday-will-portugal-beat-uruguay",
+  "question": "World Cup: Monday - Will Portugal beat Uruguay?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239239",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-04T12:31:18.427000Z",
+  "market_createdAt": "2021-11-04T12:31:18.427Z",
+  "market_updatedAt": "2024-04-22T23:33:11.02527Z",
+  "market_startDate": "2021-11-04T16:38:08.912Z",
+  "market_endDate": "2021-11-04T00:00:00Z",
+  "market_closedTime": "2021-11-05 02:41:53+00",
+  "conditionId": "0x2367b34eb127f773f5907d11de312d33ab9c00dba9182712608e4bca7e84e8cc",
+  "slug": "nba-who-will-win-the-jazz-v-hawks-game-on-november-4th",
+  "question": "NBA: Who will win the Jazz v. Hawks game on November 4th?"
+}

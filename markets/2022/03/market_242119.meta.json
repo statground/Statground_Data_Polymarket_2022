@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242119",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-16T00:40:28.089000Z",
+  "market_createdAt": "2022-03-16T00:40:28.089Z",
+  "market_updatedAt": "2024-04-22T22:44:39.858603Z",
+  "market_startDate": "2022-03-23T18:24:43.621Z",
+  "market_endDate": "2022-06-30T00:00:00Z",
+  "market_closedTime": "2022-07-01 18:31:05+00",
+  "conditionId": "0x432e5cc0013b27e6684e182ca9e1055717d7b5f75441151269e0780794105bc2",
+  "slug": "will-blockfi-yield-become-available-to-us-citizens-by-june-30-2022",
+  "question": "Will ‘BlockFi Yield’ become available to US citizens by June 30, 2022?"
+}

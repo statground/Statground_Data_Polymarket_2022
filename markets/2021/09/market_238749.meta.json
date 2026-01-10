@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238749",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-13T18:06:02.120000Z",
+  "market_createdAt": "2021-09-13T18:06:02.12Z",
+  "market_updatedAt": "2024-04-24T23:35:40.717161Z",
+  "market_startDate": "2021-09-14T17:25:10.89Z",
+  "market_endDate": "2021-09-25T00:00:00Z",
+  "market_closedTime": "2021-09-26 23:56:40+00",
+  "conditionId": "0x5cf6ee5c0aad7e15e7ba62eeaf94bb2853ee8eb791f2002b51fffca8e1efadca",
+  "slug": "will-alexander-volkanovski-or-brian-ortega-win-their-ufc-fight-on-september-25th",
+  "question": "Will Alexander Volkanovski or Brian Ortega win their UFC fight on September 25th?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243454",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-18T17:16:38.659000Z",
+  "market_createdAt": "2022-04-18T17:16:38.659Z",
+  "market_updatedAt": "2023-01-31T21:10:05.703Z",
+  "market_startDate": "2022-04-18T17:21:59.767Z",
+  "market_endDate": "2022-05-01T00:00:00Z",
+  "market_closedTime": "2022-04-28 07:04:29+00",
+  "conditionId": "0xd2fefdaae4d279a83736867a752e9dcad1a0620d137305e317d40d6998aeec97",
+  "slug": "2022-nba-playoffs-1st-round-who-will-win-warriors-vs-nuggets",
+  "question": "2022 NBA Playoffs, 1st Round: Who will win Warriors vs. Nuggets?"
+}

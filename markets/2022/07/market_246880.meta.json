@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246880",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-29T22:27:12.164000Z",
+  "market_createdAt": "2022-07-29T22:27:12.164Z",
+  "market_updatedAt": "2023-01-31T20:55:51.566Z",
+  "market_startDate": "2022-07-30T00:33:01.522Z",
+  "market_endDate": "2022-08-02T00:00:00Z",
+  "market_closedTime": "2022-08-05 19:45:45+00",
+  "conditionId": "0xc3c16f81bd025bd268152edcbee95a51d57cece22de63c0f84187ce9103896eb",
+  "slug": "will-kari-lake-win-the-2022-arizona-republican-gubernatorial-nomination",
+  "question": "Will Kari Lake win the 2022 Arizona Republican Gubernatorial nomination?"
+}

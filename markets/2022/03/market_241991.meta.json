@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241991",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-09T09:25:53.089000Z",
+  "market_createdAt": "2022-03-09T09:25:53.089Z",
+  "market_updatedAt": "2024-04-26T02:49:07.542329Z",
+  "market_startDate": "2022-03-09T17:13:08.102Z",
+  "market_endDate": "2022-03-09T00:00:00Z",
+  "market_closedTime": "2022-03-10 11:47:24+00",
+  "conditionId": "0x500f5553b5691b162a87e0492f996ab1ebe7e71ba2a581d9b55146e8a436a11a",
+  "slug": "nba-will-the-lakers-beat-the-rockets-by-more-than-3pt5-points-in-their-march-9-8-pm-et-matchup",
+  "question": "NBA: Will the Lakers beat the Rockets by more than 3.5 points in their March 9 (8 PM ET) matchup?"
+}

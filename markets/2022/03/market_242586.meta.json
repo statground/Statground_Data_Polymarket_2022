@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242586",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-28T11:13:52.567000Z",
+  "market_createdAt": "2022-03-28T11:13:52.567Z",
+  "market_updatedAt": "2024-04-23T00:28:57.994405Z",
+  "market_startDate": "2022-03-28T16:31:09.61Z",
+  "market_endDate": "2022-03-28T00:00:00Z",
+  "market_closedTime": "2022-03-29 16:28:28+00",
+  "conditionId": "0x5be313bffc2c720e47ee6ecaf7a145464bba08d09ab471ebd68c8d208cfbc8b3",
+  "slug": "nba-will-the-spurs-beat-the-rockets-by-more-than-6pt5-points-in-their-march-28-8-pm-et-matchup",
+  "question": "NBA: Will the Spurs beat the Rockets by more than 6.5 points in their March 28 (8 PM ET) matchup?"
+}

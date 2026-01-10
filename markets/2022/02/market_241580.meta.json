@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241580",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-17T16:17:53.186000Z",
+  "market_createdAt": "2022-02-17T16:17:53.186Z",
+  "market_updatedAt": "2024-04-22T23:33:42.43473Z",
+  "market_startDate": "2022-02-17T18:17:51.757Z",
+  "market_endDate": "2022-02-17T00:00:00Z",
+  "market_closedTime": "2022-02-18 20:01:28+00",
+  "conditionId": "0x734dcba525697f4f5aef9f5eb6a89e4d374cb664a0d8416112a9643d24e6c106",
+  "slug": "nhl-will-the-oilers-beat-the-ducks-by-more-than-1p5-goals-in-their-february-17-matchup-9-pm-et",
+  "question": "NHL: Will the Oilers beat the Ducks by more than 1.5 goals in their February 17 matchup (9 PM ET)?"
+}

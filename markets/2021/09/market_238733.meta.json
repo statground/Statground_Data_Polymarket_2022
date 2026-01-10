@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238733",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-09T18:34:01.443000Z",
+  "market_createdAt": "2021-09-09T18:34:01.443Z",
+  "market_updatedAt": "2024-04-23T00:22:28.147715Z",
+  "market_startDate": "2021-09-09T22:51:36.534Z",
+  "market_endDate": "2021-09-12T00:00:00Z",
+  "market_closedTime": "2021-09-12 21:42:40+00",
+  "conditionId": "0x8be3e4b133b2789011cdf8faa58ef0ffe101127fed9ae22e3b1b37d31fe74086",
+  "slug": "titans-3-v-cardinals-spread",
+  "question": "Titans (-3) v. Cardinals Spread"
+}

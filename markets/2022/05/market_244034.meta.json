@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244034",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-03T08:18:30.780000Z",
+  "market_createdAt": "2022-05-03T08:18:30.78Z",
+  "market_updatedAt": "2023-01-31T19:34:09.818Z",
+  "market_startDate": "2022-05-03T16:48:42.652Z",
+  "market_endDate": "2022-05-03T00:00:00Z",
+  "market_closedTime": "2022-05-05 07:30:41+00",
+  "conditionId": "0xc00071c1b06b6ded8dcb50b1f8fc90481fb37925a9f867b4824f3662d5b99f4f",
+  "slug": "mlb-who-will-win-san-diego-padres-vs-cleveland-guardians-scheduled-for-may-3-611-pm-et",
+  "question": "MLB: Who will win San Diego Padres vs. Cleveland Guardians, scheduled for May 3, 6:11 PM ET?"
+}

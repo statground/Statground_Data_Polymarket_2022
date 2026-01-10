@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239915",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-08T02:52:01.608000Z",
+  "market_createdAt": "2021-12-08T02:52:01.608Z",
+  "market_updatedAt": "2024-04-24T23:58:55.826316Z",
+  "market_startDate": null,
+  "market_endDate": "2021-12-11T00:00:00Z",
+  "market_closedTime": "2021-12-11 18:20:25+00",
+  "conditionId": "0x5169f549387bd2ae8e1e2fba5541e0264765b245331f4c23b4b0bf7d158c0152",
+  "slug": "world-chess-championship-2021-will-game-12-be-played",
+  "question": "World Chess Championship 2021: Will Game 12 be played?"
+}

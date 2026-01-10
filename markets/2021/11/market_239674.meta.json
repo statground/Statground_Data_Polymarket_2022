@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239674",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-29T10:42:10.107000Z",
+  "market_createdAt": "2021-11-29T10:42:10.107Z",
+  "market_updatedAt": "2024-04-25T00:08:30.869239Z",
+  "market_startDate": "2021-11-29T17:42:00.671Z",
+  "market_endDate": "2021-12-31T00:00:00Z",
+  "market_closedTime": "2021-12-14 15:43:21+00",
+  "conditionId": "0x40a4c130213161d9aa72acec8bb4d5583c23b7b59513bfa392a3f3eaa8885983",
+  "slug": "will-there-be-nfl-scorigami-in-december-2021",
+  "question": "Will there be an NFL Scorigami in December 2021?"
+}

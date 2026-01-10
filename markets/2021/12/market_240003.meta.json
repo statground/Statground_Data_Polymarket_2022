@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240003",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-12T13:45:46.412000Z",
+  "market_createdAt": "2021-12-12T13:45:46.412Z",
+  "market_updatedAt": "2024-04-22T23:54:13.900857Z",
+  "market_startDate": "2021-12-12T19:51:52.055Z",
+  "market_endDate": "2021-12-12T00:00:00Z",
+  "market_closedTime": "2021-12-13 17:24:55+00",
+  "conditionId": "0x7e8ff115df5c0df6c75eae63b10bf3ae4748c90204fe53a5e405136ccccd81cb",
+  "slug": "nba-will-the-trail-blazers-beat-the-timberwolves-by-more-than-1pt5-points-in-their-december-12-matchup",
+  "question": "NBA: Will the Trail Blazers beat the Timberwolves by more than 1.5 points in their December 12 matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "232122",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-10T18:42:01.493000Z",
+  "market_createdAt": "2021-08-10T18:42:01.493Z",
+  "market_updatedAt": "2024-04-22T23:05:41.32527Z",
+  "market_startDate": "2021-08-10T19:24:16.456Z",
+  "market_endDate": "2021-09-30T00:00:00Z",
+  "market_closedTime": "2021-09-02 16:34:21+00",
+  "conditionId": "0x10aa03830be255bda642764c0381b9838f9a624cb82488c284b13f9213022e04",
+  "slug": "will-psychonauts-2-get-a-better-or-equal-metascore-to-psychonauts-1-87100-1-week-after-release",
+  "question": "Will Psychonauts 2 get a better or equal 'Metascore' to Psychonauts 1 (87/100) 1 week after release? "
+}

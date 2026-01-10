@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246641",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-04T15:06:57.867000Z",
+  "market_createdAt": "2022-07-04T15:06:57.867Z",
+  "market_updatedAt": "2023-01-31T20:06:45.469Z",
+  "market_startDate": null,
+  "market_endDate": "2022-07-11T00:00:00Z",
+  "market_closedTime": "2022-07-12 18:45:33+00",
+  "conditionId": "0x5b27828046967b83021e8d058a61c1dd9ebfda273cb8ad7a14c110dd3971e680",
+  "slug": "will-the-price-of-a-barrel-of-crude-oil-be-110-or-more-on-july-11-2022",
+  "question": "Will the price of a barrel of crude oil be $110 or more on July 11, 2022?"
+}

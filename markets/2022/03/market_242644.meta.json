@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242644",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-30T11:04:53.315000Z",
+  "market_createdAt": "2022-03-30T11:04:53.315Z",
+  "market_updatedAt": "2024-04-23T00:36:23.397206Z",
+  "market_startDate": "2022-03-30T17:17:13.399Z",
+  "market_endDate": "2022-03-30T00:00:00Z",
+  "market_closedTime": "2022-03-31 08:15:34+00",
+  "conditionId": "0x5a2406af829fac57de04800d4566af70d99d040bd20b1b1b6c122db9cde6c6e2",
+  "slug": "nba-will-the-suns-beat-the-warriors-by-more-than-5pt5-points-in-their-march-30-10-pm-et-matchup",
+  "question": "NBA: Will the Suns beat the Warriors by more than 5.5 points in their March 30 (10 PM ET) matchup?"
+}

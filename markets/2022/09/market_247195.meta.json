@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247195",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-07T17:02:04.075000Z",
+  "market_createdAt": "2022-09-07T17:02:04.075Z",
+  "market_updatedAt": "2023-01-31T13:15:27.458Z",
+  "market_startDate": "2022-09-07T17:48:50.474Z",
+  "market_endDate": "2022-09-11T00:00:00Z",
+  "market_closedTime": "2022-09-12 06:15:34+00",
+  "conditionId": "0xe75bf4812af0c4b4adc4dbbc1d1075606427769d3038556f8ebb5de6e82b8cb8",
+  "slug": "will-casper-ruud-win-the-2022-us-open",
+  "question": "Will Casper Ruud win the 2022 US Open?"
+}

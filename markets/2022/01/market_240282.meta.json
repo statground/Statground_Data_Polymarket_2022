@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240282",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-02T16:53:23.186000Z",
+  "market_createdAt": "2022-01-02T16:53:23.186Z",
+  "market_updatedAt": "2024-04-24T23:29:54.216143Z",
+  "market_startDate": "2022-01-02T19:30:46.329Z",
+  "market_endDate": "2022-01-02T00:00:00Z",
+  "market_closedTime": "2022-01-03 15:16:03+00",
+  "conditionId": "0x7c8ed141d2bffdc9c6621c97762d6f36a6e1bd9178451e17e94f5139c2c10e18",
+  "slug": "nba-will-the-raptors-beat-the-knicks-by-more-than-7pt5-points-in-their-january-2-matchup",
+  "question": "NBA: Will the Raptors beat the Knicks by more than 7.5 points in their January 2 matchup?"
+}

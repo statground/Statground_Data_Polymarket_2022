@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243608",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-23T08:09:34.071000Z",
+  "market_createdAt": "2022-04-23T08:09:34.071Z",
+  "market_updatedAt": "2023-01-31T20:25:17.11Z",
+  "market_startDate": "2022-04-23T16:33:23.063Z",
+  "market_endDate": "2022-04-23T00:00:00Z",
+  "market_closedTime": "2022-04-24 07:16:53+00",
+  "conditionId": "0xbe721faadd7aa39223dfe59f1f4fe524754a3aa1b75a9a1cc6b58d801612f9ad",
+  "slug": "nba-will-the-76ers-beat-the-raptors-by-more-than-3pt5-points-in-their-april-23-200-pm-et-matchup",
+  "question": "NBA: Will the 76ers beat the Raptors by more than 3.5 points in their April 23, 2:00 PM ET matchup?"
+}

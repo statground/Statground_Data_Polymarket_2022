@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243655",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-24T08:12:56.824000Z",
+  "market_createdAt": "2022-04-24T08:12:56.824Z",
+  "market_updatedAt": "2023-01-31T20:55:51.791Z",
+  "market_startDate": null,
+  "market_endDate": "2022-04-24T00:00:00Z",
+  "market_closedTime": "2022-04-25 07:16:25+00",
+  "conditionId": "0x2f9b5e9d01f5ae4ae23d18efba17524fa204b0c48cadc5df26fba995fe2f5065",
+  "slug": "mlb-who-will-win-new-york-mets-vs-arizona-diamondbacks-scheduled-for-april-24-411-pm-et",
+  "question": "MLB: Who will win New York Mets vs. Arizona Diamondbacks, scheduled for April 24, 4:11 PM ET?"
+}

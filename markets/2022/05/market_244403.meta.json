@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244403",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-08T08:00:20.384000Z",
+  "market_createdAt": "2022-05-08T08:00:20.384Z",
+  "market_updatedAt": "2023-01-31T20:01:16.597Z",
+  "market_startDate": "2022-05-08T15:38:59.643Z",
+  "market_endDate": "2022-05-08T00:00:00Z",
+  "market_closedTime": "2022-05-09 06:45:47+00",
+  "conditionId": "0xb85065dd4afed50e04ebbbec38aa262d854b698ef7f245d033df39537c0bc7ea",
+  "slug": "nhl-who-will-win-bruins-vs-hurricanes-scheduled-for-may-8-1230-pm-et",
+  "question": "NHL: Who will win Bruins vs. Hurricanes, scheduled for May 8, 12:30 PM ET?"
+}

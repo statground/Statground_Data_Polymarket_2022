@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240963",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-23T13:03:03.356000Z",
+  "market_createdAt": "2022-01-23T13:03:03.356Z",
+  "market_updatedAt": "2024-04-22T23:04:35.457969Z",
+  "market_startDate": null,
+  "market_endDate": "2022-01-23T00:00:00Z",
+  "market_closedTime": "2022-01-25 00:06:41+00",
+  "conditionId": "0x6afd3fee3ebd668027473fc8890c52839e17df6e97ccf143a15a823cf7716464",
+  "slug": "nba-will-the-wizards-beat-the-celtics-by-more-than-1p5-points-in-their-january-23-matchup",
+  "question": "NBA: Will the Wizards beat the Celtics by more than 1.5 points in their January 23 matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218632",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-23T17:15:07.655000Z",
+  "market_createdAt": "2021-06-23T17:15:07.655Z",
+  "market_updatedAt": "2024-04-22T23:12:06.043603Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-15T00:00:00Z",
+  "market_closedTime": "2021-07-08 22:22:27+00",
+  "conditionId": "0xd5c51214d8fca9aea1c4d4b02c666f2cb5903d41ceb9fa65adaaddfb55a14812",
+  "slug": "will-183-million-people-have-received-a-dose-of-an-approved-covid-19-vaccine-in-the-us-by-july-15-2021",
+  "question": "Will 183 million people have received a dose of an approved COVID-19 vaccine in the US by July 15, 2021?"
+}

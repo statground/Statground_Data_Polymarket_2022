@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247315",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-20T20:23:23.349000Z",
+  "market_createdAt": "2022-09-20T20:23:23.349Z",
+  "market_updatedAt": "2023-01-31T18:01:52.3Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-20T00:00:00Z",
+  "market_closedTime": "2022-11-21 17:16:03+00",
+  "conditionId": "0x5adb4762ecd7d864cb1eaffbe06a43b1cc1c99d23931d14cc5dae81611ca8644",
+  "slug": "will-charles-leclerc-finish-2nd-in-the-2022-f1-driver-standings",
+  "question": "Will Charles Leclerc finish 2nd in the 2022 F1 driver standings?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238931",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-01T21:34:01.051000Z",
+  "market_createdAt": "2021-10-01T21:34:01.051Z",
+  "market_updatedAt": "2024-04-23T00:13:53.574138Z",
+  "market_startDate": "2021-10-01T22:19:15.033Z",
+  "market_endDate": "2021-10-03T00:00:00Z",
+  "market_closedTime": "2021-10-03 23:52:33+00",
+  "conditionId": "0x65a5d87c7730ef8b0735bd9fac4dbac39510f335757c46ad71078cc61989ad4f",
+  "slug": "will-the-rams-beat-the-cardinals-by-more-than-4pt5-points-in-their-week-four-matchup",
+  "question": "Will the Rams beat the Cardinals by more than 4.5 points in their week four matchup?"
+}

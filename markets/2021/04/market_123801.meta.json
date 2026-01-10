@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "123801",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-12T22:00:05.425000Z",
+  "market_createdAt": "2021-04-12T22:00:05.425Z",
+  "market_updatedAt": "2024-04-22T22:25:58.165727Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-14T00:00:00Z",
+  "market_closedTime": "2021-04-15 21:54:34+00",
+  "conditionId": "0x2da3ebf77ce1d5269f5b776984e171779ff553e83d68eff78c52806827fc4d10",
+  "slug": "what-will-paks-sothebys-auction-generate-in-total-sales",
+  "question": "What will Pak’s Sotheby’s auction generate in total sales?"
+}

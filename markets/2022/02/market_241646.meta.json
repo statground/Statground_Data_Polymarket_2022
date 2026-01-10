@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241646",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-22T22:28:34.987000Z",
+  "market_createdAt": "2022-02-22T22:28:34.987Z",
+  "market_updatedAt": "2024-04-24T23:41:05.897547Z",
+  "market_startDate": null,
+  "market_endDate": "2022-03-02T00:00:00Z",
+  "market_closedTime": "2022-02-25 02:00:40+00",
+  "conditionId": "0x91179f335aac3c7ff603e9b7341430b395f539ae45ead9b0671e71cfba2912fb",
+  "slug": "will-the-city-of-ottawa-cease-its-state-of-emergency-by-march-2-2022",
+  "question": "Will the City of Ottawa cease its state of emergency by March 2, 2022?"
+}

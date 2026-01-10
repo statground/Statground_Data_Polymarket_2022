@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218551",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-17T05:45:02.858000Z",
+  "market_createdAt": "2021-06-17T05:45:02.858Z",
+  "market_updatedAt": "2024-04-22T22:52:30.586242Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-19T00:00:00Z",
+  "market_closedTime": "2021-06-20 21:08:32+00",
+  "conditionId": "0x1c0341ae721776ee66aa6308184b38c124b5d1e0a79941b50d974fa3cbf6addc",
+  "slug": "will-spain-or-poland-win-their-euro-2020-match",
+  "question": "Will Spain or Poland win their Euro 2020 match?"
+}

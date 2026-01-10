@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241257",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-02T12:30:48.256000Z",
+  "market_createdAt": "2022-02-02T12:30:48.256Z",
+  "market_updatedAt": "2024-04-24T23:59:23.654263Z",
+  "market_startDate": "2022-02-02T17:34:47.361Z",
+  "market_endDate": "2022-02-02T00:00:00Z",
+  "market_closedTime": "2022-02-04 21:10:48+00",
+  "conditionId": "0x6c7847be9183bdded453b4a6b8597007142d2d91dfad43e790d702317cd6d5b6",
+  "slug": "nba-who-will-win-the-grizzlies-vs-knicks-scheduled-for-february-2-730-pm-et",
+  "question": "NBA: Who will win the Grizzlies vs. Knicks, scheduled for February 2 (7.30 PM ET)?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240490",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T16:55:24.416000Z",
+  "market_createdAt": "2022-01-11T16:55:24.416Z",
+  "market_updatedAt": "2024-04-23T00:26:50.989796Z",
+  "market_startDate": "2022-01-12T20:50:19.099Z",
+  "market_endDate": "2022-08-08T00:00:00Z",
+  "market_closedTime": "2022-03-25 06:48:38+00",
+  "conditionId": "0x9105213f550223904e8f773b90ef768a5676fd945ae5e3d5d10ccb72006fcbb4",
+  "slug": "will-the-fully-diluted-market-cap-of-baycs-ape-token-be-higher-than-5-billion-a-week-after-its-launch",
+  "question": "Will the fully diluted market cap of BAYC’s $APE token be higher than $5 billion a week after its launch?"
+}

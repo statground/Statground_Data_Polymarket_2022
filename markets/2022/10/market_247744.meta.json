@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247744",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-21T19:42:10.317000Z",
+  "market_createdAt": "2022-10-21T19:42:10.317Z",
+  "market_updatedAt": "2023-01-31T19:20:08.897Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-30T00:00:00Z",
+  "market_closedTime": "2022-12-01 07:16:00+00",
+  "conditionId": "0xe2577542e7d959c729c91286eece1bb5ad93b194228b3cad49f1328b123ab77a",
+  "slug": "will-aave-have-100m-or-more-of-bad-debt-by-november-30",
+  "question": "Will Aave have $100m or more of bad debt by November 30?"
+}

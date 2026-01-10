@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248161",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-02T22:40:37.065000Z",
+  "market_createdAt": "2022-12-02T22:40:37.065Z",
+  "market_updatedAt": "2023-01-31T08:09:48.639Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-05T00:00:00Z",
+  "market_closedTime": "2022-12-05 23:01:21+00",
+  "conditionId": "0x80c0de7e103ccc0ea89cacb7f75c385fb6b3f449a1d7eb941e6cabc3ceeb9406",
+  "slug": "world-cup-monday-brazil-vs-south-korea",
+  "question": "World Cup: Monday - Brazil vs. South Korea"
+}

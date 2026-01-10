@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239501",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-18T11:23:13.160000Z",
+  "market_createdAt": "2021-11-18T11:23:13.16Z",
+  "market_updatedAt": "2024-04-23T00:31:26.01741Z",
+  "market_startDate": "2021-11-18T17:26:50.313Z",
+  "market_endDate": "2021-11-18T00:00:00Z",
+  "market_closedTime": "2021-11-19 22:23:25+00",
+  "conditionId": "0xca05835e884cbced2b233e76ee739ba915a775bd12eed283eb0fc5cb31441cc3",
+  "slug": "nba-who-will-win-the-clippers-v-grizzlies-game-on-november-18th",
+  "question": "NBA: Who will win the Clippers v. Grizzlies game on November 18th?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241984",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-09T08:58:24.781000Z",
+  "market_createdAt": "2022-03-09T08:58:24.781Z",
+  "market_updatedAt": "2024-04-25T00:04:36.718737Z",
+  "market_startDate": "2022-03-09T17:07:02.578Z",
+  "market_endDate": "2022-03-09T00:00:00Z",
+  "market_closedTime": "2022-03-10 11:45:30+00",
+  "conditionId": "0xafc0548f8624f9decd0dd606a273f96e161eb84149a1520b3fd68fd8dfa0302d",
+  "slug": "nba-who-will-win-the-bulls-vspt-pistons-scheduled-for-march-9-7-pm-et",
+  "question": "NBA: Who will win the Bulls vs. Pistons, scheduled for March 9 (7 PM ET)?"
+}

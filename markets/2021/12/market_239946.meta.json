@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239946",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-10T16:43:07.979000Z",
+  "market_createdAt": "2021-12-10T16:43:07.979Z",
+  "market_updatedAt": "2024-04-26T02:48:42.633066Z",
+  "market_startDate": "2021-12-10T18:04:57.408Z",
+  "market_endDate": "2021-12-10T00:00:00Z",
+  "market_closedTime": "2021-12-11 15:35:42+00",
+  "conditionId": "0x42c9fe320b8490c12d0f8679edcf7b52a4e88cd5d95a46a62250a960425a9ac2",
+  "slug": "nba-will-the-hawks-beat-the-nets-by-more-than-1pt5-points-in-their-december-10-matchup",
+  "question": "NBA: Will the Hawks beat the Nets by more than 1.5 points in their December 10 matchup?"
+}

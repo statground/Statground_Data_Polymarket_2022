@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238653",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-26T18:38:01.098000Z",
+  "market_createdAt": "2021-08-26T18:38:01.098Z",
+  "market_updatedAt": "2024-04-26T03:57:46.295338Z",
+  "market_startDate": "2021-08-26T23:05:37.48Z",
+  "market_endDate": "2021-08-27T00:00:00Z",
+  "market_closedTime": "2021-08-28 17:24:44+00",
+  "conditionId": "0xf3452783115acd7d8fcff90e11cca5bde322b1d1760a87976dcf1010f3c4a46f",
+  "slug": "will-the-colts-beat-lions-by-more-than-2-pts-in-their-nfl-preseason-matchup",
+  "question": "Will the Colts beat the Lions by more than 2 points in their NFL Preseason matchup?"
+}

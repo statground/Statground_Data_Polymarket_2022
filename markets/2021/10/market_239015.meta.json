@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239015",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-15T18:17:06.838000Z",
+  "market_createdAt": "2021-10-15T18:17:06.838Z",
+  "market_updatedAt": "2024-04-26T02:49:09.47122Z",
+  "market_startDate": "2021-10-15T18:28:25.694Z",
+  "market_endDate": "2021-10-22T00:00:00Z",
+  "market_closedTime": "2021-10-22 18:36:21+00",
+  "conditionId": "0x6f4af7cc22c86024abdc9b4229194573ce9f17de948ade2304095b9ef1626267",
+  "slug": "will-richerd-sell-cryptopunk-6046-for-at-least-2500eth-by-october-22nd",
+  "question": "Will @richerd sell Cryptopunk 6046 for 2500 ETH or more by October 22nd?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240989",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-24T18:02:17.588000Z",
+  "market_createdAt": "2022-01-24T18:02:17.588Z",
+  "market_updatedAt": "2024-04-22T23:51:41.948361Z",
+  "market_startDate": "2022-01-24T20:12:20.863Z",
+  "market_endDate": "2022-01-24T00:00:00Z",
+  "market_closedTime": "2022-01-25 22:06:14+00",
+  "conditionId": "0xfef791c63e7d873bf9dde04a18f6b35b13e108ae2d85bd0bfad1fd673c4251e4",
+  "slug": "nba-who-will-win-the-cavaliers-vs-knicks-game-on-january-24",
+  "question": "NBA: Who will win the Cavaliers vs. Knicks game on January 24?"
+}

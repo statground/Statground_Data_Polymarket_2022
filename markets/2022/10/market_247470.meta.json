@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247470",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-11T20:18:56.437000Z",
+  "market_createdAt": "2022-10-11T20:18:56.437Z",
+  "market_updatedAt": "2023-01-31T05:16:18.802Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-23T00:00:00Z",
+  "market_closedTime": "2022-10-24 02:15:45+00",
+  "conditionId": "0x7aaa1a6913067394a511527b3a6c706245558a102b488ee6dea3846a3e9781d0",
+  "slug": "will-davante-adams-play-in-the-next-raiders-game",
+  "question": "Will Davante Adams play in the next Raiders game?"
+}

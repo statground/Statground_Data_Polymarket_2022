@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241835",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-02T22:02:57.997000Z",
+  "market_createdAt": "2022-03-02T22:02:57.997Z",
+  "market_updatedAt": "2023-01-31T21:16:30.37Z",
+  "market_startDate": "2022-03-02T22:06:59.698Z",
+  "market_endDate": "2022-06-30T00:00:00Z",
+  "market_closedTime": "2022-07-01 18:30:49+00",
+  "conditionId": "0xfbca33287965bfc8d0bec404c780a3a4114392fb1e1ae2017630d70eba423a85",
+  "slug": "will-any-nato-member-country-invoke-article-5-by-june-30-2022",
+  "question": "Will any NATO member country invoke Article 5 by June 30, 2022?"
+}

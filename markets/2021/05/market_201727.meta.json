@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "201727",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-20T17:10:04.774000Z",
+  "market_createdAt": "2021-05-20T17:10:04.774Z",
+  "market_updatedAt": "2024-04-22T23:26:19.28565Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-24T00:00:00Z",
+  "market_closedTime": "2021-05-24 16:54:42+00",
+  "conditionId": "0xb51413b1742558cfa33ce5c7b064e4ae9ffcd3249a578874b01bfbbafd544ea2",
+  "slug": "will-pablo-picassos-nu-couch-la-libellule-sell-for-more-than-hk68m-at-christies",
+  "question": "Will Pablo Picasso’s “Nu couché à la libellule” sell for more than HK$68M at Christie’s?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "1500",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-12-04T20:25:15.207000Z",
+  "market_createdAt": "2020-12-04T20:25:15.207Z",
+  "market_updatedAt": "2023-01-31T21:23:00.149Z",
+  "market_startDate": null,
+  "market_endDate": "2020-12-26T00:00:00Z",
+  "market_closedTime": "2020-12-26 06:16:59+00",
+  "conditionId": "0x857f48d29cca01c923fe79be5dbf9c40358c7f10c698d619999a39c93aee3120",
+  "slug": "what-will-the-average-sale-price-of-a-ps-5-be-on-stock-x-on-christmas-day",
+  "question": "What will the average sale price of a PS5 be on StockX on Christmas Day?"
+}

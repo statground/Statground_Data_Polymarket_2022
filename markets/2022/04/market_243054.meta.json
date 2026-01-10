@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243054",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-09T16:32:58.375000Z",
+  "market_createdAt": "2022-04-09T16:32:58.375Z",
+  "market_updatedAt": "2023-01-31T15:59:26.692Z",
+  "market_startDate": null,
+  "market_endDate": "2022-04-09T00:00:00Z",
+  "market_closedTime": "2022-04-10 06:46:33+00",
+  "conditionId": "0x481d55781a550ac2fb6b139525c48899137e0c03a5301bcd60b58e5277b9e747",
+  "slug": "nba-who-will-win-grizzlies-vs-pelicans-scheduled-for-april-9-6-pm-et",
+  "question": "NBA: Who will win Grizzlies vs. Pelicans, scheduled for April 9 (6 PM ET)?"
+}

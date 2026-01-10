@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238992",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-13T22:33:47.311000Z",
+  "market_createdAt": "2021-10-13T22:33:47.311Z",
+  "market_updatedAt": "2024-04-24T23:22:53.697051Z",
+  "market_startDate": "2021-10-14T16:41:49.913Z",
+  "market_endDate": "2021-11-04T00:00:00Z",
+  "market_closedTime": "2021-11-05 10:57:00+00",
+  "conditionId": "0xd8578d7f1dc2c29a0aa60d632d4734562b8430d5fd87b1f99a8d0bab3ef8e0f6",
+  "slug": "will-the-bipartisan-infrastructure-bill-become-law-by-november-4-2021",
+  "question": "Will the bipartisan infrastructure bill become law by November 4, 2021?"
+}

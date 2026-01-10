@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238938",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-04T17:28:23.534000Z",
+  "market_createdAt": "2021-10-04T17:28:23.534Z",
+  "market_updatedAt": "2024-04-23T00:39:14.02616Z",
+  "market_startDate": null,
+  "market_endDate": "2021-10-09T00:00:00Z",
+  "market_closedTime": "2021-10-10 04:41:24+00",
+  "conditionId": "0x519ed1924e0a539b41c9bd3bc790a933ceb5f9ed47a22d3af3525a6aa73b4a72",
+  "slug": "will-tyson-fury-or-deontay-wilder-win-their-bout-on-october-9th",
+  "question": "Will Tyson Fury or Deontay Wilder win their bout on October 9th?"
+}

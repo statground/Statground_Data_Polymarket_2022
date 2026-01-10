@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "215316",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-10T16:25:00.976000Z",
+  "market_createdAt": "2021-06-10T16:25:00.976Z",
+  "market_updatedAt": "2024-04-24T23:16:10.176289Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-15T00:00:00Z",
+  "market_closedTime": "2021-07-16 01:16:58+00",
+  "conditionId": "0x3eff56a3432123f46c289d8283ab60b3a77883daf1c3379e075306039b6e06ad",
+  "slug": "what-will-the-price-of-link-be-on-july-15-range-18-32",
+  "question": "What will the price of $LINK be on July 15?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239040",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-20T07:52:10.120000Z",
+  "market_createdAt": "2021-10-20T07:52:10.12Z",
+  "market_updatedAt": "2024-04-22T22:57:42.794579Z",
+  "market_startDate": "2021-10-20T17:02:55.841Z",
+  "market_endDate": "2021-10-25T00:00:00Z",
+  "market_closedTime": "2021-10-25 22:23:09+00",
+  "conditionId": "0x7e888f395d3fd20268ecbcb11c77b3fa6bcc2266e488b08d7cafb6fdc335be5c",
+  "slug": "how-much-will-dune-gross-domestically-on-opening-weekend",
+  "question": "How much will “Dune” gross domestically on opening weekend?"
+}

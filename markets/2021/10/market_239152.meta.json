@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239152",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-30T13:30:13.132000Z",
+  "market_createdAt": "2021-10-30T13:30:13.132Z",
+  "market_updatedAt": "2024-04-22T22:55:45.182703Z",
+  "market_startDate": "2021-10-30T19:06:48.003Z",
+  "market_endDate": "2021-10-30T00:00:00Z",
+  "market_closedTime": "2021-10-31 16:41:29+00",
+  "conditionId": "0x2b4fc7dd389d2ab3411e4d622b2c291ecea081ba3e53f8e29dc60e7613d56109",
+  "slug": "will-the-knicks-beat-the-pelicans-by-more-than-5pt5-points-in-their-october-30th-matchup",
+  "question": "Will the Knicks beat the Pelicans by more than 5.5 points in their October 30th matchup?"
+}

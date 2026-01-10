@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239383",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-12T11:30:47.946000Z",
+  "market_createdAt": "2021-11-12T11:30:47.946Z",
+  "market_updatedAt": "2024-04-26T02:50:06.538532Z",
+  "market_startDate": "2021-11-12T20:19:26.821Z",
+  "market_endDate": "2021-11-12T00:00:00Z",
+  "market_closedTime": "2021-11-13 23:59:25+00",
+  "conditionId": "0x5bd78aaaa5663928e423761d2910d0e5ca22cc5ee5f353cf6d7ade61d9ff53da",
+  "slug": "nba-who-will-win-the-knicks-v-hornets-game-on-november-12th",
+  "question": "NBA: Who will win the Knicks v. Hornets game on November 12th?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "101",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-11-16T19:35:07.993000Z",
+  "market_createdAt": "2020-11-16T19:35:07.993Z",
+  "market_updatedAt": "2024-04-25T00:12:49.831362Z",
+  "market_startDate": null,
+  "market_endDate": "2022-02-08",
+  "market_closedTime": "2020-12-14 16:22:18+00",
+  "conditionId": "0x797330e1fc7eac7d4b41dea0643f3565325687a3fda1024273fd261de9256876",
+  "slug": "will-pfizer-s-covid-19-vaccine-be-the-first-to-receive-fda-approval-or-emergency-use-authorization-eua",
+  "question": "Will Pfizer's COVID-19 vaccine be the first to receive FDA approval or Emergency Use Authorization (EUA)?"
+}

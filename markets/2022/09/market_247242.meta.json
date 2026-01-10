@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247242",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-12T17:34:30.695000Z",
+  "market_createdAt": "2022-09-12T17:34:30.695Z",
+  "market_updatedAt": "2023-01-31T18:41:20.06Z",
+  "market_startDate": "2022-09-13T16:18:58.355Z",
+  "market_endDate": "2022-09-18T00:00:00Z",
+  "market_closedTime": "2022-09-20 20:30:48+00",
+  "conditionId": "0x775f0ae3dc65eeb7520d13a6ee744783b49c63e88ddc171baa1f256d216887dd",
+  "slug": "nfl-sunday-bears-vs-packers",
+  "question": "NFL Sunday: Bears vs. Packers"
+}

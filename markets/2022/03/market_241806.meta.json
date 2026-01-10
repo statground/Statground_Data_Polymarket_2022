@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241806",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-01T18:51:43.305000Z",
+  "market_createdAt": "2022-03-01T18:51:43.305Z",
+  "market_updatedAt": "2024-04-22T23:39:56.301881Z",
+  "market_startDate": "2022-03-01T21:04:53.933Z",
+  "market_endDate": "2022-03-17T00:00:00Z",
+  "market_closedTime": "2022-03-18 11:17:49+00",
+  "conditionId": "0xe1fafa492f043ec416ca3a1a48ad034ab30d7cfe2f891034d30ca96b2416c1e4",
+  "slug": "will-annual-inflation-in-the-european-union-be-59-or-more-in-february",
+  "question": "Will annual inflation in the European Union be 5.9% or more in February?"
+}

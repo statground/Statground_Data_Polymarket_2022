@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244306",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-06T15:12:32.629000Z",
+  "market_createdAt": "2022-05-06T15:12:32.629Z",
+  "market_updatedAt": "2024-04-23T00:30:49.035818Z",
+  "market_startDate": "2022-05-06T19:16:27.045Z",
+  "market_endDate": "2022-05-07T00:00:00Z",
+  "market_closedTime": "2022-05-08 07:46:30+00",
+  "conditionId": "0xb4ca2df2a761b3bd86d70aadc2ebf375c73245d6a4742529782302020ec21238",
+  "slug": "who-will-win-canelo-lvarez-vs-dmitry-bivol",
+  "question": "Who will win Canelo Álvarez vs. Dmitry Bivol?"
+}

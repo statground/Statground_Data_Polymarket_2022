@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240241",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-29T13:40:27.821000Z",
+  "market_createdAt": "2021-12-29T13:40:27.821Z",
+  "market_updatedAt": "2024-04-23T00:33:21.442103Z",
+  "market_startDate": "2021-12-29T16:47:54.841Z",
+  "market_endDate": "2021-12-29T00:00:00Z",
+  "market_closedTime": "2021-12-30 17:52:22+00",
+  "conditionId": "0xecb43d2d9f9fd92345320eba585ec284b655728dc19cf3fd982a404ca17f9a83",
+  "slug": "nhl-will-the-panthers-beat-the-rangers-by-more-than-1pt5-goals-in-their-december-29-matchup",
+  "question": "NHL: Will the Panthers beat the Rangers by more than 1.5 goals in their December 29 matchup?"
+}

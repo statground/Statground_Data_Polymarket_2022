@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "87",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-11-07T21:05:04.715000Z",
+  "market_createdAt": "2020-11-07T21:05:04.715Z",
+  "market_updatedAt": "2024-04-22T23:32:44.912942Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-01T00:00:00Z",
+  "market_closedTime": "2021-01-20 16:21:46+00",
+  "conditionId": "0xf845fae0304d7c0e02f3928ead5f58936e087286f9eb220221689be292b51d18",
+  "slug": "will-donald-trump-attend-joe-biden-s-inauguration-ceremony-in-person",
+  "question": "Will Donald Trump attend Joe Biden’s inauguration ceremony in person?"
+}

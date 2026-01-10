@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239513",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-19T15:34:45.857000Z",
+  "market_createdAt": "2021-11-19T15:34:45.857Z",
+  "market_updatedAt": "2024-04-26T02:46:23.596895Z",
+  "market_startDate": "2021-11-19T19:43:51.922Z",
+  "market_endDate": "2021-12-01T00:00:00Z",
+  "market_closedTime": "2021-12-01 20:38:50+00",
+  "conditionId": "0x7aca3968156208551f9aabc5ab743e9ca08b29f3e7c2b99dc1ddb0fe5136fb8f",
+  "slug": "will-joe-bidens-disapproval-rating-be-520-or-higher-at-the-end-of-november",
+  "question": "Will Joe Biden's disapproval rating be 52.0% or higher at the end of November?"
+}

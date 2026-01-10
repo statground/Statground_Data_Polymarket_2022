@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239671",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-29T10:30:25.703000Z",
+  "market_createdAt": "2021-11-29T10:30:25.703Z",
+  "market_updatedAt": "2024-04-23T00:48:32.21074Z",
+  "market_startDate": "2021-11-29T17:28:52.065Z",
+  "market_endDate": "2021-11-29T00:00:00Z",
+  "market_closedTime": "2021-11-30 13:54:10+00",
+  "conditionId": "0xf8b4e7d20dee7bf12ea2d4e6d9ac0b2116e4925a3fff1e99bee8980a6f08badc",
+  "slug": "nba-will-the-clippers-beat-the-pelicans-by-more-than-8pt5-points-in-their-november-29th-matchup",
+  "question": "NBA: Will the Clippers beat the Pelicans by more than 8.5 points in their November 29th matchup?"
+}

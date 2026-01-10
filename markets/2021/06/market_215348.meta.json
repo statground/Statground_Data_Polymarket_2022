@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "215348",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-10T17:40:00.999000Z",
+  "market_createdAt": "2021-06-10T17:40:00.999Z",
+  "market_updatedAt": "2024-04-24T23:40:05.447712Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-22T00:00:00Z",
+  "market_closedTime": "2021-06-22 20:11:33+00",
+  "conditionId": "0xa95aa8fe6aaaaefefa78d0bcb8eb6541086b294929ae2303af0e673ab00eca07",
+  "slug": "what-will-the-price-of-eth-be-on-june-22",
+  "question": "What will the price of $ETH be on June 22?"
+}

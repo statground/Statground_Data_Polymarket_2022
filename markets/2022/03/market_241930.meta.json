@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241930",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-06T16:14:35.602000Z",
+  "market_createdAt": "2022-03-06T16:14:35.602Z",
+  "market_updatedAt": "2024-04-23T00:28:26.900882Z",
+  "market_startDate": "2022-03-06T17:02:25.653Z",
+  "market_endDate": "2022-03-06T00:00:00Z",
+  "market_closedTime": "2022-03-07 12:45:38+00",
+  "conditionId": "0x360d952630e5c33a7d8dacba908587dc49fc0ddcf27293f916ed509916368007",
+  "slug": "nba-will-the-bucks-beat-the-suns-by-more-than-9pt5-points-in-their-march-6-3pt30-pm-et-matchup",
+  "question": "NBA: Will the Bucks beat the Suns by more than 9.5 points in their March 6 (3.30 PM ET) matchup?"
+}

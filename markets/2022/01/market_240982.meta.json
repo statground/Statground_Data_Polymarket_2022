@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240982",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-24T16:50:18.182000Z",
+  "market_createdAt": "2022-01-24T16:50:18.182Z",
+  "market_updatedAt": "2024-04-23T00:09:16.483685Z",
+  "market_startDate": "2022-01-24T20:11:40.433Z",
+  "market_endDate": "2022-01-24T00:00:00Z",
+  "market_closedTime": "2022-01-25 22:03:58+00",
+  "conditionId": "0xac71a3b0e3dc3d635c3b5e274694d7dc95c2341ebc1f377ca77c5c96e6375e97",
+  "slug": "nba-will-the-cavaliers-beat-the-knicks-by-more-than-6p5-points-in-their-january-24-matchup",
+  "question": "NBA: Will the Cavaliers beat the Knicks by more than 6.5 points in their January 24 matchup?"
+}

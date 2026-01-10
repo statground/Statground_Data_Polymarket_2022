@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "19",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-10-02T19:20:04.234000Z",
+  "market_createdAt": "2020-10-02T19:20:04.234Z",
+  "market_updatedAt": "2024-04-26T02:45:04.309477Z",
+  "market_startDate": "2023-08-24T16:35:24.938Z",
+  "market_endDate": "2021-01-02T00:00:00Z",
+  "market_closedTime": "2021-01-02 21:35:34+00",
+  "conditionId": "0x9b946f54f3428aafc308c33aa04a943fe13a011bdac9a9b66e1ba16c416ca256",
+  "slug": "will-kim-kardashian-and-kanye-west-divorce-before-jan-1-2021",
+  "question": "Will Kim Kardashian and Kanye West divorce before Jan 1, 2021?"
+}

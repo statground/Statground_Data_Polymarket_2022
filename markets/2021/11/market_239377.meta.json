@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239377",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-12T11:10:54.665000Z",
+  "market_createdAt": "2021-11-12T11:10:54.665Z",
+  "market_updatedAt": "2024-04-26T02:48:03.968889Z",
+  "market_startDate": "2021-11-12T20:17:51.858Z",
+  "market_endDate": "2021-11-12T00:00:00Z",
+  "market_closedTime": "2021-11-13 23:58:57+00",
+  "conditionId": "0x5a1370318e5e22f3adb06d5e67132c3e2d450ac18d29a8bb294d0b48d1a8b9d5",
+  "slug": "nba-will-the-bucks-beat-the-celtics-by-more-than-2pt5-points-in-their-november-12th-matchup",
+  "question": "NBA: Will the Bucks beat the Celtics by more than 2.5 points in their November 12th matchup?"
+}

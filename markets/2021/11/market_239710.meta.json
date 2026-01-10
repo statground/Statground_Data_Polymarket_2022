@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239710",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-30T21:17:18.631000Z",
+  "market_createdAt": "2021-11-30T21:17:18.631Z",
+  "market_updatedAt": "2024-04-23T00:31:15.646449Z",
+  "market_startDate": "2021-12-01T00:48:01.36Z",
+  "market_endDate": "2022-01-01T00:00:00Z",
+  "market_closedTime": "2021-12-22 18:44:41+00",
+  "conditionId": "0xd957d14a7d5161e76b90ec934d8168eab1fe50eb63412978e302f4f360ea5655",
+  "slug": "will-the-fda-give-emergency-use-authorization-or-otherwise-approve-paxlovid-before-2022",
+  "question": "Will the FDA give emergency use authorization or otherwise approve Paxlovid before 2022?"
+}

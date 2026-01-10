@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "202068",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-21T19:20:03.342000Z",
+  "market_createdAt": "2021-05-21T19:20:03.342Z",
+  "market_updatedAt": "2024-04-24T23:37:32.155339Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-06T00:00:00Z",
+  "market_closedTime": "2021-06-06 22:45:30+00",
+  "conditionId": "0x4384e81678bc641bb520e55ea90ac9ec342dda81fe30e376277c15b73e4ef4b8",
+  "slug": "will-the-clippers-or-the-mavericks-win-their-round-1-nba-playoff-series",
+  "question": "Will the Clippers or the Mavericks win their Round 1 NBA Playoff Series?"
+}

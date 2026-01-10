@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240532",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T18:37:14.462000Z",
+  "market_createdAt": "2022-01-11T18:37:14.462Z",
+  "market_updatedAt": "2024-04-22T23:46:03.691688Z",
+  "market_startDate": "2022-01-12T21:06:11.383Z",
+  "market_endDate": "2022-03-31T00:00:00Z",
+  "market_closedTime": "2022-04-01 22:45:42+00",
+  "conditionId": "0x5914544a087cf5891d20d15299230164958e367be892f7aa02b8042fa852ace5",
+  "slug": "will-opensea-airdrop-a-native-token-by-march-31st-2022",
+  "question": "Will OpenSea airdrop a native token by March 31st, 2022?"
+}

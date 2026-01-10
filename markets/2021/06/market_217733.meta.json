@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "217733",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-14T21:05:01.413000Z",
+  "market_createdAt": "2021-06-14T21:05:01.413Z",
+  "market_updatedAt": "2024-04-23T00:53:56.1664Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-15T00:00:00Z",
+  "market_closedTime": "2021-06-16 16:27:59+00",
+  "conditionId": "0x51b3ee086940fd3bfcc0a069f81b440f4d9901d65333f3c53522ed20c40fe5f8",
+  "slug": "will-the-majority-of-frances-starters-kneel-before-the-euro-2020-match-between-germany-and-france",
+  "question": "Will the majority of France’s starters kneel before the Euro 2020 match between Germany and France?"
+}

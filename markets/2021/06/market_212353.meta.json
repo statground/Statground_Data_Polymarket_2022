@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "212353",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-07T16:50:02.347000Z",
+  "market_createdAt": "2021-06-07T16:50:02.347Z",
+  "market_updatedAt": "2024-04-22T23:48:36.081024Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-08T00:00:00Z",
+  "market_closedTime": "2021-06-09 17:24:41+00",
+  "conditionId": "0x594e98efe0e7518654b54d081efc315b9a1f3558a965d737e5fc12709d393174",
+  "slug": "who-will-win-jazz-v-clippers-conference-semifinal-game-1",
+  "question": "Who will win Jazz v. Clippers: Conference Semifinal Game 1?"
+}

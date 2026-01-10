@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239082",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-25T08:07:05.277000Z",
+  "market_createdAt": "2021-10-25T08:07:05.277Z",
+  "market_updatedAt": "2024-04-22T23:56:52.775793Z",
+  "market_startDate": "2021-10-25T09:41:28.239Z",
+  "market_endDate": "2021-10-25T00:00:00Z",
+  "market_closedTime": "2021-10-26 09:50:38+00",
+  "conditionId": "0x5c6ee8c901bec2caaa04470c403ce4e63389dd589d2f39f831d3c96efd0ef28b",
+  "slug": "will-the-timberwolves-beat-the-pelicans-by-more-than-5pt5-points-in-their-october-25th-matchup",
+  "question": "(In-Game Trading)Will the Timberwolves beat the Pelicans by more than 5.5 points in their October 25th matchup?"
+}

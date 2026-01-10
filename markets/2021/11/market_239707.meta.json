@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239707",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-30T21:05:21.979000Z",
+  "market_createdAt": "2021-11-30T21:05:21.979Z",
+  "market_updatedAt": "2024-04-24T23:40:56.098788Z",
+  "market_startDate": "2021-12-01T17:11:25.765Z",
+  "market_endDate": "2021-12-24T00:00:00Z",
+  "market_closedTime": "2021-12-26 01:24:45+00",
+  "conditionId": "0xb1f1dbb4fd6240922026485270a266c92f36feb61c5e5da263884ca6cd5a5d17",
+  "slug": "will-the-us-senate-pass-the-build-back-better-act-by-the-christmas-eve",
+  "question": "Will the US Senate pass the Build Back Better Act by Christmas Eve?"
+}

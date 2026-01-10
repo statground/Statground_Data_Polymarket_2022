@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "245408",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-25T08:14:07.055000Z",
+  "market_createdAt": "2022-05-25T08:14:07.055Z",
+  "market_updatedAt": "2023-01-31T21:25:30.091Z",
+  "market_startDate": "2022-05-25T15:46:08.172Z",
+  "market_endDate": "2022-05-25T00:00:00Z",
+  "market_closedTime": "2022-05-26 02:30:37+00",
+  "conditionId": "0xbafaf91341f167d45e398161c623235fde266e305657847764b20e9e28087953",
+  "slug": "mlb-who-will-win-san-diego-padres-vs-milwaukee-brewers-scheduled-for-may-25-411-pm-et",
+  "question": "MLB: Who will win San Diego Padres vs. Milwaukee Brewers, scheduled for May 25, 4:11 PM ET?"
+}

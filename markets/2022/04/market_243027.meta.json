@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243027",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-07T16:43:38.104000Z",
+  "market_createdAt": "2022-04-07T16:43:38.104Z",
+  "market_updatedAt": "2024-04-24T23:20:01.553695Z",
+  "market_startDate": "2022-04-07T17:10:54.567Z",
+  "market_endDate": "2022-06-30T00:00:00Z",
+  "market_closedTime": "2022-07-01 18:31:49+00",
+  "conditionId": "0x18b1f84ea9a2a4085430aa0db595f88615042abf3fda0e56bbbf740e49ec788b",
+  "slug": "will-twitter-add-an-edit-button-by-june-30",
+  "question": "Will Twitter add an edit button by June 30?"
+}

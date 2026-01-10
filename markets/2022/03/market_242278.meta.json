@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242278",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-19T09:08:18.708000Z",
+  "market_createdAt": "2022-03-19T09:08:18.708Z",
+  "market_updatedAt": "2024-04-23T00:08:10.094208Z",
+  "market_startDate": "2022-03-19T17:15:26.485Z",
+  "market_endDate": "2022-03-19T00:00:00Z",
+  "market_closedTime": "2022-03-20 21:07:45+00",
+  "conditionId": "0x8feb165610c4e2dbfad0d24b2dbfe886f895c32bff36defa6ef722e318446709",
+  "slug": "nba-will-the-mavericks-beat-the-hornets-by-more-than-1pt5-points-in-their-march-19-710-pm-et-matchup",
+  "question": "NBA: Will the Mavericks beat the Hornets by more than 1.5 points in their March 19, 7:10 PM ET matchup?"
+}

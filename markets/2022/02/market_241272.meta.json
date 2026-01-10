@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241272",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-02T18:46:15.582000Z",
+  "market_createdAt": "2022-02-02T18:46:15.582Z",
+  "market_updatedAt": "2024-04-23T00:32:54.109348Z",
+  "market_startDate": null,
+  "market_endDate": "2022-02-12T00:00:00Z",
+  "market_closedTime": "2022-02-13 23:10:24+00",
+  "conditionId": "0x74f36060607aba955c9ee51d5bde40376be8ccc42142dc4bd06c59ebfdd43912",
+  "slug": "will-emin-gun-sirer-or-do-kwon-have-more-twitter-followers-on-february-12th-2022",
+  "question": "Will Emin Gun Sirer or Do Kwon have more Twitter followers on February 12th, 2022?"
+}

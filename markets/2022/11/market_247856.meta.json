@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247856",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-14T18:40:22.318000Z",
+  "market_createdAt": "2022-11-14T18:40:22.318Z",
+  "market_updatedAt": "2023-03-02T18:30:12.306Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-17T00:00:00Z",
+  "market_closedTime": "2022-11-18 20:13:46+00",
+  "conditionId": "0x28ea2f64be9e824584f2fc57f960848cdcc376dfd1eb629e1d507ee3e8b8b7ce",
+  "slug": "nfl-thursday-titans-vs-packers",
+  "question": "NFL Thursday: Titans vs. Packers"
+}

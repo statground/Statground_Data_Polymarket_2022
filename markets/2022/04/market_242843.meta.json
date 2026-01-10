@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242843",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-05T10:25:36.479000Z",
+  "market_createdAt": "2022-04-05T10:25:36.479Z",
+  "market_updatedAt": "2024-04-23T00:12:27.945292Z",
+  "market_startDate": "2022-04-05T15:20:40.194Z",
+  "market_endDate": "2022-04-05T00:00:00Z",
+  "market_closedTime": "2022-04-06 06:46:36+00",
+  "conditionId": "0x71c69de9f8832cbbb652bb915412fd7647685f2f3261d6aa9ae8d94d48725974",
+  "slug": "nba-who-will-win-thunder-vs-trail-blazers-scheduled-for-april-5-pm-et",
+  "question": "NBA: Who will win Thunder vs. Trail Blazers, scheduled for April 5 (8 PM ET)?"
+}

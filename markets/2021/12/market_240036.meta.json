@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240036",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-14T22:50:53.360000Z",
+  "market_createdAt": "2021-12-14T22:50:53.36Z",
+  "market_updatedAt": "2024-04-23T00:51:05.671788Z",
+  "market_startDate": "2021-12-15T22:44:46.329Z",
+  "market_endDate": "2021-12-30T00:00:00Z",
+  "market_closedTime": "2021-12-30 22:10:17+00",
+  "conditionId": "0x665ba635076591ff52fc4b0a4b907dd477cb3cd363eb52058859ea465b53ac9c",
+  "slug": "chess-will-magnus-carlsen-win-the-2021-fide-world-blitz-championship",
+  "question": "Chess: Will Magnus Carlsen win the 2021 FIDE World Blitz Championship?"
+}

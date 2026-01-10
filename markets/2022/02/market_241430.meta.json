@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241430",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-11T22:51:32.430000Z",
+  "market_createdAt": "2022-02-11T22:51:32.43Z",
+  "market_updatedAt": "2024-04-22T23:05:45.603741Z",
+  "market_startDate": "2022-02-12T00:05:16.381Z",
+  "market_endDate": "2022-02-12T00:00:00Z",
+  "market_closedTime": "2022-02-13 23:09:40+00",
+  "conditionId": "0x074bd8894ceea6a826639c95e7c533f5edf4d4ec30a7d5152aa6a7b4ef0b4b3d",
+  "slug": "ufc-271-will-adesanya-kotkortd-whittaker",
+  "question": "UFC 271: Will Adesanya KO/TKO/RTD Whittaker?"
+}

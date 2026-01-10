@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246681",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-11T15:40:45.760000Z",
+  "market_createdAt": "2022-07-11T15:40:45.76Z",
+  "market_updatedAt": "2023-01-31T15:40:52.13Z",
+  "market_startDate": "2022-07-11T16:04:58.248Z",
+  "market_endDate": "2022-08-01T00:00:00Z",
+  "market_closedTime": "2022-08-01 22:45:40+00",
+  "conditionId": "0x144a9e69992afe9b09f06849aa997bd5da2cf78ebcc388cadf0ba2442e19f68d",
+  "slug": "will-more-than-2pt5-million-people-travel-through-a-tsa-checkpoint-on-any-day-before-august",
+  "question": "Will more than 2.5 million people travel through a TSA checkpoint on any day before August?"
+}

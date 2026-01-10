@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241387",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-09T10:12:52.926000Z",
+  "market_createdAt": "2022-02-09T10:12:52.926Z",
+  "market_updatedAt": "2024-04-25T00:03:17.651809Z",
+  "market_startDate": "2022-02-09T17:27:31.394Z",
+  "market_endDate": "2022-02-09T00:00:00Z",
+  "market_closedTime": "2022-02-10 19:40:24+00",
+  "conditionId": "0x314029ec6ffd6b209c0ef4ed26e84fc245405cfa746cdaee173ffe52344a58e2",
+  "slug": "nba-will-the-jazz-beat-the-warriors-by-more-than-2p5-points-in-their-february-9-10-pm-et-matchup",
+  "question": "NBA: Will the Jazz beat the Warriors by more than 2.5 points in their February 9 (10 PM ET) matchup?"
+}

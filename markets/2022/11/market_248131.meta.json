@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248131",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-28T15:38:34.969000Z",
+  "market_createdAt": "2022-11-28T15:38:34.969Z",
+  "market_updatedAt": "2023-01-31T21:09:58.438Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-29T00:00:00Z",
+  "market_closedTime": "2022-11-29 20:30:57+00",
+  "conditionId": "0x039245db1dcaf42849af6e8a95011b1ab5ad49f1f14306fc88daaa2b00ecffc8",
+  "slug": "world-cup-tuesday-will-ecuador-beat-senegal",
+  "question": "World Cup: Tuesday - Will Ecuador beat Senegal?"
+}

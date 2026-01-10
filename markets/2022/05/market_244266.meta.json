@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244266",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-05T00:58:29.011000Z",
+  "market_createdAt": "2022-05-05T00:58:29.011Z",
+  "market_updatedAt": "2023-01-31T20:59:02.029Z",
+  "market_startDate": "2022-05-05T16:27:43.194Z",
+  "market_endDate": "2022-05-20T00:00:00Z",
+  "market_closedTime": "2022-05-21 06:16:02+00",
+  "conditionId": "0x5383156e34e75f434e6f29405ce95c55af31799f4b66e96a8d2af1787afdf0da",
+  "slug": "will-the-price-of-wheat-close-above-1070-on-may-20-2022",
+  "question": "Will the price of wheat close above $1070 on May 20, 2022?"
+}

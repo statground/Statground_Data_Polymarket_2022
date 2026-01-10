@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243384",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-18T07:27:36.412000Z",
+  "market_createdAt": "2022-04-18T07:27:36.412Z",
+  "market_updatedAt": "2023-01-31T21:06:36.83Z",
+  "market_startDate": "2022-04-18T13:51:56.591Z",
+  "market_endDate": "2022-05-01T00:00:00Z",
+  "market_closedTime": "2022-05-01 23:00:51+00",
+  "conditionId": "0x811110ba5043c6c23b2468282ae9c3538b35128a16f3ee4451d7864f968fe7da",
+  "slug": "2022-nba-playoffs-1st-round-who-will-win-suns-vs-pelicans",
+  "question": "2022 NBA Playoffs, 1st Round: Who will win Suns vs. Pelicans?"
+}

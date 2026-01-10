@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242658",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-31T09:02:47.865000Z",
+  "market_createdAt": "2022-03-31T09:02:47.865Z",
+  "market_updatedAt": "2024-04-23T00:49:18.248409Z",
+  "market_startDate": "2022-03-31T16:29:36.756Z",
+  "market_endDate": "2022-03-31T00:00:00Z",
+  "market_closedTime": "2022-04-01 06:47:16+00",
+  "conditionId": "0xb0f707500a79d687d12ebb022486ade257d35d6adabacd47f22aeb745777e910",
+  "slug": "nhl-will-the-bruins-beat-the-devils-by-more-than-1pt5-goals-in-their-march-31-700-pm-et-matchup",
+  "question": "NHL: Will the Bruins beat the Devils by more than 1.5 goals in their March 31, 7:00 PM ET matchup?"
+}

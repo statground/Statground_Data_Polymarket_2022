@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248155",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-01T17:37:29.667000Z",
+  "market_createdAt": "2022-12-01T17:37:29.667Z",
+  "market_updatedAt": "2023-01-31T20:21:32.911Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-04T00:00:00Z",
+  "market_closedTime": "2022-12-04 23:17:19+00",
+  "conditionId": "0xdb8de0428bf3c7726baea7de0dd5a44aaa06ab524130f121069873dca57bac17",
+  "slug": "world-cup-sunday-will-england-beat-senegal",
+  "question": "World Cup: Sunday - Will England beat Senegal?"
+}

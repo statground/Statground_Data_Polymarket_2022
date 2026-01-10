@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242280",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-19T09:08:46.943000Z",
+  "market_createdAt": "2022-03-19T09:08:46.943Z",
+  "market_updatedAt": "2024-04-24T23:38:52.694303Z",
+  "market_startDate": "2022-03-19T17:15:53.564Z",
+  "market_endDate": "2022-03-19T00:00:00Z",
+  "market_closedTime": "2022-03-20 21:10:23+00",
+  "conditionId": "0x52a15d066e9ccd091691d64fad69b8b08ddcd635f9bb661a34e299060fe1aa05",
+  "slug": "nba-will-the-wizards-beat-the-lakers-by-more-than-1pt5-points-in-their-march-19-810-pm-et-matchup",
+  "question": "NBA: Will the Wizards beat the Lakers by more than 1.5 points in their March 19, 8:10 PM ET matchup?"
+}

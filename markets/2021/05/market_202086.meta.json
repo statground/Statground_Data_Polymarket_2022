@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "202086",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-24T16:20:03.024000Z",
+  "market_createdAt": "2021-05-24T16:20:03.024Z",
+  "market_updatedAt": "2024-04-23T00:27:17.718214Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-28T00:00:00Z",
+  "market_closedTime": "2021-05-31 19:19:20+00",
+  "conditionId": "0x4cce1c3282622dee524df32fdc2f089e1eddc201657d6075fbb0daefb6451f77",
+  "slug": "will-the-nets-or-the-celtics-win-their-game-3-nba-playoff-matchup",
+  "question": "Who will win Nets vs. Celtics: Game 3?"
+}

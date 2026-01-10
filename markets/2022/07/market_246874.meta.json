@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246874",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-29T19:04:40.274000Z",
+  "market_createdAt": "2022-07-29T19:04:40.274Z",
+  "market_updatedAt": "2023-01-31T09:33:10.639Z",
+  "market_startDate": "2022-07-29T21:32:09.531Z",
+  "market_endDate": "2022-07-30T00:00:00Z",
+  "market_closedTime": "2022-07-31 07:34:13+00",
+  "conditionId": "0x14b20b4e42aeeee108ad98f33a18f367a18086587c5acc4fbf955a6fefff997c",
+  "slug": "ufc-277-who-will-win-lewis-vs-pavlovich",
+  "question": "UFC 277: Who will win - Lewis vs Pavlovich"
+}

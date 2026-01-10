@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218560",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-17T17:25:01.397000Z",
+  "market_createdAt": "2021-06-17T17:25:01.397Z",
+  "market_updatedAt": "2024-04-24T23:38:21.743367Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-01T00:00:00Z",
+  "market_closedTime": "2021-06-18 20:32:11+00",
+  "conditionId": "0x6ec74d752b22e62df135a1a951c25fe57821b21e666ecca26b180624c0db4693",
+  "slug": "will-the-aave-governance-proposal-aip-22-pass",
+  "question": "Will the AAVE governance proposal AIP 22 pass?"
+}

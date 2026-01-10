@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240212",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-27T23:50:05.225000Z",
+  "market_createdAt": "2021-12-27T23:50:05.225Z",
+  "market_updatedAt": "2024-04-26T02:46:35.098668Z",
+  "market_startDate": "2021-12-28T03:58:07.001Z",
+  "market_endDate": "2022-01-12T00:00:00Z",
+  "market_closedTime": "2022-01-12 18:55:02+00",
+  "conditionId": "0xc41247219277a44d424ff3a434f602c265a5db1c91526902f3d29aca1d753923",
+  "slug": "will-the-witcher-season-2-be-the-1-netflix-show-worldwide-on-the-week-ending-january-9",
+  "question": "Will 'The Witcher: Season 2' be the #1 Netflix show worldwide on the week ending January 9?"
+}

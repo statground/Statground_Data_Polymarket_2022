@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "1547",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-12-04T22:05:15.767000Z",
+  "market_createdAt": "2020-12-04T22:05:15.767Z",
+  "market_updatedAt": "2024-04-25T00:13:22.733326Z",
+  "market_startDate": null,
+  "market_endDate": null,
+  "market_closedTime": "2021-09-10 20:52:50+00",
+  "conditionId": "0xe5ab12148e77074efb23d7cde07c896c06b67daf0ce9695821f6cb7e22c17ae6",
+  "slug": "what-rating-will-theneedledrop-give-drake-s-certified-lover-boy",
+  "question": "What rating will theneedledrop give Drake’s \"Certified Lover Boy\"?"
+}

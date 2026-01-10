@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248074",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T22:31:57.963000Z",
+  "market_createdAt": "2022-11-18T22:31:57.963Z",
+  "market_updatedAt": "2023-01-31T15:28:47.742Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-18T00:00:00Z",
+  "market_closedTime": "2022-12-06 19:30:48+00",
+  "conditionId": "0x3f998ec13677edfff8b805c29ca537997b2eb372c579093aabf5c670c1c23d0d",
+  "slug": "will-australia-win-the-2022-world-cup",
+  "question": "Will Australia win the 2022 World Cup?"
+}

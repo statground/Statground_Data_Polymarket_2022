@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242287",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-19T09:10:50.948000Z",
+  "market_createdAt": "2022-03-19T09:10:50.948Z",
+  "market_updatedAt": "2023-01-31T18:22:18.003Z",
+  "market_startDate": "2022-03-19T18:43:15.199Z",
+  "market_endDate": "2022-03-19T00:00:00Z",
+  "market_closedTime": "2022-03-20 21:12:01+00",
+  "conditionId": "0xc703a0ffed85432c144c542de3cc2f6513c430eaaeea2e2762d6fd9e6752bdc7",
+  "slug": "ncaab-who-will-win-arkansas-razorbacks-vspt-new-mexico-st-aggies-scheduled-for-march-19-840-pm-et",
+  "question": "NCAAB: Who will win Arkansas Razorbacks vs. New Mexico St Aggies, scheduled for March 19, 8:40 PM ET?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "201776",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-20T20:35:01.738000Z",
+  "market_createdAt": "2021-05-20T20:35:01.738Z",
+  "market_updatedAt": "2024-04-22T23:25:16.327685Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-26T00:00:00Z",
+  "market_closedTime": "2021-07-27 03:07:00+00",
+  "conditionId": "0xa3fdbbde1da6601bc13e526a77f530d4bfa82811a17cdeb5ff479d1b33bcb76a",
+  "slug": "will-tesla-announce-that-it-has-bought-ethereum-by-july-25",
+  "question": "Will Tesla announce that it has bought Ethereum by July 25?"
+}

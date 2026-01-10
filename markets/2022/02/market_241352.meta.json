@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241352",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-06T09:41:55.463000Z",
+  "market_createdAt": "2022-02-06T09:41:55.463Z",
+  "market_updatedAt": "2024-04-23T00:55:16.963814Z",
+  "market_startDate": "2022-02-06T20:24:12.024Z",
+  "market_endDate": "2022-02-06T00:00:00Z",
+  "market_closedTime": "2022-02-07 18:21:38+00",
+  "conditionId": "0x1286800442ffd5b9f9ec2adfb7b8480eda7da558d49f537090aedf13420c1fa1",
+  "slug": "nba-will-the-bucks-beat-the-clippers-by-more-than-55-points-in-their-february-6-9-pm-et-matchup",
+  "question": "NBA: Will the Bucks beat the Clippers by more than 5.5 points in their February 6 (9 PM ET) matchup?"
+}

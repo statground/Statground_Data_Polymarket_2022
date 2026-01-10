@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241719",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-25T14:12:09.619000Z",
+  "market_createdAt": "2022-02-25T14:12:09.619Z",
+  "market_updatedAt": "2024-04-23T00:54:57.585954Z",
+  "market_startDate": "2022-02-25T16:17:47.403Z",
+  "market_endDate": "2022-02-25T00:00:00Z",
+  "market_closedTime": "2022-02-26 19:30:51+00",
+  "conditionId": "0xdb0b4517220c0d62ab4581224d2649cdf95040ae177debe5c0d6334db76d4de7",
+  "slug": "ncaa-college-basketball-who-will-win-the-iowa-vs-nebraska-scheduled-for-february-25-10-pm-et",
+  "question": "NCAA College Basketball: Who will win the Iowa vs. Nebraska, scheduled for February 25 (10 PM ET)?"
+}

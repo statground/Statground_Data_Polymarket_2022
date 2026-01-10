@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246657",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-05T18:04:24.291000Z",
+  "market_createdAt": "2022-07-05T18:04:24.291Z",
+  "market_updatedAt": "2023-02-10T01:03:40.984Z",
+  "market_startDate": "2022-07-05T20:33:45.34Z",
+  "market_endDate": "2022-07-06T00:00:00Z",
+  "market_closedTime": "2022-07-06 21:30:38+00",
+  "conditionId": "0x3f969c5f52a01224b1d7903952f90f3ca453d15b919ee16dbdb86eb297cb8d89",
+  "slug": "2022-wimbledon-championships-who-will-win-fritz-vs-nadal",
+  "question": "2022 Wimbledon Championships: Who will win Fritz vs. Nadal?"
+}

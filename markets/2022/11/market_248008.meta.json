@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248008",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-17T17:07:56.053000Z",
+  "market_createdAt": "2022-11-17T17:07:56.053Z",
+  "market_updatedAt": "2023-02-10T01:03:40.982Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-13T00:00:00Z",
+  "market_closedTime": "2022-12-13 17:15:46+00",
+  "conditionId": "0xe6837ecc9485f588af6858b0b307293ba1af60969fa386c59af2da8e37b1fd94",
+  "slug": "will-us-inflation-be-more-than-0pt2-from-october-to-november-2022",
+  "question": "Will U.S. inflation be more than 0.2% from October to November 2022?"
+}

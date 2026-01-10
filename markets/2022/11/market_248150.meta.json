@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248150",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-29T16:52:05.408000Z",
+  "market_createdAt": "2022-11-29T16:52:05.408Z",
+  "market_updatedAt": "2023-02-10T01:03:40.985Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-19T00:00:00Z",
+  "market_closedTime": "2022-12-20 05:53:12+00",
+  "conditionId": "0x00b64a6a871db574b5ef8a9702437687ced76de894e086b1d3d5604feeaae586",
+  "slug": "will-avatar-the-way-of-water-gross-more-than-175-million-domestically-on-its-opening-weekend",
+  "question": "Will 'Avatar: The Way of Water' gross more than $175 million domestically on its opening weekend?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "125120",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-13T18:25:02.867000Z",
+  "market_createdAt": "2021-04-13T18:25:02.867Z",
+  "market_updatedAt": "2024-04-23T00:50:26.330434Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-15T00:00:00Z",
+  "market_closedTime": "2021-06-15 16:48:20+00",
+  "conditionId": "0x8e383f3ee343c8bceb794c34ccd1256c2ba644a50d91b51334bcd214889abcb5",
+  "slug": "will-uniswap-v3-be-live-on-optimism-by-june-15-2021",
+  "question": "Will Uniswap V3 be live on Optimism by June 15, 2021?"
+}

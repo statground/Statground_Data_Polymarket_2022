@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241817",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-02T14:12:16.935000Z",
+  "market_createdAt": "2022-03-02T14:12:16.935Z",
+  "market_updatedAt": "2024-04-22T23:45:59.312478Z",
+  "market_startDate": "2022-03-02T15:51:12.546Z",
+  "market_endDate": "2022-03-02T00:00:00Z",
+  "market_closedTime": "2022-03-03 18:16:26+00",
+  "conditionId": "0x8d612701495b3ca4ea712bc693de612dc32ef049f2de329ee362dcee6f2891bb",
+  "slug": "nba-who-will-win-the-suns-vspt-trail-blazers-scheduled-for-march-2-10-pm-et",
+  "question": "NBA: Who will win the Suns vs. Trail Blazers, scheduled for March 2 (10 PM ET)?"
+}

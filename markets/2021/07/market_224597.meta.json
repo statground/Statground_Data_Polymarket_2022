@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "224597",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-15T19:30:01.099000Z",
+  "market_createdAt": "2021-07-15T19:30:01.099Z",
+  "market_updatedAt": "2024-04-24T23:31:01.456659Z",
+  "market_startDate": null,
+  "market_endDate": "2021-08-08T00:00:00Z",
+  "market_closedTime": "2021-08-03 20:46:19+00",
+  "conditionId": "0xd584cedf993f88f3bd7f8b3b279b752a4d31eab06fccfa9884442434beee0c00",
+  "slug": "will-magnus-carlsen-win-the-2021-fide-world-cup",
+  "question": "Will Magnus Carlsen win the 2021 Fide World Cup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242413",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-23T18:46:21.521000Z",
+  "market_createdAt": "2022-03-23T18:46:21.521Z",
+  "market_updatedAt": "2024-04-25T00:04:19.658754Z",
+  "market_startDate": "2022-03-23T19:50:52.702Z",
+  "market_endDate": "2022-03-23T00:00:00Z",
+  "market_closedTime": "2022-03-24 16:49:36+00",
+  "conditionId": "0xa245421c5f58937455943e2d3ce6acc6e26e304712e4f805ea69d299e0ccb3f5",
+  "slug": "nba-will-the-hawks-beat-the-pistons-by-more-than-4pt5-points-in-their-march-23-7-pm-et-matchup",
+  "question": "NBA: Will the Hawks beat the Pistons by more than 4.5 points in their March 23 (7 PM ET) matchup?"
+}

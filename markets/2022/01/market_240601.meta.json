@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240601",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-12T00:02:26.128000Z",
+  "market_createdAt": "2022-01-12T00:02:26.128Z",
+  "market_updatedAt": "2024-04-24T23:42:51.557322Z",
+  "market_startDate": "2022-01-12T21:11:11.314Z",
+  "market_endDate": "2022-11-15T00:00:00Z",
+  "market_closedTime": "2022-11-10 04:31:47+00",
+  "conditionId": "0x513fd1306900bc297ec36645e1552922eeea85955fb9b41563059a1217fd9d82",
+  "slug": "2022-us-senate-elections-will-a-democrat-or-republican-win-in-wisconsin",
+  "question": "Senate: Will a Democrat (Barnes) or Republican (Johnson) win in Wisconsin?"
+}

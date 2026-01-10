@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "224402",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-13T19:50:01.231000Z",
+  "market_createdAt": "2021-07-13T19:50:01.231Z",
+  "market_updatedAt": "2024-04-23T00:31:09.580429Z",
+  "market_startDate": null,
+  "market_endDate": "2021-10-01T00:00:00Z",
+  "market_closedTime": "2021-10-01 18:42:33+00",
+  "conditionId": "0x3c6f306469562579efb124b4e4f1ea686b32c579e372d8563de49747e707fc34",
+  "slug": "will-nancy-pelosi-hillary-clinton-bill-clinton-or-hunter-biden-be-charged-with-a-federal-crime-by-october-1",
+  "question": "Will Nancy Pelosi, Hillary Clinton, Bill Clinton, or Hunter Biden be charged with a federal crime by October 1?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "7716",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-12-14T18:20:15.035000Z",
+  "market_createdAt": "2020-12-14T18:20:15.035Z",
+  "market_updatedAt": "2024-04-23T00:56:30.122639Z",
+  "market_startDate": null,
+  "market_endDate": "2021-01-22T00:00:00Z",
+  "market_closedTime": "2021-01-20 17:37:46+00",
+  "conditionId": "0xf31a2f0e144551495f5cbef228b2d5362591f359884ae82000d17698e7bf45e9",
+  "slug": "will-donald-trump-pardon-edward-snowden",
+  "question": "Will Donald Trump pardon Edward Snowden?"
+}

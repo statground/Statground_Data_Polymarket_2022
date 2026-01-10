@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241470",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-14T09:53:44.565000Z",
+  "market_createdAt": "2022-02-14T09:53:44.565Z",
+  "market_updatedAt": "2024-04-24T23:57:22.529919Z",
+  "market_startDate": "2022-02-14T14:49:00.639Z",
+  "market_endDate": "2022-02-14T00:00:00Z",
+  "market_closedTime": "2022-02-15 18:59:26+00",
+  "conditionId": "0xc077b4180ab8fa794423c33a53f0a81f91dc51df525686adea31a37a6c606973",
+  "slug": "nhl-will-the-wild-beat-the-red-wings-by-more-than-1p5-goals-in-their-february-14-matchup-8-pm-et",
+  "question": "NHL: Will the Wild beat the Red Wings by more than 1.5 goals in their February 14 matchup (8 PM ET)?"
+}

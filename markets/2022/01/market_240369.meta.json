@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240369",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T01:38:01.656000Z",
+  "market_createdAt": "2022-01-11T01:38:01.656Z",
+  "market_updatedAt": "2024-04-23T00:54:52.637296Z",
+  "market_startDate": "2022-01-12T20:54:21.227Z",
+  "market_endDate": "2022-06-20T00:00:00Z",
+  "market_closedTime": "2022-05-14 00:00:41+00",
+  "conditionId": "0xfab6f1b95dacf2659ce0f13e7d2f2bb6327ce379092952fa532730c712583bd1",
+  "slug": "will-the-vegas-golden-knights-win-the-nhl-2021-22-stanley-cup",
+  "question": "Will the Vegas Golden Knights win the NHL 2021-22 Stanley Cup?"
+}

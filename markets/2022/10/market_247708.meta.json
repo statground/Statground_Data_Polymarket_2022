@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247708",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-20T17:48:11.130000Z",
+  "market_createdAt": "2022-10-20T17:48:11.13Z",
+  "market_updatedAt": "2023-01-31T20:59:05.359Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-23T00:00:00Z",
+  "market_closedTime": "2022-10-24 15:16:10+00",
+  "conditionId": "0x2dcef82befc588321d25af692366abad6e7fd7e89be4ec9b082d16a01bafd606",
+  "slug": "formula-1-will-17-or-more-drivers-complete-the-2022-united-states-grand-prix",
+  "question": "Formula 1: Will 17 or more drivers complete the 2022 United States Grand Prix?"
+}

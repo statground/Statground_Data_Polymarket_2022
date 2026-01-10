@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239457",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-16T12:19:20.583000Z",
+  "market_createdAt": "2021-11-16T12:19:20.583Z",
+  "market_updatedAt": "2024-04-22T22:39:24.681556Z",
+  "market_startDate": "2021-11-16T17:50:57.293Z",
+  "market_endDate": "2021-11-22T00:00:00Z",
+  "market_closedTime": "2021-11-24 00:08:17+00",
+  "conditionId": "0xf87690c9a97a7689505a669790334d0810a78d311c4c93c8d5b45d89279306cc",
+  "slug": "will-squid-game-be-the-1-netflix-show-worldwide-on-week-46-2021-nov-15-nov-21",
+  "question": "Will Squid Game be the #1 Netflix show worldwide on Week 46, 2021 (Nov 15 - Nov 21)?"
+}

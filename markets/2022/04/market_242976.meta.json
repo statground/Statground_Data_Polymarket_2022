@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242976",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-06T16:59:10.106000Z",
+  "market_createdAt": "2022-04-06T16:59:10.106Z",
+  "market_updatedAt": "2024-04-22T23:25:53.165046Z",
+  "market_startDate": "2022-04-06T17:59:45.862Z",
+  "market_endDate": "2022-07-01T00:00:00Z",
+  "market_closedTime": "2022-07-02 16:45:54+00",
+  "conditionId": "0x47213abf79d6ed3ab996d1d4ca8ad7976f676dbff7df2beee78b0534d01ae777",
+  "slug": "will-realdonaldtrump-tweet-again-by-july-1",
+  "question": "Will @realDonaldTrump tweet again by July 1?"
+}

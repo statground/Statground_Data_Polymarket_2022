@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239942",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-09T11:21:54.718000Z",
+  "market_createdAt": "2021-12-09T11:21:54.718Z",
+  "market_updatedAt": "2024-04-22T22:52:18.005876Z",
+  "market_startDate": "2021-12-09T18:35:06.585Z",
+  "market_endDate": "2021-12-31T00:00:00Z",
+  "market_closedTime": "2022-01-01 18:31:50+00",
+  "conditionId": "0x5b356a0b6efad7269de457e58f4ed7a21847f07122c7967fd7f8291b9e8c329f",
+  "slug": "will-a-picture-surface-of-kim-kardashian-and-pete-davidson-kissing-before-the-end-of-the-year",
+  "question": "Will a picture surface of Kim Kardashian and Pete Davidson kissing before the end of the year?"
+}

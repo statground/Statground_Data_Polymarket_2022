@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241130",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-27T20:16:40.615000Z",
+  "market_createdAt": "2022-01-27T20:16:40.615Z",
+  "market_updatedAt": "2024-04-22T22:47:56.632778Z",
+  "market_startDate": "2022-01-27T22:19:32.711Z",
+  "market_endDate": "2022-12-31T00:00:00Z",
+  "market_closedTime": "2022-02-25 20:30:15+00",
+  "conditionId": "0x581713310f6653043f1732f75e52ce6e731156a9c40418f91f131c8336304761",
+  "slug": "will-sherrilyn-ifill-be-the-next-nominee-for-supreme-court-justice",
+  "question": "Will Sherrilyn Ifill be the next nominee for Supreme Court Justice?"
+}

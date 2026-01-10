@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242564",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-27T09:09:29.889000Z",
+  "market_createdAt": "2022-03-27T09:09:29.889Z",
+  "market_updatedAt": "2024-04-22T23:52:31.033319Z",
+  "market_startDate": "2022-03-27T17:17:05.202Z",
+  "market_endDate": "2022-03-27T00:00:00Z",
+  "market_closedTime": "2022-03-28 09:14:55+00",
+  "conditionId": "0x6ed9fae698e1025e7c994cbad91d8f73b79c61de4476f9a00560632d45b2e050",
+  "slug": "nba-will-the-warriors-beat-the-wizards-by-more-than-7pt5-points-in-their-march-27-610-pm-et-matchup",
+  "question": "NBA: Will the Warriors beat the Wizards by more than 7.5 points in their March 27, 6:10 PM ET matchup?"
+}

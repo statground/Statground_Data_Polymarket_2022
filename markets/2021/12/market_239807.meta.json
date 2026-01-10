@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239807",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-03T18:52:36.757000Z",
+  "market_createdAt": "2021-12-03T18:52:36.757Z",
+  "market_updatedAt": "2024-04-26T02:46:53.024056Z",
+  "market_startDate": "2021-12-03T20:09:02.757Z",
+  "market_endDate": "2021-12-03T00:00:00Z",
+  "market_closedTime": "2021-12-04 18:37:59+00",
+  "conditionId": "0xfdcbfe9b31bd87bc710817c584176baa1d622da1549db0534240780ed1daad88",
+  "slug": "nba-will-the-sum-of-points-in-hawks-v-76ers-be-greater-than-213pt5",
+  "question": "NBA: Will the sum of points in Hawks v 76ers be greater than 213.5?"
+}

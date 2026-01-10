@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "220319",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-29T17:30:01.077000Z",
+  "market_createdAt": "2021-06-29T17:30:01.077Z",
+  "market_updatedAt": "2024-04-22T22:42:35.655567Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-11T00:00:00Z",
+  "market_closedTime": "2021-07-11 23:33:17+00",
+  "conditionId": "0xd3968ad6ed60e855ebeff65a9b884e8f7c2aa703a77700b1f3455aa1bf59576d",
+  "slug": "will-italy-win-the-2020-euros",
+  "question": "Will Italy win the Euro 2020?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242485",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-25T09:12:47.962000Z",
+  "market_createdAt": "2022-03-25T09:12:47.962Z",
+  "market_updatedAt": "2024-04-22T23:57:33.182899Z",
+  "market_startDate": "2022-03-25T15:54:17.016Z",
+  "market_endDate": "2022-03-25T00:00:00Z",
+  "market_closedTime": "2022-03-26 16:19:15+00",
+  "conditionId": "0x1480ec300a524a513947caf1649794ba8448a3c69127dbaab76c9b84e80aab7c",
+  "slug": "ncaab-will-the-kansas-jayhawks-beat-the-providence-friars-by-more-than-7pt5-points-in-their-march-25-729-pm-et-matchup",
+  "question": "NCAAB: Will the Kansas Jayhawks beat the Providence Friars by more than 7.5 points in their March 25, 7:29 PM ET matchup?"
+}

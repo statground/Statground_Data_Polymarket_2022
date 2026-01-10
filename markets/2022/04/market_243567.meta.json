@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243567",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-22T07:32:48.438000Z",
+  "market_createdAt": "2022-04-22T07:32:48.438Z",
+  "market_updatedAt": "2023-01-31T19:08:42.24Z",
+  "market_startDate": "2022-04-22T14:45:20.572Z",
+  "market_endDate": "2022-04-22T00:00:00Z",
+  "market_closedTime": "2022-04-23 07:16:02+00",
+  "conditionId": "0x336dc6b77431b2e39f135060ae6024d38f3832091ea895d5c8dcd11781556152",
+  "slug": "mlb-who-will-win-philadelphia-phillies-vs-milwaukee-brewers-scheduled-for-april-22-706-pm-et",
+  "question": "MLB: Who will win Philadelphia Phillies vs. Milwaukee Brewers, scheduled for April 22, 7:06 PM ET?"
+}

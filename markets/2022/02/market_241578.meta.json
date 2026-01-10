@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241578",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-17T16:14:53.028000Z",
+  "market_createdAt": "2022-02-17T16:14:53.028Z",
+  "market_updatedAt": "2024-04-23T00:42:11.633108Z",
+  "market_startDate": "2022-02-17T18:17:43.818Z",
+  "market_endDate": "2022-02-17T00:00:00Z",
+  "market_closedTime": "2022-02-18 20:30:27+00",
+  "conditionId": "0xfba20485c6d2b7a296a36cd3f1d287f1c21c64dad6de6f5ba1d193e8c32c1625",
+  "slug": "nhl-will-the-jets-beat-the-kraken-by-more-than-1p5-goals-in-their-february-17-matchup-8-pm-et",
+  "question": "NHL: Will the Jets beat the Kraken by more than 1.5 goals in their February 17 matchup (8 PM ET)?"
+}

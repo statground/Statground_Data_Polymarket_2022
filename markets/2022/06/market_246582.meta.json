@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246582",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-22T18:19:59.001000Z",
+  "market_createdAt": "2022-06-22T18:19:59.001Z",
+  "market_updatedAt": "2023-01-31T19:22:08.498Z",
+  "market_startDate": "2022-06-22T20:04:05.733Z",
+  "market_endDate": "2022-07-11T00:00:00Z",
+  "market_closedTime": "2022-07-12 02:15:35+00",
+  "conditionId": "0xc64111ebf883caf10eacd38d7370ee7b7619de05454e15e0d85b220a89c73d9f",
+  "slug": "will-thor-love-and-thunder-gross-more-than-190-million-domestically-in-its-opening-weekend",
+  "question": "Will ‘Thor: Love and Thunder’ gross more than $190 million domestically on its opening weekend?"
+}

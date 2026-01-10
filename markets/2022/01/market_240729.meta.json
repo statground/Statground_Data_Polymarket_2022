@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240729",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-14T01:13:47.968000Z",
+  "market_createdAt": "2022-01-14T01:13:47.968Z",
+  "market_updatedAt": "2024-04-23T00:28:54.021203Z",
+  "market_startDate": "2022-01-15T18:43:53.113Z",
+  "market_endDate": "2022-01-15T00:00:00Z",
+  "market_closedTime": "2022-01-19 16:36:13+00",
+  "conditionId": "0x59711bfa87e3cf197d0d93cb5aec3c50a3e81a6cc3d1796930fe9f77041cab3c",
+  "slug": "nfl-will-the-bengals-beat-the-raiders-by-more-than-5p5-points-in-their-january-15-matchup",
+  "question": "NFL: Will the Bengals beat the Raiders by more than 5.5 points in their January 15 matchup?"
+}

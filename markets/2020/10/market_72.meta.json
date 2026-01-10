@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "72",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-10-29T15:50:05.329000Z",
+  "market_createdAt": "2020-10-29T15:50:05.329Z",
+  "market_updatedAt": "2024-04-22T23:48:32.208099Z",
+  "market_startDate": null,
+  "market_endDate": "2022-01-14",
+  "market_closedTime": "2020-12-01 15:55:07+00",
+  "conditionId": "0x1411e65d309cfa0a748328b159ae593a4cbddbb76aecbf0086d24eef06aa6843",
+  "slug": "which-party-will-win-arizona-in-the-2020-presidential-election",
+  "question": "Which party will win Arizona in the 2020 Presidential Election?"
+}

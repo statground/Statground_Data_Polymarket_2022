@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244280",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-05T20:02:03.879000Z",
+  "market_createdAt": "2022-05-05T20:02:03.879Z",
+  "market_updatedAt": "2023-02-10T01:03:38.662Z",
+  "market_startDate": "2022-05-05T21:28:24.343Z",
+  "market_endDate": "2023-01-04T00:00:00Z",
+  "market_closedTime": "2023-01-07 20:01:45+00",
+  "conditionId": "0xc06f6a5aab8993800921cc56ce8cd6e2ab5cadd2393038b5ea2d9416eb9d69f8",
+  "slug": "will-kevin-mccarthy-be-elected-speaker-of-the-house-in-the-118th-congress",
+  "question": "Will Kevin McCarthy be elected Speaker of the House in the 118th Congress?"
+}

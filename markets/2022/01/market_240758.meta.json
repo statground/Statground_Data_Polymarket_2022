@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240758",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-15T18:04:09.443000Z",
+  "market_createdAt": "2022-01-15T18:04:09.443Z",
+  "market_updatedAt": "2024-04-24T23:46:13.269825Z",
+  "market_startDate": "2022-01-15T19:14:51.505Z",
+  "market_endDate": "2022-01-15T00:00:00Z",
+  "market_closedTime": "2022-01-17 13:43:01+00",
+  "conditionId": "0xc3622c450a955da5e52c52a4ef4bfdec77932041072776d161da1fef84db80e1",
+  "slug": "nba-will-the-celtics-beat-the-bulls-by-more-than-5p5-points-in-their-january-15-matchup",
+  "question": "NBA: Will the Celtics beat the Bulls by more than 5.5 points in their January 15 matchup?"
+}

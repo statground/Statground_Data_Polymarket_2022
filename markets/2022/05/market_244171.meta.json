@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244171",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-04T08:02:37.581000Z",
+  "market_createdAt": "2022-05-04T08:02:37.581Z",
+  "market_updatedAt": "2023-01-31T21:10:05.832Z",
+  "market_startDate": "2022-05-04T14:09:22.231Z",
+  "market_endDate": "2022-05-04T00:00:00Z",
+  "market_closedTime": "2022-05-05 06:47:05+00",
+  "conditionId": "0x61f42cc8aea7dc959e986492f9e715f194b085ae91800f2b0622c02f44c23b64",
+  "slug": "nhl-will-the-leafs-beat-the-lightning-by-more-than-1pt5-goals-in-their-may-4-730-pm-et-matchup",
+  "question": "NHL: Will the Leafs beat the Lightning by more than 1.5 goals in their May 4, 7:30 PM ET matchup?"
+}

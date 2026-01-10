@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240486",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T16:51:24.185000Z",
+  "market_createdAt": "2022-01-11T16:51:24.185Z",
+  "market_updatedAt": "2024-04-23T00:37:57.46711Z",
+  "market_startDate": "2022-01-12T21:03:13.107Z",
+  "market_endDate": "2022-02-01T00:00:00Z",
+  "market_closedTime": "2022-02-02 17:16:45+00",
+  "conditionId": "0x1bb30018a29cd35ad2b0e998fd03ac655e5d4be5361e61253936fe01b9019de6",
+  "slug": "will-the-floor-price-of-doodles-be-above-7-eth-on-february-1st-2022",
+  "question": "Will the floor price of Doodles be above 7 ETH on February 1st, 2022?"
+}

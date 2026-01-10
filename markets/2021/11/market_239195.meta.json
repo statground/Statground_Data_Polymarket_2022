@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239195",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-01T11:03:35.764000Z",
+  "market_createdAt": "2021-11-01T11:03:35.764Z",
+  "market_updatedAt": "2024-04-22T23:16:27.746364Z",
+  "market_startDate": "2021-11-01T18:01:00.586Z",
+  "market_endDate": "2021-11-01T00:00:00Z",
+  "market_closedTime": "2021-11-02 13:44:00+00",
+  "conditionId": "0x0daf878146b993c6f2fa60677993ae037706e7f5ff7c2f8250a071b4b7008b4e",
+  "slug": "nba-will-the-clippers-beat-the-thunder-by-more-than-10pt5-points-in-their-november-1st-matchup",
+  "question": "NBA: Will the Clippers beat the Thunder by more than 10.5 points in their November 1st matchup?"
+}

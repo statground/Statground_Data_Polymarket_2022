@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247451",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-06T20:40:12.254000Z",
+  "market_createdAt": "2022-10-06T20:40:12.254Z",
+  "market_updatedAt": "2023-01-31T08:54:48.518Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-09T00:00:00Z",
+  "market_closedTime": "2022-10-10 07:15:58+00",
+  "conditionId": "0xa2e23aa5f2813d650fd19cc66cb28dee6b7eeceb390580eaeb271431e2ee5946",
+  "slug": "nl-wild-card-padres-vs-mets",
+  "question": "NL Wild Card: Padres vs. Mets"
+}

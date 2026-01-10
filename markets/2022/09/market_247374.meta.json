@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247374",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-28T17:58:47.201000Z",
+  "market_createdAt": "2022-09-28T17:58:47.201Z",
+  "market_updatedAt": "2023-01-31T21:18:01.789Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-31T00:00:00Z",
+  "market_closedTime": "2023-01-02 22:02:19+00",
+  "conditionId": "0x40b9a86cf1a4b8dbc3ba2a648579a341f3d3e5b38eca4e3938d1061349150f54",
+  "slug": "will-putin-and-zelensky-meet-in-person-before-2023",
+  "question": "Will Putin and Zelensky meet in person before 2023?"
+}

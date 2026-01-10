@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "224612",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-20T18:20:01.252000Z",
+  "market_createdAt": "2021-07-20T18:20:01.252Z",
+  "market_updatedAt": "2024-04-23T00:25:14.184393Z",
+  "market_startDate": null,
+  "market_endDate": "2021-08-10T00:00:00Z",
+  "market_closedTime": "2021-08-10 17:36:35+00",
+  "conditionId": "0xffe45e6718e50acb4d2cf00bd7a4d040b276e7059ededec63ec81f67c42c4a50",
+  "slug": "will-the-floor-price-of-cryptopunks-be-below-195-eth-on-august-10",
+  "question": "Will the floor price of CryptoPunks be below 19.5 ETH on August 10? "
+}

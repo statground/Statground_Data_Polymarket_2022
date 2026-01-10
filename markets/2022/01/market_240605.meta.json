@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240605",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-12T00:11:42.587000Z",
+  "market_createdAt": "2022-01-12T00:11:42.587Z",
+  "market_updatedAt": "2024-04-22T23:18:31.870682Z",
+  "market_startDate": "2022-01-12T21:08:29.742Z",
+  "market_endDate": "2022-11-15T00:00:00Z",
+  "market_closedTime": "2022-11-09 15:06:33+00",
+  "conditionId": "0x697f9899d953c8e21bd69e98e74ccf8c61345fa7932cc7c0fd6309bb22a99bf2",
+  "slug": "2022-us-gubernatorial-elections-will-a-democrat-or-republican-win-in-wisconsin",
+  "question": "Governor: Will a Democrat (Evers) or Republican (Michels) win in Wisconsin?"
+}

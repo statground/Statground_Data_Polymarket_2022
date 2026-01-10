@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246623",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-29T23:08:31.492000Z",
+  "market_createdAt": "2022-06-29T23:08:31.492Z",
+  "market_updatedAt": "2023-01-31T13:21:37.043Z",
+  "market_startDate": "2022-06-29T23:55:28.885Z",
+  "market_endDate": "2022-09-20T00:00:00Z",
+  "market_closedTime": "2022-09-21 07:15:49+00",
+  "conditionId": "0xb95a47a0a98f2cee87a34f67791953ef2218fd5cb04b5fa7e9f7e5cc6a67df71",
+  "slug": "will-an-ftx-acquisition-of-robinhood-be-announced-by-september-20",
+  "question": "Will an FTX acquisition of Robinhood be announced by September 20?"
+}

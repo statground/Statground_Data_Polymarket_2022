@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241179",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-29T10:12:25.232000Z",
+  "market_createdAt": "2022-01-29T10:12:25.232Z",
+  "market_updatedAt": "2024-04-23T00:52:26.164196Z",
+  "market_startDate": null,
+  "market_endDate": "2022-01-29T00:00:00Z",
+  "market_closedTime": "2022-01-31 01:10:18+00",
+  "conditionId": "0x4f8d5011131c403ba73654ad01e2c8061f6109472446881aa2ba3f1e2a74f9eb",
+  "slug": "nba-who-will-win-the-celtics-vs-pelicans-scheduled-for-january-29-7-pm-et",
+  "question": "NBA: Who will win the Celtics vs. Pelicans, scheduled for January 29 (7 PM ET)?"
+}

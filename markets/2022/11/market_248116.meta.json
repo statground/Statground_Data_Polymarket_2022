@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248116",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-21T19:55:25.165000Z",
+  "market_createdAt": "2022-11-21T19:55:25.165Z",
+  "market_updatedAt": "2023-01-31T20:46:10.657Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-28T00:00:00Z",
+  "market_closedTime": "2022-11-28 15:30:22+00",
+  "conditionId": "0xbb8b6ecc5013e035b562a01922352a360fd88d81e9b088856a224a3eb0bd1792",
+  "slug": "world-cup-2022-monday-will-serbia-beat-cameroon",
+  "question": "World Cup: Monday - Will Serbia beat Cameroon?"
+}

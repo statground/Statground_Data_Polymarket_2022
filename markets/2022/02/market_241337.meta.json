@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241337",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-05T11:15:43.168000Z",
+  "market_createdAt": "2022-02-05T11:15:43.168Z",
+  "market_updatedAt": "2024-04-22T23:58:21.515375Z",
+  "market_startDate": "2022-02-05T17:20:09.952Z",
+  "market_endDate": "2022-02-05T00:00:00Z",
+  "market_closedTime": "2022-02-07 18:09:43+00",
+  "conditionId": "0xdf423f1f04a9db7ef09bcf7513c9f93093a623d719fedc92d5336f07b860e952",
+  "slug": "nba-who-will-win-the-grizzlies-vs-magic-scheduled-for-february-5-5-pm-et",
+  "question": "NBA: Who will win the Grizzlies vs. Magic, scheduled for February 5 (5 PM ET)?"
+}

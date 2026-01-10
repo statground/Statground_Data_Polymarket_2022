@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241712",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-25T10:06:53.006000Z",
+  "market_createdAt": "2022-02-25T10:06:53.006Z",
+  "market_updatedAt": "2024-04-22T23:27:00.390818Z",
+  "market_startDate": "2022-02-25T16:14:07.468Z",
+  "market_endDate": "2022-02-25T00:00:00Z",
+  "market_closedTime": "2022-02-26 19:01:13+00",
+  "conditionId": "0xeeca6aa1cacd8dacf93eb9f884210315e07f3c5e3e2e7b79cfe41a823c2b6640",
+  "slug": "nba-who-will-win-the-76ers-vs-timberwolves-scheduled-for-february-25-8-pm-et",
+  "question": "NBA: Who will win the 76ers vs. Timberwolves, scheduled for February 25 (8 PM ET)?"
+}

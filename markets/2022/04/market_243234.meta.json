@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243234",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-13T20:28:05.643000Z",
+  "market_createdAt": "2022-04-13T20:28:05.643Z",
+  "market_updatedAt": "2023-01-31T09:49:29.051Z",
+  "market_startDate": "2022-04-13T20:38:44.939Z",
+  "market_endDate": "2023-01-01T00:00:00Z",
+  "market_closedTime": "2023-01-02 22:48:09+00",
+  "conditionId": "0xf5146fc6a7cf91c4864f38c2c3874da9cb83119450047030448716ebf0dc8a93",
+  "slug": "will-xi-jinping-remain-general-secretary-of-the-ccp-through-2022",
+  "question": "Will Xi Jinping remain General Secretary of the CCP through 2022?"
+}

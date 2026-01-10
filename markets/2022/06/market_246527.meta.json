@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246527",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-10T15:39:50.429000Z",
+  "market_createdAt": "2022-06-10T15:39:50.429Z",
+  "market_updatedAt": "2023-02-10T01:03:37.625Z",
+  "market_startDate": "2022-06-10T15:55:30.134Z",
+  "market_endDate": "2022-06-17T00:00:00Z",
+  "market_closedTime": "2022-06-17 19:30:54+00",
+  "conditionId": "0x0c74513ab61479c191f59762a22c878a13f2c98959bac858260ef708d133c649",
+  "slug": "will-eth-be-above-1700-on-june-17",
+  "question": "Will $ETH be above $1,700 on June 17?"
+}

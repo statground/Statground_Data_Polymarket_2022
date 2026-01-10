@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241302",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-03T21:13:07.886000Z",
+  "market_createdAt": "2022-02-03T21:13:07.886Z",
+  "market_updatedAt": "2024-04-23T00:14:41.245107Z",
+  "market_startDate": null,
+  "market_endDate": "2022-03-31T00:00:00Z",
+  "market_closedTime": "2022-04-01 06:47:38+00",
+  "conditionId": "0x66ec04b3dc4351a4fae4559825aa6e2b7f83149d1b8c9f27844ea1d2f44809bb",
+  "slug": "will-axie-infinitys-battles-v3-axie-origin-be-released-by-march-31-2022",
+  "question": "Will Axie Infinity's Battles V3 \"Axie: Origin\" be released by March 31, 2022?"
+}

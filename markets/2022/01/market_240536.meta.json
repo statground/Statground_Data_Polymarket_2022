@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240536",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T18:42:38.851000Z",
+  "market_createdAt": "2022-01-11T18:42:38.851Z",
+  "market_updatedAt": "2024-04-23T00:49:06.924493Z",
+  "market_startDate": "2022-01-12T21:11:22.315Z",
+  "market_endDate": "2022-03-31T00:00:00Z",
+  "market_closedTime": "2022-04-02 17:45:45+00",
+  "conditionId": "0x9be747bc7721f21150b6e7b0ddf8666b6460c728ebc545c08e314ddb467ef232",
+  "slug": "will-royal-airdrop-a-native-token-by-march-31st-2022",
+  "question": "Will Royal airdrop a native token by March 31st, 2022?"
+}

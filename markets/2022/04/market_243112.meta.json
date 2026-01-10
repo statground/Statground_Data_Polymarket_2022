@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243112",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-11T23:57:53.550000Z",
+  "market_createdAt": "2022-04-11T23:57:53.55Z",
+  "market_updatedAt": "2023-01-31T21:10:05.702Z",
+  "market_startDate": "2022-04-12T14:10:18.761Z",
+  "market_endDate": "2022-04-12T00:00:00Z",
+  "market_closedTime": "2022-04-13 07:00:30+00",
+  "conditionId": "0xc2244c28d11b6adc7dc558cf0f6c753d1410334fb2fd4d45f0828f43563137ed",
+  "slug": "nba-who-will-win-nets-vs-cavaliers-scheduled-for-april-12-7pm-et",
+  "question": "NBA: Who will win Nets vs. Cavaliers, scheduled for April 12 (7PM ET)?"
+}

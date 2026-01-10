@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248197",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-13T20:16:33.005000Z",
+  "market_createdAt": "2022-12-13T20:16:33.005Z",
+  "market_updatedAt": "2023-04-02T07:15:41.89Z",
+  "market_startDate": null,
+  "market_endDate": "2023-03-31T00:00:00Z",
+  "market_closedTime": "2023-04-01 07:51:32+00",
+  "conditionId": "0xb08c75808eeaa441b29685b0f30fba3874b4c4daff08747bbeb87fee6f49cf92",
+  "slug": "will-sam-trabucco-be-federally-charged-by-march-31",
+  "question": "Will Sam Trabucco be federally charged by March 31?"
+}

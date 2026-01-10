@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242848",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-05T10:58:58.019000Z",
+  "market_createdAt": "2022-04-05T10:58:58.019Z",
+  "market_updatedAt": "2024-04-22T23:59:20.277418Z",
+  "market_startDate": "2022-04-05T15:01:16.923Z",
+  "market_endDate": "2022-04-05T00:00:00Z",
+  "market_closedTime": "2022-04-06 07:01:00+00",
+  "conditionId": "0xb8bf5c103814ed6a85e7ee2e1766dd87e41919024a2ee6044ae13d99963c643f",
+  "slug": "nhl-will-the-senators-beat-the-canadiens-by-more-than-1pt5-goals-in-their-april-5-matchup-7-pm-et",
+  "question": "NHL: Will the Senators beat the Canadiens by more than 1.5 goals in their April 5 matchup (7 PM ET)?"
+}

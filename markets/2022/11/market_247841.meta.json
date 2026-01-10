@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247841",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-12T17:03:08.159000Z",
+  "market_createdAt": "2022-11-12T17:03:08.159Z",
+  "market_updatedAt": "2023-01-31T11:52:43.669Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-14T00:00:00Z",
+  "market_closedTime": "2022-11-13 15:16:15+00",
+  "conditionId": "0xd146b24488eeadb705e1bba34b38696829c37a297f57ba56089e4c8706041a04",
+  "slug": "ufc-281-who-will-win-dustin-poirier-vs-michael-chandler",
+  "question": "UFC 281: Who will win -  Dustin Poirier vs Michael Chandler"
+}

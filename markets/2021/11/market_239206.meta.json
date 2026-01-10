@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239206",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-02T12:02:16.823000Z",
+  "market_createdAt": "2021-11-02T12:02:16.823Z",
+  "market_updatedAt": "2024-04-23T00:58:53.151755Z",
+  "market_startDate": "2021-11-02T17:16:21.914Z",
+  "market_endDate": "2021-11-12T00:00:00Z",
+  "market_closedTime": "2021-11-13 23:56:13+00",
+  "conditionId": "0x3676da4de2115e10efec1872cb1fbab08bba28f39154cd5cb9cb2fddf3d49251",
+  "slug": "will-top-1-song-by-spotify-charts-hit-60m-weekly-streams-for-period-nov-4-nov-11",
+  "question": "Will the top song on Spotify Charts hit 60M global weekly streams for period Nov 4 - Nov 11?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243209",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-13T06:34:58.899000Z",
+  "market_createdAt": "2022-04-13T06:34:58.899Z",
+  "market_updatedAt": "2023-01-31T19:34:09.739Z",
+  "market_startDate": "2022-04-13T15:00:58.378Z",
+  "market_endDate": "2022-05-31T00:00:00Z",
+  "market_closedTime": "2022-05-27 16:45:32+00",
+  "conditionId": "0xa734e7ddb1b6247a6ee3799c53c7d97da18a702a87b4444392b0b214332605b5",
+  "slug": "2022-nba-playoffs-will-the-golden-state-warriors-win-the-western-conference",
+  "question": "2022 NBA Playoffs: Will the Golden State Warriors win the Western Conference?"
+}

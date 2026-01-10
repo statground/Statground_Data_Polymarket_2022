@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243944",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-29T06:22:15.827000Z",
+  "market_createdAt": "2022-04-29T06:22:15.827Z",
+  "market_updatedAt": "2023-01-31T21:10:05.703Z",
+  "market_startDate": "2022-04-29T14:07:46.24Z",
+  "market_endDate": "2022-04-29T00:00:00Z",
+  "market_closedTime": "2022-04-30 07:15:59+00",
+  "conditionId": "0x02a0e909227cd7ec92c5d6c04f4c3956c90be4442659bd4ecd455710bb79f3e0",
+  "slug": "mlb-who-will-win-new-york-yankees-vs-kansas-city-royals-scheduled-for-april-29-810-pm-et",
+  "question": "MLB: Who will win New York Yankees vs. Kansas City Royals, scheduled for April 29, 8:10 PM ET?"
+}

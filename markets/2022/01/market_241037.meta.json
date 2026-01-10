@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241037",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-26T12:25:04.784000Z",
+  "market_createdAt": "2022-01-26T12:25:04.784Z",
+  "market_updatedAt": "2024-04-22T22:51:00.365899Z",
+  "market_startDate": "2022-01-26T19:05:30.83Z",
+  "market_endDate": "2022-01-26T00:00:00Z",
+  "market_closedTime": "2022-01-27 23:49:13+00",
+  "conditionId": "0x3a679c59651a4df0eb550c8765a473c28a734dc9220d3e13afedcd7dbb088fed",
+  "slug": "nba-who-will-win-the-mavericks-vs-trail-blazers-scheduled-for-january-26-10-pm-et",
+  "question": "NBA: Who will win the Mavericks vs. Trail Blazers, scheduled for January 26 (10 PM ET)?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247402",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-30T14:14:59.668000Z",
+  "market_createdAt": "2022-09-30T14:14:59.668Z",
+  "market_updatedAt": "2023-01-31T20:26:40.446Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-08T00:00:00Z",
+  "market_closedTime": "2022-11-24 03:46:22+00",
+  "conditionId": "0xfede66ba2cb0210ab860b04647c94b429da4f0aee3285994ec2603f8fedcc55f",
+  "slug": "2022-us-gubernatorial-elections-will-a-democrat-or-republican-win-in-alaska",
+  "question": "Governor: Will a Democrat (Gara) or Republican (Dunleavy) win in Alaska?"
+}

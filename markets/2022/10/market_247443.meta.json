@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247443",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-05T16:38:27.401000Z",
+  "market_createdAt": "2022-10-05T16:38:27.401Z",
+  "market_updatedAt": "2023-01-31T19:46:39.344Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-09T00:00:00Z",
+  "market_closedTime": "2022-10-09 20:15:28+00",
+  "conditionId": "0x4563ab2235b56f8ca69d5067a6c735f769a2eddd6c2b2824a633f38b200215d1",
+  "slug": "nfl-sunday-giants-vs-packers",
+  "question": "NFL Sunday: Giants vs. Packers"
+}

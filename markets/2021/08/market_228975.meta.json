@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "228975",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-05T17:15:01.347000Z",
+  "market_createdAt": "2021-08-05T17:15:01.347Z",
+  "market_updatedAt": "2023-01-31T17:34:21.99Z",
+  "market_startDate": "2021-08-05T18:48:01.075Z",
+  "market_endDate": "2021-10-15T00:00:00Z",
+  "market_closedTime": "2021-10-15 16:38:44+00",
+  "conditionId": "0x26fade492d45ed7a22023ea939478694f317e1ba052328c10700357ee595a432",
+  "slug": "will-the-fda-approve-any-covid-19-vaccination-for-children-under-12-by-october-15",
+  "question": "Will the FDA approve any COVID-19 vaccination for children under 12 by October 15? "
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241647",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-22T22:36:48.150000Z",
+  "market_createdAt": "2022-02-22T22:36:48.15Z",
+  "market_updatedAt": "2023-01-31T20:14:17.097Z",
+  "market_startDate": "2022-02-23T00:08:24.409Z",
+  "market_endDate": "2022-03-21T00:00:00Z",
+  "market_closedTime": "2022-03-22 11:45:42+00",
+  "conditionId": "0xaf87935ac5143229b0762b2f1dc5ac381a6b6dbed7b259f3e8bb2a77b22a79ea",
+  "slug": "will-biden-and-putin-meet-by-march-21-2022",
+  "question": "Will Biden and Putin meet by March 21, 2022?"
+}

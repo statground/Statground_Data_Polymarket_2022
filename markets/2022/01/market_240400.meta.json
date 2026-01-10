@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240400",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T12:56:10.833000Z",
+  "market_createdAt": "2022-01-11T12:56:10.833Z",
+  "market_updatedAt": "2023-09-12T08:40:47.571Z",
+  "market_startDate": "2022-01-12T21:00:33.806Z",
+  "market_endDate": "2022-11-01T00:00:00Z",
+  "market_closedTime": "2022-11-02 17:47:43+00",
+  "conditionId": "0xa7b4bf1ccf48e085ee4a1384e96c9fe9a78cf79981f9af002951afeae0a291e4",
+  "slug": "will-donald-trump-be-president-of-the-usa-on-november-1-2022",
+  "question": "Will Donald Trump be President of the USA on November 1, 2022?"
+}

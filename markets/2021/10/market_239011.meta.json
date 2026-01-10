@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239011",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-14T22:06:26.240000Z",
+  "market_createdAt": "2021-10-14T22:06:26.24Z",
+  "market_updatedAt": "2023-01-31T18:12:02.489Z",
+  "market_startDate": null,
+  "market_endDate": null,
+  "market_closedTime": "2021-11-16 14:00:05+00",
+  "conditionId": "0x3fac3e628cf5d4493a3296506cf1212328821456c5f85130914eb194810857d7",
+  "slug": "will-october-2021-average-global-temperature-be-the-highest-october-temperature-on-record",
+  "question": "Will October 2021 average global temperature be the highest October temperature on record?"
+}

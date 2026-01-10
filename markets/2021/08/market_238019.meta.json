@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238019",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-18T22:50:01.276000Z",
+  "market_createdAt": "2021-08-18T22:50:01.276Z",
+  "market_updatedAt": "2024-04-24T23:41:19.517792Z",
+  "market_startDate": "2021-08-20T01:50:28.831Z",
+  "market_endDate": "2021-11-01T00:00:00Z",
+  "market_closedTime": "2021-09-02 16:30:51+00",
+  "conditionId": "0x69231df65906c7f3414430d4114861bb8cbe177a1356b348e301be291ad794fe",
+  "slug": "will-opentables-seated-diners-from-online-phone-and-walk-in-reservations-data-point-for-the-united-states-exceed-its-2019-baseline-by-7-or-more-by-november-1-2021",
+  "question": "Will OpenTable’s “Seated diners from online, phone, and walk-in reservations” data point for the United States exceed its 2019 baseline by 7% or more by November 1, 2021?"
+}

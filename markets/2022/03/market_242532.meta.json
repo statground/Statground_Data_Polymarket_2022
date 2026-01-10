@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242532",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-26T09:15:26.198000Z",
+  "market_createdAt": "2022-03-26T09:15:26.198Z",
+  "market_updatedAt": "2024-04-23T00:56:41.921311Z",
+  "market_startDate": "2022-03-26T19:39:36.898Z",
+  "market_endDate": "2022-03-26T00:00:00Z",
+  "market_closedTime": "2022-03-27 17:20:34+00",
+  "conditionId": "0xfd78d4f0e1c245b397d3ac199fd17da328c01ff033caca52d81c427bcbc8cc70",
+  "slug": "nba-will-the-nets-beat-the-heat-by-more-than-3pt5-points-in-their-march-26-810-pm-et-matchup",
+  "question": "NBA: Will the Nets beat the Heat by more than 3.5 points in their March 26, 8:10 PM ET matchup?"
+}

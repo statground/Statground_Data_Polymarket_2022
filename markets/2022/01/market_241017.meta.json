@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241017",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-25T09:31:41.944000Z",
+  "market_createdAt": "2022-01-25T09:31:41.944Z",
+  "market_updatedAt": "2024-04-23T00:40:55.533545Z",
+  "market_startDate": "2022-01-25T18:33:16.809Z",
+  "market_endDate": "2022-01-25T00:00:00Z",
+  "market_closedTime": "2022-01-27 13:50:53+00",
+  "conditionId": "0x69a0ba2e2fe02ef0aa0fd7c1386761b881c3e03258ac48ffdb8786b2094cb517",
+  "slug": "nba-who-will-win-the-lakers-vs-nets-scheduled-for-january-25-730-pm-et",
+  "question": "NBA: Who will win the Lakers vs. Nets, scheduled for January 25 (7.30 PM ET)?"
+}

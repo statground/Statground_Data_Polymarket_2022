@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243038",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-08T15:09:52.701000Z",
+  "market_createdAt": "2022-04-08T15:09:52.701Z",
+  "market_updatedAt": "2023-01-31T20:31:46.316Z",
+  "market_startDate": null,
+  "market_endDate": "2022-04-08T00:00:00Z",
+  "market_closedTime": "2022-04-09 06:47:14+00",
+  "conditionId": "0xbaddbbda8f73e34944c24a969c55c4430975fc4aee72e552cf653a7bc457e21b",
+  "slug": "nba-who-will-win-wizards-vs-knicks-scheduled-for-april-8-7-pm-et",
+  "question": "NBA: Who will win Wizards vs. Knicks, scheduled for April 8 (7 PM ET)?"
+}

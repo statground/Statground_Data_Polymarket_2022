@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241574",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-17T16:09:56.885000Z",
+  "market_createdAt": "2022-02-17T16:09:56.885Z",
+  "market_updatedAt": "2024-04-24T23:35:38.075318Z",
+  "market_startDate": "2022-02-17T18:14:57.856Z",
+  "market_endDate": "2022-02-17T00:00:00Z",
+  "market_closedTime": "2022-02-18 20:00:56+00",
+  "conditionId": "0x21f5c5097fb440d6906be38e137b9ed98c1e2d234e48e77870575b15fac0f008",
+  "slug": "nba-who-will-win-the-heat-vs-hornets-scheduled-for-february-17-7-pm-et",
+  "question": "NBA: Who will win the Heat vs. Hornets, scheduled for February 17 (7 PM ET)?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243368",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-17T13:45:09.985000Z",
+  "market_createdAt": "2022-04-17T13:45:09.985Z",
+  "market_updatedAt": "2023-01-31T21:06:30.689Z",
+  "market_startDate": "2022-04-17T14:59:50.693Z",
+  "market_endDate": "2022-04-17T00:00:00Z",
+  "market_closedTime": "2022-04-18 06:32:06+00",
+  "conditionId": "0xdb31b301a644eeb38d7099e85f1aaa45b3a8d507ead0e462f2a2e4c173a7bf25",
+  "slug": "nhl-will-the-maple-leafs-beat-the-islanders-by-more-than-1pt5-goals-in-their-april-17-matchup-730-pm-et",
+  "question": "NHL: Will the Maple Leafs beat the Islanders by more than 1.5 goals in their April 17 matchup (7:30 PM ET)?"
+}

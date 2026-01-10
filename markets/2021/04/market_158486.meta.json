@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "158486",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-27T17:35:04.238000Z",
+  "market_createdAt": "2021-04-27T17:35:04.238Z",
+  "market_updatedAt": "2024-04-26T02:45:00.249714Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-29T00:00:00Z",
+  "market_closedTime": "2021-04-30 17:41:14+00",
+  "conditionId": "0x96f62c25d0bcbb111a9089daae19e4e4261fbd5b0355033d03bfd7e4333f48d0",
+  "slug": "will-mac-jones-be-the-3rd-pick-in-the-nfl-draft",
+  "question": "Will Mac Jones be the 3rd pick in the NFL draft?"
+}

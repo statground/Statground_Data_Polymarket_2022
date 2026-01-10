@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "7715",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-12-14T18:15:16.132000Z",
+  "market_createdAt": "2020-12-14T18:15:16.132Z",
+  "market_updatedAt": "2023-01-31T20:03:23.97Z",
+  "market_startDate": null,
+  "market_endDate": "2021-01-22T00:00:00Z",
+  "market_closedTime": "2021-01-20 17:54:14+00",
+  "conditionId": "0x50f991d1bae967cfd5fc9fc5443bfb0bf9f41d04f101ff4b537a479829c0cbd6",
+  "slug": "will-donald-trump-pardon-ross-ulbricht",
+  "question": "Will Donald Trump pardon Ross Ulbricht?"
+}

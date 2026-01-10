@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238987",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-13T22:14:59.861000Z",
+  "market_createdAt": "2021-10-13T22:14:59.861Z",
+  "market_updatedAt": "2024-04-22T23:32:33.686695Z",
+  "market_startDate": "2021-10-14T16:33:54.575Z",
+  "market_endDate": "2021-10-17T00:00:00Z",
+  "market_closedTime": "2021-10-17 21:19:47+00",
+  "conditionId": "0x1f3cdc3b0bfcc76037788e789991b87801488e82d9e1ca05bc95ae4729f8f09a",
+  "slug": "will-the-packers-beat-the-bears-by-more-than-4pt5-points-in-their-week-six-matchup",
+  "question": "Will the Packers beat the Bears by more than 4.5 points in their week six matchup?"
+}

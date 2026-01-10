@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239063",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-20T19:56:38.756000Z",
+  "market_createdAt": "2021-10-20T19:56:38.756Z",
+  "market_updatedAt": "2024-04-26T02:45:14.717356Z",
+  "market_startDate": "2021-10-24T04:23:17.438Z",
+  "market_endDate": "2021-10-24T00:00:00Z",
+  "market_closedTime": "2021-10-25 02:31:51+00",
+  "conditionId": "0xd32b19767b18f2e88cd91e4881ca554585d983a3430d180e308652fa0fbb30a8",
+  "slug": "who-will-win-the-eagles-v-raiders-game-on-october-24th",
+  "question": "Who will win the Eagles v. Raiders game on October 24th?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240634",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-12T16:41:45.151000Z",
+  "market_createdAt": "2022-01-12T16:41:45.151Z",
+  "market_updatedAt": "2024-04-24T23:51:42.932314Z",
+  "market_startDate": "2022-01-12T21:06:59.848Z",
+  "market_endDate": "2022-01-12T00:00:00Z",
+  "market_closedTime": "2022-01-14 06:38:02+00",
+  "conditionId": "0x92abd015c30308a64421b7706bddad70bcef187e427bdeb46906bed135ee9fe7",
+  "slug": "nba-will-the-jazz-beat-the-cavaliers-by-more-than-5pt5-points-in-their-january-12-matchup",
+  "question": "NBA: Will the Jazz beat the Cavaliers by more than 5.5 points in their January 12 matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240149",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-23T10:31:28.702000Z",
+  "market_createdAt": "2021-12-23T10:31:28.702Z",
+  "market_updatedAt": "2024-04-24T23:42:55.452568Z",
+  "market_startDate": "2021-12-23T17:59:53.581Z",
+  "market_endDate": "2021-12-23T00:00:00Z",
+  "market_closedTime": "2021-12-24 17:31:26+00",
+  "conditionId": "0xa8b1cc15c69e233d4458cf367b19f736ed777c56b9d66811360737d1a9f29f96",
+  "slug": "nba-will-the-suns-beat-the-thunder-by-more-than-14pt5-points-in-their-december-23-matchup",
+  "question": "NBA: Will the Suns beat the Thunder by more than 14.5 points in their December 23 matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238792",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-17T19:44:16.921000Z",
+  "market_createdAt": "2021-09-17T19:44:16.921Z",
+  "market_updatedAt": "2024-04-22T22:57:14.885021Z",
+  "market_startDate": "2021-09-17T21:11:30.654Z",
+  "market_endDate": "2021-09-19T00:00:00Z",
+  "market_closedTime": "2021-09-20 20:45:34+00",
+  "conditionId": "0x95f6ac4a08b163b1b7557da953c59235e028d944fc3d1fffd9c32859d5e8dbe2",
+  "slug": "will-the-dolphins-or-the-bills-win-their-nfl-week-two-matchup",
+  "question": "Will the Dolphins or the Bills win their NFL week 2 matchup?"
+}

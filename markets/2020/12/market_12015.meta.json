@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "12015",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-12-21T21:20:51.956000Z",
+  "market_createdAt": "2020-12-21T21:20:51.956Z",
+  "market_updatedAt": "2024-04-22T23:40:18.925733Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-01T00:00:00Z",
+  "market_closedTime": "2021-01-08 23:37:02+00",
+  "conditionId": "0xa568ae80b6f68331265707522c441eed3b7553eac8ca1178a141e14ea327ef47",
+  "slug": "will-president-trump-be-suspended-from-twitter-before-april-1-2021",
+  "question": "Will President Trump be suspended from Twitter before April 1, 2021?"
+}

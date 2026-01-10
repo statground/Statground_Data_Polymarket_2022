@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242185",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-17T21:59:49.489000Z",
+  "market_createdAt": "2022-03-17T21:59:49.489Z",
+  "market_updatedAt": "2024-04-24T23:37:13.816206Z",
+  "market_startDate": "2022-03-17T23:20:23.423Z",
+  "market_endDate": "2022-03-27T00:00:00Z",
+  "market_closedTime": "2022-03-28 09:42:27+00",
+  "conditionId": "0xdb2a84311c51c072177ff22d409b422b49e59ce0bda7e2dd6fbd8f1a6e745bc5",
+  "slug": "oscars-2022-will-any-movie-win-6-or-more-awards",
+  "question": "Oscars 2022: Will any film win 6 or more awards?"
+}

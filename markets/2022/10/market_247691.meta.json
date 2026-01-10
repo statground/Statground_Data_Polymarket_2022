@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247691",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-18T17:44:17.943000Z",
+  "market_createdAt": "2022-10-18T17:44:17.943Z",
+  "market_updatedAt": "2023-01-31T20:09:24.542Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-08T00:00:00Z",
+  "market_closedTime": "2022-11-09 10:15:58+00",
+  "conditionId": "0x168ebde6e318e9d4843b6c20b8c9e88d28161290adb0b31d0b9c8f8cb17dd8d8",
+  "slug": "2022-us-gubernatorial-elections-will-a-democrat-or-republican-win-in-oklahoma",
+  "question": "Governor: Will a Democrat (Hofmeister) or Republican (Stitt) win in Oklahoma?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243984",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-01T06:48:03.376000Z",
+  "market_createdAt": "2022-05-01T06:48:03.376Z",
+  "market_updatedAt": "2023-01-31T12:01:53.38Z",
+  "market_startDate": "2022-05-01T13:58:10.762Z",
+  "market_endDate": "2022-05-01T00:00:00Z",
+  "market_closedTime": "2022-05-02 07:00:46+00",
+  "conditionId": "0x0f5fdedc2bab6707f7ee434ca66470ee4b4e041feff3dce3a95f04ada063787e",
+  "slug": "mlb-who-will-win-los-angeles-dodgers-vs-detroit-tigers-scheduled-for-may-1-410-pm-et",
+  "question": "MLB: Who will win Los Angeles Dodgers vs. Detroit Tigers, scheduled for May 1, 4:10 PM ET?"
+}

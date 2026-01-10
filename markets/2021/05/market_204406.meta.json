@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "204406",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-29T19:00:03.418000Z",
+  "market_createdAt": "2021-05-29T19:00:03.418Z",
+  "market_updatedAt": "2024-04-24T23:52:46.364072Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-31T00:00:00Z",
+  "market_closedTime": "2021-06-01 15:48:30+00",
+  "conditionId": "0xc113ede2dd62180a7c83780379dce0e73e9c9033c9df8ed4c17a917a975c4ac8",
+  "slug": "will-the-ftx-crypto-cup-finals-between-magnus-carlsen-and-wesley-so-go-to-play-offs",
+  "question": "Will the FTX Crypto Cup Finals between Magnus Carlsen and Wesley So go to play-offs?"
+}

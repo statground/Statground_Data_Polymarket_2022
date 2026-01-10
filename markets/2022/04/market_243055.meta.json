@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243055",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-09T16:38:53.221000Z",
+  "market_createdAt": "2022-04-09T16:38:53.221Z",
+  "market_updatedAt": "2023-01-31T20:31:17.16Z",
+  "market_startDate": "2022-04-09T17:40:31.458Z",
+  "market_endDate": "2022-04-09T00:00:00Z",
+  "market_closedTime": "2022-04-10 06:46:09+00",
+  "conditionId": "0x19dd251fbb02cc66606309958d2fa6a845e7344d0e7b70e01761b4baec2e7837",
+  "slug": "nba-who-will-win-clippers-vs-kings-scheduled-for-april-9-930-pm-et",
+  "question": "NBA: Who will win Clippers vs. Kings, scheduled for April 9 (9:30 PM ET)?"
+}

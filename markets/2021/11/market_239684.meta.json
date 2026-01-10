@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239684",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-29T20:42:33.778000Z",
+  "market_createdAt": "2021-11-29T20:42:33.778Z",
+  "market_updatedAt": "2024-04-23T00:49:22.110334Z",
+  "market_startDate": "2021-11-29T21:32:17.259Z",
+  "market_endDate": "2022-01-06T00:00:00Z",
+  "market_closedTime": "2022-01-07 16:38:17+00",
+  "conditionId": "0xa391f70b105d4347af6eb0b8c17d4216823d2c407ef775bd02465d271cfbf3b6",
+  "slug": "will-joe-biden-be-president-of-the-usa-on-january-6-2022",
+  "question": "Will Joe Biden be President of the USA on January 6, 2022?"
+}

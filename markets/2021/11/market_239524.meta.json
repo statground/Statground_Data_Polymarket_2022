@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239524",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-20T20:11:25.223000Z",
+  "market_createdAt": "2021-11-20T20:11:25.223Z",
+  "market_updatedAt": "2024-04-26T02:50:52.242096Z",
+  "market_startDate": "2021-11-20T20:27:42.78Z",
+  "market_endDate": "2021-11-23T00:00:00Z",
+  "market_closedTime": "2021-11-22 17:25:34+00",
+  "conditionId": "0x248beaaecc6a580c1087ec73981b7f935c57157ee292296e9317ca9bc273af90",
+  "slug": "will-ole-gunnar-solskjaer-be-sacked-or-resign-as-manchester-united-fc-coach-by-november-23rd",
+  "question": "Will Ole Gunnar Solskjaer be sacked (or resign) as Manchester United F.C. coach by November 23rd?"
+}

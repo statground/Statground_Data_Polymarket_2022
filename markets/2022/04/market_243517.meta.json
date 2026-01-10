@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243517",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-21T07:29:46.195000Z",
+  "market_createdAt": "2022-04-21T07:29:46.195Z",
+  "market_updatedAt": "2023-01-31T02:44:58.683Z",
+  "market_startDate": "2022-04-21T14:15:02.328Z",
+  "market_endDate": "2022-04-21T00:00:00Z",
+  "market_closedTime": "2022-04-22 07:17:31+00",
+  "conditionId": "0xbf51836d0c2c0ff6cb2446ff380a9ec5791a60469352f3382eb257d8a74bd09c",
+  "slug": "nhl-will-the-panthers-beat-the-wings-by-more-than-2pt5-goals-in-their-april-21-700-pm-et-matchup",
+  "question": "NHL: Will the Panthers beat the Wings by more than 2.5 goals in their April 21, 7:00 PM ET matchup?"
+}

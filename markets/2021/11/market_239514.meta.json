@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239514",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-20T15:06:53.939000Z",
+  "market_createdAt": "2021-11-20T15:06:53.939Z",
+  "market_updatedAt": "2024-04-26T02:47:37.063957Z",
+  "market_startDate": "2021-11-20T19:50:27.899Z",
+  "market_endDate": "2021-11-20T00:00:00Z",
+  "market_closedTime": "2021-11-21 15:52:31+00",
+  "conditionId": "0xb9bc338db6b86171a932dd48b18c4339e5ae0eaaa80a8955e4f7561a9216a6e7",
+  "slug": "nba-will-the-knicks-beat-the-rockets-by-more-than-11pt5-points-in-their-november-20th-matchup",
+  "question": "NBA: Will the Knicks beat the Rockets by more than 11.5 points in their November 20th matchup?"
+}

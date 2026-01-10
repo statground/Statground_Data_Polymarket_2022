@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "194753",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-12T16:40:16Z",
+  "market_createdAt": "2021-05-12T16:40:16Z",
+  "market_updatedAt": "2024-04-25T00:00:41.461916Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-12T00:00:00Z",
+  "market_closedTime": "2021-05-13 14:36:45+00",
+  "conditionId": "0xb5ea79b0e18f495acde448bdf3e2579f18d292085192281e834d62549535dcf1",
+  "slug": "will-jeff-koons-pancakes-sell-for-more-than-1-5-million-at-sotheby-s",
+  "question": "Will Jeff Koons' “Pancakes” sell for more than $1.5 million at Sotheby’s?"
+}

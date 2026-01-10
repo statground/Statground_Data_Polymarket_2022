@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241565",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-16T19:16:05.403000Z",
+  "market_createdAt": "2022-02-16T19:16:05.403Z",
+  "market_updatedAt": "2024-04-23T00:59:33.604016Z",
+  "market_startDate": "2022-02-16T19:38:02.173Z",
+  "market_endDate": "2022-02-16T00:00:00Z",
+  "market_closedTime": "2022-02-17 20:10:18+00",
+  "conditionId": "0x14f30b9526f53294bd066d4731d70742897f8881264d2f483f17e7cf13eaa297",
+  "slug": "nba-will-the-hawks-beat-the-magic-by-more-than-5p5-points-in-their-february-16-7-pm-et-matchup",
+  "question": "NBA: Will the Hawks beat the Magic by more than 5.5 points in their February 16 (7 PM ET) matchup?"
+}

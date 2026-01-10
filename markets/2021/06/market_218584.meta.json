@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218584",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-21T16:45:02.020000Z",
+  "market_createdAt": "2021-06-21T16:45:02.02Z",
+  "market_updatedAt": "2024-04-23T00:13:40.006937Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-23T00:00:00Z",
+  "market_closedTime": "2021-06-26 18:07:54+00",
+  "conditionId": "0xd173109057cdb757ae1825533ca2aa446ac8dc0aeea7489fad7f90102af110ad",
+  "slug": "who-will-win-islanders-v-lightning-semifinals-game-6-1",
+  "question": "Who will win Islanders v. Lightning: Semifinals Game 6?"
+}

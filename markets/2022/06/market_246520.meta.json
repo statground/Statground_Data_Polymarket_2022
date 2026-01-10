@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246520",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-10T11:32:49.795000Z",
+  "market_createdAt": "2022-06-10T11:32:49.795Z",
+  "market_updatedAt": "2023-01-31T14:03:47.349Z",
+  "market_startDate": "2022-06-10T15:02:19.315Z",
+  "market_endDate": "2022-06-12T00:00:00Z",
+  "market_closedTime": "2022-06-12 15:45:42+00",
+  "conditionId": "0x265a3c12b091c26f9cc44e021141b90114b6e2faf316e7ffd5bcd7837b930582",
+  "slug": "formula-1-will-there-be-2-or-more-safety-cars-at-the-2022-azerbaijan-grand-prix",
+  "question": "Formula 1: Will there be 2 or more safety cars at the 2022 Azerbaijan Grand Prix?"
+}

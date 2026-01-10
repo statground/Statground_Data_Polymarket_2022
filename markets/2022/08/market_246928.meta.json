@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246928",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-06T00:42:03.033000Z",
+  "market_createdAt": "2022-08-06T00:42:03.033Z",
+  "market_updatedAt": "2023-01-31T18:53:40.913Z",
+  "market_startDate": "2022-08-06T01:42:40.691Z",
+  "market_endDate": "2022-08-23T00:00:00Z",
+  "market_closedTime": "2022-08-24 16:31:24+00",
+  "conditionId": "0x6ff5a0f3f9f6a55572b56f1a53aa5099786b29c4c002b080b67db917e447d04e",
+  "slug": "will-daniel-goldman-win-the-democratic-nomination-for-the-ny-10-house-election",
+  "question": "Will Daniel Goldman win the Democratic nomination for the NY-10 House election?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239133",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-29T12:14:47.970000Z",
+  "market_createdAt": "2021-10-29T12:14:47.97Z",
+  "market_updatedAt": "2024-04-22T22:42:09.27519Z",
+  "market_startDate": "2021-10-29T19:06:29.829Z",
+  "market_endDate": "2021-10-29T00:00:00Z",
+  "market_closedTime": "2021-10-30 17:15:59+00",
+  "conditionId": "0xfdc24ca1b8765ec6b543d55dc87441732fe97c8772b174d4276f2cebecec9351",
+  "slug": "who-will-win-the-kings-v-pelicans-game-on-october-29th",
+  "question": "Who will win the Kings v. Pelicans game on October 29th?"
+}

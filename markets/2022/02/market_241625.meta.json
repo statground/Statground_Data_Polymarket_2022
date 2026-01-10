@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241625",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-19T18:12:05.257000Z",
+  "market_createdAt": "2022-02-19T18:12:05.257Z",
+  "market_updatedAt": "2024-04-23T00:28:46.254263Z",
+  "market_startDate": "2022-02-19T18:16:10.675Z",
+  "market_endDate": "2022-03-01T00:00:00Z",
+  "market_closedTime": "2022-02-25 17:53:51+00",
+  "conditionId": "0x4b0fbc526d502f6ef751223f7aae4745d14d3a5c91b4739fd9949d92812ca402",
+  "slug": "will-kanye-west-mention-pete-davidson-as-skete-again-on-instagram-before-march-1",
+  "question": "Will Kanye West mention Pete Davidson as \"Skete\" again on Instagram before March 1?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248028",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T20:29:59.869000Z",
+  "market_createdAt": "2022-11-18T20:29:59.869Z",
+  "market_updatedAt": "2023-01-31T19:08:42.548Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-06T00:00:00Z",
+  "market_closedTime": "2022-12-01 19:16:18+00",
+  "conditionId": "0xd97bbc4f3ebc9732dfd58eb46ec5155a453de9732a223b075c157a28989603ae",
+  "slug": "will-tunisia-qualify-from-group-d",
+  "question": "Will Tunisia qualify from Group D?"
+}

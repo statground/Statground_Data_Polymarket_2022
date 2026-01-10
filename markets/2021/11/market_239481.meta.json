@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239481",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-17T14:12:18.899000Z",
+  "market_createdAt": "2021-11-17T14:12:18.899Z",
+  "market_updatedAt": "2024-04-23T00:36:30.951672Z",
+  "market_startDate": "2021-11-17T19:24:33.514Z",
+  "market_endDate": "2021-11-21T00:00:00Z",
+  "market_closedTime": "2021-11-22 18:47:23+00",
+  "conditionId": "0x4df91fce315bcaaabf6943b42be6db2a9dc5f6ff4a3da62117571f4ecad00653",
+  "slug": "nfl-will-the-packers-beat-the-vikings-by-more-than-2pt5-points-in-their-november-21st-matchup",
+  "question": "NFL: Will the Packers beat the Vikings by more than 2.5 points in their November 21st matchup?"
+}

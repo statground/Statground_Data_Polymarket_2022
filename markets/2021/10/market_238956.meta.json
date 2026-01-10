@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238956",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-06T18:56:31.117000Z",
+  "market_createdAt": "2021-10-06T18:56:31.117Z",
+  "market_updatedAt": "2024-04-25T00:12:41.224442Z",
+  "market_startDate": "2021-10-06T20:00:54.544Z",
+  "market_endDate": null,
+  "market_closedTime": "2021-11-24 17:09:21+00",
+  "conditionId": "0x233a77f1d9f21f94e9e701f280682ce19707ba44cee7e4020ba17a73e9b9be43",
+  "slug": "will-olivia-jade-and-val-chmerkovskiy-win-this-season-of-dancing-with-the-stars",
+  "question": "Will Olivia Jade and Val Chmerkovskiy Win Season 30 of Dancing with the Stars?"
+}

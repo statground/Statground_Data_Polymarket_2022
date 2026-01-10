@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240190",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-27T10:48:52.740000Z",
+  "market_createdAt": "2021-12-27T10:48:52.74Z",
+  "market_updatedAt": "2024-04-22T23:51:34.846161Z",
+  "market_startDate": "2021-12-27T19:06:40.272Z",
+  "market_endDate": "2021-12-27T00:00:00Z",
+  "market_closedTime": "2021-12-28 19:51:01+00",
+  "conditionId": "0xd221e084f35f32d2cad94d1cac3f2d28cebd2586d3215ddf146a645d55b925a7",
+  "slug": "nba-will-the-bulls-beat-the-hawks-by-more-than-5pt5-points-in-their-december-27-matchup",
+  "question": "NBA: Will the Bulls beat the Hawks by more than 5.5 points in their December 27 matchup?"
+}

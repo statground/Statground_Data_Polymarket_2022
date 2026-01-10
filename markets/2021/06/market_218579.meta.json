@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218579",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-21T16:30:01.161000Z",
+  "market_createdAt": "2021-06-21T16:30:01.161Z",
+  "market_updatedAt": "2024-04-22T22:57:22.776302Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-23T00:00:00Z",
+  "market_closedTime": "2021-06-24 19:35:20+00",
+  "conditionId": "0xa8f592ea52c50244532e733ba0fb6a7a0aac156e66a557b4fea890812db55fce",
+  "slug": "will-portugal-or-france-win-their-euro-2020-match-1",
+  "question": "Will Portugal or France win their Euro 2020 match?"
+}

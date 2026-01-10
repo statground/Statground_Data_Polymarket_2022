@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238954",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-06T18:15:56.488000Z",
+  "market_createdAt": "2021-10-06T18:15:56.488Z",
+  "market_updatedAt": "2024-04-22T23:57:24.969173Z",
+  "market_startDate": "2021-10-06T18:43:24.01Z",
+  "market_endDate": "2021-11-29T00:00:00Z",
+  "market_closedTime": "2021-11-29 18:24:53+00",
+  "conditionId": "0x8b5518408e2b3cdec53c537c2e0d55f3a4c6638fb98b631146343a8aa647738b",
+  "slug": "will-nicki-minaj-get-the-covid-19-vaccine-by-nov-29",
+  "question": "Will Nicki Minaj get the COVID-19 vaccine by November 29th?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241181",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-29T10:15:53.599000Z",
+  "market_createdAt": "2022-01-29T10:15:53.599Z",
+  "market_updatedAt": "2024-04-23T00:38:12.116513Z",
+  "market_startDate": "2022-01-29T18:07:00.161Z",
+  "market_endDate": "2022-01-29T00:00:00Z",
+  "market_closedTime": "2022-01-31 01:13:38+00",
+  "conditionId": "0x805b3f3a172b597aeb9e4c4b8f4347cfd2f7f1ada1447da4bdd914f1b27da4b2",
+  "slug": "nba-who-will-win-the-76ers-vs-kings-scheduled-for-january-29-730-pm-et",
+  "question": "NBA: Who will win the 76ers vs. Kings, scheduled for January 29 (7.30 PM ET)?"
+}

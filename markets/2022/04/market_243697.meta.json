@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243697",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-26T08:09:19.469000Z",
+  "market_createdAt": "2022-04-26T08:09:19.469Z",
+  "market_updatedAt": "2023-01-31T19:21:22.863Z",
+  "market_startDate": "2022-04-26T15:20:25.686Z",
+  "market_endDate": "2022-04-26T00:00:00Z",
+  "market_closedTime": "2022-04-27 06:47:23+00",
+  "conditionId": "0x974616e3c126005d9ea76a0d6103e3bee565b6d524d5a5e2369f606576ba6bcf",
+  "slug": "nba-will-the-suns-beat-the-pelicans-by-more-than-6pt5-points-in-their-april-26-1000-pm-et-matchup",
+  "question": "NBA: Will the Suns beat the Pelicans by more than 6.5 points in their April 26, 10:00 PM ET matchup?"
+}

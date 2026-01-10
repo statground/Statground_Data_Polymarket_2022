@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246592",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-24T16:46:10.149000Z",
+  "market_createdAt": "2022-06-24T16:46:10.149Z",
+  "market_updatedAt": "2023-01-31T20:55:51.791Z",
+  "market_startDate": "2022-06-24T17:49:02.825Z",
+  "market_endDate": "2022-07-10T00:00:00Z",
+  "market_closedTime": "2022-07-02 19:15:45+00",
+  "conditionId": "0xf9d2cb7c075bd4a8d79f0d129e60ba41e6c7da705d1eeba2a552009183b1c248",
+  "slug": "2022-wimbledon-championships-will-iga-witek-win-womens-singles",
+  "question": "2022 Wimbledon Championships: Will Iga Świątek win Women's Singles?"
+}

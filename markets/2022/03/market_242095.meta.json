@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242095",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-15T15:22:14.427000Z",
+  "market_createdAt": "2022-03-15T15:22:14.427Z",
+  "market_updatedAt": "2024-04-24T23:59:57.571009Z",
+  "market_startDate": "2022-03-15T17:56:02.101Z",
+  "market_endDate": "2022-03-15T00:00:00Z",
+  "market_closedTime": "2022-03-16 11:45:50+00",
+  "conditionId": "0xc15daf8d6a6b1f117d9109929a2ba0fdb64f87da83786225d645af7cc23cbfd0",
+  "slug": "nba-will-the-nets-beat-the-magic-by-more-than-9pt5-points-in-their-march-15-7-pm-et-matchup",
+  "question": "NBA: Will the Nets beat the Magic by more than 9.5 points in their March 15 (7 PM ET) matchup?"
+}

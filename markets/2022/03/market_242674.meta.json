@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242674",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-31T09:07:17.605000Z",
+  "market_createdAt": "2022-03-31T09:07:17.605Z",
+  "market_updatedAt": "2024-04-22T23:05:43.246421Z",
+  "market_startDate": "2022-03-31T16:55:33.492Z",
+  "market_endDate": "2022-03-31T00:00:00Z",
+  "market_closedTime": "2022-04-01 06:46:24+00",
+  "conditionId": "0xa1db6d667988d94bd6d69de121ac3c72196b70e0e6b1e5684777a1275d801992",
+  "slug": "nba-will-the-hawks-beat-the-cavaliers-by-more-than-5pt5-points-in-their-march-31-740-pm-et-matchup",
+  "question": "NBA: Will the Hawks beat the Cavaliers by more than 5.5 points in their March 31, 7:40 PM ET matchup?"
+}

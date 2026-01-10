@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "202099",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-25T16:50:02.030000Z",
+  "market_createdAt": "2021-05-25T16:50:02.03Z",
+  "market_updatedAt": "2024-04-22T22:45:59.739655Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-05T00:00:00Z",
+  "market_closedTime": "2021-07-06 20:58:00+00",
+  "conditionId": "0x06a24acb8202d98e7b9250fe999ed053efca7daa1316cbfc467fd4d678d44061",
+  "slug": "will-21-us-states-administer-at-least-one-covid-19-vaccine-dose-to-70-of-adults-by-july-5",
+  "question": "Will 21 US States administer at least one COVID-19 vaccine dose to 70% of adults by July 5?"
+}

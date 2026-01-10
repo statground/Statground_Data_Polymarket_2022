@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239427",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-14T12:52:43.586000Z",
+  "market_createdAt": "2021-11-14T12:52:43.586Z",
+  "market_updatedAt": "2024-04-26T02:50:29.819838Z",
+  "market_startDate": "2023-08-24T16:35:26.539Z",
+  "market_endDate": "2021-11-16T00:00:00Z",
+  "market_closedTime": "2021-11-17 05:30:42+00",
+  "conditionId": "0xf17197c3b4d83b91fc24c3c3cc41ff818b354034d09b737aab112f2de3a15100",
+  "slug": "will-the-sum-of-goals-in-jamaica-v-usa-soccer-matchup-be-an-even-or-odd-number-1",
+  "question": "Will the sum of goals in Jamaica v. USA soccer matchup be an even or odd number?"
+}

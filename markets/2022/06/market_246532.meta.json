@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246532",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-12T10:56:50.944000Z",
+  "market_createdAt": "2022-06-12T10:56:50.944Z",
+  "market_updatedAt": "2023-03-03T21:11:33.034Z",
+  "market_startDate": "2022-06-14T16:09:49.077Z",
+  "market_endDate": "2023-01-01T00:00:00Z",
+  "market_closedTime": "2022-06-18 11:45:41+00",
+  "conditionId": "0x7a4a7f1082f61d81f89313ecf1b1c267c5fa2457cd2b8ad86219fd3277dce537",
+  "slug": "will-eth-hit-1000-or-2000-first-1",
+  "question": "Will $ETH hit $1,000 or $2,000 first? "
+}

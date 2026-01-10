@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240654",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-12T21:35:19.964000Z",
+  "market_createdAt": "2022-01-12T21:35:19.964Z",
+  "market_updatedAt": "2024-04-23T00:49:01.953413Z",
+  "market_startDate": "2022-02-11T19:05:03.604Z",
+  "market_endDate": "2022-02-28T00:00:00Z",
+  "market_closedTime": "2022-03-01 23:21:07+00",
+  "conditionId": "0x5efca5ad68d6617de54c1ca954cd4c921260a24d8bc6227ad77ca58891738151",
+  "slug": "will-spacexs-starship-successfully-reach-outer-space-by-february-28-2022",
+  "question": "Will SpaceX's Starship successfully reach outer space by February 28, 2022?"
+}

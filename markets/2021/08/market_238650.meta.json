@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238650",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-24T22:58:01.355000Z",
+  "market_createdAt": "2021-08-24T22:58:01.355Z",
+  "market_updatedAt": "2024-04-22T23:54:16.923012Z",
+  "market_startDate": "2021-08-26T22:00:26.517Z",
+  "market_endDate": "2021-12-31T00:00:00Z",
+  "market_closedTime": "2022-01-02 21:14:28+00",
+  "conditionId": "0x1627b64e2f20339ba16b48bd7994edae738c156aa5eb65e4159e8c0402b537fa",
+  "slug": "will-eip-3756-be-accepted-prior-to-january-1-2022",
+  "question": "Will EIP-3756 \"Gas Limit Cap\" be accepted prior to January 1, 2022?"
+}

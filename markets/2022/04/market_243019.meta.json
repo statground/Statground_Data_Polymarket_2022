@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243019",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-07T10:52:59.339000Z",
+  "market_createdAt": "2022-04-07T10:52:59.339Z",
+  "market_updatedAt": "2024-04-22T23:21:53.938278Z",
+  "market_startDate": "2022-04-07T17:12:25.082Z",
+  "market_endDate": "2022-06-07T00:00:00Z",
+  "market_closedTime": "2022-06-08 17:45:36+00",
+  "conditionId": "0x4b182ef0f98f609b107f0b55dd7294c232d039a00b13607eebfeeb0e57e849b4",
+  "slug": "will-the-7-day-covid-19-case-average-in-the-usa-be-below-20000-by-may-31",
+  "question": "Will the 7-day COVID-19 case average in the USA be below 20,000 by May 31?"
+}

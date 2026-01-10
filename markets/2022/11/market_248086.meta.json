@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248086",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-19T00:02:10.722000Z",
+  "market_createdAt": "2022-11-19T00:02:10.722Z",
+  "market_updatedAt": "2023-11-25T14:09:07.09Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-21T00:00:00Z",
+  "market_closedTime": "2022-11-21 19:15:35+00",
+  "conditionId": "0xcf87e4ce6e6589fc9b94664d5be7ec966d0e801b2dd364593f93c30d7fb8b3c7",
+  "slug": "world-cup-2022-monday-will-england-beat-iran",
+  "question": "World Cup 2022: Monday - Will England beat Iran?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239349",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-10T19:10:45.401000Z",
+  "market_createdAt": "2021-11-10T19:10:45.401Z",
+  "market_updatedAt": "2024-04-22T23:24:20.547766Z",
+  "market_startDate": "2021-11-10T20:19:59.841Z",
+  "market_endDate": "2021-11-11T00:00:00Z",
+  "market_closedTime": "2021-11-12 19:52:17+00",
+  "conditionId": "0x9d5bf7fb455e5a28c5ac2c61e6e9a09a3544db7787b76aad755c5d8a3f4244d9",
+  "slug": "will-paul-cezannes-lestaque-aux-toits-rouges-lot-10c-sell-for-more-than-55m-at-christies-on-november-11",
+  "question": "Will Paul Cezanne's “L'Estaque aux toits rouges” (Lot 10C) sell for more than $55m at Christie’s on November 11?"
+}

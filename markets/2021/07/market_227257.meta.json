@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "227257",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-30T18:00:01.206000Z",
+  "market_createdAt": "2021-07-30T18:00:01.206Z",
+  "market_updatedAt": "2024-04-25T00:00:00.436278Z",
+  "market_startDate": "2021-07-30T19:41:42.382Z",
+  "market_endDate": "2021-08-06T00:00:00Z",
+  "market_closedTime": "2021-08-06 19:28:34+00",
+  "conditionId": "0x755289430e79510989932895a4eeabb8c214bd3b7aa5d07fc06e6440d12e2594",
+  "slug": "will-billie-eilishs-happier-than-ever-sell-more-than-400k-album-units-in-its-first-week",
+  "question": "Will Billie Eilish’s “Happier Than Ever” sell more than 400K album units in its first week?"
+}

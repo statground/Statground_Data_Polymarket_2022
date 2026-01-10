@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "89627",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-16T20:40:01.933000Z",
+  "market_createdAt": "2021-02-16T20:40:01.933Z",
+  "market_updatedAt": "2023-01-31T09:05:11.119Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-17T00:00:00Z",
+  "market_closedTime": "2021-02-18 18:56:45+00",
+  "conditionId": "0x543fc827f4c65a99fe6bbcdd79a230321c71a2b46e1c4d057fca7ed896e2b97f",
+  "slug": "will-the-heat-or-the-warriors-win-their-february-17th-matchup",
+  "question": "Will the Heat or the Warriors win their February 17th matchup?"
+}

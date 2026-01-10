@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241361",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-07T11:21:08.747000Z",
+  "market_createdAt": "2022-02-07T11:21:08.747Z",
+  "market_updatedAt": "2024-04-23T00:16:39.390649Z",
+  "market_startDate": "2022-02-07T17:44:03.844Z",
+  "market_endDate": "2022-02-07T00:00:00Z",
+  "market_closedTime": "2022-02-09 17:56:49+00",
+  "conditionId": "0x999d46346b26c2a2fe1aeaf85289631b3223b474a2ad3ae71bdacac7ba504d67",
+  "slug": "nba-will-the-heat-beat-the-wizards-by-more-than-5p5-points-in-their-february-7-7-pm-et-matchup",
+  "question": "NBA: Will the Heat beat the Wizards by more than 5.5 points in their February 7 (7 PM ET) matchup?"
+}

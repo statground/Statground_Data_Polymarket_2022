@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240744",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-14T14:33:05.653000Z",
+  "market_createdAt": "2022-01-14T14:33:05.653Z",
+  "market_updatedAt": "2024-04-22T22:47:52.862081Z",
+  "market_startDate": "2022-01-14T22:53:30.301Z",
+  "market_endDate": "2022-01-14T00:00:00Z",
+  "market_closedTime": "2022-01-16 18:06:02+00",
+  "conditionId": "0x562545bd36fce7c0547b1c8dd8b01256bc517be64952d1163d06234ba9538d90",
+  "slug": "nhl-will-the-panthers-beat-the-stars-by-more-than-1p5-goals-in-their-january-14-matchup",
+  "question": "NHL: Will the Panthers beat the Stars by more than 1.5 goals in their January 14 matchup?"
+}

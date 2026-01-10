@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "245033",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-19T15:55:11.913000Z",
+  "market_createdAt": "2022-05-19T15:55:11.913Z",
+  "market_updatedAt": "2023-01-31T09:05:04.475Z",
+  "market_startDate": "2022-05-20T16:19:38.94Z",
+  "market_endDate": "2022-05-27T00:00:00Z",
+  "market_closedTime": "2022-05-27 19:15:44+00",
+  "conditionId": "0xef68fd4a837eeb183cb69a59c7d4a45bec3ff5be0170f5d489fe017e3300a81f",
+  "slug": "will-eth-be-above-2000-on-may-27",
+  "question": "Will $ETH be above $2,000 on May 27?"
+}

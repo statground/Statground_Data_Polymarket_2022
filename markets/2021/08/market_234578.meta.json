@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "234578",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-13T04:30:01.790000Z",
+  "market_createdAt": "2021-08-13T04:30:01.79Z",
+  "market_updatedAt": "2024-04-24T23:16:02.379437Z",
+  "market_startDate": "2021-08-13T04:35:06.46Z",
+  "market_endDate": "2021-08-17T00:00:00Z",
+  "market_closedTime": "2021-08-18 15:29:10+00",
+  "conditionId": "0x658643c6e8ef66d0f1b75ec5de68e2f75be3724c7ca70a24fec6453376f7579a",
+  "slug": "will-free-guy-gross-more-than-20m-domestically-on-opening-weekend",
+  "question": "Will Free Guy gross more than $20M domestically on opening weekend?"
+}

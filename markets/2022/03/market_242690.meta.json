@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242690",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-31T22:09:35.178000Z",
+  "market_createdAt": "2022-03-31T22:09:35.178Z",
+  "market_updatedAt": "2024-04-22T23:10:04.761155Z",
+  "market_startDate": "2022-03-31T23:17:43.186Z",
+  "market_endDate": "2022-05-01T00:00:00Z",
+  "market_closedTime": "2022-05-02 18:31:02+00",
+  "conditionId": "0x688eea2e22e814aae56c1fbba53c097a8f4d6f01fd9b2d0cf78489ddae1ba089",
+  "slug": "will-joe-bidens-fivethirtyeight-approval-rating-be-41pt5-or-higher-on-april-30",
+  "question": "Will Joe Biden's FiveThirtyEight approval rating be 41.5% or higher on April 30?"
+}

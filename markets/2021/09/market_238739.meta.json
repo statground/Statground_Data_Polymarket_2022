@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238739",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-12T00:40:01.305000Z",
+  "market_createdAt": "2021-09-12T00:40:01.305Z",
+  "market_updatedAt": "2023-01-31T09:21:05.57Z",
+  "market_startDate": "2021-09-12T02:11:38.593Z",
+  "market_endDate": null,
+  "market_closedTime": "2021-10-22 21:39:22+00",
+  "conditionId": "0xd6249c8acde015a75dcfc21554a222a0163347577a55cf648330a1c204516a67",
+  "slug": "who-will-get-more-votes-in-the-2021-california-recall-election-paffrath-faulconer-or-cox",
+  "question": "Who will get more votes in the 2021 California recall election: Paffrath, Faulconer, or Cox?"
+}

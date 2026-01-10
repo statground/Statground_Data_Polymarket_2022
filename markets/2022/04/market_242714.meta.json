@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242714",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-01T09:07:59.032000Z",
+  "market_createdAt": "2022-04-01T09:07:59.032Z",
+  "market_updatedAt": "2024-04-23T00:07:38.214119Z",
+  "market_startDate": "2022-04-01T15:35:32.659Z",
+  "market_endDate": "2022-04-01T00:00:00Z",
+  "market_closedTime": "2022-04-02 07:19:22+00",
+  "conditionId": "0xf42cea9c9b5d0f5cd7fd68da6dc2ab963b1e18f5fe5065836cf68572c4a77157",
+  "slug": "nba-who-will-win-pistons-vs-thunder-scheduled-for-april-1-810-pm-et",
+  "question": "NBA: Who will win Pistons vs. Thunder, scheduled for April 1, 8:10 PM ET?"
+}

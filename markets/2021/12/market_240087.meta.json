@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240087",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-17T16:16:29.077000Z",
+  "market_createdAt": "2021-12-17T16:16:29.077Z",
+  "market_updatedAt": "2024-04-26T02:47:59.520436Z",
+  "market_startDate": "2021-12-17T22:47:16.676Z",
+  "market_endDate": "2021-12-17T00:00:00Z",
+  "market_closedTime": "2021-12-18 18:10:59+00",
+  "conditionId": "0x4cd2229fe30ae13b951225f09e7e69902dc88fab149bc6ac29a64aff7a164936",
+  "slug": "nba-will-the-grizzlies-beat-the-kings-by-more-than-4pt5-points-in-their-december-17-matchup",
+  "question": "NBA: Will the Grizzlies beat the Kings by more than 4.5 points in their December 17 matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "234328",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-12T20:12:01.416000Z",
+  "market_createdAt": "2021-08-12T20:12:01.416Z",
+  "market_updatedAt": "2024-04-23T00:52:40.808562Z",
+  "market_startDate": "2021-08-12T20:42:22.678Z",
+  "market_endDate": "2021-08-15T00:00:00Z",
+  "market_closedTime": "2021-08-18 15:28:46+00",
+  "conditionId": "0xa82c4e4318da7a43f4e3b1e636eab182972ee37a1ef0658147f48d0b8df90f6c",
+  "slug": "will-teams-from-the-afc-or-nfc-win-more-games-in-the-2021-nfl-preseason-week-1",
+  "question": "Will teams from the AFC or NFC win more games in the 2021 NFL Preseason Week 1?"
+}

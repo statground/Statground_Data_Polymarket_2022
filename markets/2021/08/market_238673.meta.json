@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238673",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-29T05:54:01.026000Z",
+  "market_createdAt": "2021-08-29T05:54:01.026Z",
+  "market_updatedAt": "2024-04-24T23:27:44.187156Z",
+  "market_startDate": "2021-08-29T06:30:54.844Z",
+  "market_endDate": "2021-08-29T00:00:00Z",
+  "market_closedTime": "2021-08-30 15:31:50+00",
+  "conditionId": "0x6fc22755f6fd667306643bb6a250a9015e6a5a5380b40a8c785cc092bb781acc",
+  "slug": "will-the-patriots-beat-the-giants-by-more-than-3-points-in-their-nfl-preseason-matchup",
+  "question": "Will the Patriots beat the Giants by more than 3 points in their NFL preseason matchup?"
+}

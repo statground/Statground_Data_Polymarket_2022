@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246935",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-08T17:16:01.571000Z",
+  "market_createdAt": "2022-08-08T17:16:01.571Z",
+  "market_updatedAt": "2023-01-31T21:06:35.322Z",
+  "market_startDate": "2022-08-12T20:13:48.371Z",
+  "market_endDate": "2022-08-11T00:00:00Z",
+  "market_closedTime": "2022-08-12 17:03:48+00",
+  "conditionId": "0x0db6c712cd6a9d9d907084e21b1378dc7b04618fa44b126b93b27c26fbb347c7",
+  "slug": "mlb-who-will-win-chicago-cubs-v-cincinnati-reds-scheduled-for-august-11-715-pm-et",
+  "question": "MLB: Who will win Chicago Cubs v. Cincinnati Reds, scheduled for August 11, 7:15 PM ET?"
+}

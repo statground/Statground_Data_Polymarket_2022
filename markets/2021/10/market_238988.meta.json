@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238988",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-13T22:24:38.725000Z",
+  "market_createdAt": "2021-10-13T22:24:38.725Z",
+  "market_updatedAt": "2024-04-22T23:54:44.989799Z",
+  "market_startDate": "2021-10-14T16:34:34.904Z",
+  "market_endDate": "2021-10-19T00:00:00Z",
+  "market_closedTime": "2021-10-20 09:25:11+00",
+  "conditionId": "0xf5fccf47d716e95e7552c5496d206bf44797aeb62b008741e5c79afb4c3fe6a2",
+  "slug": "will-the-nets-or-the-bucks-win-their-season-opener",
+  "question": "Will the Nets or the Bucks win their season opener?"
+}

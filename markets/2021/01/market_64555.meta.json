@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "64555",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-01-29T01:10:03.455000Z",
+  "market_createdAt": "2021-01-29T01:10:03.455Z",
+  "market_updatedAt": "2024-04-22T22:56:59.984199Z",
+  "market_startDate": "2021-01-28T00:00:00Z",
+  "market_endDate": "2021-01-29T00:00:00Z",
+  "market_closedTime": "2021-01-29 17:00:38+00",
+  "conditionId": "0x2a71b9766bd607334bc24b398ff53dd3113aa92611acbfd443f2419d1fd0aa4f",
+  "slug": "will-the-warriors-or-the-suns-win-their-january-28th-matchup",
+  "question": "Will the Warriors or the Suns win their January 28th matchup?"
+}

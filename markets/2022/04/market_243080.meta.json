@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243080",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-11T11:32:59.370000Z",
+  "market_createdAt": "2022-04-11T11:32:59.37Z",
+  "market_updatedAt": "2023-08-20T19:20:49.087Z",
+  "market_startDate": "2022-04-11T15:50:54.733Z",
+  "market_endDate": "2022-04-11T00:00:00Z",
+  "market_closedTime": "2022-04-12 07:30:47+00",
+  "conditionId": "0xa95bc6f783706cba0449065314c7f14261c9930d790ca6d53a12b97d43ac5b9e",
+  "slug": "mlb-who-will-win-mets-vs-phillies-game-on-april-11",
+  "question": "MLB: Who will win Mets vs. Phillies game on April 11?"
+}

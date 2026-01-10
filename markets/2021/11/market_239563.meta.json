@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239563",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-22T17:04:49.382000Z",
+  "market_createdAt": "2021-11-22T17:04:49.382Z",
+  "market_updatedAt": "2024-04-23T00:53:31.534843Z",
+  "market_startDate": "2021-11-22T19:36:14.713Z",
+  "market_endDate": "2021-11-22T00:00:00Z",
+  "market_closedTime": "2021-11-23 13:47:30+00",
+  "conditionId": "0x862764a78f1c23aebd384cf4c4fa243c534dc1e72d0c353f93446e5cec3f631b",
+  "slug": "nba-will-the-jazz-beat-the-grizzlies-by-more-than-10pt5-points-in-their-november-22-matchup",
+  "question": "NBA: Will the Jazz beat the Grizzlies by more than 10.5 points in their November 22 matchup?"
+}

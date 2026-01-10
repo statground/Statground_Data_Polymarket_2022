@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240986",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-24T17:37:36.043000Z",
+  "market_createdAt": "2022-01-24T17:37:36.043Z",
+  "market_updatedAt": "2024-04-22T23:08:26.898865Z",
+  "market_startDate": "2022-01-24T20:11:55.018Z",
+  "market_endDate": "2022-01-24T00:00:00Z",
+  "market_closedTime": "2022-01-26 03:03:30+00",
+  "conditionId": "0x5e815d13a7e71f5fe035d21d0947489e9354732f5159f6dcf852839cc62835a8",
+  "slug": "nba-will-the-suns-beat-the-jazz-by-more-than-9p5-points-in-their-january-24-matchup",
+  "question": "NBA: Will the Suns beat the Jazz by more than 9.5 points in their January 24 matchup?"
+}

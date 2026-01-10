@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "203792",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-28T17:55:03.234000Z",
+  "market_createdAt": "2021-05-28T17:55:03.234Z",
+  "market_updatedAt": "2024-04-22T23:34:28.14521Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-02T00:00:00Z",
+  "market_closedTime": "2021-06-03 15:15:57+00",
+  "conditionId": "0x83cf5dcca9de17be4e87d47833b5a6f1821b12d402e5271530b23efe0b2bc116",
+  "slug": "who-will-win-knicks-vs-hawks-game-5-1",
+  "question": "Who will win Knicks vs. Hawks: Game 5?"
+}

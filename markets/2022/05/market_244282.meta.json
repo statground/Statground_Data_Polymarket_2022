@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244282",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-05T20:10:36.401000Z",
+  "market_createdAt": "2022-05-05T20:10:36.401Z",
+  "market_updatedAt": "2023-01-31T20:16:21.427Z",
+  "market_startDate": null,
+  "market_endDate": "2022-05-23T00:00:00Z",
+  "market_closedTime": "2022-05-22 12:45:37+00",
+  "conditionId": "0x01695caaba4a39ff7793fcd80a9eb30d3b356d013c9d5468701755910a9a0898",
+  "slug": "2022-grand-chess-tour-will-jan-krzysztof-duda-win-the-rapid-portion-of-the-superbet-poland-tournament",
+  "question": "2022 Grand Chess Tour: Will Jan-Krzysztof Duda win the Rapid portion of the Superbet Poland Tournament?"
+}

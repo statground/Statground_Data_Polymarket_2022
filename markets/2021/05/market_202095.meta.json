@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "202095",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-24T22:25:05.834000Z",
+  "market_createdAt": "2021-05-24T22:25:05.834Z",
+  "market_updatedAt": "2023-01-31T13:53:28.341Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-25T00:00:00Z",
+  "market_closedTime": "2021-05-25 18:36:09+00",
+  "conditionId": "0xe35da54a6acefb627c1881e411a6e3bb9e5d1225a4915bde4e0573125855907e",
+  "slug": "will-magnus-carlsen-or-fabiano-caruana-win-in-their-ftx-crypto-cup-preliminary-game",
+  "question": "Will Magnus Carlsen or Fabiano Caruana win in their FTX Crypto Cup preliminary game?"
+}

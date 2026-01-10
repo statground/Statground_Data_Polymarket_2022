@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243985",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-01T06:50:19.353000Z",
+  "market_createdAt": "2022-05-01T06:50:19.353Z",
+  "market_updatedAt": "2023-01-31T20:44:33.831Z",
+  "market_startDate": "2022-05-01T13:58:45.302Z",
+  "market_endDate": "2022-05-01T00:00:00Z",
+  "market_closedTime": "2022-05-02 07:01:06+00",
+  "conditionId": "0xf00aaf7335b2f54093bd4ac0f289813f2f4150e0dd152df6c8ac842362123ab8",
+  "slug": "mlb-who-will-win-new-york-mets-vs-philadelphia-phillies-scheduled-for-may-1-709-pm-et",
+  "question": "MLB: Who will win New York Mets vs. Philadelphia Phillies, scheduled for May 1, 7:09 PM ET?"
+}

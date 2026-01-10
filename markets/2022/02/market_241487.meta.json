@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241487",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-15T07:54:22.394000Z",
+  "market_createdAt": "2022-02-15T07:54:22.394Z",
+  "market_updatedAt": "2024-04-23T00:12:17.834672Z",
+  "market_startDate": "2022-02-15T17:02:03.431Z",
+  "market_endDate": "2022-02-15T00:00:00Z",
+  "market_closedTime": "2022-02-16 19:59:56+00",
+  "conditionId": "0xa42508f71dd1cfa57679ea762e0aa3fb98b32b86f1170d9fe111944f7d269dbd",
+  "slug": "nba-who-will-win-the-celtics-vs-76ers-scheduled-for-february-15-730-pm-et",
+  "question": "NBA: Who will win the Celtics vs. 76ers, scheduled for February 15 (7.30 PM ET)?"
+}

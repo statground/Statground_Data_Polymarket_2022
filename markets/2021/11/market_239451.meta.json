@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239451",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-16T10:29:35.640000Z",
+  "market_createdAt": "2021-11-16T10:29:35.64Z",
+  "market_updatedAt": "2024-04-23T00:52:46.57081Z",
+  "market_startDate": "2021-11-16T17:30:33.59Z",
+  "market_endDate": "2021-11-16T00:00:00Z",
+  "market_closedTime": "2021-11-18 00:44:00+00",
+  "conditionId": "0xfae02e0bd0edd10330ec3727a020dda853615f0f0cd96a6b6552f63953464988",
+  "slug": "nba-will-the-jazz-beat-the-76ers-by-more-than-8pt5-points-in-their-november-16th-matchup",
+  "question": "NBA: Will the Jazz beat the 76ers by more than 8.5 points in their November 16th matchup?"
+}

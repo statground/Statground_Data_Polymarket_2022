@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239336",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-10T09:53:37.871000Z",
+  "market_createdAt": "2021-11-10T09:53:37.871Z",
+  "market_updatedAt": "2024-04-24T23:41:29.19199Z",
+  "market_startDate": "2021-11-10T17:40:21.744Z",
+  "market_endDate": "2021-11-10T00:00:00Z",
+  "market_closedTime": "2021-11-11 22:21:50+00",
+  "conditionId": "0x74f310a0bf1c5a15d3c3ed0d1077cb2a227ae3e15d88d673167444eed5c266f2",
+  "slug": "nba-will-the-pelicans-beat-the-thunder-by-more-than-4pt5-points-in-their-november-10th-matchup",
+  "question": "NBA: Will the Pelicans beat the Thunder by more than 4.5 points in their November 10th matchup?"
+}

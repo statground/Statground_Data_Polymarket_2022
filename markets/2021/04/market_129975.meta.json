@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "129975",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-15T20:05:06.255000Z",
+  "market_createdAt": "2021-04-15T20:05:06.255Z",
+  "market_updatedAt": "2024-04-25T00:13:27.907493Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-28T00:00:00Z",
+  "market_closedTime": "2021-04-29 19:41:20+00",
+  "conditionId": "0x9d1a322d6836724aecd5cf94315d469a408f05df1ebdceccb80dbf971b6461c3",
+  "slug": "will-joe-bidens-approval-rating-be-54-or-higher-on-april-28-2021",
+  "question": "Will Joe Biden's approval rating be 54% or higher on April 28, 2021?"
+}

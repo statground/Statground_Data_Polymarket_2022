@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "113117",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-03-30T22:25:04.817000Z",
+  "market_createdAt": "2021-03-30T22:25:04.817Z",
+  "market_updatedAt": "2024-04-25T00:13:54.92219Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-01T00:00:00Z",
+  "market_closedTime": "2021-06-01 19:32:28+00",
+  "conditionId": "0xd03cfcf7cdb67553ae118972f65623cf74de6a1247f14e120ab968e9eb9cb241",
+  "slug": "will-matt-gaetz-continue-to-hold-congressional-office-through-june-1-2021",
+  "question": "Will Matt Gaetz continue to hold Congressional office through June 1, 2021?"
+}

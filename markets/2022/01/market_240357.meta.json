@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240357",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T01:15:56.391000Z",
+  "market_createdAt": "2022-01-11T01:15:56.391Z",
+  "market_updatedAt": "2023-01-31T19:34:53.053Z",
+  "market_startDate": "2022-01-12T20:49:55.969Z",
+  "market_endDate": "2022-05-28T00:00:00Z",
+  "market_closedTime": "2022-03-13 18:41:05+00",
+  "conditionId": "0x6fb73b56888ae641a8f9f5b961ae28aed8139f3d6284cc978510d02a863d0648",
+  "slug": "will-psg-win-the-2021-22-uefa-champions-league",
+  "question": "Will PSG win the 2021-22 UEFA Champions League?"
+}

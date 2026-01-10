@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247821",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-08T17:47:21.108000Z",
+  "market_createdAt": "2022-11-08T17:47:21.108Z",
+  "market_updatedAt": "2023-01-31T21:24:46.837Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-31T00:00:00Z",
+  "market_closedTime": "2022-11-10 06:16:18+00",
+  "conditionId": "0xf5b7f9ccab99811825751ac29004f1145aa8bcd9a136970ff3bacc048592d4de",
+  "slug": "will-binance-pull-out-of-their-ftx-deal",
+  "question": "Will Binance pull out of their FTX deal?"
+}

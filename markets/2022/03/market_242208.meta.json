@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242208",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-18T12:06:01.175000Z",
+  "market_createdAt": "2022-03-18T12:06:01.175Z",
+  "market_updatedAt": "2024-04-25T00:09:14.542925Z",
+  "market_startDate": "2022-03-18T16:12:34.116Z",
+  "market_endDate": "2022-03-18T00:00:00Z",
+  "market_closedTime": "2022-03-19 11:15:27+00",
+  "conditionId": "0x9e81c8e63addba2ce2a4422a579ff57aaa43ba8eca76252379af050f02166711",
+  "slug": "nba-who-will-win-pacers-vspt-rockets-scheduled-for-march-18-810-pm-et",
+  "question": "NBA: Who will win Pacers vs. Rockets, scheduled for March 18, 8:10 PM ET?"
+}

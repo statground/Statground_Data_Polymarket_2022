@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240377",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T02:00:06.722000Z",
+  "market_createdAt": "2022-01-11T02:00:06.722Z",
+  "market_updatedAt": "2023-01-31T13:05:28.404Z",
+  "market_startDate": "2022-01-12T21:09:20.092Z",
+  "market_endDate": "2022-05-22T00:00:00Z",
+  "market_closedTime": "2022-05-27 19:30:38+00",
+  "conditionId": "0x25cf4cb0189e11364467cb3e948e02195a7c5cbb680ffbcc476d369edeb27112",
+  "slug": "will-arsenal-get-2nd-place-in-the-2021-22-english-premier-league",
+  "question": "Will Arsenal get 2nd place in the 2021-22 English Premier League?"
+}

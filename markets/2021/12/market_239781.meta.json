@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239781",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-02T13:57:26.132000Z",
+  "market_createdAt": "2021-12-02T13:57:26.132Z",
+  "market_updatedAt": "2024-04-23T00:34:51.172518Z",
+  "market_startDate": "2021-12-02T19:21:09.197Z",
+  "market_endDate": "2021-12-02T00:00:00Z",
+  "market_closedTime": "2021-12-03 18:26:12+00",
+  "conditionId": "0x8ea88e14679648578d8f3aace07f258ae1cc95fe9d022c546ce411fdc7091192",
+  "slug": "nba-will-the-grizzlies-beat-the-thunder-by-more-than-8pt5-points-in-their-december-2-matchup",
+  "question": "NBA: Will the Grizzlies beat the Thunder by more than 8.5 points in their December 2 matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241134",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-28T11:59:56.265000Z",
+  "market_createdAt": "2022-01-28T11:59:56.265Z",
+  "market_updatedAt": "2024-04-23T00:23:57.864579Z",
+  "market_startDate": "2022-01-28T16:58:46.853Z",
+  "market_endDate": "2022-01-28T00:00:00Z",
+  "market_closedTime": "2022-01-30 01:28:46+00",
+  "conditionId": "0xaebb7510e86135b20fba170b662d7d5cb7966fc25e7f3b972c75c0055bd8df3c",
+  "slug": "nba-who-will-win-the-magic-vs-pistons-scheduled-for-january-28-7-pm-et",
+  "question": "NBA: Who will win the Magic vs. Pistons, scheduled for January 28 (7 PM ET)?"
+}

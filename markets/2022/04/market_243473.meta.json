@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243473",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-19T10:14:48.060000Z",
+  "market_createdAt": "2022-04-19T10:14:48.06Z",
+  "market_updatedAt": "2023-01-30T18:46:36.265Z",
+  "market_startDate": "2022-04-19T15:06:18.591Z",
+  "market_endDate": "2022-04-19T00:00:00Z",
+  "market_closedTime": "2022-04-20 07:31:18+00",
+  "conditionId": "0x5a04f64ab8855d84758bce2257f80ec3e731c591e169e8b1ee5b776b241f7e81",
+  "slug": "mlb-who-will-win-rays-vs-cubs-game-on-april-19",
+  "question": "MLB: Who will win Rays vs. Cubs game on April 19?"
+}

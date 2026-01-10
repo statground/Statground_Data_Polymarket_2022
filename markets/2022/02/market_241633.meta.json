@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241633",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-21T13:23:03.016000Z",
+  "market_createdAt": "2022-02-21T13:23:03.016Z",
+  "market_updatedAt": "2024-04-22T23:57:49.950381Z",
+  "market_startDate": "2022-02-21T18:24:51.138Z",
+  "market_endDate": "2022-02-21T00:00:00Z",
+  "market_closedTime": "2022-02-22 17:30:29+00",
+  "conditionId": "0xc09dea4964a91ce5f491a6f73e4c0147e6fa17120b1340882a7dd4e5178a021a",
+  "slug": "nhl-will-the-maple-leafs-beat-the-canadiens-by-more-than-1p5-goals-in-their-february-21-matchup-7-pm-et",
+  "question": "NHL: Will the Maple Leafs beat the Canadiens by more than 1.5 goals in their February 21 matchup (7 PM ET)?"
+}

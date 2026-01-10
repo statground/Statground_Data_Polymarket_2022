@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239052",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-20T19:38:26.682000Z",
+  "market_createdAt": "2021-10-20T19:38:26.682Z",
+  "market_updatedAt": "2024-04-22T23:23:01.578703Z",
+  "market_startDate": "2021-10-21T03:49:23.91Z",
+  "market_endDate": "2021-10-21T00:00:00Z",
+  "market_closedTime": "2021-10-22 10:58:43+00",
+  "conditionId": "0x5fe9e825d452647052d80134b75580ece045924ffc51235b254eac6830c949f9",
+  "slug": "who-will-win-the-bucks-v-heat-game-on-october-21st",
+  "question": "(In-Game Trading) Who will win the Bucks v. Heat game on October 21st?"
+}

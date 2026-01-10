@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239938",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-09T11:13:14.150000Z",
+  "market_createdAt": "2021-12-09T11:13:14.15Z",
+  "market_updatedAt": "2024-04-26T02:51:18.833194Z",
+  "market_startDate": "2021-12-09T18:31:04.244Z",
+  "market_endDate": "2021-12-09T00:00:00Z",
+  "market_closedTime": "2021-12-10 13:10:59+00",
+  "conditionId": "0xa00080a6b7f8c6c0f5a6ecaeb95caaf51f7c426c745d84ae0fb72688559648fe",
+  "slug": "nba-will-the-sum-of-points-in-jazz-v-76ers-be-greater-than-216pt5",
+  "question": "NBA: Will the sum of points in Jazz v 76ers be greater than 216.5?"
+}

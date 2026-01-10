@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239793",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-02T20:05:46.318000Z",
+  "market_createdAt": "2021-12-02T20:05:46.318Z",
+  "market_updatedAt": "2024-04-23T00:34:36.61816Z",
+  "market_startDate": "2021-12-02T21:13:43.332Z",
+  "market_endDate": "2022-01-01T00:00:00Z",
+  "market_closedTime": "2022-01-03 18:56:39+00",
+  "conditionId": "0x0848643f54d9cb4884fc5202fb5c40ec094569aa158a6f60a98d0386ea0b4dae",
+  "slug": "will-248-million-americans-have-received-at-least-one-dose-of-an-approved-covid-19-vaccination-by-january-1-2022",
+  "question": "Will 248 million Americans have received at least one dose of an approved Covid-19 vaccination by January 1, 2022?"
+}

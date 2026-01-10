@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248201",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-14T17:28:20.893000Z",
+  "market_createdAt": "2022-12-14T17:28:20.893Z",
+  "market_updatedAt": "2023-03-23T21:05:40.755Z",
+  "market_startDate": null,
+  "market_endDate": "2023-01-12T00:00:00Z",
+  "market_closedTime": "2023-01-12 16:16:44+00",
+  "conditionId": "0xcbe2211244525dd6245c1a7875132215e3c5a1e9e8a1013d996c2dae769b62b8",
+  "slug": "will-us-inflation-be-greater-than-0pt0-from-november-to-december-2022",
+  "question": "Will U.S. inflation be greater than 0.0% from November to December 2022?"
+}

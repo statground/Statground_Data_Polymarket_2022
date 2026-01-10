@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239116",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-28T09:13:57.720000Z",
+  "market_createdAt": "2021-10-28T09:13:57.72Z",
+  "market_updatedAt": "2024-04-26T02:45:55.271022Z",
+  "market_startDate": "2021-10-28T17:25:50.492Z",
+  "market_endDate": "2021-10-28T00:00:00Z",
+  "market_closedTime": "2021-10-29 16:58:31+00",
+  "conditionId": "0xd02ee881aa97019a97136c5d25521f494e58897355c68638b67f2d2ffe877e43",
+  "slug": "will-the-warriors-beat-the-grizzlies-by-more-than-5pt5-points-in-their-october-28th-matchup",
+  "question": "Will the Warriors beat the Grizzlies by more than 5.5 points in their October 28th matchup?"
+}

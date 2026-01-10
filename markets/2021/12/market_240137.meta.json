@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240137",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-22T08:03:20.850000Z",
+  "market_createdAt": "2021-12-22T08:03:20.85Z",
+  "market_updatedAt": "2024-04-24T23:31:22.466371Z",
+  "market_startDate": "2021-12-22T20:52:28.213Z",
+  "market_endDate": "2021-12-22T00:00:00Z",
+  "market_closedTime": "2021-12-23 17:11:04+00",
+  "conditionId": "0xf07b63b17fd05dca62d2699d60c80dfb53fe5096f1d49ba95a9abd82bcdd759e",
+  "slug": "nba-will-the-bucks-beat-the-rockets-by-more-than-9pt5-points-in-their-december-22-matchup",
+  "question": "NBA: Will the Bucks beat the Rockets by more than 9.5 points in their December 22 matchup?"
+}

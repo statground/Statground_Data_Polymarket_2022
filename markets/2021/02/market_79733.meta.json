@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "79733",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-08T16:40:03.047000Z",
+  "market_createdAt": "2021-02-08T16:40:03.047Z",
+  "market_updatedAt": "2024-04-23T00:31:46.090753Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-01T00:00:00Z",
+  "market_closedTime": "2021-04-01 18:08:18+00",
+  "conditionId": "0x4e0d4072ce8054c4d85c0bc19971093478c3cba711550c069afc50f07453b3e2",
+  "slug": "will-apple-amazon-or-twitter-announce-a-bitcoin-purchase-before-april-1-2021",
+  "question": "Will Apple, Amazon, or Twitter announce a Bitcoin purchase before April 1, 2021?"
+}

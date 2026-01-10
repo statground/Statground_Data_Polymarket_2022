@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "176505",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-04T19:35:15.786000Z",
+  "market_createdAt": "2021-05-04T19:35:15.786Z",
+  "market_updatedAt": "2024-04-25T00:12:16.629426Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-11T00:00:00Z",
+  "market_closedTime": "2021-05-12 17:02:34+00",
+  "conditionId": "0xa94f707c9607ac3d9eb627942ee31c409417ed0f72ed34b23fd6e9f17325df67",
+  "slug": "will-total-sales-exceed-20-m-for-the-cryptopunks-auction-at-christie-s",
+  "question": "Will total sales exceed $20M for the Cryptopunks auction at Christie’s?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241326",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-04T15:19:47.073000Z",
+  "market_createdAt": "2022-02-04T15:19:47.073Z",
+  "market_updatedAt": "2024-04-23T00:41:38.999293Z",
+  "market_startDate": "2022-02-04T18:14:30.394Z",
+  "market_endDate": "2022-02-04T00:00:00Z",
+  "market_closedTime": "2022-02-07 02:56:10+00",
+  "conditionId": "0xd814852a39c9fcfdb2c7d31e6b204630c0d08c9ba81d5bb2857081544681bc68",
+  "slug": "nba-will-the-bulls-beat-the-pacers-by-more-than-15-points-in-their-february-4-7-pm-et-matchup",
+  "question": "NBA: Will the Bulls beat the Pacers by more than 1.5 points in their February 4 (7 PM ET) matchup?"
+}

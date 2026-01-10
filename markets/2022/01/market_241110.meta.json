@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241110",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-27T12:35:05.973000Z",
+  "market_createdAt": "2022-01-27T12:35:05.973Z",
+  "market_updatedAt": "2024-04-22T23:04:57.323354Z",
+  "market_startDate": "2022-01-27T21:18:39.841Z",
+  "market_endDate": "2022-01-27T00:00:00Z",
+  "market_closedTime": "2022-01-30 01:14:00+00",
+  "conditionId": "0x3b436f8d915f7fb039eeb22844eab37cba73b60a9fb1f607202e04baa5f886ab",
+  "slug": "nba-will-the-warriors-beat-the-timberwolves-by-more-than-6p5-points-in-their-january-27-10-pm-et-matchup",
+  "question": "NBA: Will the Warriors beat the Timberwolves by more than 6.5 points in their January 27 (10 PM ET) matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240590",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T23:39:28.888000Z",
+  "market_createdAt": "2022-01-11T23:39:28.888Z",
+  "market_updatedAt": "2024-04-24T23:39:27.761447Z",
+  "market_startDate": "2022-01-12T21:12:30.695Z",
+  "market_endDate": "2022-10-30T00:00:00Z",
+  "market_closedTime": "2022-10-31 22:15:36+00",
+  "conditionId": "0xc79b46d80092bd126d785b68323b0b94215b156793e4aa3e7ed2ffa488515a13",
+  "slug": "will-joo-doria-win-2022-presidential-elections-in-brazil",
+  "question": "Will João Doria win 2022 Presidential Elections in Brazil?"
+}

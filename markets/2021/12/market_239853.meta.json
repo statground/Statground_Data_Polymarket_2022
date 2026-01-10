@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239853",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-06T15:30:45.682000Z",
+  "market_createdAt": "2021-12-06T15:30:45.682Z",
+  "market_updatedAt": "2024-04-24T23:46:17.21107Z",
+  "market_startDate": "2021-12-06T17:45:16.227Z",
+  "market_endDate": "2021-12-06T00:00:00Z",
+  "market_closedTime": "2021-12-07 18:26:51+00",
+  "conditionId": "0xcc5f4359717b93423d16e0aacee6b69faf3e218956c17a051bb2b93755d25e7f",
+  "slug": "nba-will-the-bulls-beat-the-nuggets-by-more-than-4pt5-points-in-their-december-6-matchup",
+  "question": "NBA: Will the Bulls beat the Nuggets by more than 4.5 points in their December 6 matchup?"
+}

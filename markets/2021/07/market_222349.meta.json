@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "222349",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-06T16:35:00.953000Z",
+  "market_createdAt": "2021-07-06T16:35:00.953Z",
+  "market_updatedAt": "2024-04-23T00:25:59.130409Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-11T00:00:00Z",
+  "market_closedTime": "2021-07-12 22:55:17+00",
+  "conditionId": "0xa3fc282e63a225222a66cc667380a145c2b834cb47c5551f54393e1fba814275",
+  "slug": "who-will-win-bucks-v-suns-nba-finals-game-3",
+  "question": "Who will win Bucks v. Suns: NBA Finals Game 3?"
+}

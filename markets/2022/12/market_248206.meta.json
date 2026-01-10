@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248206",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-14T23:18:31.537000Z",
+  "market_createdAt": "2022-12-14T23:18:31.537Z",
+  "market_updatedAt": "2023-03-14T22:51:05.53Z",
+  "market_startDate": null,
+  "market_endDate": "2023-02-01T00:00:00Z",
+  "market_closedTime": "2023-02-01 21:01:30+00",
+  "conditionId": "0x9412b855478d1dc1ba433a18de8bd082dc22b0c3a30c01f307016c2a07c11572",
+  "slug": "will-the-fed-increase-interest-rates-by-0-bps-after-its-february-meeting",
+  "question": "Will the Fed increase interest rates by 0 bps after its February meeting?"
+}

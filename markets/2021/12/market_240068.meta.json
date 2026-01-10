@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240068",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-16T22:37:47.597000Z",
+  "market_createdAt": "2021-12-16T22:37:47.597Z",
+  "market_updatedAt": "2024-04-23T00:26:12.814009Z",
+  "market_startDate": "2021-12-17T21:13:17.821Z",
+  "market_endDate": "2021-12-19T00:00:00Z",
+  "market_closedTime": "2021-12-21 00:19:43+00",
+  "conditionId": "0x03a1f00489f4259965e13e385e78839da0fee2e8251b1223367d596c95a5b08f",
+  "slug": "nfl-will-the-titans-beat-the-steelers-by-more-than-1pt5-points-in-their-december-19-matchup",
+  "question": "NFL: Will the Titans beat the Steelers by more than 1.5 points in their December 19 matchup?"
+}

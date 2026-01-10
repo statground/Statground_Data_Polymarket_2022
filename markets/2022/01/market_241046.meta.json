@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241046",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-26T17:09:59.611000Z",
+  "market_createdAt": "2022-01-26T17:09:59.611Z",
+  "market_updatedAt": "2024-04-24T23:50:30.640705Z",
+  "market_startDate": "2022-01-26T19:27:03.699Z",
+  "market_endDate": "2022-02-06T00:00:00Z",
+  "market_closedTime": "2022-02-08 23:37:09+00",
+  "conditionId": "0x415b9ffe1984906689956b6a67ff9a6dd4e505113e5eb339a5793107248fcfda",
+  "slug": "who-will-win-the-2022-nfl-pro-bowl",
+  "question": "Who will win the 2022 NFL Pro Bowl?"
+}

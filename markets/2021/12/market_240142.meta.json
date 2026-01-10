@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240142",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-22T18:48:37.278000Z",
+  "market_createdAt": "2021-12-22T18:48:37.278Z",
+  "market_updatedAt": "2024-04-25T00:10:41.715533Z",
+  "market_startDate": "2021-12-23T16:55:13.445Z",
+  "market_endDate": "2022-01-01T00:00:00Z",
+  "market_closedTime": "2021-12-26 01:19:15+00",
+  "conditionId": "0xe0c9acc384011d305229b95a0f3989b250ead67946b6f3b74cb473de9f1121c1",
+  "slug": "will-the-james-webb-telescope-be-launched-successfully-in-2021",
+  "question": "Will the James Webb telescope be launched successfully in 2021?"
+}

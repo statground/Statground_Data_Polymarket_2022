@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240086",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-17T16:12:44.304000Z",
+  "market_createdAt": "2021-12-17T16:12:44.304Z",
+  "market_updatedAt": "2024-04-26T02:47:49.303342Z",
+  "market_startDate": "2021-12-17T22:42:27.472Z",
+  "market_endDate": "2021-12-17T00:00:00Z",
+  "market_closedTime": "2021-12-18 18:11:23+00",
+  "conditionId": "0x5faea468b00e7df0d07329db9c9ffebe9220e818415cd724b7188895af656bba",
+  "slug": "nba-will-the-timberwolves-beat-the-lakers-by-more-than-1pt5-points-in-their-december-17-matchup",
+  "question": "NBA: Will the Timberwolves beat the Lakers by more than 1.5 points in their December 17 matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "245933",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-31T08:00:18.971000Z",
+  "market_createdAt": "2022-05-31T08:00:18.971Z",
+  "market_updatedAt": "2023-01-31T20:31:17.12Z",
+  "market_startDate": "2022-05-31T14:37:22.286Z",
+  "market_endDate": "2022-05-31T00:00:00Z",
+  "market_closedTime": "2022-06-01 06:15:38+00",
+  "conditionId": "0x90ed2d457659b4f2c28b0929d069d315e9b1b70720763e5a077c39dd4cccf5fa",
+  "slug": "nhl-who-will-win-avalanche-vs-oilers-scheduled-for-may-31-800-pm-et",
+  "question": "NHL: Who will win Avalanche vs. Oilers, scheduled for May 31, 8:00 PM ET?"
+}

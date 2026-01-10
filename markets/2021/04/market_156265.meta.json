@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "156265",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-26T18:25:02.839000Z",
+  "market_createdAt": "2021-04-26T18:25:02.839Z",
+  "market_updatedAt": "2024-04-26T02:47:13.328034Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-28T00:00:00Z",
+  "market_closedTime": "2021-04-30 06:22:55+00",
+  "conditionId": "0x181e1e2f031d2528f837995f5420da42be20bc0eaa96f19e8685ac7ca6a2d510",
+  "slug": "will-president-biden-speak-for-longer-than-1-hour-at-his-joint-address",
+  "question": "Will President Biden speak for longer than 1 hour at his Joint Address?"
+}

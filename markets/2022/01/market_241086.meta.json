@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241086",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-27T00:28:16.377000Z",
+  "market_createdAt": "2022-01-27T00:28:16.377Z",
+  "market_updatedAt": "2024-04-23T00:55:52.497521Z",
+  "market_startDate": "2022-01-27T17:54:31.231Z",
+  "market_endDate": "2022-03-31T00:00:00Z",
+  "market_closedTime": "2022-04-02 07:15:44+00",
+  "conditionId": "0x36d0aedbcb2a9d28475ddb086235ec1c2c9cde94290b2b317e43103f39b44262",
+  "slug": "will-aave-suffer-an-exploit-by-march-31st-2022",
+  "question": "Will Aave suffer an exploit by March 31st, 2022?"
+}

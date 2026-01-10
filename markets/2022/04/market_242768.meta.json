@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242768",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-02T10:20:27.182000Z",
+  "market_createdAt": "2022-04-02T10:20:27.182Z",
+  "market_updatedAt": "2024-04-23T00:39:21.68818Z",
+  "market_startDate": "2022-04-02T16:39:42.573Z",
+  "market_endDate": "2022-04-03T00:00:00Z",
+  "market_closedTime": "2022-04-04 07:01:01+00",
+  "conditionId": "0x205c019d156dd89278f2840eebe4c0672796096c8dd4ffb02159ea55edf997ce",
+  "slug": "serie-a-who-will-win-the-juventus-vs-inter-game-on-april-3",
+  "question": "Serie A: Who will win the Juventus vs. Inter game on April 3?"
+}

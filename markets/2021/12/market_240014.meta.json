@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240014",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-13T10:19:25.663000Z",
+  "market_createdAt": "2021-12-13T10:19:25.663Z",
+  "market_updatedAt": "2024-04-23T00:58:58.511704Z",
+  "market_startDate": "2021-12-13T19:14:43.645Z",
+  "market_endDate": "2021-12-13T00:00:00Z",
+  "market_closedTime": "2021-12-14 15:35:47+00",
+  "conditionId": "0xd38d79406b9233cdbd52404306884a4a0f81df43b83d9c13adb2c5461df50a36",
+  "slug": "nba-will-the-mavericks-beat-the-hornets-by-more-than-3pt5-points-in-their-december-13-matchup",
+  "question": "NBA: Will the Mavericks beat the Hornets by more than 3.5 points in their December 13 matchup?"
+}

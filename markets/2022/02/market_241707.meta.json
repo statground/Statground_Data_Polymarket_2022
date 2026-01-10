@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241707",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-25T09:51:52.287000Z",
+  "market_createdAt": "2022-02-25T09:51:52.287Z",
+  "market_updatedAt": "2024-04-22T23:45:55.574479Z",
+  "market_startDate": "2022-02-25T16:17:06.246Z",
+  "market_endDate": "2022-02-25T00:00:00Z",
+  "market_closedTime": "2022-02-26 21:19:24+00",
+  "conditionId": "0xd6809185d69f791efd08492403ca3e8fce2f5e9b30a5f8431dee59266c8dc734",
+  "slug": "nhl-will-the-hurricanes-beat-the-blue-jackets-by-more-than-1p5-goals-in-their-february-25-matchup-7-pm-et",
+  "question": "NHL: Will the Hurricanes beat the Blue Jackets by more than 1.5 goals in their February 25 matchup (7 PM ET)?"
+}

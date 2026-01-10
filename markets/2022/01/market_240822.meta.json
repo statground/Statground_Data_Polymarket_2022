@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240822",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-18T16:00:48.211000Z",
+  "market_createdAt": "2022-01-18T16:00:48.211Z",
+  "market_updatedAt": "2024-04-22T23:33:40.682248Z",
+  "market_startDate": "2022-01-18T21:25:14.325Z",
+  "market_endDate": "2022-01-18T00:00:00Z",
+  "market_closedTime": "2022-01-23 17:08:18+00",
+  "conditionId": "0x1471aa1f07cc4f56b8ae4c594820d9865ed14141fbdd6d0c6e8030f75c1bd329",
+  "slug": "nhl-will-the-bruins-beat-the-hurricanes-by-more-than-1p5-goals-in-their-january-18-matchup",
+  "question": "NHL: Will the Bruins beat the Hurricanes by more than 1.5 goals in their January 18 matchup?"
+}

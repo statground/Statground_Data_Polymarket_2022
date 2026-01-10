@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "91490",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-18T20:00:05.303000Z",
+  "market_createdAt": "2021-02-18T20:00:05.303Z",
+  "market_updatedAt": "2024-04-23T00:51:13.813205Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-25T00:00:00Z",
+  "market_closedTime": "2021-02-25 21:58:47+00",
+  "conditionId": "0x5aa03b742b0177ba9e423d525b1615aaa1c4b07249b000dccb091e0554f008e4",
+  "slug": "how-many-more-tweets-will-be-on-the-souljaboy-account-on-february-25-2021",
+  "question": "How many more tweets will be on the @SouljaBoy account on February 25, 2021?"
+}

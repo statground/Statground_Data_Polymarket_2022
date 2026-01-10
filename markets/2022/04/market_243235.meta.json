@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243235",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-13T21:03:12.822000Z",
+  "market_createdAt": "2022-04-13T21:03:12.822Z",
+  "market_updatedAt": "2023-01-31T21:09:58.487Z",
+  "market_startDate": "2022-04-13T22:02:36.273Z",
+  "market_endDate": "2022-04-24T00:00:00Z",
+  "market_closedTime": "2022-04-26 14:58:18+00",
+  "conditionId": "0x13b9b759948da4e8784b171f36dfbb81d494d71930426b1cc060493a2ce992aa",
+  "slug": "will-macron-win-round-2-of-the-2022-french-presidential-election-with-54-of-votes-or-more",
+  "question": "Will Macron win round 2 of the 2022 French presidential election with 54% or more of the votes?"
+}

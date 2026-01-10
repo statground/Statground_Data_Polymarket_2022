@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240824",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-18T16:06:01.427000Z",
+  "market_createdAt": "2022-01-18T16:06:01.427Z",
+  "market_updatedAt": "2024-04-23T00:31:49.502956Z",
+  "market_startDate": "2022-01-18T21:27:31.373Z",
+  "market_endDate": "2022-01-18T00:00:00Z",
+  "market_closedTime": "2022-01-19 21:36:52+00",
+  "conditionId": "0x2e38f33cb5c8c4cad47573e328859162c510615f42f4cfd5400eb666dae97b70",
+  "slug": "nhl-will-the-capitals-beat-the-jets-by-more-than-1p5-goals-in-their-january-18-matchup",
+  "question": "NHL: Will the Capitals beat the Jets by more than 1.5 goals in their January 18 matchup?"
+}

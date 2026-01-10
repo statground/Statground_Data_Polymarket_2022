@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "202064",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-21T19:15:03.604000Z",
+  "market_createdAt": "2021-05-21T19:15:03.604Z",
+  "market_updatedAt": "2024-04-22T22:46:15.338798Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-27T00:00:00Z",
+  "market_closedTime": "2021-05-28 16:05:44+00",
+  "conditionId": "0xb51c71173c198e210e21fb06ba3131325817d96eba7e517783ad302113b4e07b",
+  "slug": "will-the-nuggets-or-the-trail-blazers-win-their-game-3-nba-playoff-matchup",
+  "question": "Who will win Nuggets vs. Trail Blazers: Game 3?"
+}

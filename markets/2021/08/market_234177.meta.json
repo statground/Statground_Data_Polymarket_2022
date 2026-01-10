@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "234177",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-12T16:58:01.245000Z",
+  "market_createdAt": "2021-08-12T16:58:01.245Z",
+  "market_updatedAt": "2024-04-23T00:56:37.956748Z",
+  "market_startDate": "2021-08-12T18:35:43.954Z",
+  "market_endDate": "2021-12-31T00:00:00Z",
+  "market_closedTime": "2021-08-24 21:59:52+00",
+  "conditionId": "0x73d2e18043f6aa41d8a576d8a6d78410195b5501bcb9102bb5931b74d5b43072",
+  "slug": "what-will-the-fully-diluted-market-cap-of-superrares-token-be-1-week-after-it-starts-trading",
+  "question": "What will the fully diluted market cap of SuperRare’s token be 1 week after it starts trading?"
+}

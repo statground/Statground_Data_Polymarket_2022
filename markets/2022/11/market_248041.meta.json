@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248041",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T20:53:24.589000Z",
+  "market_createdAt": "2022-11-18T20:53:24.589Z",
+  "market_updatedAt": "2023-01-31T19:21:09.362Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-06T00:00:00Z",
+  "market_closedTime": "2022-11-29 02:32:03+00",
+  "conditionId": "0x14b88a80281d459c7cd2eccf5a962e9e13da56cf620d45aa51e5389384b2baf5",
+  "slug": "will-portugal-qualify-from-group-h",
+  "question": "Will Portugal qualify from Group H?"
+}

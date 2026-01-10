@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241657",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-23T18:20:36.773000Z",
+  "market_createdAt": "2022-02-23T18:20:36.773Z",
+  "market_updatedAt": "2024-04-23T00:45:18.240703Z",
+  "market_startDate": "2022-02-23T22:09:23.627Z",
+  "market_endDate": "2022-07-31T00:00:00Z",
+  "market_closedTime": "2022-08-02 01:15:38+00",
+  "conditionId": "0xd95486b4467337ced01e3598fb4037015acbb2dbecb6b729a13e458f8c893262",
+  "slug": "will-ecdc-announce-a-new-covid-19-variant-of-concern-before-august-2022",
+  "question": "Will ECDC announce a new COVID-19 \"Variant of Concern\" before August 2022?"
+}

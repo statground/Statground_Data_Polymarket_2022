@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242279",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-19T09:08:34.214000Z",
+  "market_createdAt": "2022-03-19T09:08:34.214Z",
+  "market_updatedAt": "2024-04-22T23:56:48.831981Z",
+  "market_startDate": "2022-03-19T17:15:38.163Z",
+  "market_endDate": "2022-03-19T00:00:00Z",
+  "market_closedTime": "2022-03-20 21:05:03+00",
+  "conditionId": "0xc1d82958af81b82e40bf4410d8c4a2eed7b39966e03c4b03956bae6230a4ceba",
+  "slug": "nba-will-the-cavaliers-beat-the-pistons-by-more-than-7pt5-points-in-their-march-19-810-pm-et-matchup",
+  "question": "NBA: Will the Cavaliers beat the Pistons by more than 7.5 points in their March 19, 8:10 PM ET matchup?"
+}

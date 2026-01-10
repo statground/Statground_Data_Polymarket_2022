@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241325",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-04T15:18:02.876000Z",
+  "market_createdAt": "2022-02-04T15:18:02.876Z",
+  "market_updatedAt": "2024-04-22T23:45:49.323405Z",
+  "market_startDate": "2022-02-04T18:01:38.2Z",
+  "market_endDate": "2022-02-04T00:00:00Z",
+  "market_closedTime": "2022-02-07 18:03:05+00",
+  "conditionId": "0xc0f45e16f7b71bada6820f5befc07d9f92aafc0b7232701ca07eca242bc4a78f",
+  "slug": "nba-who-will-win-the-mavericks-vs-76ers-scheduled-for-february-4-10-pm-et",
+  "question": "NBA: Who will win the Mavericks vs. 76ers, scheduled for February 4 (10 PM ET)?"
+}

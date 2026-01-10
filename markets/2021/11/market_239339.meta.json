@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239339",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-10T09:59:06.315000Z",
+  "market_createdAt": "2021-11-10T09:59:06.315Z",
+  "market_updatedAt": "2024-04-23T00:24:28.747052Z",
+  "market_startDate": "2021-11-10T17:40:59.715Z",
+  "market_endDate": "2021-11-10T00:00:00Z",
+  "market_closedTime": "2021-11-11 22:20:08+00",
+  "conditionId": "0x7cd47363fb2fa4f4af236ec5e1322c2001ed4ed23e40f36ca7270a4b9d22ef6e",
+  "slug": "nba-will-the-heat-beat-the-lakers-by-more-than-4pt5-points-in-their-november-10th-matchup",
+  "question": "NBA: Will the Heat beat the Lakers by more than 4.5 points in their November 10th matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241388",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-09T10:47:46.923000Z",
+  "market_createdAt": "2022-02-09T10:47:46.923Z",
+  "market_updatedAt": "2024-04-22T22:35:32.307876Z",
+  "market_startDate": "2022-02-09T17:26:09.339Z",
+  "market_endDate": "2022-02-09T00:00:00Z",
+  "market_closedTime": "2022-02-11 09:55:57+00",
+  "conditionId": "0x467fd4ae842c1fc56deee5ab3be4fe79c97bbed8691e6b83a02f45b1afe1577b",
+  "slug": "nhl-will-the-flyers-beat-the-red-wings-by-more-than-1p5-goals-in-their-february-9-matchup-7-pm-et",
+  "question": "NHL: Will the Flyers beat the Red Wings by more than 1.5 goals in their February 9 matchup (7 PM ET)?"
+}

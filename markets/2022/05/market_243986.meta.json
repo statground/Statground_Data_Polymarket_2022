@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243986",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-01T09:57:37.039000Z",
+  "market_createdAt": "2022-05-01T09:57:37.039Z",
+  "market_updatedAt": "2023-01-31T03:49:15.709Z",
+  "market_startDate": null,
+  "market_endDate": "2022-05-16T00:00:00Z",
+  "market_closedTime": "2022-05-16 17:16:02+00",
+  "conditionId": "0x2e07126cc755b19c1b0088bd835bfa63d193e67868e0f4d528473cde33ea6027",
+  "slug": "2022-nba-playoffs-round-2-who-will-win-grizzlies-vs-warriors",
+  "question": "2022 NBA Playoffs, Round 2: Who will win Grizzlies vs. Warriors?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "245254",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-23T15:23:56.440000Z",
+  "market_createdAt": "2022-05-23T15:23:56.44Z",
+  "market_updatedAt": "2023-01-31T21:05:56.934Z",
+  "market_startDate": "2022-05-25T16:13:16.562Z",
+  "market_endDate": "2022-06-03T00:00:00Z",
+  "market_closedTime": "2022-06-04 07:15:44+00",
+  "conditionId": "0xfa1185f0bd01b519c53a28617e4a6b222f332ac3a05900414ced7ebdbcc9a16d",
+  "slug": "will-the-price-of-a-barrel-of-crude-oil-be-110-or-more-on-june-3-2022",
+  "question": "Will the price of a barrel of crude oil be $110 or more on June 3, 2022?"
+}

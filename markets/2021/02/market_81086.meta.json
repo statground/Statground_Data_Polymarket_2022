@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "81086",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-09T18:35:01.529000Z",
+  "market_createdAt": "2021-02-09T18:35:01.529Z",
+  "market_updatedAt": "2024-04-22T22:58:27.951136Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-10T00:00:00Z",
+  "market_closedTime": "2021-02-11 15:39:36+00",
+  "conditionId": "0x068caa3c73ce7cca4c6ede4adbc7403f3d80d505fd9d624a1b6fba489f8c8575",
+  "slug": "will-the-hawks-or-the-mavericks-win-their-february-10th-matchup",
+  "question": "Will the Hawks or the Mavericks win their February 10th matchup?"
+}

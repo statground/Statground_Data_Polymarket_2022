@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242146",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-17T12:46:57.143000Z",
+  "market_createdAt": "2022-03-17T12:46:57.143Z",
+  "market_updatedAt": "2024-04-24T23:15:01.998589Z",
+  "market_startDate": "2022-03-17T17:42:58.868Z",
+  "market_endDate": "2022-03-17T00:00:00Z",
+  "market_closedTime": "2022-03-18 11:16:55+00",
+  "conditionId": "0xa916952983c39db51ec2e41e7110497da38cedb3f88dde32fc425346692860d0",
+  "slug": "nhl-will-the-hurricanes-beat-the-leafs-by-more-than-1pt5-goals-in-their-march-17-700-pm-et-matchup",
+  "question": "NHL: Will the Hurricanes beat the Leafs by more than 1.5 goals in their March 17, 7:00 PM ET matchup?"
+}

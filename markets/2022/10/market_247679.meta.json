@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247679",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-18T15:15:11.084000Z",
+  "market_createdAt": "2022-10-18T15:15:11.084Z",
+  "market_updatedAt": "2023-01-31T18:01:58.045Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-25T00:00:00Z",
+  "market_closedTime": "2022-10-24 01:15:45+00",
+  "conditionId": "0xfb5c0770f54d87f011254565f04d48f6ca4939063dac9f12f57fa22d33253468",
+  "slug": "nl-championship-series-phillies-vs-padres",
+  "question": "NL Championship Series: Phillies vs. Padres"
+}

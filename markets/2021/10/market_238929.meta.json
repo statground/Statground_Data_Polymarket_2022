@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238929",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-01T19:14:25.480000Z",
+  "market_createdAt": "2021-10-01T19:14:25.48Z",
+  "market_updatedAt": "2024-04-24T23:35:46.715019Z",
+  "market_startDate": "2021-10-01T22:17:25.042Z",
+  "market_endDate": "2021-10-04T00:00:00Z",
+  "market_closedTime": "2021-10-05 03:57:49+00",
+  "conditionId": "0xc713d8cb0c9a9cb9c260fb5f710eb0f79fdb5a69a96a77b904b792e8bfa11e19",
+  "slug": "will-the-chargers-beat-the-raiders-by-more-than-3pt5-points-in-their-week-four-matchup",
+  "question": "Will the Chargers beat the Raiders by more than 3.5 points in their week four matchup?"
+}

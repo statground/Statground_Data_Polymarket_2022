@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243095",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-11T17:33:40.628000Z",
+  "market_createdAt": "2022-04-11T17:33:40.628Z",
+  "market_updatedAt": "2023-01-31T20:09:24.513Z",
+  "market_startDate": "2022-04-11T17:38:36.867Z",
+  "market_endDate": "2022-05-13T00:00:00Z",
+  "market_closedTime": "2022-05-14 08:15:38+00",
+  "conditionId": "0x3fb169120ead4265ef51ae1dc3d967f9e522b62705a962440fba5ae19f282caf",
+  "slug": "will-pope-francis-visit-ukraine-by-may-13-2022",
+  "question": "Will Pope Francis visit Ukraine by May 13, 2022?"
+}

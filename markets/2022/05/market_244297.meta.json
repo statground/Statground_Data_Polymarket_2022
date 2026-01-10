@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244297",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-06T08:28:18.596000Z",
+  "market_createdAt": "2022-05-06T08:28:18.596Z",
+  "market_updatedAt": "2023-01-31T17:22:23.685Z",
+  "market_startDate": null,
+  "market_endDate": "2022-05-06T00:00:00Z",
+  "market_closedTime": "2022-05-07 06:45:38+00",
+  "conditionId": "0x97df09c0eeb8fd522fe6c9ca4b4df0a66c7eb04f8dc6b66f8028d0a268a49482",
+  "slug": "mlb-who-will-win-boston-red-sox-vs-chicago-white-sox-scheduled-for-may-6-711-pm-et",
+  "question": "MLB: Who will win Boston Red Sox vs. Chicago White Sox, scheduled for May 6, 7:11 PM ET?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "202069",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-23T21:45:03.984000Z",
+  "market_createdAt": "2021-05-23T21:45:03.984Z",
+  "market_updatedAt": "2024-04-23T00:15:46.623414Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-25T00:00:00Z",
+  "market_closedTime": "2021-05-24 18:52:01+00",
+  "conditionId": "0xb4feb12c41397405c923984899b418c0fe4475ad64fd49d550de7b29af5dc915",
+  "slug": "will-hikaru-nakamura-draw-3-or-more-times-during-his-may-24-ftx-crypto-cup-preliminary-games",
+  "question": "Will Hikaru Nakamura draw 3 or more times during his May 24 FTX Crypto Cup preliminary games?"
+}

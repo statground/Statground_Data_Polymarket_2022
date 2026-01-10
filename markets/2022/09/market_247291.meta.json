@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247291",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-16T20:27:55.803000Z",
+  "market_createdAt": "2022-09-16T20:27:55.803Z",
+  "market_updatedAt": "2023-01-31T19:05:06.202Z",
+  "market_startDate": null,
+  "market_endDate": "2022-09-25T00:00:00Z",
+  "market_closedTime": "2022-09-26 06:45:46+00",
+  "conditionId": "0xea08ad2f1f1d90882828f688794550f9a6d9173a34a664329ad220bd4a251cef",
+  "slug": "will-magnus-carlsen-win-the-julius-baer-generation-cup",
+  "question": "Will Magnus Carlsen win the Julius Baer Generation Cup?"
+}

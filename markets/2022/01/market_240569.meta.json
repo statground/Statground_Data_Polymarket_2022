@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240569",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T19:15:08.729000Z",
+  "market_createdAt": "2022-01-11T19:15:08.729Z",
+  "market_updatedAt": "2024-04-22T22:23:52.226929Z",
+  "market_startDate": "2022-01-12T21:18:32.838Z",
+  "market_endDate": "2022-05-01T00:00:00Z",
+  "market_closedTime": "2022-05-02 11:15:37+00",
+  "conditionId": "0xbaccbc118a9d9e0d339bae58af725faf00f43426a3c99b0268690e433403e884",
+  "slug": "will-layer-zero-have-a-token-by-may-1st-2022",
+  "question": "Will Layer Zero have a token by May 1st, 2022?"
+}

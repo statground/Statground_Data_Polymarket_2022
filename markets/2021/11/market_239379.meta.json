@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239379",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-12T11:13:06.954000Z",
+  "market_createdAt": "2021-11-12T11:13:06.954Z",
+  "market_updatedAt": "2024-04-24T19:03:48.316698Z",
+  "market_startDate": "2021-11-12T20:18:28.648Z",
+  "market_endDate": "2021-11-12T00:00:00Z",
+  "market_closedTime": "2021-11-14 00:01:25+00",
+  "conditionId": "0x0d726acf7d6f404fa49e34786fc67021dbbbd61774045bbb033b2635b9d94d54",
+  "slug": "nba-will-the-trail-blazers-beat-the-rockets-by-more-than-6pt5-points-in-their-november-12th-matchup",
+  "question": "NBA: Will the Trail Blazers beat the Rockets by more than 6.5 points in their November 12th matchup?"
+}

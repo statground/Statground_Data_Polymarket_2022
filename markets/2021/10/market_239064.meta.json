@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239064",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-20T19:59:08.863000Z",
+  "market_createdAt": "2021-10-20T19:59:08.863Z",
+  "market_updatedAt": "2024-04-26T02:46:55.986936Z",
+  "market_startDate": "2021-10-23T17:12:15.39Z",
+  "market_endDate": "2021-10-24T00:00:00Z",
+  "market_closedTime": "2021-10-25 03:56:23+00",
+  "conditionId": "0x59e299c265ea9839d97a42409c21800a7e32dc9ab0ee0c5cc4768f4cf3e009a4",
+  "slug": "who-will-win-the-colts-v-49ers-game-on-october-24th",
+  "question": "Who will win the Colts v. 49ers game on October 24th?"
+}

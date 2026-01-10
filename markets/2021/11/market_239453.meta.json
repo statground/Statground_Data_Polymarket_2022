@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239453",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-16T11:05:13.148000Z",
+  "market_createdAt": "2021-11-16T11:05:13.148Z",
+  "market_updatedAt": "2024-04-22T22:36:20.456531Z",
+  "market_startDate": "2021-11-16T17:33:53.564Z",
+  "market_endDate": "2021-11-25T00:00:00Z",
+  "market_closedTime": "2021-11-26 15:52:17+00",
+  "conditionId": "0x09bbefd890cbe3aa847d957efa361ead69be79ea304d1cf4db3fcc2b94438e3b",
+  "slug": "will-the-price-of-bch-bitcoin-cash-or-bnb-binance-coin-be-higher-on-november-25th",
+  "question": "Will the price of $BCH (Bitcoin Cash) or $BNB (Binance Coin) be higher on November 25th?"
+}

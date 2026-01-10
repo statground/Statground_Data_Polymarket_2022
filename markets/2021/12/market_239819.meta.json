@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239819",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-03T20:21:39.973000Z",
+  "market_createdAt": "2021-12-03T20:21:39.973Z",
+  "market_updatedAt": "2024-04-22T23:54:25.416642Z",
+  "market_startDate": "2021-12-04T19:49:14.299Z",
+  "market_endDate": "2021-12-05T00:00:00Z",
+  "market_closedTime": "2021-12-06 17:27:44+00",
+  "conditionId": "0x4ccf83902cde1e8184709e7a1972c064cd3c23e255a536824674a09ce9bd6893",
+  "slug": "nfl-will-the-49ers-beat-the-seahawks-by-more-than-3pt5-points-in-their-december-5-matchup",
+  "question": "NFL: Will the 49ers beat the Seahawks by more than 3.5 points in their December 5 matchup?"
+}

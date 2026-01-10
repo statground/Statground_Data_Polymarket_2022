@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243971",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-01T06:18:22.209000Z",
+  "market_createdAt": "2022-05-01T06:18:22.209Z",
+  "market_updatedAt": "2023-01-31T19:43:58.531Z",
+  "market_startDate": "2022-05-01T14:06:28.387Z",
+  "market_endDate": "2022-05-01T00:00:00Z",
+  "market_closedTime": "2022-05-02 07:02:06+00",
+  "conditionId": "0x1f52de0b1a7339e41e3f6aefc832ba50b2447d9e1c1a4eb95e05ccef10c5a5f3",
+  "slug": "nba-will-the-warriors-beat-the-grizzlies-by-more-than-2pt5-points-in-their-may-1-330-pm-et-matchup",
+  "question": "NBA: Will the Warriors beat the Grizzlies by more than 2.5 points in their May 1, 3:30 PM ET matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238668",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-26T20:42:01.076000Z",
+  "market_createdAt": "2021-08-26T20:42:01.076Z",
+  "market_updatedAt": "2024-04-22T23:28:34.657138Z",
+  "market_startDate": "2021-08-26T21:56:23.888Z",
+  "market_endDate": "2021-09-15T00:00:00Z",
+  "market_closedTime": "2021-08-31 15:55:36+00",
+  "conditionId": "0x77b320faca42d601985e76108d19103ee1d12ae3d3096d7793d1ba6d8ac05270",
+  "slug": "will-a-major-hurricane-make-landfall-in-the-lower-48-states-before-september-15",
+  "question": "Will a major hurricane make landfall in the lower 48 states before September 15?"
+}

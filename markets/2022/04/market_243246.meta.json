@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243246",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-13T22:44:23.581000Z",
+  "market_createdAt": "2022-04-13T22:44:23.581Z",
+  "market_updatedAt": "2023-01-31T18:41:07.872Z",
+  "market_startDate": "2022-04-18T16:28:48.718Z",
+  "market_endDate": "2022-06-30T00:00:00Z",
+  "market_closedTime": "2022-06-30 20:00:38+00",
+  "conditionId": "0x3f8deb26ec601c9768320b3264514b324f4111155474777881b5573daf59d5c9",
+  "slug": "will-volodymyr-zelenskyy-be-president-of-ukraine-on-june-30",
+  "question": "Will Volodymyr Zelenskyy be President of Ukraine on June 30?"
+}

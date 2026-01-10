@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "95230",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-22T19:10:02.059000Z",
+  "market_createdAt": "2021-02-22T19:10:02.059Z",
+  "market_updatedAt": "2024-04-22T22:43:10.413529Z",
+  "market_startDate": null,
+  "market_endDate": "2021-03-06T00:00:00Z",
+  "market_closedTime": "2021-03-07 21:08:55+00",
+  "conditionId": "0x8456a0b43767fb5b2bdd6893f827ca5c9f84b5c1665668dfef0bc594fdc833a9",
+  "slug": "who-will-win-ufc-259-blachowicz-vs-adesanya",
+  "question": "Who will win UFC 259: Blachowicz vs. Adesanya?"
+}

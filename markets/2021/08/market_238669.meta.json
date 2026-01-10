@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238669",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-27T05:48:01.157000Z",
+  "market_createdAt": "2021-08-27T05:48:01.157Z",
+  "market_updatedAt": "2024-04-22T23:09:54.081428Z",
+  "market_startDate": "2021-08-27T07:20:30.065Z",
+  "market_endDate": "2021-08-30T00:00:00Z",
+  "market_closedTime": "2021-08-31 16:17:19+00",
+  "conditionId": "0xa4a6c86d5b36dd030bd8b5c80c70a857f03874fd5967dc4c13b4e1c6db32a39f",
+  "slug": "will-candyman-gross-more-than-19m-domestically-on-opening-weekend",
+  "question": "Will Candyman gross more than $19M domestically on opening weekend?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241936",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-07T09:29:14.297000Z",
+  "market_createdAt": "2022-03-07T09:29:14.297Z",
+  "market_updatedAt": "2024-04-22T23:33:18.481815Z",
+  "market_startDate": "2022-03-07T15:23:36.636Z",
+  "market_endDate": "2022-03-07T00:00:00Z",
+  "market_closedTime": "2022-03-08 19:00:30+00",
+  "conditionId": "0x7f0fde4c9e4101a49d0ec0600a8fbf1f02f3da5a3bf1d4f0a53b3a00edc5a7ac",
+  "slug": "nba-who-will-win-the-76ers-vspt-bulls-scheduled-for-march-7-7-pm-et",
+  "question": "NBA: Who will win the 76ers vs. Bulls, scheduled for March 7 (7 PM ET)?"
+}

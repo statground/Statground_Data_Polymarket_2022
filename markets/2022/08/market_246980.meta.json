@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246980",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-12T16:25:32.794000Z",
+  "market_createdAt": "2022-08-12T16:25:32.794Z",
+  "market_updatedAt": "2024-04-25T00:11:51.275255Z",
+  "market_startDate": null,
+  "market_endDate": "2022-08-19T00:00:00Z",
+  "market_closedTime": "2022-08-19 18:31:18+00",
+  "conditionId": "0xad2140a55917267625037a2b15ed9c0b6ba27fd1e2ea6bf5295df4c5fdf23cbc",
+  "slug": "will-eth-be-above-1900-on-august-19",
+  "question": "Will $ETH be above $1,900 on August 19?"
+}

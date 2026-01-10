@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247758",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-25T18:27:05.655000Z",
+  "market_createdAt": "2022-10-25T18:27:05.655Z",
+  "market_updatedAt": "2023-01-31T20:26:40.358Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-28T00:00:00Z",
+  "market_closedTime": "2022-10-30 06:15:33+00",
+  "conditionId": "0x9607f019421fbd419e28bb774d27afa3fffd6fe21ff3b5416b77c85a73210b04",
+  "slug": "nba-who-will-win-pacers-vs-wizards-scheduled-for-october-28-730-pm-et",
+  "question": "NBA: Who will win Pacers vs. Wizards, scheduled for October 28 (7:30 PM ET)?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242706",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-01T09:03:59.128000Z",
+  "market_createdAt": "2022-04-01T09:03:59.128Z",
+  "market_updatedAt": "2024-04-23T00:53:44.324651Z",
+  "market_startDate": "2022-04-01T15:30:53.973Z",
+  "market_endDate": "2022-04-01T00:00:00Z",
+  "market_closedTime": "2022-04-02 07:20:28+00",
+  "conditionId": "0x8577597062da8af957a977595860f91b10911a4b8807dd1a0982f4a18a9780d9",
+  "slug": "nhl-will-the-oilers-beat-the-blues-by-more-than-1pt5-goals-in-their-april-1-900-pm-et-matchup",
+  "question": "NHL: Will the Oilers beat the Blues by more than 1.5 goals in their April 1, 9:00 PM ET matchup?"
+}

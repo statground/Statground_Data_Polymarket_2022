@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247798",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-01T19:49:12.963000Z",
+  "market_createdAt": "2022-11-01T19:49:12.963Z",
+  "market_updatedAt": "2023-01-31T18:28:04.817Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-06T00:00:00Z",
+  "market_closedTime": "2022-11-07 08:00:38+00",
+  "conditionId": "0xae9135e59237ded078e883971f38c1bb7f921b1c965aac617e4b589b62803971",
+  "slug": "nfl-sunday-titans-vs-chiefs",
+  "question": "NFL Sunday: Titans vs. Chiefs"
+}

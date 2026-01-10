@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248195",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-12T15:41:01.261000Z",
+  "market_createdAt": "2022-12-12T15:41:01.261Z",
+  "market_updatedAt": "2023-02-10T01:03:37.759Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-14T00:00:00Z",
+  "market_closedTime": "2022-12-14 23:07:11+00",
+  "conditionId": "0x0da3bb900632c5dfa0dcda6df806fc2b84862bb1820a141f9a22e0fcf27c8d55",
+  "slug": "world-cup-wednesday-france-vs-morocco",
+  "question": "World Cup: Wednesday - France vs. Morocco"
+}

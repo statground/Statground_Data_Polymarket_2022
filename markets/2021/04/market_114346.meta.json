@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "114346",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-01T21:35:03.756000Z",
+  "market_createdAt": "2021-04-01T21:35:03.756Z",
+  "market_updatedAt": "2023-01-31T17:26:57.301Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-25T00:00:00Z",
+  "market_closedTime": "2021-04-25 20:47:55+00",
+  "conditionId": "0x8cee05afa217a89cf4d5ca76d90bd287d0c73cf83640d0212c05bc5fe2b40d56",
+  "slug": "will-de-fi-dominance-on-coin-gecko-be-5-15-or-higher-on-april-25",
+  "question": "Will DeFi Dominance on CoinGecko be 5.15% or higher on April 25?"
+}

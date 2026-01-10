@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246919",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-03T23:25:36.675000Z",
+  "market_createdAt": "2022-08-03T23:25:36.675Z",
+  "market_updatedAt": "2023-02-01T04:12:28.583Z",
+  "market_startDate": "2022-08-05T11:53:56.644Z",
+  "market_endDate": "2022-08-04T00:00:00Z",
+  "market_closedTime": "2022-08-05 07:15:48+00",
+  "conditionId": "0x1c6ed01028195fc0ffcbb0fb4a0f57132fedb65456376819c104f886cff9b167",
+  "slug": "nfl-preseason-who-will-win-jacksonville-jaguars-v-las-vegas-raiders-scheduled-for-august-4-800-pm-et",
+  "question": "NFL Preseason: Who will win Jacksonville Jaguars v. Las Vegas Raiders, scheduled for August 4, 8:00 PM ET?"
+}

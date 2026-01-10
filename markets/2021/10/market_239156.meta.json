@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239156",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-30T13:38:53.113000Z",
+  "market_createdAt": "2021-10-30T13:38:53.113Z",
+  "market_updatedAt": "2024-04-22T22:55:09.936925Z",
+  "market_startDate": "2021-10-30T19:12:56.851Z",
+  "market_endDate": "2021-10-30T00:00:00Z",
+  "market_closedTime": "2021-10-31 16:29:07+00",
+  "conditionId": "0x46193226724859064ff855a73210b44f653933efab7d759115f424bf123578b7",
+  "slug": "will-the-bucks-beat-the-spurs-by-more-than-6pt5-points-in-their-october-30th-matchup",
+  "question": "Will the Bucks beat the Spurs by more than 6.5 points in their October 30th matchup?"
+}

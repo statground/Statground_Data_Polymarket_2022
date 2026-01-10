@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241033",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-26T01:17:17.945000Z",
+  "market_createdAt": "2022-01-26T01:17:17.945Z",
+  "market_updatedAt": "2024-04-22T23:18:03.759286Z",
+  "market_startDate": "2022-01-26T19:57:36.275Z",
+  "market_endDate": "2022-05-18T00:00:00Z",
+  "market_closedTime": "2022-05-19 20:00:39+00",
+  "conditionId": "0x0432c01947dffe8daef6f67b5674196e861db06ae3224ac961898acf4d5ccd53",
+  "slug": "will-conor-lamb-win-the-democratic-nomination-for-the-2022-united-states-senate-election-in-pennsylvania",
+  "question": "Will Conor Lamb win the Democratic nomination for the 2022 United States Senate election in Pennsylvania?"
+}

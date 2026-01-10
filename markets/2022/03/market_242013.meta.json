@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242013",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-11T11:24:35.622000Z",
+  "market_createdAt": "2022-03-11T11:24:35.622Z",
+  "market_updatedAt": "2024-04-22T22:59:35.12082Z",
+  "market_startDate": "2022-03-11T20:37:25.008Z",
+  "market_endDate": "2022-03-11T00:00:00Z",
+  "market_closedTime": "2022-03-12 12:30:52+00",
+  "conditionId": "0x00c3bb142a8b477907c6ff2a1106e87ff050b2d6d478ea924faf17d92a45b473",
+  "slug": "nba-will-the-hornets-beat-the-pelicans-by-more-than-2pt5-points-in-their-march-11-8-pm-et-matchup",
+  "question": "NBA: Will the Hornets beat the Pelicans by more than 2.5 points in their March 11 (8 PM ET) matchup?"
+}

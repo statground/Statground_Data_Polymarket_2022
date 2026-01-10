@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248018",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T20:12:27.169000Z",
+  "market_createdAt": "2022-11-18T20:12:27.169Z",
+  "market_updatedAt": "2023-01-31T21:06:36.671Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-06T00:00:00Z",
+  "market_closedTime": "2022-11-30 01:31:52+00",
+  "conditionId": "0xe28ee7a5b9e7d4ea4357f9443364bdf503777ad92a7285b716bfbf91e6dc8389",
+  "slug": "will-usa-qualify-from-group-b",
+  "question": "Will USA qualify from Group B?"
+}

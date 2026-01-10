@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242462",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-25T09:01:53.774000Z",
+  "market_createdAt": "2022-03-25T09:01:53.774Z",
+  "market_updatedAt": "2024-04-24T23:37:03.102985Z",
+  "market_startDate": "2022-03-25T15:55:01.47Z",
+  "market_endDate": "2022-03-25T00:00:00Z",
+  "market_closedTime": "2022-03-26 16:19:49+00",
+  "conditionId": "0xe32bae17516b2aea6092d6c442f62bb5327da55d2374068d8b3661dac6c52333",
+  "slug": "nhl-will-the-capitals-beat-the-sabres-by-more-than-1pt5-goals-in-their-march-25-700-pm-et-matchup",
+  "question": "NHL: Will the Capitals beat the Sabres by more than 1.5 goals in their March 25, 7:00 PM ET matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238953",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-06T17:18:06.616000Z",
+  "market_createdAt": "2021-10-06T17:18:06.616Z",
+  "market_updatedAt": "2024-04-26T02:49:40.970439Z",
+  "market_startDate": "2021-10-06T17:43:02.286Z",
+  "market_endDate": "2021-10-07T00:00:00Z",
+  "market_closedTime": "2021-10-08 03:34:33+00",
+  "conditionId": "0x41a1582c32825cae400cb93bdcb323b6fc3aefc0e6b767b3cc5d387722910ccc",
+  "slug": "will-the-rams-beat-the-seahawks-by-more-than-2pt5-points-in-their-week-five-matchup",
+  "question": "Will the Rams beat the Seahawks by more than 2.5 points in their week five matchup?"
+}

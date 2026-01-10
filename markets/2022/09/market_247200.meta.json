@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247200",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-07T17:38:24.989000Z",
+  "market_createdAt": "2022-09-07T17:38:24.989Z",
+  "market_updatedAt": "2023-01-31T19:35:11.231Z",
+  "market_startDate": "2022-09-07T21:34:20.509Z",
+  "market_endDate": "2022-09-11T00:00:00Z",
+  "market_closedTime": "2022-09-11 08:15:38+00",
+  "conditionId": "0xb793265b212fe4583a89af39a70f31adc1ac4eacb89024daf4e9a58849910ac9",
+  "slug": "ufc-279-who-will-win-jingliang-vs-ferguson",
+  "question": "UFC 279: Who will win - Jingliang vs Ferguson"
+}

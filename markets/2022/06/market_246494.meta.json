@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246494",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-06T20:12:06.266000Z",
+  "market_createdAt": "2022-06-06T20:12:06.266Z",
+  "market_updatedAt": "2023-01-31T09:49:29.241Z",
+  "market_startDate": "2022-06-07T15:08:42.739Z",
+  "market_endDate": "2023-01-01T00:00:00Z",
+  "market_closedTime": "2022-06-11 20:45:39+00",
+  "conditionId": "0x9dc9732980f33d11e98aeb9c118e8f251063c59ef94d6f5e899e4bde942b07a8",
+  "slug": "will-solana-sol-hit-35-or-50-first",
+  "question": "Will Solana ($SOL) hit $35 or $50 first?"
+}

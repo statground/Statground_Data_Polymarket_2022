@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "209047",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-04T20:20:01.006000Z",
+  "market_createdAt": "2021-06-04T20:20:01.006Z",
+  "market_updatedAt": "2024-04-24T23:28:01.702954Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-19T00:00:00Z",
+  "market_closedTime": "2021-06-20 16:18:00+00",
+  "conditionId": "0xed8c5bf991842034b8aa5d3b81ddc267edafd282b7a80693bbbe01e1fb65abf0",
+  "slug": "will-the-nets-or-the-bucks-win-their-nba-conference-semifinals-series",
+  "question": "Will the Nets or the Bucks win their NBA Conference Semifinals Series?"
+}

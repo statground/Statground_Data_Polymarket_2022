@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242605",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-29T13:04:22.639000Z",
+  "market_createdAt": "2022-03-29T13:04:22.639Z",
+  "market_updatedAt": "2024-04-24T23:51:59.475917Z",
+  "market_startDate": "2022-03-29T15:55:25.035Z",
+  "market_endDate": "2022-05-08T00:00:00Z",
+  "market_closedTime": "2022-04-14 22:30:55+00",
+  "conditionId": "0x4fc62df5b28b5571e9bdc31dd1ecf826f900d0fb84b4001c951e191f272d0ed0",
+  "slug": "will-the-7-day-covid-19-case-average-in-the-usa-be-below-25000-by-may-1st-2022",
+  "question": "Will the 7-day COVID-19 case average in the USA be below 25,000 by May 1st, 2022?"
+}

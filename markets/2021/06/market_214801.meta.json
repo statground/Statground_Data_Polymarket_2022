@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "214801",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-09T19:15:01.046000Z",
+  "market_createdAt": "2021-06-09T19:15:01.046Z",
+  "market_updatedAt": "2024-04-23T00:26:41.593646Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-12T00:00:00Z",
+  "market_closedTime": "2021-06-13 18:04:43+00",
+  "conditionId": "0xef9da13c66bb15eb93deebd2977c68c082e6d06f2aa6fa0a9c7758f5db3a4dd0",
+  "slug": "will-ddg-ko-tko-or-retire-nate-wyatt",
+  "question": "Will DDG KO, TKO, or retire Nate Wyatt? "
+}

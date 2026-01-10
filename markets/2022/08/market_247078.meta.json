@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247078",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-22T18:21:39.589000Z",
+  "market_createdAt": "2022-08-22T18:21:39.589Z",
+  "market_updatedAt": "2023-02-01T04:12:28.677Z",
+  "market_startDate": "2022-08-26T17:00:14.304Z",
+  "market_endDate": "2022-08-24T00:00:00Z",
+  "market_closedTime": "2022-08-24 14:53:40+00",
+  "conditionId": "0x7bdbb78a104e7301cc9c6e0fef64bb5733c8fbe69ab8082cf26e227f91908ffa",
+  "slug": "mlb-who-will-win-cleveland-guardians-v-san-diego-padres-scheduled-for-august-23-940-pm-et",
+  "question": "MLB: Who will win Cleveland Guardians v. San Diego Padres, scheduled for August 23, 9:40 PM ET?"
+}

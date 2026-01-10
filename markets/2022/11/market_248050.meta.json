@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248050",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T21:48:23.734000Z",
+  "market_createdAt": "2022-11-18T21:48:23.734Z",
+  "market_updatedAt": "2023-01-31T21:06:41.765Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-18T00:00:00Z",
+  "market_closedTime": "2022-12-12 18:01:06+00",
+  "conditionId": "0xcf961bbb52977a4be288e031afcb5c1ea2f870653b36262e87ff9706c138e737",
+  "slug": "will-england-win-the-2022-world-cup",
+  "question": "Will England win the 2022 World Cup?"
+}

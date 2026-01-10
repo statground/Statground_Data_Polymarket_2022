@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241443",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-12T11:16:15.246000Z",
+  "market_createdAt": "2022-02-12T11:16:15.246Z",
+  "market_updatedAt": "2024-04-22T23:57:41.441762Z",
+  "market_startDate": "2022-02-12T16:27:00.379Z",
+  "market_endDate": "2022-02-12T00:00:00Z",
+  "market_closedTime": "2022-02-13 11:36:15+00",
+  "conditionId": "0x6fa0339a0c848a2619c4adafcd5c8602fd36ecd5536ac6540728031e61715a5d",
+  "slug": "nhl-will-the-maple-leafs-beat-the-canucks-by-more-than-1p5-goals-in-their-february-12-matchup-7-pm-et",
+  "question": "NHL: Will the Maple Leafs beat the Canucks by more than 1.5 goals in their February 12 matchup (7 PM ET)?"
+}

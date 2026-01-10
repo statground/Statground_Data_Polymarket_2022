@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241620",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-19T14:52:05.679000Z",
+  "market_createdAt": "2022-02-19T14:52:05.679Z",
+  "market_updatedAt": "2024-04-22T23:32:03.141518Z",
+  "market_startDate": null,
+  "market_endDate": "2022-02-20T00:00:00Z",
+  "market_closedTime": "2022-02-21 18:30:32+00",
+  "conditionId": "0xa78ac7e66f5807638337c1d139a964eb3bba4f089b4bc5164f30ca7ef431ddc7",
+  "slug": "nba-all-star-2022-will-team-lebron-or-team-durant-win-the-game",
+  "question": "NBA All-Star 2022: Will Team LeBron or Team Durant win the game?"
+}

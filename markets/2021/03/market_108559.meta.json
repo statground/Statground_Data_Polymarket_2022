@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "108559",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-03-23T15:40:10.598000Z",
+  "market_createdAt": "2021-03-23T15:40:10.598Z",
+  "market_updatedAt": "2024-04-24T23:16:39.979465Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-01T00:00:00Z",
+  "market_closedTime": "2021-05-02 16:26:12+00",
+  "conditionId": "0xe51c3b29e7d31393993ce4f9dd11d7f714023304b179c51ffa57233f61140b58",
+  "slug": "will-astrazenecas-covid-19-vaccine-receive-fda-approval-or-emergency-use-authorization-eua-by-may-1-2021",
+  "question": "Will AstraZeneca's COVID-19 vaccine receive FDA approval or Emergency Use Authorization (EUA) by May 1, 2021?"
+}

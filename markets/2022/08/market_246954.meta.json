@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246954",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-09T21:40:02.138000Z",
+  "market_createdAt": "2022-08-09T21:40:02.138Z",
+  "market_updatedAt": "2023-01-31T18:41:17.238Z",
+  "market_startDate": "2022-08-09T21:54:18.18Z",
+  "market_endDate": "2022-08-19T00:00:00Z",
+  "market_closedTime": "2022-08-20 07:15:34+00",
+  "conditionId": "0x2d526ea023bc73e8b8cf1bf1166e407e30b201e4f7a7a0b04cfc5f28f7aafd34",
+  "slug": "will-us-30-year-treasury-bond-yield-close-above-3-on-august-19-2022",
+  "question": "Will U.S. 30 year Treasury bond yield close above 3% on August 19, 2022?"
+}

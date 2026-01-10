@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238981",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-12T21:15:18.055000Z",
+  "market_createdAt": "2021-10-12T21:15:18.055Z",
+  "market_updatedAt": "2024-04-22T23:16:15.352692Z",
+  "market_startDate": "2021-10-12T22:42:28.433Z",
+  "market_endDate": "2021-11-01T00:00:00Z",
+  "market_closedTime": "2021-10-13 01:23:35+00",
+  "conditionId": "0x9bdaaa0540aa0240e3af6c4e1ab0fcb35f86dfff473fdb40e72b2e9acb844b8e",
+  "slug": "who-will-win-the-raptors-v-wizards-game-on-october-12th",
+  "question": "Who will win the Raptors v. Wizards game on October 12th?"
+}

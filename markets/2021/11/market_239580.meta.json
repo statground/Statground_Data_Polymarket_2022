@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239580",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-24T00:55:55.700000Z",
+  "market_createdAt": "2021-11-24T00:55:55.7Z",
+  "market_updatedAt": "2024-04-22T23:47:44.109557Z",
+  "market_startDate": "2021-11-24T19:06:46.159Z",
+  "market_endDate": "2021-12-01T00:00:00Z",
+  "market_closedTime": "2021-12-02 19:38:05+00",
+  "conditionId": "0x0201403c7943607655cb8cf0d863490a951389606fbf171e418e84c9fac4c267",
+  "slug": "will-more-than-3pt45-million-people-travel-via-new-york-city-subway-on-any-day-before-december-1",
+  "question": "Will more than 3.45 million people travel via New York City subway on any day before December 1?"
+}

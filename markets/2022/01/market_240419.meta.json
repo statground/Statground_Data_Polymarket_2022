@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240419",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T14:29:04.069000Z",
+  "market_createdAt": "2022-01-11T14:29:04.069Z",
+  "market_updatedAt": "2024-04-22T23:56:10.302468Z",
+  "market_startDate": "2022-01-12T20:46:24.208Z",
+  "market_endDate": "2022-01-22T00:00:00Z",
+  "market_closedTime": "2022-01-25 00:15:31+00",
+  "conditionId": "0x768f82db788579b30eef843803437cc55bc8b4f2302ff7b604e39cfb381f1189",
+  "slug": "will-joe-bidens-rcp-job-approval-rating-on-january-21-be-between-41pt9-and-42pt1",
+  "question": "Will Joe Biden's RCP job approval rating on January 21 be between 41.9% and 42.1%?"
+}

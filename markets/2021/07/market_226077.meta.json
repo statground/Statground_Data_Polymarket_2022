@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "226077",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-26T16:35:01.436000Z",
+  "market_createdAt": "2021-07-26T16:35:01.436Z",
+  "market_updatedAt": "2024-04-22T23:30:31.222294Z",
+  "market_startDate": null,
+  "market_endDate": "2022-01-01T00:00:00Z",
+  "market_closedTime": "2022-01-02 21:16:50+00",
+  "conditionId": "0xbe41436a16dc3a4f97faa7adc444a2d3b8719923ddb561eb36cd17382821feb2",
+  "slug": "will-it-be-possible-to-shop-on-amazon-in-the-us-using-bitcoin-before-2022",
+  "question": "Will it be possible to shop on Amazon using Bitcoin in the US before 2022?"
+}

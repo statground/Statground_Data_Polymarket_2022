@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240356",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T01:14:40.333000Z",
+  "market_createdAt": "2022-01-11T01:14:40.333Z",
+  "market_updatedAt": "2024-04-22T23:26:04.081514Z",
+  "market_startDate": "2022-01-12T20:49:50.186Z",
+  "market_endDate": "2022-05-28T00:00:00Z",
+  "market_closedTime": "2022-04-14 00:15:55+00",
+  "conditionId": "0x9bcece08c7a7b1b54bd3f2bfec25e81a2588d061fc213e3e3a9cc0e2f9967228",
+  "slug": "will-chelsea-london-win-the-2021-22-uefa-champions-league",
+  "question": "Will Chelsea win the 2021-22 UEFA Champions League?"
+}

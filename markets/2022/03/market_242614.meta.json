@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242614",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-29T14:59:34.553000Z",
+  "market_createdAt": "2022-03-29T14:59:34.553Z",
+  "market_updatedAt": "2024-04-22T23:39:39.991574Z",
+  "market_startDate": "2022-03-29T15:52:07.31Z",
+  "market_endDate": "2022-03-29T00:00:00Z",
+  "market_closedTime": "2022-03-30 08:30:49+00",
+  "conditionId": "0xaaae781340d5b71bb119e55ef6eb0020d9c8e3587972d62713433a278e1b6161",
+  "slug": "nhl-will-the-lightning-beat-the-hurricanes-by-more-than-1pt5-goals-in-their-march-29-matchup-7-pm-et",
+  "question": "NHL: Will the Lightning beat the Hurricanes by more than 1.5 goals in their March 29 matchup (7 PM ET)?"
+}

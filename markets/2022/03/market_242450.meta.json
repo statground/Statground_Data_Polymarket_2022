@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242450",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-24T19:07:15.266000Z",
+  "market_createdAt": "2022-03-24T19:07:15.266Z",
+  "market_updatedAt": "2024-04-25T16:06:01.256178Z",
+  "market_startDate": "2022-03-24T19:47:50.015Z",
+  "market_endDate": "2022-04-11T00:00:00Z",
+  "market_closedTime": "2022-04-11 02:30:42+00",
+  "conditionId": "0x8392f2573555c19025199cc3d001b1e242fa5da1ffef2abc7310f74dd5f42437",
+  "slug": "golf-will-collin-morikawa-win-the-2022-masters-tournament",
+  "question": "Golf: Will Collin Morikawa win the 2022 Masters Tournament?"
+}

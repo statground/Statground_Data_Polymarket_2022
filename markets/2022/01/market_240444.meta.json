@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240444",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T16:16:30.050000Z",
+  "market_createdAt": "2022-01-11T16:16:30.05Z",
+  "market_updatedAt": "2024-04-23T00:24:38.843891Z",
+  "market_startDate": "2022-01-12T20:57:00.474Z",
+  "market_endDate": "2022-03-01T00:00:00Z",
+  "market_closedTime": "2022-03-02 18:30:25+00",
+  "conditionId": "0xb442688bbffa04352e61e1e4b0406dfda5c0f70061379b144727eaf5b8f46e91",
+  "slug": "will-the-7-day-covid-19-case-average-be-below-100000-by-march-1-2022",
+  "question": "Will the U.S. 7-day COVID-19 Case average be below 100,000 by March 1, 2022?"
+}

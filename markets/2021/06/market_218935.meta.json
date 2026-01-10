@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218935",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-24T22:10:00.968000Z",
+  "market_createdAt": "2021-06-24T22:10:00.968Z",
+  "market_updatedAt": "2024-04-23T00:14:11.353005Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-24T00:00:00Z",
+  "market_closedTime": "2021-06-25 15:57:45+00",
+  "conditionId": "0x5ebe553bf3a9348b7218ba3f01ed8fff249b069c81afbc0b52734d476a3b0488",
+  "slug": "in-game-trading-who-will-win-suns-v-clippers-finals-game-3",
+  "question": "(In-Game Trading) Who will win Suns v. Clippers: Finals Game 3?"
+}

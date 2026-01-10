@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241573",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-16T20:43:10.165000Z",
+  "market_createdAt": "2022-02-16T20:43:10.165Z",
+  "market_updatedAt": "2024-04-22T23:55:43.624919Z",
+  "market_startDate": "2022-02-17T18:12:04.611Z",
+  "market_endDate": "2022-03-08T00:00:00Z",
+  "market_closedTime": "2022-03-09 19:15:35+00",
+  "conditionId": "0x5649ca2b8b1bacc1ab132670f19f0ba5c8da8c9cd50189a51dbb1e1cce98c584",
+  "slug": "will-the-us-7-day-covid-19-case-average-be-above-75000-on-march-1-2022",
+  "question": "Will the U.S. 7-day COVID-19 Case average be above 75,000 on March 1, 2022?"
+}

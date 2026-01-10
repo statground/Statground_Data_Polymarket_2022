@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241946",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-07T10:10:24.952000Z",
+  "market_createdAt": "2022-03-07T10:10:24.952Z",
+  "market_updatedAt": "2024-04-22T22:36:58.84309Z",
+  "market_startDate": "2022-03-07T15:30:13.592Z",
+  "market_endDate": "2022-03-07T00:00:00Z",
+  "market_closedTime": "2022-03-08 19:03:08+00",
+  "conditionId": "0xfbd18d016649fa1eb5b64fb6955c2e5d00b7208ff3d93dd33c7659382e92890d",
+  "slug": "nhl-will-the-flames-beat-the-oilers-by-more-than-1pt5-goals-in-their-march-7-matchup-9pt30-pm-et",
+  "question": "NHL: Will the Flames beat the Oilers by more than 1.5 goals in their March 7 matchup (9.30 PM ET)?"
+}

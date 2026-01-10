@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "156413",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-26T19:55:03.161000Z",
+  "market_createdAt": "2021-04-26T19:55:03.161Z",
+  "market_updatedAt": "2024-04-26T02:47:56.160396Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-28T00:00:00Z",
+  "market_closedTime": "2021-04-30 06:21:31+00",
+  "conditionId": "0xda862b9646a8cb3b2fef8a12fc428bbce7ee20ed28fa6be459236b18c4722332",
+  "slug": "will-president-biden-mention-donald-trump-in-his-first-joint-address",
+  "question": "Will President Biden mention Donald Trump in his first Joint Address?"
+}

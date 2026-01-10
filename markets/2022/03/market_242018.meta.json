@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242018",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-11T13:37:21.210000Z",
+  "market_createdAt": "2022-03-11T13:37:21.21Z",
+  "market_updatedAt": "2024-04-23T00:26:54.060971Z",
+  "market_startDate": null,
+  "market_endDate": "2022-03-11T00:00:00Z",
+  "market_closedTime": "2022-03-12 13:30:24+00",
+  "conditionId": "0xbf385a30969247a7a03593b9b939a875bd59c60a5b73fec6933e4ecfdaa80a60",
+  "slug": "nhl-will-the-islanders-beat-the-jets-by-more-than-1pt5-goals-in-their-march-11-matchup-7pt30-pm-et",
+  "question": "NHL: Will the Islanders beat the Jets by more than 1.5 goals in their March 11 matchup (7.30 PM ET)?"
+}

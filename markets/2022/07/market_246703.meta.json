@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246703",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-13T13:53:09.319000Z",
+  "market_createdAt": "2022-07-13T13:53:09.319Z",
+  "market_updatedAt": "2023-01-31T17:46:56.686Z",
+  "market_startDate": "2022-07-13T14:04:27.938Z",
+  "market_endDate": "2022-12-31T00:00:00Z",
+  "market_closedTime": "2022-07-19 19:00:41+00",
+  "conditionId": "0x19bbe06f58abd72358be177b9f1c1e8e5f1bf36680bfb7c3fb33f90f5f2fe8e9",
+  "slug": "will-kemi-badenoch-be-the-next-uk-conservative-party-leader",
+  "question": "Will Kemi Badenoch be the next UK Conservative Party Leader?"
+}

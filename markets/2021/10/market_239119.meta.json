@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239119",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-28T09:27:30.113000Z",
+  "market_createdAt": "2021-10-28T09:27:30.113Z",
+  "market_updatedAt": "2024-04-22T23:28:24.66954Z",
+  "market_startDate": "2021-10-28T17:29:04.731Z",
+  "market_endDate": "2021-10-28T00:00:00Z",
+  "market_closedTime": "2021-10-29 16:59:17+00",
+  "conditionId": "0x7921b3638bee8288443d88d8ecaf567d17e035392fdaa01da44b7bdec2f22835",
+  "slug": "who-will-win-the-hawks-v-wizards-game-on-october-28th",
+  "question": "Who will win the Hawks v. Wizards game on October 28th?"
+}

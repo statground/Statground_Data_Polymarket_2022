@@ -1,0 +1,21 @@
+{
+  "entity": "event",
+  "event_id": "5672",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2022-07-27T14:43:10.579000Z",
+  "event_createdAt": "2022-07-27T14:43:10.579Z",
+  "event_creationDate": "2022-03-26T00:00:00Z",
+  "event_startDate": "2022-03-26T00:00:00Z",
+  "event_endDate": "2022-03-26T00:00:00Z",
+  "event_updatedAt": "2024-04-22T21:17:40.257449Z",
+  "markets_len": 2,
+  "market_ids": [
+    "242537",
+    "242538"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "39"
+  ],
+  "series_slug": "march-madness"
+}

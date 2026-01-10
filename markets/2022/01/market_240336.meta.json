@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240336",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T00:39:22.592000Z",
+  "market_createdAt": "2022-01-11T00:39:22.592Z",
+  "market_updatedAt": "2024-04-23T00:08:33.845459Z",
+  "market_startDate": "2022-01-12T20:42:44.263Z",
+  "market_endDate": "2022-06-19T00:00:00Z",
+  "market_closedTime": "2022-05-16 07:30:37+00",
+  "conditionId": "0x3729fea27075511dc0782e839cbd099684503eead39591d48c55fc1ce0fdb82f",
+  "slug": "will-the-phoenix-suns-win-the-nba-21-22-nba-championship",
+  "question": "Will the Phoenix Suns win the NBA ‘21-’22 NBA Championship?"
+}

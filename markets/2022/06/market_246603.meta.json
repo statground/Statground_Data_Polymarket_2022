@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246603",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-28T10:30:05.331000Z",
+  "market_createdAt": "2022-06-28T10:30:05.331Z",
+  "market_updatedAt": "2023-01-31T15:40:40.981Z",
+  "market_startDate": "2022-06-28T15:08:50.616Z",
+  "market_endDate": "2022-07-05T00:00:00Z",
+  "market_closedTime": "2022-07-06 02:45:28+00",
+  "conditionId": "0xdb1ae5e45e38a8900959a6ab1cc9b1ec9eedf001094484c869735ff725316fc2",
+  "slug": "will-minions-the-rise-of-gru-gross-more-than-75-million-domestically-on-its-opening-weekend",
+  "question": "Will 'Minions: The Rise of Gru' gross more than $75 million domestically on its opening weekend?"
+}

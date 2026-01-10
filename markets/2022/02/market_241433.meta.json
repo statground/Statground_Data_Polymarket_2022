@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241433",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-11T23:06:17.534000Z",
+  "market_createdAt": "2022-02-11T23:06:17.534Z",
+  "market_updatedAt": "2024-04-22T23:42:01.622532Z",
+  "market_startDate": "2022-02-12T00:06:30.553Z",
+  "market_endDate": "2022-02-12T00:00:00Z",
+  "market_closedTime": "2022-02-13 23:09:00+00",
+  "conditionId": "0x0516afd274d8f47b7c19c1d88425e3cd957a650e38db4bb4fbc87818269a8a96",
+  "slug": "ufc-271-who-will-win-derrick-lewis-or-tai-tuivasa",
+  "question": "UFC 271: Who will win - Derrick Lewis or Tai Tuivasa?"
+}

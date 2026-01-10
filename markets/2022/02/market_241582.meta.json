@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241582",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-17T16:32:38.099000Z",
+  "market_createdAt": "2022-02-17T16:32:38.099Z",
+  "market_updatedAt": "2024-04-25T00:08:24.182453Z",
+  "market_startDate": "2022-02-17T18:15:32.506Z",
+  "market_endDate": "2022-02-17T00:00:00Z",
+  "market_closedTime": "2022-02-18 20:32:21+00",
+  "conditionId": "0xa10e3679852bfa78ccff94c1130019c46f299a6378604f2aad39db45ed76543b",
+  "slug": "nba-will-the-heat-beat-the-hornets-by-more-than-45-points-in-their-february-17-7pm-et-matchup",
+  "question": "NBA: Will the Heat beat the Hornets by more than 4.5 points in their February 17 (7PM ET) matchup?"
+}

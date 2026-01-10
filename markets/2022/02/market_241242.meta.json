@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241242",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-01T13:17:24.620000Z",
+  "market_createdAt": "2022-02-01T13:17:24.62Z",
+  "market_updatedAt": "2024-04-25T00:02:39.754535Z",
+  "market_startDate": "2022-02-01T23:24:44.115Z",
+  "market_endDate": "2022-02-01T00:00:00Z",
+  "market_closedTime": "2022-02-03 00:09:59+00",
+  "conditionId": "0x9415b4afa095e10f6f478f85c93edc9a034f8f24f56570240d09dabe29a13f30",
+  "slug": "nhl-will-the-golden-knights-beat-the-sabres-by-more-than-25-goals-in-their-february-1-matchup-pm-et",
+  "question": "NHL: Will the Golden Knights beat the Sabres by more than 2.5 goals in their February 1 matchup ( PM ET)?"
+}

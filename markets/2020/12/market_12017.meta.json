@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "12017",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-12-21T21:20:51.968000Z",
+  "market_createdAt": "2020-12-21T21:20:51.968Z",
+  "market_updatedAt": "2024-04-23T00:45:39.779443Z",
+  "market_startDate": null,
+  "market_endDate": "2021-03-02T00:00:00Z",
+  "market_closedTime": "2021-02-22 16:05:14+00",
+  "conditionId": "0x357e2d2afdedf5e7e46e2d1231bfe7a4f70f2893fe95c00e46b35d649d47f002",
+  "slug": "will-kim-kardashian-or-kanye-west-file-for-divorce-before-march-1-2021",
+  "question": "Will Kim Kardashian or Kanye West file for divorce before March 1, 2021?"
+}

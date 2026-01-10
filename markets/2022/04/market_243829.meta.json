@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243829",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-26T21:08:00.176000Z",
+  "market_createdAt": "2022-04-26T21:08:00.176Z",
+  "market_updatedAt": "2023-01-31T14:32:53.732Z",
+  "market_startDate": "2022-04-26T21:49:01.733Z",
+  "market_endDate": "2022-05-29T00:00:00Z",
+  "market_closedTime": "2022-06-01 00:15:44+00",
+  "conditionId": "0x207c1100fca2741fd922e610db4bee58b5ce3da1e174241981b26da5c2269cc8",
+  "slug": "league-of-legends-will-t1-south-korea-win-the-2022-mid-season-invitational",
+  "question": "League of Legends: will T1 (South Korea) win The 2022 Mid-Season Invitational?"
+}

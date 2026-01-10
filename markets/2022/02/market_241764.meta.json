@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241764",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-28T13:15:32.006000Z",
+  "market_createdAt": "2022-02-28T13:15:32.006Z",
+  "market_updatedAt": "2024-04-23T00:01:04.908988Z",
+  "market_startDate": "2022-02-28T15:04:14.963Z",
+  "market_endDate": "2022-02-28T00:00:00Z",
+  "market_closedTime": "2022-03-02 13:19:33+00",
+  "conditionId": "0xfd88e57589e5acd65ef3ad1fa04c0e4f522180bd6eeccfd4183466e5ebea2dde",
+  "slug": "nhl-will-the-devils-beat-the-canucks-by-more-than-1p5-goals-in-their-february-28-matchup-730-pm-et",
+  "question": "NHL: Will the Devils beat the Canucks by more than 1.5 goals in their February 28 matchup (7.30 PM ET)?"
+}

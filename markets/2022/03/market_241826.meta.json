@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241826",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-02T15:06:22.610000Z",
+  "market_createdAt": "2022-03-02T15:06:22.61Z",
+  "market_updatedAt": "2024-04-23T00:07:36.53548Z",
+  "market_startDate": "2022-03-02T15:56:53.609Z",
+  "market_endDate": "2022-03-02T00:00:00Z",
+  "market_closedTime": "2022-03-03 21:45:31+00",
+  "conditionId": "0x8a5dcdeb1917bbcd328ed16ebcf2ad1f6cc83d1e6e2323f877f3035a231edfca",
+  "slug": "nhl-will-the-predators-beat-the-kraken-by-more-than-1pt5-goals-in-their-march-2-matchup-10-pm-et",
+  "question": "NHL: Will the Predators beat the Kraken by more than 1.5 goals in their March 2 matchup (10 PM ET)?"
+}

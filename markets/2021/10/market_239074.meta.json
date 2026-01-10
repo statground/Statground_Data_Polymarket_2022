@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239074",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-24T15:05:52.425000Z",
+  "market_createdAt": "2021-10-24T15:05:52.425Z",
+  "market_updatedAt": "2024-04-22T23:10:37.55348Z",
+  "market_startDate": "2021-10-26T21:49:12.36Z",
+  "market_endDate": "2021-11-11T00:00:00Z",
+  "market_closedTime": "2021-11-02 18:11:12+00",
+  "conditionId": "0x8c80ea955e194b09fe4e85749b34f0e19fa4563de67b584e20401978fcd63350",
+  "slug": "will-ethereum-reach-4500-by-november-11th",
+  "question": "Will Ethereum reach $4500 by November 11th?"
+}

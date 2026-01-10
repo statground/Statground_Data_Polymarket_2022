@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240338",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T00:42:06.671000Z",
+  "market_createdAt": "2022-01-11T00:42:06.671Z",
+  "market_updatedAt": "2024-04-24T23:40:17.147464Z",
+  "market_startDate": "2022-01-12T20:43:42.21Z",
+  "market_endDate": "2022-06-19T00:00:00Z",
+  "market_closedTime": "2022-06-06 19:45:37+00",
+  "conditionId": "0xb663493a828eb1b8bb060e02b4ab828f2779749470f8e8a8f1b2b10bc7295429",
+  "slug": "will-the-miami-heat-win-the-nba-21-22-championship",
+  "question": "Will the Miami Heat win the NBA ‘21-’22 Championship?"
+}

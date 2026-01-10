@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "7740",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-12-14T19:10:14.471000Z",
+  "market_createdAt": "2020-12-14T19:10:14.471Z",
+  "market_updatedAt": "2024-04-22T23:29:21.501181Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-01T00:00:00Z",
+  "market_closedTime": "2021-01-07 17:50:50+00",
+  "conditionId": "0xe9b05f9f28541aa6e0ef301170590bc55f9d7099378f7c7674a83b42d799f4a4",
+  "slug": "will-any-electoral-certificates-be-formally-challenged-in-congress",
+  "question": "Will any Electoral College Certificates of Vote be formally challenged in Congress?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239218",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-03T14:51:34.204000Z",
+  "market_createdAt": "2021-11-03T14:51:34.204Z",
+  "market_updatedAt": "2024-04-24T23:46:00.046668Z",
+  "market_startDate": "2021-11-03T16:31:52.494Z",
+  "market_endDate": "2021-11-03T00:00:00Z",
+  "market_closedTime": "2021-11-04 00:22:30+00",
+  "conditionId": "0xda128b7687137287e94d5d2bcc1954f658906745b1f6f1494e8f87fd079395c5",
+  "slug": "uefa-champions-league-will-there-be-3-or-more-goals-in-liverpool-v-atletico-game-on-november-3",
+  "question": "UEFA Champions League: Will there be 3 or more goals in the Liverpool v. Atletico game on November 3?"
+}

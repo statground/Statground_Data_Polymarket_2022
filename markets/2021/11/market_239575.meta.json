@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239575",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-23T18:04:27.498000Z",
+  "market_createdAt": "2021-11-23T18:04:27.498Z",
+  "market_updatedAt": "2024-04-23T00:01:47.886903Z",
+  "market_startDate": "2021-11-23T22:14:08.453Z",
+  "market_endDate": "2021-11-23T00:00:00Z",
+  "market_closedTime": "2021-11-24 22:23:19+00",
+  "conditionId": "0xfb3670ab3a9bb529d6a1c9e2bd394bb7019a63da3ff33b3f25317af4d45591fe",
+  "slug": "nba-will-the-trail-blazers-beat-the-nuggets-by-more-than-65-points-in-their-november-23-matchup",
+  "question": "NBA: Will the Trail Blazers beat the Nuggets by more than 6.5 points in their November 23rd matchup?"
+}

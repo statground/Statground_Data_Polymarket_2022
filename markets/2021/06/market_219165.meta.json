@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "219165",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-25T18:40:01.623000Z",
+  "market_createdAt": "2021-06-25T18:40:01.623Z",
+  "market_updatedAt": "2024-04-23T00:49:47.845639Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-28T00:00:00Z",
+  "market_closedTime": "2021-06-29 14:55:21+00",
+  "conditionId": "0x075d4196a874fb9d8ae75366215e4ecb2506c9338dc940b9870fa31a42d69293",
+  "slug": "will-france-or-switzerland-win-their-euro-2020-match",
+  "question": "Will France or Switzerland qualify for the Euro 2020 Quarterfinals?"
+}

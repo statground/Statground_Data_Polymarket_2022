@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238996",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-13T22:38:01.287000Z",
+  "market_createdAt": "2021-10-13T22:38:01.287Z",
+  "market_updatedAt": "2024-04-26T02:46:49.846601Z",
+  "market_startDate": "2021-10-14T16:44:34.127Z",
+  "market_endDate": "2021-10-18T00:00:00Z",
+  "market_closedTime": "2021-10-19 03:40:07+00",
+  "conditionId": "0x4ba6dbada83600224f20d9e9be723cd80398f9a01578a36d6df070c1c8601e65",
+  "slug": "will-the-bills-or-titans-win-in-their-week-six-matchup",
+  "question": "Will the Bills or Titans win in their week six matchup?"
+}

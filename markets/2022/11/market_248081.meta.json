@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248081",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T22:59:03.103000Z",
+  "market_createdAt": "2022-11-18T22:59:03.103Z",
+  "market_updatedAt": "2023-01-31T17:53:56.545Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-18T00:00:00Z",
+  "market_closedTime": "2022-12-19 17:01:24+00",
+  "conditionId": "0x59af06ff2d8474f08f136580a8fcc724766502604d9b868d987e4cd5958de070",
+  "slug": "will-the-2022-world-cup-winner-be-from-south-america",
+  "question": "Will the 2022 World Cup winner be from South America?"
+}

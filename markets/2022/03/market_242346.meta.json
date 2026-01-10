@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242346",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-21T09:07:17.207000Z",
+  "market_createdAt": "2022-03-21T09:07:17.207Z",
+  "market_updatedAt": "2024-04-22T23:23:06.649611Z",
+  "market_startDate": "2022-03-21T17:08:41.072Z",
+  "market_endDate": "2022-03-21T00:00:00Z",
+  "market_closedTime": "2022-03-22 11:00:32+00",
+  "conditionId": "0x4cfd6971c05c6ae9c5aea0435290755aa6272d82b01d819d332c63227cfce4cb",
+  "slug": "nba-will-the-nets-beat-the-jazz-by-more-than-1pt5-points-in-their-march-21-740-pm-et-matchup",
+  "question": "NBA: Will the Nets beat the Jazz by more than 1.5 points in their March 21, 7:40 PM ET matchup?"
+}

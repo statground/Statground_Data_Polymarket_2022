@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242546",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-27T09:03:26.469000Z",
+  "market_createdAt": "2022-03-27T09:03:26.469Z",
+  "market_updatedAt": "2024-04-23T00:31:56.328818Z",
+  "market_startDate": "2022-03-27T17:13:18.664Z",
+  "market_endDate": "2022-03-27T00:00:00Z",
+  "market_closedTime": "2022-03-28 09:32:25+00",
+  "conditionId": "0x4d0fc526ec2012d77590399da3c79304288d3f08e7dcbbc2cf5bb4f735998ccd",
+  "slug": "nhl-will-the-lightning-beat-the-islanders-by-more-than-1pt5-goals-in-their-march-27-200-pm-et-matchup",
+  "question": "NHL: Will the Lightning beat the Islanders by more than 1.5 goals in their March 27, 2:00 PM ET matchup?"
+}

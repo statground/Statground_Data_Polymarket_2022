@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239372",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-11T18:34:33.363000Z",
+  "market_createdAt": "2021-11-11T18:34:33.363Z",
+  "market_updatedAt": "2024-04-22T23:04:51.928828Z",
+  "market_startDate": "2021-11-11T20:25:13.38Z",
+  "market_endDate": "2021-11-11T00:00:00Z",
+  "market_closedTime": "2021-11-12 19:51:15+00",
+  "conditionId": "0x4524c95cfeca575f9176e6044cd5be50d1da6548bb93c6154d70b47d30e319b1",
+  "slug": "nba-will-the-clippers-beat-the-heat-by-more-than-4pt5-points-in-their-november-11th-matchup",
+  "question": "NBA: Will the Clippers beat the Heat by more than 4.5 points in their November 11th matchup?"
+}

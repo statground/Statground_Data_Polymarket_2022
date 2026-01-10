@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241408",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-10T07:30:40.925000Z",
+  "market_createdAt": "2022-02-10T07:30:40.925Z",
+  "market_updatedAt": "2024-04-23T00:52:28.49792Z",
+  "market_startDate": "2022-02-10T14:59:31.81Z",
+  "market_endDate": "2022-02-10T00:00:00Z",
+  "market_closedTime": "2022-02-11 09:59:15+00",
+  "conditionId": "0xc9cce24fe59353063ecd7dd50a215b9c70ef18a040f7c8ec4c5d424c95b8f1ee",
+  "slug": "nba-who-will-win-the-suns-vs-bucks-scheduled-for-february-10-10-pm-et",
+  "question": "NBA: Who will win the Suns vs. Bucks, scheduled for February 10 (10 PM ET)?"
+}

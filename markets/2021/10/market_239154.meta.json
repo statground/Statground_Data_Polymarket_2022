@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239154",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-30T13:34:36.928000Z",
+  "market_createdAt": "2021-10-30T13:34:36.928Z",
+  "market_updatedAt": "2024-04-22T22:46:27.119646Z",
+  "market_startDate": "2021-10-30T19:11:52.784Z",
+  "market_endDate": "2021-10-30T00:00:00Z",
+  "market_closedTime": "2021-10-31 16:36:55+00",
+  "conditionId": "0xfa2a01cdbc97857c2b62fa1f68f887d4839a6c19563ec64a1c1c0bf95b2f151e",
+  "slug": "will-the-76ers-beat-the-hawks-by-more-than-3pt5-points-in-their-october-30th-matchup",
+  "question": "(In-Game Trading) Will the 76ers beat the Hawks by more than 3.5 points in their October 30th matchup?"
+}

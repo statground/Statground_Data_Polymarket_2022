@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240912",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-21T11:11:15.918000Z",
+  "market_createdAt": "2022-01-21T11:11:15.918Z",
+  "market_updatedAt": "2024-04-22T23:30:47.218223Z",
+  "market_startDate": "2022-01-21T21:47:55.689Z",
+  "market_endDate": "2022-01-21T00:00:00Z",
+  "market_closedTime": "2022-01-24 21:57:54+00",
+  "conditionId": "0x59eb205a3ba1c79fad96ba509c95175775410ef9e8b6c7bde2664d68fc4e4c2b",
+  "slug": "nhl-will-the-hurricanes-beat-the-rangers-by-more-than-1p5-points-in-their-january-21-matchup",
+  "question": "NHL: Will the Hurricanes beat the Rangers by more than 1.5 points in their January 21 matchup?"
+}

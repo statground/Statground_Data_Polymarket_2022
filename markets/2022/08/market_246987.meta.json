@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246987",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-15T16:32:42.471000Z",
+  "market_createdAt": "2022-08-15T16:32:42.471Z",
+  "market_updatedAt": "2023-02-01T04:12:28.582Z",
+  "market_startDate": "2022-08-16T05:03:58.212Z",
+  "market_endDate": "2022-08-15T00:00:00Z",
+  "market_closedTime": "2022-08-16 05:00:37+00",
+  "conditionId": "0xe6fac90ae4250a40225dacd6376c2771e653d3bc339e7ce9d9c8861ee2971659",
+  "slug": "mlb-who-will-win-san-diego-padres-v-miami-marlins-scheduled-for-august-15-640-pm-et",
+  "question": "MLB: Who will win San Diego Padres v. Miami Marlins, scheduled for August 15, 6:40 PM ET?"
+}

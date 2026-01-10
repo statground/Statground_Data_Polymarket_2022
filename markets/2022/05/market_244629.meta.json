@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244629",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-11T00:16:35.826000Z",
+  "market_createdAt": "2022-05-11T00:16:35.826Z",
+  "market_updatedAt": "2023-01-31T11:08:30.408Z",
+  "market_startDate": "2022-05-11T00:56:00.167Z",
+  "market_endDate": "2022-05-25T00:00:00Z",
+  "market_closedTime": "2022-05-19 00:15:43+00",
+  "conditionId": "0x350f47ab9271ea20e8bccf31b822982806a9c7a23f07b6d6a2407baff6d0f7da",
+  "slug": "will-the-aaa-average-us-gas-price-reach-4pt50-by-may-25-2022",
+  "question": "Will the AAA average US gas price reach $4.50 by May 25, 2022?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241744",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-27T14:30:28.300000Z",
+  "market_createdAt": "2022-02-27T14:30:28.3Z",
+  "market_updatedAt": "2024-04-22T22:24:04.868875Z",
+  "market_startDate": "2022-02-27T16:51:04.66Z",
+  "market_endDate": "2022-02-27T00:00:00Z",
+  "market_closedTime": "2022-03-01 19:20:26+00",
+  "conditionId": "0xa2382174da2adf951271e4c5ba3e5f1bfe4bc409f419e87bb72d7c3e76cf60a1",
+  "slug": "nba-who-will-win-the-lakers-vs-pelicans-scheduled-for-february-27-10-pm-et",
+  "question": "NBA: Who will win the Lakers vs. Pelicans, scheduled for February 27 (10 PM ET)?"
+}

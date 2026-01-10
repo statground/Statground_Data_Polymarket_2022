@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240243",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-30T03:30:00.325000Z",
+  "market_createdAt": "2021-12-30T03:30:00.325Z",
+  "market_updatedAt": "2024-04-23T00:51:51.123237Z",
+  "market_startDate": "2021-12-30T17:40:49.069Z",
+  "market_endDate": "2022-01-15T00:00:00Z",
+  "market_closedTime": "2022-01-07 00:14:56+00",
+  "conditionId": "0x1f0f2b8513d2b67cee3b0f5beb7d27a972784c0ae143fad4120405ce2ee3544c",
+  "slug": "will-the-usa-report-a-7-day-covid-19-case-average-of-400k-or-more-by-january-8",
+  "question": "Will the USA report a 7-day COVID-19 case average of 400k or more by January 8?"
+}

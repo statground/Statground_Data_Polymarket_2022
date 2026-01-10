@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "98685",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-26T20:20:01.835000Z",
+  "market_createdAt": "2021-02-26T20:20:01.835Z",
+  "market_updatedAt": "2023-01-31T14:58:16.508Z",
+  "market_startDate": null,
+  "market_endDate": "2021-03-07T00:00:00Z",
+  "market_closedTime": "2021-03-08 18:00:02+00",
+  "conditionId": "0xc094ac60faf5294aa48977571a3795a611124031ab5c65ec9a3aa509dc0c0e20",
+  "slug": "will-eth-be-above-1500-on-march-7th-2021",
+  "question": "Will ETH be above $1500 on March 7th, 2021?"
+}

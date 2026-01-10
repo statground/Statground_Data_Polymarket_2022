@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247461",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-07T17:19:15.966000Z",
+  "market_createdAt": "2022-10-07T17:19:15.966Z",
+  "market_updatedAt": "2023-01-31T20:59:47.977Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-14T00:00:00Z",
+  "market_closedTime": "2022-10-14 20:01:04+00",
+  "conditionId": "0x6e1da77934af8bd5d2968a183f3897e44cc2c707d392f11c2d145a18aa93b042",
+  "slug": "will-joe-bidens-fivethirtyeight-approval-rating-be-42pt5-or-higher-on-october-13",
+  "question": "Will Joe Biden's FiveThirtyEight approval rating be 42.5% or higher on October 13?"
+}

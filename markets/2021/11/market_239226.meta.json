@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239226",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-03T15:31:40.481000Z",
+  "market_createdAt": "2021-11-03T15:31:40.481Z",
+  "market_updatedAt": "2024-04-22T22:41:22.028119Z",
+  "market_startDate": "2021-11-03T16:48:15.472Z",
+  "market_endDate": "2021-11-03T00:00:00Z",
+  "market_closedTime": "2021-11-04 17:01:25+00",
+  "conditionId": "0xb522ee67e55a9aae79bdecc4e4ceb90128d9c78d5240bd886e675c00bb2db726",
+  "slug": "nba-who-will-win-the-knicks-v-pacers-game-on-november-3rd",
+  "question": "NBA: Who will win the Knicks v. Pacers game on November 3rd?"
+}

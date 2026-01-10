@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242402",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-23T09:00:25.309000Z",
+  "market_createdAt": "2022-03-23T09:00:25.309Z",
+  "market_updatedAt": "2024-04-24T23:40:29.356708Z",
+  "market_startDate": "2022-03-23T19:09:11.117Z",
+  "market_endDate": "2022-03-23T00:00:00Z",
+  "market_closedTime": "2022-03-24 17:30:30+00",
+  "conditionId": "0x62c60ae1ae805de0d21e8d6d0e6847ee688638ed644fbe785c84c300e035b22f",
+  "slug": "nhl-who-will-win-leafs-vs-devils-scheduled-for-march-23-700-pm-et",
+  "question": "NHL: Who will win Leafs vs. Devils, scheduled for March 23, 7:00 PM ET?"
+}

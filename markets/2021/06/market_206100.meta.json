@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "206100",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-01T17:25:02.474000Z",
+  "market_createdAt": "2021-06-01T17:25:02.474Z",
+  "market_updatedAt": "2024-04-22T23:52:17.115992Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-04T00:00:00Z",
+  "market_closedTime": "2021-06-05 18:13:25+00",
+  "conditionId": "0x70bd93726b9a8cdd6b9fecb241664f5bb8b82b94510d195c626cc273dd174c62",
+  "slug": "who-will-win-clippers-v-mavericks-game-6",
+  "question": "Who will win Clippers v. Mavericks: Game 6?"
+}

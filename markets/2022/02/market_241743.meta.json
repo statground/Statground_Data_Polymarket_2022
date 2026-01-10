@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241743",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-27T14:27:26.299000Z",
+  "market_createdAt": "2022-02-27T14:27:26.299Z",
+  "market_updatedAt": "2024-04-23T00:41:56.575566Z",
+  "market_startDate": "2022-02-27T16:50:14.075Z",
+  "market_endDate": "2022-02-27T00:00:00Z",
+  "market_closedTime": "2022-02-28 15:21:26+00",
+  "conditionId": "0x86201fb94ab757591da6544da17ca0de8761487cc0e6f5fe0d661071e5382df3",
+  "slug": "nba-who-will-win-the-nuggets-vs-trail-blazers-scheduled-for-february-27-9-pm-et",
+  "question": "NBA: Who will win the Nuggets vs. Trail Blazers, scheduled for February 27 (9 PM ET)?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240182",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-26T17:58:06.702000Z",
+  "market_createdAt": "2021-12-26T17:58:06.702Z",
+  "market_updatedAt": "2024-04-23T00:31:43.967757Z",
+  "market_startDate": "2021-12-26T21:05:05.797Z",
+  "market_endDate": "2021-12-26T00:00:00Z",
+  "market_closedTime": "2021-12-27 14:21:08+00",
+  "conditionId": "0x602bf80eb7d000009ca79cdacb18a74e6ed5f0b6b6ae2659e13def8739092048",
+  "slug": "nba-will-the-cavaliers-beat-the-raptors-by-more-than-8pt5-points-in-their-december-26-matchup",
+  "question": "NBA: Will the Cavaliers beat the Raptors by more than 8.5 points in their December 26 matchup?"
+}

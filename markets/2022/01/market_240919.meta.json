@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240919",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-21T17:38:25.733000Z",
+  "market_createdAt": "2022-01-21T17:38:25.733Z",
+  "market_updatedAt": "2024-04-23T00:51:46.921827Z",
+  "market_startDate": "2022-01-24T18:35:19.073Z",
+  "market_endDate": "2022-03-07T00:00:00Z",
+  "market_closedTime": "2022-03-08 19:03:44+00",
+  "conditionId": "0x5365d3bd45e5399360d6b300800c6eac712ad67f3aa425c8ae86a97591fc9862",
+  "slug": "will-the-batman-get-90-or-higher-tomatometer-score",
+  "question": "Will 'The Batman' get 90% or higher Tomatometer Score?"
+}

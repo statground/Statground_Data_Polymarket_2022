@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242662",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-31T09:03:49.637000Z",
+  "market_createdAt": "2022-03-31T09:03:49.637Z",
+  "market_updatedAt": "2024-04-22T23:03:16.329392Z",
+  "market_startDate": "2022-03-31T16:29:47.95Z",
+  "market_endDate": "2022-03-31T00:00:00Z",
+  "market_closedTime": "2022-04-01 06:47:26+00",
+  "conditionId": "0x7309865b9c3054aa468b720bfe7f47f8b44dec64e3bf44cba6ddebd42caca6e6",
+  "slug": "nhl-will-the-panthers-beat-the-blackhawks-by-more-than-2pt5-goals-in-their-march-31-700-pm-et-matchup",
+  "question": "NHL: Will the Panthers beat the Blackhawks by more than 2.5 goals in their March 31, 7:00 PM ET matchup?"
+}

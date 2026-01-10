@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218635",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-23T20:15:18.674000Z",
+  "market_createdAt": "2021-06-23T20:15:18.674Z",
+  "market_updatedAt": "2024-04-24T23:23:00.20967Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-10T00:00:00Z",
+  "market_closedTime": "2021-07-11 05:17:18+00",
+  "conditionId": "0x4a8509aa50c0395de09387a1812d09550896d2f95580d16c54ddc458fcb60d5d",
+  "slug": "will-argentina-win-the-2021-copa-america",
+  "question": "Will Argentina win the 2021 Copa America?"
+}

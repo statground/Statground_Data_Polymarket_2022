@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238656",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-26T18:48:01.102000Z",
+  "market_createdAt": "2021-08-26T18:48:01.102Z",
+  "market_updatedAt": "2024-04-22T23:52:12.146157Z",
+  "market_startDate": "2021-08-26T23:08:46.791Z",
+  "market_endDate": "2021-08-27T00:00:00Z",
+  "market_closedTime": "2021-08-28 17:23:28+00",
+  "conditionId": "0xb013275413f20f6f69f1ead427dcb70a6ee9b7a77308f04810bfaab6f4e215b8",
+  "slug": "will-the-panthers-beat-steelers-by-more-than-3pt5-pts-in-their-nfl-preseason-matchup",
+  "question": "Will the Panthers beat the Steelers by more than 3.5 points in their NFL preseason matchup?"
+}

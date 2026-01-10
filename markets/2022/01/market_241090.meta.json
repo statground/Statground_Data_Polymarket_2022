@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241090",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-27T00:32:04.628000Z",
+  "market_createdAt": "2022-01-27T00:32:04.628Z",
+  "market_updatedAt": "2024-04-23T00:10:42.665678Z",
+  "market_startDate": null,
+  "market_endDate": "2022-03-31T00:00:00Z",
+  "market_closedTime": "2022-04-02 07:18:20+00",
+  "conditionId": "0x4c1c908e2c4270ae0ac33bd3c15836b1a324e74edf303fdd2f0a36a6ca9c15ff",
+  "slug": "will-osmosis-suffer-an-exploit-by-march-31st-2022",
+  "question": "Will Osmosis suffer an exploit by March 31st, 2022?"
+}

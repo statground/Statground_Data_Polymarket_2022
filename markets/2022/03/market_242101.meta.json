@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242101",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-15T15:59:28.034000Z",
+  "market_createdAt": "2022-03-15T15:59:28.034Z",
+  "market_updatedAt": "2024-04-22T23:55:50.413284Z",
+  "market_startDate": "2022-03-15T17:59:17.087Z",
+  "market_endDate": "2022-03-15T00:00:00Z",
+  "market_closedTime": "2022-03-16 13:15:21+00",
+  "conditionId": "0xc58ade10bc1e796915b083a89b726c4496b3f43171c26f4e403030304021ea00",
+  "slug": "nhl-will-the-oilers-beat-the-red-wings-by-more-than-1pt5-goals-in-their-march-15-matchup-9-pm-et",
+  "question": "NHL: Will the Oilers beat the Red Wings by more than 1.5 goals in their March 15 matchup (9 PM ET)?"
+}

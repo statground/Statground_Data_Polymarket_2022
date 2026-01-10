@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238935",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-03T17:23:45.237000Z",
+  "market_createdAt": "2021-10-03T17:23:45.237Z",
+  "market_updatedAt": "2024-04-22T23:22:09.693445Z",
+  "market_startDate": "2021-10-03T17:31:24.541Z",
+  "market_endDate": "2021-10-03T00:00:00Z",
+  "market_closedTime": "2021-10-03 23:52:33+00",
+  "conditionId": "0x8c70914056f4d57689331b05ed7e58d97b610e24cc8d786fad0ad268c632ded3",
+  "slug": "in-game-trading-will-the-49ers-beat-the-seahawks-by-over-2pt5-points-in-their-week-four-matchup",
+  "question": "(In-Game Trading) Will the 49ers beat the Seahawks by over 2.5 points in their week four matchup?"
+}

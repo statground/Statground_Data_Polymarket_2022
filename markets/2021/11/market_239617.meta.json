@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239617",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-26T09:31:45.908000Z",
+  "market_createdAt": "2021-11-26T09:31:45.908Z",
+  "market_updatedAt": "2024-04-23T00:49:03.692957Z",
+  "market_startDate": "2021-11-26T19:21:16.951Z",
+  "market_endDate": "2021-11-26T00:00:00Z",
+  "market_closedTime": "2021-11-27 20:56:34+00",
+  "conditionId": "0x35e64bf974490cd0c3aa5c91f8b785e22a8bead9f789f7a65428507a678c04e8",
+  "slug": "nba-will-the-warriors-beat-the-blazers-by-more-than-6pt5-points-in-their-november-26th-matchup",
+  "question": "NBA: Will the Warriors beat the Blazers by more than 6.5 points in their November 26th matchup?"
+}

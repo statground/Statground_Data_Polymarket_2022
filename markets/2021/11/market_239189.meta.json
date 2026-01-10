@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239189",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-01T10:49:58.901000Z",
+  "market_createdAt": "2021-11-01T10:49:58.901Z",
+  "market_updatedAt": "2024-04-22T23:05:23.957902Z",
+  "market_startDate": "2021-11-01T17:52:53.077Z",
+  "market_endDate": "2021-11-01T00:00:00Z",
+  "market_closedTime": "2021-11-02 13:41:12+00",
+  "conditionId": "0x46eb6c4e7d7ca22ff67bcbbb36f4a61d11ee9c224511565521c0e256e2664ddb",
+  "slug": "nba-will-the-hornets-beat-the-cavaliers-by-more-than-4pt5-points-in-their-november-1st-matchup",
+  "question": "NBA: Will the Hornets beat the Cavaliers by more than 4.5 points in their November 1st matchup?"
+}

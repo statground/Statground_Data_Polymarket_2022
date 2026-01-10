@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241615",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-19T12:21:00.832000Z",
+  "market_createdAt": "2022-02-19T12:21:00.832Z",
+  "market_updatedAt": "2024-04-22T23:47:20.91568Z",
+  "market_startDate": "2022-02-19T17:10:23.843Z",
+  "market_endDate": "2022-02-19T00:00:00Z",
+  "market_closedTime": "2022-02-20 19:02:38+00",
+  "conditionId": "0xdddf2a89454e8bd1de99b2a31723a488b1e02924d964a12ba2e74df39e095f63",
+  "slug": "nhl-will-the-kings-beat-the-coyotes-by-more-than-1p5-goals-in-their-february-19-matchup-9-pm-et",
+  "question": "NHL: Will the Kings beat the Coyotes by more than 1.5 goals in their February 19 matchup (9 PM ET)?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239289",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-07T13:55:38.742000Z",
+  "market_createdAt": "2021-11-07T13:55:38.742Z",
+  "market_updatedAt": "2024-04-22T22:32:17.66559Z",
+  "market_startDate": "2021-11-07T21:15:58.569Z",
+  "market_endDate": "2021-11-07T00:00:00Z",
+  "market_closedTime": "2021-11-08 12:51:23+00",
+  "conditionId": "0xd2f553af9dfc234439ae032ef735af1133254e2756e4e06396145029e87eac73",
+  "slug": "nba-who-will-win-the-kings-v-pacers-game-on-november-7th",
+  "question": "NBA: Who will win the Kings v. Pacers game on November 7th?"
+}

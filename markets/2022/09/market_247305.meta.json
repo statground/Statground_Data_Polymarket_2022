@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247305",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-19T20:22:22.880000Z",
+  "market_createdAt": "2022-09-19T20:22:22.88Z",
+  "market_updatedAt": "2023-01-31T14:28:07.888Z",
+  "market_startDate": null,
+  "market_endDate": "2022-09-25T00:00:00Z",
+  "market_closedTime": "2022-09-26 07:15:44+00",
+  "conditionId": "0x52cf5d3681c5489c3fb71aa0129159ffe28eb37c4b7408060289dcf8d6ffb9c8",
+  "slug": "nfl-sunday-49ers-vs-broncos",
+  "question": "NFL Sunday: 49ers vs. Broncos"
+}

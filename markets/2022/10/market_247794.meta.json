@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247794",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-31T17:33:38.204000Z",
+  "market_createdAt": "2022-10-31T17:33:38.204Z",
+  "market_updatedAt": "2023-01-31T21:09:58.282Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-06T00:00:00Z",
+  "market_closedTime": "2022-11-06 15:00:36+00",
+  "conditionId": "0x3fe867c45f0a5eb539d886598c123ddd3d01ec4715a437fede5db292e1331e06",
+  "slug": "will-drx-or-t1-win-the-2022-league-of-legends-world-championship",
+  "question": "Will DRX or T1 win the 2022 League of Legends World Championship?"
+}

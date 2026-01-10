@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_id": "6126",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2022-08-23T00:13:36.066000Z",
+  "event_createdAt": "2022-08-23T00:13:36.066Z",
+  "event_creationDate": "2020-11-06T00:00:00Z",
+  "event_startDate": "2020-11-06T00:00:00Z",
+  "event_endDate": "2022-01-17T00:00:00Z",
+  "event_updatedAt": "2024-04-23T22:50:30.403955Z",
+  "markets_len": 1,
+  "market_ids": [
+    "76"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "45"
+  ],
+  "series_slug": "btc-weeklies"
+}

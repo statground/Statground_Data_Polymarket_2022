@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "203269",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-27T20:10:04.421000Z",
+  "market_createdAt": "2021-05-27T20:10:04.421Z",
+  "market_updatedAt": "2024-04-22T22:37:19.55393Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-29T00:00:00Z",
+  "market_closedTime": "2021-05-29 18:22:45+00",
+  "conditionId": "0xd54ef14e4d1d1821a51b2c66bbaaaa77c64e93ab92d3c7690e3c961fdda32b36",
+  "slug": "will-ian-nepomniachtchi-or-wesley-so-win-their-semifinals-series-of-the-ftx-crypto-cup",
+  "question": "Will Ian Nepomniachtchi or Wesley So win their Semifinals Series of the FTX Crypto Cup?"
+}

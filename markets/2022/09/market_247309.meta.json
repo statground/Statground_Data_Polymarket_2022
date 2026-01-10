@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247309",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-20T17:09:22.646000Z",
+  "market_createdAt": "2022-09-20T17:09:22.646Z",
+  "market_updatedAt": "2023-01-31T16:32:34.327Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-05T00:00:00Z",
+  "market_closedTime": "2022-09-24 06:15:58+00",
+  "conditionId": "0x3a45a5d67d1b28697fd367be6b6d63647c1f4361ee215bad9e96864cbc685f1d",
+  "slug": "will-albert-pujols-get-700-home-runs-by-the-end-of-the-2022-regular-season",
+  "question": "Will Albert Pujols get 700 home runs by the end of the 2022 MLB regular season?"
+}

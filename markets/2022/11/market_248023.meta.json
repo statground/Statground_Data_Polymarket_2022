@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248023",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T20:19:14.971000Z",
+  "market_createdAt": "2022-11-18T20:19:14.971Z",
+  "market_updatedAt": "2023-01-31T02:15:08.044Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-06T00:00:00Z",
+  "market_closedTime": "2022-12-01 19:30:46+00",
+  "conditionId": "0x03553b25426b45c37b1d9f2abfe7c806c38712fda9715fad2428eb3b0de7fd20",
+  "slug": "will-poland-qualify-from-group-c",
+  "question": "Will Poland qualify from Group C?"
+}

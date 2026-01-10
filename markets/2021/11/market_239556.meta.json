@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239556",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-22T15:30:45.478000Z",
+  "market_createdAt": "2021-11-22T15:30:45.478Z",
+  "market_updatedAt": "2024-04-22T23:28:06.372661Z",
+  "market_startDate": "2021-11-22T19:12:02.668Z",
+  "market_endDate": "2021-11-23T00:00:00Z",
+  "market_closedTime": "2021-11-24 21:17:16+00",
+  "conditionId": "0xa82960a90370c28b76c9181efdb658edbeac8b116ce63ebe657466941e5efd27",
+  "slug": "uefa-champions-league-will-the-sum-of-goals-in-villareal-cf-v-manchester-united-be-3-or-more",
+  "question": "UEFA Champions League: Will the sum of goals in Villareal CF v. Manchester United be 3 or more?"
+}

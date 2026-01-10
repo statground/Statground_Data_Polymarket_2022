@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242198",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-18T12:03:13.282000Z",
+  "market_createdAt": "2022-03-18T12:03:13.282Z",
+  "market_updatedAt": "2024-04-23T00:26:57.790628Z",
+  "market_startDate": "2022-03-18T16:16:50.352Z",
+  "market_endDate": "2022-03-18T00:00:00Z",
+  "market_closedTime": "2022-03-19 13:45:31+00",
+  "conditionId": "0xed86fff0bff6ae9ced6826c76738748ebaee11873be784b393e4cb125e402e09",
+  "slug": "nhl-will-the-flames-beat-the-sabres-by-more-than-1pt5-goals-in-their-march-18-900-pm-et-matchup",
+  "question": "NHL: Will the Flames beat the Sabres by more than 1.5 goals in their March 18, 9:00 PM ET matchup?"
+}

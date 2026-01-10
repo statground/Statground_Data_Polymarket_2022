@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239388",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-12T12:19:50.423000Z",
+  "market_createdAt": "2021-11-12T12:19:50.423Z",
+  "market_updatedAt": "2024-04-24T23:50:22.463628Z",
+  "market_startDate": "2021-11-12T20:21:45.141Z",
+  "market_endDate": "2021-11-14T00:00:00Z",
+  "market_closedTime": "2021-11-16 01:47:31+00",
+  "conditionId": "0xd8717fa406ecd0d7510f368220abe1770137daf849acb81b8dc781d453a3e225",
+  "slug": "nfl-will-the-steelers-beat-the-lions-by-more-than-8pt5-points-in-their-november-14th-matchup",
+  "question": "NFL: Will the Steelers beat the Lions by more than 8.5 points in their November 14th matchup?"
+}

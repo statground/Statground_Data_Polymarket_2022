@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248030",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T20:34:35.940000Z",
+  "market_createdAt": "2022-11-18T20:34:35.94Z",
+  "market_updatedAt": "2023-01-31T19:20:19.147Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-06T00:00:00Z",
+  "market_closedTime": "2022-12-02 19:19:30+00",
+  "conditionId": "0x933303c0f3dc5ab5f22e58e7402c3a16c99e8361cfb6694f29780dcb3ce5e19c",
+  "slug": "will-germany-qualify-from-group-e",
+  "question": "Will Germany qualify from Group E?"
+}

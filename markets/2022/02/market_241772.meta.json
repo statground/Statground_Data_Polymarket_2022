@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241772",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-28T13:36:49.193000Z",
+  "market_createdAt": "2022-02-28T13:36:49.193Z",
+  "market_updatedAt": "2024-04-22T23:26:48.708078Z",
+  "market_startDate": "2022-02-28T15:03:38.436Z",
+  "market_endDate": "2022-02-28T00:00:00Z",
+  "market_closedTime": "2022-03-01 22:19:26+00",
+  "conditionId": "0xc39f477a880f99bdbbc27d7e9e42c2b16c2b425c0bd29a6ae7fc64241e823944",
+  "slug": "nba-will-the-kings-beat-the-city-thunder-by-more-than-4p5-points-in-their-february-28-9-pm-et-matchup",
+  "question": "NBA: Will the Kings beat the City Thunder by more than 4.5 points in their February 28 (9 PM ET) matchup?"
+}

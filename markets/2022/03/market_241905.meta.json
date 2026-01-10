@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241905",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-04T18:42:29.105000Z",
+  "market_createdAt": "2022-03-04T18:42:29.105Z",
+  "market_updatedAt": "2024-04-22T23:03:25.714231Z",
+  "market_startDate": "2022-03-04T19:05:55.039Z",
+  "market_endDate": "2022-03-14T00:00:00Z",
+  "market_closedTime": "2022-03-14 12:15:33+00",
+  "conditionId": "0x2a37191ac305b318f56c527d928e9cedf321dfbcb13ebf8b4ce8f912cb65a172",
+  "slug": "will-the-wordle-word-on-pi-day-contain-a-p-or-an-i",
+  "question": "Will the Wordle word on Pi day contain a \"P\" or an \"I\"?"
+}

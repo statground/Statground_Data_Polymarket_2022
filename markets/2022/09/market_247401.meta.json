@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247401",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-29T20:41:40.548000Z",
+  "market_createdAt": "2022-09-29T20:41:40.548Z",
+  "market_updatedAt": "2023-01-31T18:22:14.586Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-30T00:00:00Z",
+  "market_closedTime": "2022-11-01 02:55:08+00",
+  "conditionId": "0xe0ccb0c4b9328997bc874d3b259f8a4b1929173426d2d37bcf397d4bf3b5f675",
+  "slug": "will-elon-musk-become-ceo-of-twitter-by-november-30",
+  "question": "Will Elon Musk become CEO of Twitter by November 30?"
+}

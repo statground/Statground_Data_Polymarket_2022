@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241948",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-07T17:19:34.852000Z",
+  "market_createdAt": "2022-03-07T17:19:34.852Z",
+  "market_updatedAt": "2024-04-24T23:20:05.354108Z",
+  "market_startDate": "2022-03-07T17:57:47.629Z",
+  "market_endDate": "2022-03-15T00:00:00Z",
+  "market_closedTime": "2022-03-10 00:00:40+00",
+  "conditionId": "0xbee3ee12bed75960b2312461ed630e16c727692a3a119b98f0111c88831ab3da",
+  "slug": "will-the-us-hit-its-highest-recorded-gas-price-per-gallon-according-to-aaa-by-march-15-2022",
+  "question": "Will the US hit its highest recorded gas price per gallon according to AAA by March 15, 2022?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "217615",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-14T16:20:03.278000Z",
+  "market_createdAt": "2021-06-14T16:20:03.278Z",
+  "market_updatedAt": "2024-04-25T00:09:41.569322Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-14T00:00:00Z",
+  "market_closedTime": "2021-06-14 21:20:58+00",
+  "conditionId": "0x165eac85966fb3b84520eb2f31130560d0ac35f379870d051eeef740119afd9d",
+  "slug": "will-spain-or-sweden-win-their-euro-2020-match",
+  "question": "Will Spain or Sweden win their Euro 2020 match?"
+}

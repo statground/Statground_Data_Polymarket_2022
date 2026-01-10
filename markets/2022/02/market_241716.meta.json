@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241716",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-25T12:07:14.944000Z",
+  "market_createdAt": "2022-02-25T12:07:14.944Z",
+  "market_updatedAt": "2024-04-23T00:15:48.392118Z",
+  "market_startDate": "2022-02-25T16:14:48.189Z",
+  "market_endDate": "2022-02-25T00:00:00Z",
+  "market_closedTime": "2022-02-26 19:00:31+00",
+  "conditionId": "0x844ebe1765791b9c2159cb14448f86cf7f44c1675f2fa16a0f7b3dc5c29b4a8f",
+  "slug": "nba-will-the-76ers-beat-the-timberwolves-by-more-than-2p5-points-in-their-february-25-8-pm-et-matchup",
+  "question": "NBA: Will the 76ers beat the Timberwolves by more than 2.5 points in their February 25 (8 PM ET) matchup?"
+}

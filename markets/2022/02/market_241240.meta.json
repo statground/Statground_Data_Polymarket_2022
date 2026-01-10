@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241240",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-01T13:09:08.267000Z",
+  "market_createdAt": "2022-02-01T13:09:08.267Z",
+  "market_updatedAt": "2024-04-23T00:35:30.885465Z",
+  "market_startDate": "2022-02-01T23:24:34.684Z",
+  "market_endDate": "2022-02-01T00:00:00Z",
+  "market_closedTime": "2022-02-02 23:45:08+00",
+  "conditionId": "0xe2d6e305b6c1af9b5374370b1a43652b1455825e3936b89e39a9ec9c11e81a8c",
+  "slug": "nhl-will-the-avalanche-beat-the-coyotes-by-more-than-15-goals-in-their-february-1-matchup-9-pm-et",
+  "question": "NHL: Will the Avalanche beat the Coyotes by more than 1.5 goals in their February 1 matchup (9 PM ET)?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239843",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-05T17:22:48.671000Z",
+  "market_createdAt": "2021-12-05T17:22:48.671Z",
+  "market_updatedAt": "2024-04-26T02:50:00.621701Z",
+  "market_startDate": "2021-12-05T20:46:24.943Z",
+  "market_endDate": "2021-12-05T00:00:00Z",
+  "market_closedTime": "2021-12-06 17:24:48+00",
+  "conditionId": "0x2d01d55bf36c58042b99c9c154e52235f3f5223ee2096bc43cf87616f3ff58dc",
+  "slug": "nhl-will-the-islanders-beat-the-blackhawks-by-more-than-1pt5-points-in-their-december-5-matchup",
+  "question": "NHL: Will the Islanders beat the Blackhawks by more than 1.5 points in their December 5 matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239586",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-24T12:29:33.987000Z",
+  "market_createdAt": "2021-11-24T12:29:33.987Z",
+  "market_updatedAt": "2024-04-26T02:51:45.515405Z",
+  "market_startDate": "2021-11-24T19:07:44.495Z",
+  "market_endDate": "2021-11-24T00:00:00Z",
+  "market_closedTime": "2021-11-25 20:49:44+00",
+  "conditionId": "0x1e009102e06d11cc1fda52dde24fedf2254822306cf1b4630f228ce59c08453a",
+  "slug": "nba-will-the-nets-beat-the-celtics-by-more-than-1pt5-points-in-their-24th-november-matchup",
+  "question": "NBA: Will the Nets beat the Celtics by more than 1.5 points in their 24th November matchup?"
+}

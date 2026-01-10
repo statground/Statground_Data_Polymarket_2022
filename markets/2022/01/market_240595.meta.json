@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240595",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T23:55:45.782000Z",
+  "market_createdAt": "2022-01-11T23:55:45.782Z",
+  "market_updatedAt": "2023-09-13T17:04:50.199Z",
+  "market_startDate": "2022-01-12T21:10:50.913Z",
+  "market_endDate": "2022-11-15T00:00:00Z",
+  "market_closedTime": "2022-11-12 16:53:12+00",
+  "conditionId": "0x73dce1805d042b99ea45809b3bcc2c37e89581f1416ebfa30f35b3aaa02ea84b",
+  "slug": "2022-us-senate-elections-will-a-democrat-or-republican-win-in-arizona",
+  "question": "Senate:  Will a Democrat (Kelly) or Republican (Masters) win in Arizona?"
+}

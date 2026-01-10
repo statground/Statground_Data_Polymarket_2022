@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241497",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-15T08:17:11.550000Z",
+  "market_createdAt": "2022-02-15T08:17:11.55Z",
+  "market_updatedAt": "2024-04-26T02:47:02.526414Z",
+  "market_startDate": "2022-02-15T17:35:22.669Z",
+  "market_endDate": "2022-02-15T00:00:00Z",
+  "market_closedTime": "2022-02-16 20:11:37+00",
+  "conditionId": "0x8d3f118cf9a2963891a6f87037dcd81ac14f168ef8369f79bdc09e9b3832d169",
+  "slug": "nba-will-the-heat-beat-the-mavericks-by-more-than-3p5-points-in-their-february-15-730-pm-et-matchup",
+  "question": "NBA: Will the Heat beat the Mavericks by more than 3.5 points in their February 15 (7.30 PM ET) matchup?"
+}

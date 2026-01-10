@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241974",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-08T17:25:32.458000Z",
+  "market_createdAt": "2022-03-08T17:25:32.458Z",
+  "market_updatedAt": "2024-04-23T00:33:11.521627Z",
+  "market_startDate": "2022-03-08T17:28:49.417Z",
+  "market_endDate": "2022-03-31T00:00:00Z",
+  "market_closedTime": "2022-04-01 17:30:52+00",
+  "conditionId": "0x4fa16baa4712dece8a967d65c21fac70aa4ba2705bfa7442a4be4b672307db95",
+  "slug": "will-the-aaa-average-us-gas-price-reach-5-by-march-31-2022",
+  "question": "Will the AAA average US gas price reach $5 by March 31, 2022?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "91433",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-18T18:30:03.588000Z",
+  "market_createdAt": "2021-02-18T18:30:03.588Z",
+  "market_updatedAt": "2024-04-22T22:51:38.520277Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-19T00:00:00Z",
+  "market_closedTime": "2021-02-18 18:54:15+00",
+  "conditionId": "0x2d66b54bf0cb5d484bafa81ac4af6747c2712c676fdd359eac15de147979e04e",
+  "slug": "will-the-jazz-or-the-clippers-win-their-february-19th-matchup",
+  "question": "Will the Jazz or the Clippers win their February 19th matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "123701",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-12T20:30:02.726000Z",
+  "market_createdAt": "2021-04-12T20:30:02.726Z",
+  "market_updatedAt": "2024-04-23T00:24:18.10255Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-14T00:00:00Z",
+  "market_closedTime": "2021-04-14 21:21:24+00",
+  "conditionId": "0xa71547cd5f267be7b4cd8af14a274aed69fb2b376566d11456de4ac9fc61f224",
+  "slug": "will-liverpool-or-real-madrid-advance-to-the-semi-final-of-the-champions-league",
+  "question": "Will Liverpool or Real Madrid advance to the semi-final of the Champions League?"
+}

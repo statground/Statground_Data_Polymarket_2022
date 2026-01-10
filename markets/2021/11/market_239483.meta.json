@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239483",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-17T14:14:55.018000Z",
+  "market_createdAt": "2021-11-17T14:14:55.018Z",
+  "market_updatedAt": "2024-04-24T23:51:54.200284Z",
+  "market_startDate": "2021-11-17T20:32:22.047Z",
+  "market_endDate": "2021-11-21T00:00:00Z",
+  "market_closedTime": "2021-11-22 18:46:29+00",
+  "conditionId": "0x9bc604490e2dcf3fbd79e17d14ab12e8090a2b5098be0304f6981dd632e712c9",
+  "slug": "nfl-will-the-bills-beat-the-colts-by-more-than-7pt5-points-in-their-november-21st-matchup",
+  "question": "NFL: Will the Bills beat the Colts by more than 7.5 points in their November 21st matchup?"
+}

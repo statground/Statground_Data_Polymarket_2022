@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240542",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T18:47:47.158000Z",
+  "market_createdAt": "2022-01-11T18:47:47.158Z",
+  "market_updatedAt": "2024-04-23T00:20:51.664029Z",
+  "market_startDate": "2022-01-12T21:15:55.68Z",
+  "market_endDate": "2022-03-31T00:00:00Z",
+  "market_closedTime": "2022-04-02 02:30:48+00",
+  "conditionId": "0x512a493b8c52abf7af5b28c24ac1457c3031efd40308816a983c6a7afcef11f8",
+  "slug": "will-rainbow-airdrop-a-native-token-by-march-31st-2022",
+  "question": "Will Rainbow airdrop a native token by March 31st, 2022?"
+}

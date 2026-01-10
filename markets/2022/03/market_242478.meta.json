@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242478",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-25T09:08:57.263000Z",
+  "market_createdAt": "2022-03-25T09:08:57.263Z",
+  "market_updatedAt": "2024-04-23T00:41:44.803485Z",
+  "market_startDate": "2022-03-25T15:52:38.529Z",
+  "market_endDate": "2022-03-25T00:00:00Z",
+  "market_closedTime": "2022-03-26 16:18:27+00",
+  "conditionId": "0xa40ff0caa300d47a5c520741cd5292b1bb963161fa1143aedd0a627866fe7787",
+  "slug": "nba-will-the-timberwolves-beat-the-mavericks-by-more-than-2pt5-points-in-their-march-25-810-pm-et-matchup",
+  "question": "NBA: Will the Timberwolves beat the Mavericks by more than 2.5 points in their March 25, 8:10 PM ET matchup?"
+}

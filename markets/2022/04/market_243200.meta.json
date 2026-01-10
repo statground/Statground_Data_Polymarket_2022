@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243200",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-13T06:00:40.701000Z",
+  "market_createdAt": "2022-04-13T06:00:40.701Z",
+  "market_updatedAt": "2023-01-31T20:55:18.319Z",
+  "market_startDate": "2022-04-13T14:55:53.534Z",
+  "market_endDate": "2022-06-19T00:00:00Z",
+  "market_closedTime": "2022-06-17 06:30:51+00",
+  "conditionId": "0x91cf63afacbfbbb40595457e406ba369d99adfd198fc4e72220416133b22a0bc",
+  "slug": "will-the-boston-celtics-win-the-nba-21-22-championship",
+  "question": "Will the Boston Celtics win the NBA ‘21-’22 Championship?"
+}

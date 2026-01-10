@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243555",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-22T07:05:27.885000Z",
+  "market_createdAt": "2022-04-22T07:05:27.885Z",
+  "market_updatedAt": "2023-01-31T21:16:31.725Z",
+  "market_startDate": "2022-04-22T14:41:24.114Z",
+  "market_endDate": "2022-04-22T00:00:00Z",
+  "market_closedTime": "2022-04-23 07:18:00+00",
+  "conditionId": "0x4921be9b242217d1ed18843909f333f74dc734cda0ded795bab749ce58a8a502",
+  "slug": "nhl-will-the-wild-beat-the-kraken-by-more-than-1pt5-goals-in-their-april-22-800-pm-et-matchup",
+  "question": "NHL: Will the Wild beat the Kraken by more than 1.5 goals in their April 22, 8:00 PM ET matchup?"
+}

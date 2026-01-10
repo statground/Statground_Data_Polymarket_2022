@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239859",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-06T16:31:25.565000Z",
+  "market_createdAt": "2021-12-06T16:31:25.565Z",
+  "market_updatedAt": "2024-04-22T22:53:19.664129Z",
+  "market_startDate": "2021-12-06T17:41:21.937Z",
+  "market_endDate": "2021-12-14T00:00:00Z",
+  "market_closedTime": "2021-12-11 18:17:45+00",
+  "conditionId": "0x0838fcaf2c24212511f4efe1545d9979ac50e12136181ccafb9db3bcf22a4a36",
+  "slug": "world-chess-championship-2021-will-ian-nepomniachtchi-win-any-game",
+  "question": "World Chess Championship 2021: Will Ian Nepomniachtchi win a game?"
+}

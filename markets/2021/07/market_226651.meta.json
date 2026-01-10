@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "226651",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-28T16:10:01.106000Z",
+  "market_createdAt": "2021-07-28T16:10:01.106Z",
+  "market_updatedAt": "2024-04-22T23:48:10.689651Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-30T00:00:00Z",
+  "market_closedTime": "2021-07-29 15:43:39+00",
+  "conditionId": "0x69b1e15a52d838e1232082f28369630ec31b3d075869650a14e707a407897aaa",
+  "slug": "will-su-zhu-make-it-to-the-final-table-of-the-cryptog-charity-poker-tournament",
+  "question": "Will Su Zhu make it to the final table of the CryptOG Charity Poker Tournament?"
+}

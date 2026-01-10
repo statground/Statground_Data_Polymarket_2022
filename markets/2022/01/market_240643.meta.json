@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240643",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-12T17:01:47.424000Z",
+  "market_createdAt": "2022-01-12T17:01:47.424Z",
+  "market_updatedAt": "2024-07-17T20:42:12.475369Z",
+  "market_startDate": "2023-02-23T16:36:44.319Z",
+  "market_endDate": "2024-09-10T00:00:00Z",
+  "market_closedTime": "2024-07-17 20:42:12.475369+00",
+  "conditionId": "0x311198b7194c8eb1890df4d3a2e5171a313066bba76b0bdb431af757eeaf4e51",
+  "slug": "will-peter-thiel-win-the-us-2024-republican-presidential-nomination",
+  "question": "[Single Market] Will Peter Thiel win the U.S. 2024 Republican presidential nomination?"
+}

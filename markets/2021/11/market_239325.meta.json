@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239325",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-09T20:53:11.822000Z",
+  "market_createdAt": "2021-11-09T20:53:11.822Z",
+  "market_updatedAt": "2024-04-24T23:53:01.281457Z",
+  "market_startDate": "2021-11-10T07:08:47.352Z",
+  "market_endDate": "2021-11-16T00:00:00Z",
+  "market_closedTime": "2021-11-17 15:46:00+00",
+  "conditionId": "0x6fae10d1b9bac4cb8c7e762a0cd4418b3d58cb19d24128f27208fc0b5c950293",
+  "slug": "will-it-be-sunny-in-washington-dc-at-noon-on-november-16th",
+  "question": "Will it be sunny in Washington DC at noon on November 16th?"
+}

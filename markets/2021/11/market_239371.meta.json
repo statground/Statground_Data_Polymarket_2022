@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239371",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-11T18:33:25.442000Z",
+  "market_createdAt": "2021-11-11T18:33:25.442Z",
+  "market_updatedAt": "2024-04-22T23:00:12.747979Z",
+  "market_startDate": "2021-11-11T20:07:31.415Z",
+  "market_endDate": "2021-11-11T00:00:00Z",
+  "market_closedTime": "2021-11-12 19:51:43+00",
+  "conditionId": "0xc84bca13b5c0ca2c6994a78c01c1db0e86f7be2b6c7f7262ca636c5ac1bd780c",
+  "slug": "nba-will-the-jazz-beat-the-pacers-by-more-than-9pt5-points-in-their-november-11th-matchup",
+  "question": "NBA: Will the Jazz beat the Pacers by more than 9.5 points in their November 11th matchup?"
+}

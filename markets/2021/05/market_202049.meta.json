@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "202049",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-21T18:55:02.536000Z",
+  "market_createdAt": "2021-05-21T18:55:02.536Z",
+  "market_updatedAt": "2024-04-24T23:38:43.210868Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-23T00:00:00Z",
+  "market_closedTime": "2021-05-24 16:06:09+00",
+  "conditionId": "0x7da1477e861387d23ac0355c1059bb2a953646cac97eaa8774e2bce314a02ad4",
+  "slug": "will-the-knicks-or-the-hawks-win-their-game-1-nba-playoff-matchup",
+  "question": "Will the Knicks or the Hawks win their Game 1 NBA Playoff matchup?"
+}

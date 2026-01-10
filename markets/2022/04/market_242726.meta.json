@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242726",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-01T09:12:56.240000Z",
+  "market_createdAt": "2022-04-01T09:12:56.24Z",
+  "market_updatedAt": "2024-04-23T00:25:08.254319Z",
+  "market_startDate": "2022-04-01T15:39:12.01Z",
+  "market_endDate": "2022-04-01T00:00:00Z",
+  "market_closedTime": "2022-04-02 07:19:48+00",
+  "conditionId": "0xd8825abcccdeedbea526a9383dec91dd39c42ff573835e18eadb01219ac93575",
+  "slug": "nba-will-the-spurs-beat-the-blazers-by-more-than-15pt5-points-in-their-april-1-840-pm-et-matchup",
+  "question": "NBA: Will the Spurs beat the Blazers by more than 15.5 points in their April 1, 8:40 PM ET matchup?"
+}

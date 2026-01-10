@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "103105",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-03-12T21:45:01.973000Z",
+  "market_createdAt": "2021-03-12T21:45:01.973Z",
+  "market_updatedAt": "2024-04-22T23:18:19.138573Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-03T00:00:00Z",
+  "market_closedTime": "2021-04-06 00:55:41+00",
+  "conditionId": "0x4fb86cc5dfed9bb31d48b300b991d04afc7266d3d74c53688c050b75a8676af7",
+  "slug": "will-box-office-sales-be-higher-than-200-million-in-the-first-quarter-of-2021",
+  "question": "Will box office sales be higher than $200 million in the first quarter of 2021?"
+}

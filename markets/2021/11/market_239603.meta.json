@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239603",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-24T21:20:02.819000Z",
+  "market_createdAt": "2021-11-24T21:20:02.819Z",
+  "market_updatedAt": "2023-01-31T21:06:30.878Z",
+  "market_startDate": "2021-11-24T21:37:39.455Z",
+  "market_endDate": "2021-12-02T00:00:00Z",
+  "market_closedTime": "2021-12-04 18:17:39+00",
+  "conditionId": "0xdc723d5fc0746e9dac07483dfc751aabc224037f5081dc8bf81544370f7a3458",
+  "slug": "what-will-the-eth-floor-price-of-chain-runners-be-on-december-2",
+  "question": "What will the ETH floor price of Chain Runners be on December 2?  "
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "245545",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-27T07:48:06.682000Z",
+  "market_createdAt": "2022-05-27T07:48:06.682Z",
+  "market_updatedAt": "2023-01-31T08:09:52.916Z",
+  "market_startDate": "2022-05-27T14:48:32.69Z",
+  "market_endDate": "2022-05-27T00:00:00Z",
+  "market_closedTime": "2022-05-31 19:30:37+00",
+  "conditionId": "0xb69f4ff74299bdd9b39d4eb8e22c55d6fd4e6b185b0feab77f911c934557cf56",
+  "slug": "mlb-who-will-win-colorado-rockies-vs-washington-nationals-scheduled-for-may-27-706-pm-et",
+  "question": "MLB: Who will win Colorado Rockies vs. Washington Nationals, scheduled for May 27, 7:06 PM ET?"
+}

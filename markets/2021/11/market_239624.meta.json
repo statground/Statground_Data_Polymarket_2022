@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239624",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-26T15:20:34.971000Z",
+  "market_createdAt": "2021-11-26T15:20:34.971Z",
+  "market_updatedAt": "2024-04-22T23:35:14.504182Z",
+  "market_startDate": "2021-11-26T19:25:51.327Z",
+  "market_endDate": "2021-12-06T00:00:00Z",
+  "market_closedTime": "2021-12-08 18:57:59+00",
+  "conditionId": "0xe64400f10289318721e1eedec663ff88875c8e3cb0f3ddaf7c93aded473e9e69",
+  "slug": "will-hellbound-be-the-1-netflix-show-worldwide-on-week-49-2021-nov-29-dec-5",
+  "question": "Will Hellbound be the #1 Netflix show worldwide on Week 49, 2021 (Nov 29 - Dec 5)?"
+}

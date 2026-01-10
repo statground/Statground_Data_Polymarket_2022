@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241667",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-23T22:34:30.301000Z",
+  "market_createdAt": "2022-02-23T22:34:30.301Z",
+  "market_updatedAt": "2024-04-22T23:05:36.860816Z",
+  "market_startDate": "2022-02-24T14:44:34.321Z",
+  "market_endDate": "2022-02-26T00:00:00Z",
+  "market_closedTime": "2022-02-27 21:23:51+00",
+  "conditionId": "0x48fba2e0093a7a2e4acf7bda8d68a3c2598bb4f0f4ddf9dd83dc790afef2b882",
+  "slug": "ufc-fight-night-feb-26-ji-yeon-kim-vs-priscila-cachoeira",
+  "question": "UFC Fight Night - Feb 26: Ji Yeon Kim vs Priscila Cachoeira"
+}

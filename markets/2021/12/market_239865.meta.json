@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239865",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-06T18:26:17.248000Z",
+  "market_createdAt": "2021-12-06T18:26:17.248Z",
+  "market_updatedAt": "2024-04-26T02:50:43.41305Z",
+  "market_startDate": "2021-12-06T19:17:45.785Z",
+  "market_endDate": "2022-01-01T00:00:00Z",
+  "market_closedTime": "2021-12-09 19:28:16+00",
+  "conditionId": "0xdf882cff326ee8d7e8076b410ef4452fec677dc737bf0fab606699b7bb645fc0",
+  "slug": "will-joseph-delong-announce-hes-leaving-sushiswap-as-cto-before-2022",
+  "question": "Will Joseph Delong announce he’s leaving SushiSwap as CTO before 2022?"
+}

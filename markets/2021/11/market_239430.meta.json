@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239430",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-14T13:11:56.863000Z",
+  "market_createdAt": "2021-11-14T13:11:56.863Z",
+  "market_updatedAt": "2024-04-23T00:29:07.138129Z",
+  "market_startDate": "2021-11-15T19:11:58.624Z",
+  "market_endDate": "2021-11-16T00:00:00Z",
+  "market_closedTime": "2021-11-17 05:28:48+00",
+  "conditionId": "0x3cb2f7684a5c5b76900295df9ba28232e8c8af58b403086233de5a2c4c945611",
+  "slug": "will-there-be-3-or-more-goals-in-usa-v-jamaica-soccer-game-on-november-16",
+  "question": "Will there be 3 or more goals in USA v. Jamaica soccer game on November 16?"
+}

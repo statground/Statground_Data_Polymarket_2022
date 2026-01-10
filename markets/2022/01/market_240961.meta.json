@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240961",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-23T12:45:46.714000Z",
+  "market_createdAt": "2022-01-23T12:45:46.714Z",
+  "market_updatedAt": "2024-04-22T23:53:32.202065Z",
+  "market_startDate": "2022-01-23T17:39:18.232Z",
+  "market_endDate": "2022-01-23T00:00:00Z",
+  "market_closedTime": "2022-01-25 00:08:15+00",
+  "conditionId": "0x8ff8d59e8a74598bbff598cce702cb4a028dda52be8a8b2d36588ebe9e7e55a1",
+  "slug": "nhl-will-the-blues-beat-the-canucks-by-more-than-1p5-goals-in-their-january-23-matchup",
+  "question": "NHL: Will the Blues beat the Canucks by more than 1.5 goals in their January 23 matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241798",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-01T11:23:21.369000Z",
+  "market_createdAt": "2022-03-01T11:23:21.369Z",
+  "market_updatedAt": "2024-04-23T00:14:19.327328Z",
+  "market_startDate": "2022-03-01T17:58:00.369Z",
+  "market_endDate": "2022-03-01T00:00:00Z",
+  "market_closedTime": "2022-03-02 15:19:59+00",
+  "conditionId": "0x67de60795c6da016668dd6860e13e345e48f4410668fa922632e95f63539a57d",
+  "slug": "nba-will-the-celtics-beat-the-hawks-by-more-than-6p5-points-in-their-march-1-730-pm-et-matchup",
+  "question": "NBA: Will the Celtics beat the Hawks by more than 6.5 points in their March 1 (7.30 PM ET) matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241608",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-19T00:56:49.742000Z",
+  "market_createdAt": "2022-02-19T00:56:49.742Z",
+  "market_updatedAt": "2024-04-24T23:40:58.59847Z",
+  "market_startDate": null,
+  "market_endDate": "2022-02-22T00:00:00Z",
+  "market_closedTime": "2022-02-24 04:03:22+00",
+  "conditionId": "0xf4907ae7e3f6b7fc40277032be4669ca6cd98934fe5a7b519eb2df6a0015a11a",
+  "slug": "will-donda-2-be-available-for-download-on-stemplayercom-on-22222",
+  "question": "Will Donda 2 be available for download on stemplayer.com on 2/22/22?"
+}

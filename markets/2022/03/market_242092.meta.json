@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242092",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-15T15:05:42.070000Z",
+  "market_createdAt": "2022-03-15T15:05:42.07Z",
+  "market_updatedAt": "2024-04-24T23:28:13.726338Z",
+  "market_startDate": "2022-03-15T17:53:19.4Z",
+  "market_endDate": "2022-03-15T00:00:00Z",
+  "market_closedTime": "2022-03-16 10:15:47+00",
+  "conditionId": "0x0d13dd13f28279d4daafaa96e707c0505a18d534564824b5d806872654b20350",
+  "slug": "nba-who-will-win-the-grizzlies-vspt-pacers-scheduled-for-march-15-7-pm-et",
+  "question": "NBA: Who will win the Grizzlies vs. Pacers, scheduled for March 15 (7 PM ET)?"
+}

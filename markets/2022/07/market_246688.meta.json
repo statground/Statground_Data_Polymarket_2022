@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246688",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-12T14:30:15.671000Z",
+  "market_createdAt": "2022-07-12T14:30:15.671Z",
+  "market_updatedAt": "2023-02-10T01:03:37.129Z",
+  "market_startDate": "2022-07-12T17:15:26.094Z",
+  "market_endDate": "2022-07-12T00:00:00Z",
+  "market_closedTime": "2022-07-13 06:45:39+00",
+  "conditionId": "0x9ea0c01255e588cc416ae45e0f9a5693ff4841cadb9c497ff26a509b6229442b",
+  "slug": "mlb-who-will-win-new-york-mets-vs-atlanta-braves-scheduled-for-july-12-720-pm-et",
+  "question": "MLB: Who will win New York Mets vs. Atlanta Braves, scheduled for July 12, 7:20 PM ET?"
+}

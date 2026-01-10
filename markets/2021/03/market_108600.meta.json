@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "108600",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-03-23T17:10:06.261000Z",
+  "market_createdAt": "2021-03-23T17:10:06.261Z",
+  "market_updatedAt": "2024-04-24T23:28:54.665145Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-10T00:00:00Z",
+  "market_closedTime": "2021-04-12 17:02:35+00",
+  "conditionId": "0xf41cc1128e73f79153af2fa2b41168ed480199711d66f123048301f1b792fa5b",
+  "slug": "will-more-than-175-million-people-travel-through-a-tsa-checkpoint-on-any-day-on-or-before-april-10",
+  "question": "Will more than 1.75 million people travel through a TSA checkpoint on any day on or before April 10?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244378",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-07T16:58:14.672000Z",
+  "market_createdAt": "2022-05-07T16:58:14.672Z",
+  "market_updatedAt": "2023-01-31T19:26:51.632Z",
+  "market_startDate": "2022-05-07T17:58:37.291Z",
+  "market_endDate": "2022-05-07T00:00:00Z",
+  "market_closedTime": "2022-05-08 07:47:02+00",
+  "conditionId": "0x02510930e0e95023e6bd2406db1ca9d32b9e252b3c2398262f03dd4b6ae48abf",
+  "slug": "nhl-who-will-win-rangers-vs-penguins-scheduled-for-may-7-700-pm-et",
+  "question": "NHL: Who will win Rangers vs. Penguins, scheduled for May 7, 7:00 PM ET?"
+}

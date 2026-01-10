@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240939",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-21T20:21:27.348000Z",
+  "market_createdAt": "2022-01-21T20:21:27.348Z",
+  "market_updatedAt": "2024-04-24T23:22:07.840314Z",
+  "market_startDate": "2022-01-21T21:56:25.529Z",
+  "market_endDate": "2022-01-25T00:00:00Z",
+  "market_closedTime": "2022-02-01 21:40:00+00",
+  "conditionId": "0xd523003a10030de4409aafd4d98afdb7d90140cb2d2b3ac58cebb09a98ce8ab2",
+  "slug": "will-mario-draghi-be-elected-as-president-of-italy-in-the-upcoming-2022-presidential-election",
+  "question": "Will Mario Draghi be elected as President of Italy in the upcoming 2022 Presidential Election?"
+}

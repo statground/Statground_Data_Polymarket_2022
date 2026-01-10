@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239742",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-01T14:11:18.607000Z",
+  "market_createdAt": "2021-12-01T14:11:18.607Z",
+  "market_updatedAt": "2024-04-22T22:38:51.060231Z",
+  "market_startDate": "2021-12-01T20:10:50.849Z",
+  "market_endDate": "2021-12-31T00:00:00Z",
+  "market_closedTime": "2022-01-01 19:08:06+00",
+  "conditionId": "0x6c4b266237b9fb1db374dc8abdc96babc009c068a41a23d919966839c7673b6d",
+  "slug": "will-ethereum-reach-5000-this-year",
+  "question": "Will Ethereum reach $5000 by the end of 2021?"
+}

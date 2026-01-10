@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239490",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-17T14:32:00.079000Z",
+  "market_createdAt": "2021-11-17T14:32:00.079Z",
+  "market_updatedAt": "2024-04-22T22:58:16.269173Z",
+  "market_startDate": "2021-11-17T19:27:00.869Z",
+  "market_endDate": "2021-11-21T00:00:00Z",
+  "market_closedTime": "2021-11-22 18:44:23+00",
+  "conditionId": "0x86f3e50b378ffa9e9cee7811de3cfcc716f70617f765ef04df48fc345b64ef61",
+  "slug": "nfl-will-the-chiefs-beat-the-cowboys-by-more-than-2pt5-points-in-their-november-21st-matchup",
+  "question": "NFL: Will the Chiefs beat the Cowboys by more than 2.5 points in their November 21st matchup?"
+}

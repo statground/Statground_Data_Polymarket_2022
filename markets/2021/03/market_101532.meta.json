@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "101532",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-03-07T22:30:01.877000Z",
+  "market_createdAt": "2021-03-07T22:30:01.877Z",
+  "market_updatedAt": "2024-04-22T22:51:32.027888Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-30T00:00:00Z",
+  "market_closedTime": "2021-04-30 22:56:59+00",
+  "conditionId": "0xf2989ceaa2a6dc686aaffd17bd64fb340deee785be958d163505464b2765af0e",
+  "slug": "will-any-of-super-rare-zora-foundation-open-sea-or-nifty-gateway-have-a-live-token-by-april-30th-2021",
+  "question": "Will any of SuperRare, Zora, Foundation, OpenSea, or NiftyGateway have a live token by April 30th, 2021?"
+}

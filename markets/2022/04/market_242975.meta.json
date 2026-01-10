@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242975",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-06T15:46:06.371000Z",
+  "market_createdAt": "2022-04-06T15:46:06.371Z",
+  "market_updatedAt": "2024-04-22T22:43:46.577311Z",
+  "market_startDate": "2022-04-06T16:26:17.765Z",
+  "market_endDate": "2022-04-06T00:00:00Z",
+  "market_closedTime": "2022-04-07 07:16:26+00",
+  "conditionId": "0x32531118fb05bdcd9a9d70efdea8663f8af97ddf2bc84ce93ff5a3b75b17fbff",
+  "slug": "will-the-golden-knights-beat-the-canucks-by-more-than-1pt5-goals-in-their-april-6th-matchup-10-pm-et",
+  "question": "Will the Golden Knights beat the Canucks by more than 1.5 goals in their April 6th matchup (10 PM ET)?"
+}

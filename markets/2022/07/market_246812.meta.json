@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246812",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-25T15:36:20.726000Z",
+  "market_createdAt": "2022-07-25T15:36:20.726Z",
+  "market_updatedAt": "2023-02-01T04:12:28.341Z",
+  "market_startDate": "2022-07-27T14:07:56.302Z",
+  "market_endDate": "2022-07-26T00:00:00Z",
+  "market_closedTime": "2022-07-27 07:15:41+00",
+  "conditionId": "0x9be4915ed263c3cefe52e999cdbf2ada9aa3f576bdd6d0f55369b59b43e9e381",
+  "slug": "mlb-who-will-win-new-york-yankees-v-new-york-mets-scheduled-for-july-26-710-pm-et",
+  "question": "MLB: Who will win New York Yankees v. New York Mets, scheduled for July 26, 7:10 PM ET?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239455",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-16T11:36:42.634000Z",
+  "market_createdAt": "2021-11-16T11:36:42.634Z",
+  "market_updatedAt": "2024-04-23T00:12:32.208339Z",
+  "market_startDate": "2021-11-16T17:45:19.307Z",
+  "market_endDate": "2021-11-26T00:00:00Z",
+  "market_closedTime": "2021-11-27 21:07:12+00",
+  "conditionId": "0xa55800c313a9f64e1f2dbb0b4d8a71e8af637894b3cb19bf7f9d9c669e0185a6",
+  "slug": "will-the-top-song-on-spotify-charts-hit-45m-global-streams-for-the-week-ending-on-november-25",
+  "question": "Will the top song on Spotify Charts hit 45M global streams for the week ending on November 25?"
+}

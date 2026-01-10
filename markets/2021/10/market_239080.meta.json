@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239080",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-25T08:03:26.117000Z",
+  "market_createdAt": "2021-10-25T08:03:26.117Z",
+  "market_updatedAt": "2024-04-22T23:24:34.976438Z",
+  "market_startDate": "2021-10-25T09:39:13.185Z",
+  "market_endDate": "2021-10-25T00:00:00Z",
+  "market_closedTime": "2021-10-26 09:51:48+00",
+  "conditionId": "0x66194151239e4ce4c27fc1db25468eed755b1363ad4f9b8a886a2af82db2b3f8",
+  "slug": "will-the-hawks-beat-the-pistons-by-more-than-10pt5-points-in-their-matchup-on-october-25th",
+  "question": "(In-Game Trading)Will the Hawks beat the Pistons by more than 10.5 points in their matchup on October 25th?"
+}

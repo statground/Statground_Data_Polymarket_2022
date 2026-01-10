@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239392",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-12T22:06:21.105000Z",
+  "market_createdAt": "2021-11-12T22:06:21.105Z",
+  "market_updatedAt": "2024-04-26T02:52:08.927698Z",
+  "market_startDate": "2021-11-14T05:00:25.491Z",
+  "market_endDate": "2021-11-14T00:00:00Z",
+  "market_closedTime": "2021-11-16 01:46:43+00",
+  "conditionId": "0x7e21ba6aca80db0cc501b2300771bcb6778da42cbb53ef178d34c92ae72a2bb8",
+  "slug": "nfl-will-the-titans-beat-the-saints-by-more-than-2pt5-points-in-their-november-14th-matchup",
+  "question": "NFL: Will the Titans beat the Saints by more than 2.5 points in their November 14th matchup?"
+}

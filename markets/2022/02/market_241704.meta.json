@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241704",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-24T23:26:11.139000Z",
+  "market_createdAt": "2022-02-24T23:26:11.139Z",
+  "market_updatedAt": "2023-01-31T20:31:17.047Z",
+  "market_startDate": null,
+  "market_endDate": "2022-03-01T00:00:00Z",
+  "market_closedTime": "2022-03-02 17:46:07+00",
+  "conditionId": "0x47164874d2cb3a4a530ada363537e3ab19a2ff6bbd47cec6b9700ffbbef2e53b",
+  "slug": "will-president-biden-mention-swift-in-the-2022-state-of-the-union-address",
+  "question": "Will President Biden mention SWIFT in the 2022 State of the Union Address?"
+}

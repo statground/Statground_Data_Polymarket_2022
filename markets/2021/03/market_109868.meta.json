@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "109868",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-03-25T17:45:01.424000Z",
+  "market_createdAt": "2021-03-25T17:45:01.424Z",
+  "market_updatedAt": "2024-04-26T02:45:18.200649Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-15T00:00:00Z",
+  "market_closedTime": "2021-06-15 16:52:04+00",
+  "conditionId": "0xaf01b2c889165b8963df1bbd61a54670915cd2376e79df473730f5154a5bcad4",
+  "slug": "will-donald-trump-launch-a-new-social-media-platform-by-june-15-2021-1",
+  "question": "Will Donald Trump launch a new social media platform by June 15, 2021?"
+}

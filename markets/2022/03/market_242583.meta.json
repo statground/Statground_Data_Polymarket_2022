@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242583",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-28T09:04:50.802000Z",
+  "market_createdAt": "2022-03-28T09:04:50.802Z",
+  "market_updatedAt": "2024-04-24T23:28:06.81731Z",
+  "market_startDate": "2022-03-28T16:29:34.726Z",
+  "market_endDate": "2022-03-28T00:00:00Z",
+  "market_closedTime": "2022-03-29 09:04:08+00",
+  "conditionId": "0xa5d39d2ffba4f2a2f1dcdf3a4d39595359550610d681e153e7a6b6b8f78a24a4",
+  "slug": "nba-who-will-win-nuggets-vs-hornets-scheduled-for-march-28-700-pm-et",
+  "question": "NBA: Who will win Nuggets vs. Hornets, scheduled for March 28, 7:00 PM ET?"
+}

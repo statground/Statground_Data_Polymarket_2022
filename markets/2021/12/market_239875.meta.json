@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239875",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-07T11:09:48.842000Z",
+  "market_createdAt": "2021-12-07T11:09:48.842Z",
+  "market_updatedAt": "2024-04-23T01:00:03.81292Z",
+  "market_startDate": "2021-12-07T18:25:25.819Z",
+  "market_endDate": "2021-12-07T00:00:00Z",
+  "market_closedTime": "2021-12-08 18:51:17+00",
+  "conditionId": "0x6f02e45b823f8d8bb887f1986c9e2e4bb40817e0c3efa0c73257eff0feb4f181",
+  "slug": "nba-will-the-knicks-beat-the-spurs-by-more-than-2pt5-points-in-their-december-7-matchup",
+  "question": "NBA: Will the Knicks beat the Spurs by more than 2.5 points in their December 7 matchup?"
+}

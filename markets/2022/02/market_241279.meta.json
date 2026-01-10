@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241279",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-02T20:09:33.260000Z",
+  "market_createdAt": "2022-02-02T20:09:33.26Z",
+  "market_updatedAt": "2024-04-22T22:51:33.815697Z",
+  "market_startDate": null,
+  "market_endDate": "2022-02-02T00:00:00Z",
+  "market_closedTime": "2022-02-04 21:10:52+00",
+  "conditionId": "0x918aa9048cbfe2b0e7ef3a73ffc44c3378618f4d5644cffc33faac62a47534eb",
+  "slug": "nba-who-will-win-the-cavaliers-vs-rockets-scheduled-for-february-2-8-pm-et",
+  "question": "NBA: Who will win the Cavaliers vs. Rockets, scheduled for February 2 (8 PM ET)?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240854",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-19T11:43:18.562000Z",
+  "market_createdAt": "2022-01-19T11:43:18.562Z",
+  "market_updatedAt": "2024-04-22T22:24:49.198258Z",
+  "market_startDate": "2022-01-19T20:05:18.112Z",
+  "market_endDate": "2022-01-19T00:00:00Z",
+  "market_closedTime": "2022-01-24 16:30:47+00",
+  "conditionId": "0xba01d35c559d4dd179affb7ed70ae916cabc401a8be8e4882eea6de351bcefcc",
+  "slug": "nba-will-the-lakers-beat-the-pacers-by-more-than-4p5-points-in-their-january-19-matchup",
+  "question": "NBA: Will the Lakers beat the Pacers by more than 4.5 points in their January 19 matchup?"
+}

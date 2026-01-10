@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242482",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-25T09:11:11.860000Z",
+  "market_createdAt": "2022-03-25T09:11:11.86Z",
+  "market_updatedAt": "2024-04-22T23:24:08.841416Z",
+  "market_startDate": "2022-03-25T15:53:26.699Z",
+  "market_endDate": "2022-03-25T00:00:00Z",
+  "market_closedTime": "2022-03-26 16:18:59+00",
+  "conditionId": "0x209295bacc030092ee5723f86347e27c40a0befe1b46ce94ef69bcc4bb930336",
+  "slug": "ncaab-who-will-win-ucla-bruins-vs-north-carolina-tar-heels-scheduled-for-march-25-939-pm-et",
+  "question": "NCAAB: Who will win UCLA Bruins vs. North Carolina Tar Heels, scheduled for March 25, 9:39 PM ET?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "99",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-11-12T21:55:08.856000Z",
+  "market_createdAt": "2020-11-12T21:55:08.856Z",
+  "market_updatedAt": "2024-04-22T23:04:30.360833Z",
+  "market_startDate": null,
+  "market_endDate": "2020-11-16T00:00:00Z",
+  "market_closedTime": "2020-11-16 17:06:15+00",
+  "conditionId": "0xb000ca27d1dafadf8a24b2db8390129e8cbdc88312fb89e7f3c17d3465063346",
+  "slug": "will-the-seahawks-or-the-rams-win-their-week-10-nfl-matchup",
+  "question": "Will the Seahawks or the Rams win their week 10 NFL matchup?"
+}

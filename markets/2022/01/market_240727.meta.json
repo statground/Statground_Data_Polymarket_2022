@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240727",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-14T01:08:19.923000Z",
+  "market_createdAt": "2022-01-14T01:08:19.923Z",
+  "market_updatedAt": "2024-04-24T23:53:07.194515Z",
+  "market_startDate": "2022-01-15T18:43:41.762Z",
+  "market_endDate": "2022-01-16T00:00:00Z",
+  "market_closedTime": "2022-01-19 05:17:33+00",
+  "conditionId": "0x607067ed9c17ee929472e5f0a984a4087a01f1a8b5d47680c72ffcc00e0b5f36",
+  "slug": "nfl-will-the-buccaneers-beat-the-eagles-by-more-than-8p5-points-in-their-january-16-matchup",
+  "question": "NFL: Will the Buccaneers beat the Eagles by more than 8.5 points in their January 16 matchup?"
+}

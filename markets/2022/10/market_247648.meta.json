@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247648",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-13T19:53:34.698000Z",
+  "market_createdAt": "2022-10-13T19:53:34.698Z",
+  "market_updatedAt": "2023-01-31T21:06:36.863Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-22T00:00:00Z",
+  "market_closedTime": "2022-10-23 01:46:22+00",
+  "conditionId": "0xa0a249bf7994eb33ec97f697410aef9ec6f3a68ae106fea79077e5f1a6fbddcf",
+  "slug": "ufc-280-who-will-win-sterling-vs-dillashaw",
+  "question": "UFC 280: Who will win - Sterling vs Dillashaw"
+}

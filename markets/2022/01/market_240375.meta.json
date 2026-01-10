@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240375",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T01:57:50.545000Z",
+  "market_createdAt": "2022-01-11T01:57:50.545Z",
+  "market_updatedAt": "2024-04-22T22:42:45.644354Z",
+  "market_startDate": "2022-01-12T21:08:50.673Z",
+  "market_endDate": "2022-05-22T00:00:00Z",
+  "market_closedTime": "2022-05-27 19:30:52+00",
+  "conditionId": "0x84e3e3cc6ff8788671089854855c23a6fad653e76351364bb127172f4ad00e1c",
+  "slug": "will-chelsea-get-2nd-place-in-the-2021-22-english-premier-league",
+  "question": "Will Chelsea get 2nd place in the 2021-22 English Premier League?"
+}

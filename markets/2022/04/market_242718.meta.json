@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242718",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-01T09:10:35.111000Z",
+  "market_createdAt": "2022-04-01T09:10:35.111Z",
+  "market_updatedAt": "2024-04-23T00:59:44.401535Z",
+  "market_startDate": "2022-04-01T15:36:09.277Z",
+  "market_endDate": "2022-04-01T00:00:00Z",
+  "market_closedTime": "2022-04-02 09:15:29+00",
+  "conditionId": "0xbcdffafde2de9f59f8b57647fdff00d61b825b0b0c6d3d90498831a2ce6d17e5",
+  "slug": "nba-who-will-win-lakers-vs-pelicans-scheduled-for-april-1-1040-pm-et",
+  "question": "NBA: Who will win Lakers vs. Pelicans, scheduled for April 1, 10:40 PM ET?"
+}

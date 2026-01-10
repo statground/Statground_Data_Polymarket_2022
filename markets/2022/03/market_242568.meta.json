@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242568",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-27T09:11:07.883000Z",
+  "market_createdAt": "2022-03-27T09:11:07.883Z",
+  "market_updatedAt": "2024-04-25T00:08:10.418969Z",
+  "market_startDate": "2022-03-27T17:14:08.453Z",
+  "market_endDate": "2022-03-27T00:00:00Z",
+  "market_closedTime": "2022-03-28 09:21:03+00",
+  "conditionId": "0xadca06ff093d5b1deac839b8824f55a4c7c876972dfca279b216b164671c298a",
+  "slug": "ncaab-who-will-win-kansas-jayhawks-vs-miami-hurricanes-scheduled-for-march-27-220-pm-et",
+  "question": "NCAAB: Who will win Kansas Jayhawks vs. Miami Hurricanes, scheduled for March 27, 2:20 PM ET?"
+}

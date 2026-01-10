@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240432",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T15:39:55.811000Z",
+  "market_createdAt": "2022-01-11T15:39:55.811Z",
+  "market_updatedAt": "2024-04-22T23:24:53.206008Z",
+  "market_startDate": "2022-01-12T20:53:21.454Z",
+  "market_endDate": "2022-02-01T00:00:00Z",
+  "market_closedTime": "2022-02-08 23:30:45+00",
+  "conditionId": "0x6a01ae75b4d40975d4aa162ad1d74670a9ea36ec7d3824cba5ec333a06522615",
+  "slug": "will-coinbases-nft-marketplace-be-live-by-february-1st-2022",
+  "question": "Will Coinbase’s NFT marketplace be live by February 1st, 2022?"
+}

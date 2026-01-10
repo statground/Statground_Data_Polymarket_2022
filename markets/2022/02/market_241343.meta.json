@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241343",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-05T11:26:15.661000Z",
+  "market_createdAt": "2022-02-05T11:26:15.661Z",
+  "market_updatedAt": "2024-04-23T00:55:14.899744Z",
+  "market_startDate": "2022-02-05T19:23:39.83Z",
+  "market_endDate": "2022-02-05T00:00:00Z",
+  "market_closedTime": "2022-02-07 22:55:47+00",
+  "conditionId": "0x2e3739e901c41d4283d7774b0b8ff33c1a8316e0f954b62f9e30343f40f8b388",
+  "slug": "nba-will-the-lakers-beat-the-knicks-by-more-than-1p5-points-in-their-february-5-830-pm-et-matchup",
+  "question": "NBA: Will the Lakers beat the Knicks by more than 1.5 points in their February 5 (8.30 PM ET) matchup?"
+}

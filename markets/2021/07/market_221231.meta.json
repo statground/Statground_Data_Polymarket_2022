@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "221231",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-02T19:45:01.016000Z",
+  "market_createdAt": "2021-07-02T19:45:01.016Z",
+  "market_updatedAt": "2024-04-24T23:56:15.073438Z",
+  "market_startDate": null,
+  "market_endDate": "2021-08-03T00:00:00Z",
+  "market_closedTime": "2021-08-05 02:04:33+00",
+  "conditionId": "0xa45ad035368cc1b74dfc4b62d2fa2156d9eada921f55c9f2e5928445d54e658a",
+  "slug": "will-nina-turner-win-the-democratic-nomination-in-the-oh-11-special-election",
+  "question": "Will Nina Turner win the Democratic Nomination in the OH-11 special election?"
+}

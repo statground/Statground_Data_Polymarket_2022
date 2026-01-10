@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "222354",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-06T17:00:01.136000Z",
+  "market_createdAt": "2021-07-06T17:00:01.136Z",
+  "market_updatedAt": "2024-04-22T23:27:20.206762Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-14T00:00:00Z",
+  "market_closedTime": "2021-07-15 14:46:28+00",
+  "conditionId": "0xac849d190cc1deaa41f4ffb0de0bd3593f8742cd006ddbbbdd30e02c1b90ef69",
+  "slug": "who-will-win-bucks-v-suns-nba-finals-game-4",
+  "question": "Who will win Bucks v. Suns: NBA Finals Game 4?"
+}

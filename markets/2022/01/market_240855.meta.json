@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240855",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-19T15:38:30.722000Z",
+  "market_createdAt": "2022-01-19T15:38:30.722Z",
+  "market_updatedAt": "2024-04-22T22:52:53.382838Z",
+  "market_startDate": "2022-01-19T20:05:55.558Z",
+  "market_endDate": "2022-01-19T00:00:00Z",
+  "market_closedTime": "2022-01-25 00:17:09+00",
+  "conditionId": "0x64636880764d9ba190c3e7d04b820d30e10ac3a8b0bc8653ffb3a75f94be90f8",
+  "slug": "nhl-will-the-devils-beat-the-coyotes-by-more-than-15-goals-in-their-january-19-matchup",
+  "question": "NHL: Will the Devils beat the Coyotes by more than 1.5 goals in their January 19 matchup?"
+}

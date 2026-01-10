@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239025",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-19T17:02:53.056000Z",
+  "market_createdAt": "2021-10-19T17:02:53.056Z",
+  "market_updatedAt": "2024-04-24T23:58:12.457049Z",
+  "market_startDate": "2021-10-19T21:17:21.895Z",
+  "market_endDate": "2021-10-20T00:00:00Z",
+  "market_closedTime": "2021-10-21 11:02:07+00",
+  "conditionId": "0x080c24f4f775558c253d570c8836203806ec967734f59ca0200d4ed3feed3d6b",
+  "slug": "will-the-suns-beat-the-nuggets-by-more-than-6pt5-points-in-their-october-20th-matchup",
+  "question": "(In-game Trading) Will the Suns beat the Nuggets by more than 6.5 points in their October 20th matchup?"
+}

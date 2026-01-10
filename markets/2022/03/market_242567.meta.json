@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242567",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-27T09:10:37.335000Z",
+  "market_createdAt": "2022-03-27T09:10:37.335Z",
+  "market_updatedAt": "2024-04-22T22:30:23.930342Z",
+  "market_startDate": "2022-03-27T17:17:13.649Z",
+  "market_endDate": "2022-03-27T00:00:00Z",
+  "market_closedTime": "2022-03-28 09:14:27+00",
+  "conditionId": "0x91ec84f1374a081edee8adcae848107fba756ab43316a3b8c5ad27543d09dce8",
+  "slug": "nba-will-the-nets-beat-the-hornets-by-more-than-6pt5-points-in-their-march-27-740-pm-et-matchup",
+  "question": "NBA: Will the Nets beat the Hornets by more than 6.5 points in their March 27, 7:40 PM ET matchup?"
+}

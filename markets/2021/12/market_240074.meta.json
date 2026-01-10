@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240074",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-16T23:07:53.137000Z",
+  "market_createdAt": "2021-12-16T23:07:53.137Z",
+  "market_updatedAt": "2024-04-22T23:42:25.736392Z",
+  "market_startDate": "2021-12-17T21:25:13.44Z",
+  "market_endDate": "2021-12-19T00:00:00Z",
+  "market_closedTime": "2021-12-20 14:11:00+00",
+  "conditionId": "0xf7070a50a4956ee8340c94b07e1b3f259ddaa2e7666e68b8d43bd2dffff5a676",
+  "slug": "nfl-will-the-broncos-beat-the-bengals-by-more-than-2pt5-points-in-their-december-19-matchup",
+  "question": "NFL: Will the Broncos beat the Bengals by more than 2.5 points in their December 19 matchup?"
+}

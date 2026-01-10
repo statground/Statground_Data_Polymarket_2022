@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247211",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-09T16:19:10.114000Z",
+  "market_createdAt": "2022-09-09T16:19:10.114Z",
+  "market_updatedAt": "2023-01-31T20:44:46.814Z",
+  "market_startDate": "2022-09-09T16:39:26.365Z",
+  "market_endDate": "2022-09-15T00:00:00Z",
+  "market_closedTime": "2022-09-15 14:45:53+00",
+  "conditionId": "0xba89324f6df4ce84cdc8773d56c2152ac33898085804f65c86cb76c50654ad84",
+  "slug": "will-weekly-jobless-initial-claims-exceed-213k-for-the-week-ending-on-september-10",
+  "question": "Will weekly jobless initial claims exceed 213k for the week ending on September 10?"
+}

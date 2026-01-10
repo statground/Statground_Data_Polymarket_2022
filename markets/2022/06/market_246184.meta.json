@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246184",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-02T20:05:30.898000Z",
+  "market_createdAt": "2022-06-02T20:05:30.898Z",
+  "market_updatedAt": "2023-01-31T03:49:15.556Z",
+  "market_startDate": null,
+  "market_endDate": "2022-06-14T00:00:00Z",
+  "market_closedTime": "2022-06-14 18:30:30+00",
+  "conditionId": "0x06c8d797fed2536c48db0fa0d8746786780a7170584ba9c99e9dcefe5f0a5073",
+  "slug": "will-jurassic-world-dominion-get-a-70-or-higher-tomatometer-score",
+  "question": "Will 'Jurassic World Dominion' get a 70% or higher Tomatometer Score?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "102108",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-03-09T17:45:02.227000Z",
+  "market_createdAt": "2021-03-09T17:45:02.227Z",
+  "market_updatedAt": "2024-04-23T00:00:52.259126Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-01T00:00:00Z",
+  "market_closedTime": "2021-06-01 16:30:30+00",
+  "conditionId": "0xc348fa585ddc5af5f3bb4aa725fc46ab96387eb7ea45f3b817d14595926aa0fa",
+  "slug": "will-donald-trump-be-federally-charged-by-june-1st-1",
+  "question": "Will Donald Trump be federally charged by June 1st? "
+}

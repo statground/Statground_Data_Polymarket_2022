@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242104",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-15T17:11:47.748000Z",
+  "market_createdAt": "2022-03-15T17:11:47.748Z",
+  "market_updatedAt": "2024-04-23T00:11:41.017363Z",
+  "market_startDate": "2022-03-15T18:44:07.556Z",
+  "market_endDate": "2022-07-31T00:00:00Z",
+  "market_closedTime": "2022-06-24 18:30:41+00",
+  "conditionId": "0xa5cfa93793d5e02f76af4fd4505ede4b07178b458df50e90fa14bc4754da2dd1",
+  "slug": "will-ukraine-become-a-european-union-candidate-country-by-july-31st",
+  "question": "Will Ukraine become a European Union candidate country by July 31st?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248014",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T20:00:32.228000Z",
+  "market_createdAt": "2022-11-18T20:00:32.228Z",
+  "market_updatedAt": "2023-01-31T21:09:58.571Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-06T00:00:00Z",
+  "market_closedTime": "2022-11-30 01:30:46+00",
+  "conditionId": "0x670b3fa9c6333c8b6dd5930cef4f160c4ac73ba737802efb721ae2c4e8bc6546",
+  "slug": "will-ecuador-qualify-from-group-a",
+  "question": "Will Ecuador qualify from Group A?"
+}

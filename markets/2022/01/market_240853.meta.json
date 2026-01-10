@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240853",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-19T11:40:02.492000Z",
+  "market_createdAt": "2022-01-19T11:40:02.492Z",
+  "market_updatedAt": "2024-04-23T00:25:36.25492Z",
+  "market_startDate": "2022-01-19T20:05:06.754Z",
+  "market_endDate": "2022-01-19T00:00:00Z",
+  "market_closedTime": "2022-01-21 13:26:09+00",
+  "conditionId": "0xefb13469fc7d957c17156c1884374bfe47a49e8bcd4338276aa3664110aaec88",
+  "slug": "nba-will-the-nuggets-beat-the-clippers-by-more-than-7p5-points-in-their-january-19-matchup",
+  "question": "NBA: Will the Nuggets beat the Clippers by more than 7.5 points in their January 19 matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240909",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-21T11:01:31.259000Z",
+  "market_createdAt": "2022-01-21T11:01:31.259Z",
+  "market_updatedAt": "2024-04-25T00:01:57.721441Z",
+  "market_startDate": "2022-01-21T21:46:54.821Z",
+  "market_endDate": "2022-01-21T00:00:00Z",
+  "market_closedTime": "2022-01-24 21:56:06+00",
+  "conditionId": "0x15cd3d260eb867de1dd2983497a27b2cdc1b7e87516f9e42464c2f56254d6fe1",
+  "slug": "nba-will-the-celtics-beat-the-blazers-by-more-than-7p5-points-in-their-january-21-matchup",
+  "question": "NBA: Will the Celtics beat the Blazers by more than 7.5 points in their January 21 matchup?"
+}

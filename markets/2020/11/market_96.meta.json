@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "96",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-11-11T17:35:06.676000Z",
+  "market_createdAt": "2020-11-11T17:35:06.676Z",
+  "market_updatedAt": "2024-04-24T23:19:48.973385Z",
+  "market_startDate": null,
+  "market_endDate": "2021-01-23T00:00:00Z",
+  "market_closedTime": "2020-12-15 15:04:26+00",
+  "conditionId": "0x26db7bd60779c008fe75ad575d53b4bbab32101ead3fd8e005f057d5547ddc26",
+  "slug": "will-trump-win-any-of-pennsylvania-arizona-or-georgia",
+  "question": "Will Trump win any of Pennsylvania, Arizona or Georgia?"
+}

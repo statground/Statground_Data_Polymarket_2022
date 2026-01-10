@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242452",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-24T19:10:15.214000Z",
+  "market_createdAt": "2022-03-24T19:10:15.214Z",
+  "market_updatedAt": "2024-04-22T23:16:21.316728Z",
+  "market_startDate": "2022-03-24T19:48:22.024Z",
+  "market_endDate": "2022-04-11T00:00:00Z",
+  "market_closedTime": "2022-04-11 03:00:46+00",
+  "conditionId": "0x26475e4a45b9d2a0d6f08b2687d8c290ebcbdc4d2c15898a606d6b81943677f5",
+  "slug": "golf-will-justin-thomas-win-the-2022-masters-tournament",
+  "question": "Golf: Will Justin Thomas win the 2022 Masters Tournament?"
+}

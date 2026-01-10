@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218618",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-22T17:10:01.428000Z",
+  "market_createdAt": "2021-06-22T17:10:01.428Z",
+  "market_updatedAt": "2024-04-25T00:12:34.331668Z",
+  "market_startDate": null,
+  "market_endDate": null,
+  "market_closedTime": "2021-09-16 04:47:14+00",
+  "conditionId": "0x4d31223761c377f7e5707090d849579a0af32886c3ba1f252e4e341509ee3c0e",
+  "slug": "what-will-the-fully-diluted-market-cap-of-d-yd-x-s-token-be-1-week-after-it-starts-trading",
+  "question": "What will the fully diluted market cap of dYdX's token be 1 week after it starts trading?"
+}

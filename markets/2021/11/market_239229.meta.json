@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239229",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-03T15:56:41.772000Z",
+  "market_createdAt": "2021-11-03T15:56:41.772Z",
+  "market_updatedAt": "2024-04-26T02:48:59.615902Z",
+  "market_startDate": "2021-11-03T16:54:23.527Z",
+  "market_endDate": "2021-11-04T00:00:00Z",
+  "market_closedTime": "2021-11-05 02:51:53+00",
+  "conditionId": "0x6346e495d49dcf5798be1387153b900a66468a6c984cd2dc0867ceec5506b07e",
+  "slug": "nfl-will-the-colts-beat-the-jets-by-more-than-10pt5-points-in-their-november-4th-matchup",
+  "question": "NFL: Will the Colts beat the Jets by more than 10.5 points in their November 4th matchup?"
+}

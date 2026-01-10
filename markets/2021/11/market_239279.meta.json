@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239279",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-06T19:36:43.447000Z",
+  "market_createdAt": "2021-11-06T19:36:43.447Z",
+  "market_updatedAt": "2024-04-25T00:03:35.885699Z",
+  "market_startDate": "2021-11-07T01:03:09.594Z",
+  "market_endDate": "2021-11-07T00:00:00Z",
+  "market_closedTime": "2021-11-08 13:35:59+00",
+  "conditionId": "0x48e6d92f6bd84cf2b1f44c9d037c4a602dee6b0ba521e9f5066e46878de4cd38",
+  "slug": "nfl-will-the-rams-beat-the-titans-by-more-than-7pt5-points-in-their-november-7th-matchup",
+  "question": "NFL: Will the Rams beat the Titans by more than 7.5 points in their November 7th matchup?"
+}

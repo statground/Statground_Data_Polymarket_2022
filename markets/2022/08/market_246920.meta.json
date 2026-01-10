@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246920",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-03T23:34:39.516000Z",
+  "market_createdAt": "2022-08-03T23:34:39.516Z",
+  "market_updatedAt": "2023-01-31T17:38:50.569Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-15T00:00:00Z",
+  "market_closedTime": "2022-11-10 04:29:47+00",
+  "conditionId": "0x3306ad4d0ef2ffdbb76a5364e320205c8f6e953212df6de69b32fab4225c9ad4",
+  "slug": "2022-us-gubernatorial-elections-will-a-democrat-or-republican-win-in-kansas",
+  "question": "Governor: Will a Democrat (Kelly) or Republican (Schmidt) win in Kansas?"
+}

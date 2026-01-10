@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "57337",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-01-25T18:10:03.552000Z",
+  "market_createdAt": "2021-01-25T18:10:03.552Z",
+  "market_updatedAt": "2024-04-22T23:08:47.256985Z",
+  "market_startDate": null,
+  "market_endDate": "2021-03-01T00:00:00Z",
+  "market_closedTime": "2021-02-15 18:31:20+00",
+  "conditionId": "0x0f0194c3dfcf5a40939044b3ce41e70041c8d2af2817070c488c271b51df02b5",
+  "slug": "how-many-senators-will-vote-to-convict-donald-trump-on-incitement-by-march-1",
+  "question": "How many Senators will vote to convict Donald Trump on incitement by March 1?"
+}

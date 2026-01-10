@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240674",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-13T00:05:33.291000Z",
+  "market_createdAt": "2022-01-13T00:05:33.291Z",
+  "market_updatedAt": "2024-04-24T23:58:47.408465Z",
+  "market_startDate": "2022-01-13T01:06:57.811Z",
+  "market_endDate": "2022-01-28T00:00:00Z",
+  "market_closedTime": "2022-01-19 05:13:17+00",
+  "conditionId": "0xd863fb098e861241d1663ccb5dcbf45e91394af78a9d95f6541863b755124486",
+  "slug": "will-novak-djokovic-advance-to-semifinals-in-the-2022-australian-open",
+  "question": "Will Novak Djokovic advance to semifinals in the 2022 Australian Open?"
+}

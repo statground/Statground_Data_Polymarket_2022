@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239678",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-29T11:43:25.339000Z",
+  "market_createdAt": "2021-11-29T11:43:25.339Z",
+  "market_updatedAt": "2024-04-23T00:57:21.943887Z",
+  "market_startDate": "2021-11-29T17:47:37.449Z",
+  "market_endDate": "2021-12-16T00:00:00Z",
+  "market_closedTime": "2021-12-17 17:13:36+00",
+  "conditionId": "0xa6aa624ec9395345d4b8e09b70800663e1f5bf730723f218ae63e51db8dd6a13",
+  "slug": "will-the-floor-price-of-cryptopunks-be-above-85-eth-on-december-16-2021",
+  "question": "Will the floor price of CryptoPunks be above 85 ETH on December 16, 2021?"
+}

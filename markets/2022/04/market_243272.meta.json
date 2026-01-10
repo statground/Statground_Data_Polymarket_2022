@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243272",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-14T08:29:06.040000Z",
+  "market_createdAt": "2022-04-14T08:29:06.04Z",
+  "market_updatedAt": "2023-01-31T20:59:05.359Z",
+  "market_startDate": "2022-04-14T14:51:52.969Z",
+  "market_endDate": "2022-04-14T00:00:00Z",
+  "market_closedTime": "2022-04-15 07:31:30+00",
+  "conditionId": "0xdee76da6b31cd2648a7d806995061671c145b618bf6899f0a49d3e8d0e5ba204",
+  "slug": "mlb-who-will-win-los-angeles-angels-vs-texas-rangers-scheduled-for-april-14-806-pm-et",
+  "question": "MLB: Who will win Los Angeles Angels vs. Texas Rangers, scheduled for April 14, 8:06 PM ET?"
+}

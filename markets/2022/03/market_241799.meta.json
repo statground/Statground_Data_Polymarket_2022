@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241799",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-01T11:48:18.708000Z",
+  "market_createdAt": "2022-03-01T11:48:18.708Z",
+  "market_updatedAt": "2024-04-24T23:23:35.714081Z",
+  "market_startDate": "2022-03-01T17:58:08.839Z",
+  "market_endDate": "2022-03-01T00:00:00Z",
+  "market_closedTime": "2022-03-03 02:15:38+00",
+  "conditionId": "0xffd126bba068a1c965cc92b8ec935ec3654fb34c6b4707bca25196750ba8dde4",
+  "slug": "nba-will-the-raptors-beat-the-nets-by-more-than-8p5-points-in-their-march-1-730-pm-et-matchup",
+  "question": "NBA: Will the Raptors beat the Nets by more than 8.5 points in their March 1 (7.30 PM ET) matchup?"
+}

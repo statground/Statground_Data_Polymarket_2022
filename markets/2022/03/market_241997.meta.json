@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241997",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-09T21:27:48.801000Z",
+  "market_createdAt": "2022-03-09T21:27:48.801Z",
+  "market_updatedAt": "2024-04-25T00:10:16.715191Z",
+  "market_startDate": "2022-03-09T21:42:15.393Z",
+  "market_endDate": "2022-04-10T00:00:00Z",
+  "market_closedTime": "2022-04-11 21:15:52+00",
+  "conditionId": "0x94c477e301371fec2b51cc8bb89fe0ad0d2b6d76d647e91c7e53b5811f9706fd",
+  "slug": "will-marine-le-pen-win-2nd-place-in-the-first-round-of-the-2022-french-presidential-election",
+  "question": "Will Marine Le Pen win 2nd place in the first round of the 2022 French presidential election?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239993",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-12T13:29:41.562000Z",
+  "market_createdAt": "2021-12-12T13:29:41.562Z",
+  "market_updatedAt": "2024-04-26T03:57:43.315539Z",
+  "market_startDate": "2021-12-12T18:04:02.063Z",
+  "market_endDate": "2021-12-12T00:00:00Z",
+  "market_closedTime": "2021-12-13 20:34:08+00",
+  "conditionId": "0xad424debc98dbfad93d18d9fe1ba8ca5bcdee74ed190d44a98f0994ed57a514d",
+  "slug": "nfl-will-the-cowboys-beat-the-washington-by-more-than-5pt5-points-in-their-december-12-matchup",
+  "question": "NFL: Will the Cowboys beat the Washington by more than 5.5 points in their December 12 matchup?"
+}

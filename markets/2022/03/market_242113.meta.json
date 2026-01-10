@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242113",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-15T18:55:30.287000Z",
+  "market_createdAt": "2022-03-15T18:55:30.287Z",
+  "market_updatedAt": "2024-04-25T00:09:56.163401Z",
+  "market_startDate": "2022-03-15T19:06:00.119Z",
+  "market_endDate": "2022-03-15T00:00:00Z",
+  "market_closedTime": "2022-03-16 12:30:41+00",
+  "conditionId": "0x0e4e980697cdba92c7ecaaa44811b288ee92ac4e0feaff2c935a28400a934bf2",
+  "slug": "ncaa-march-madness-who-will-win-the-indiana-vspt-wyoming-scheduled-for-march-15-9pt10-pm-et",
+  "question": "NCAA March Madness: Who will win the Indiana vs. Wyoming, scheduled for March 15 (9.10 PM ET)?"
+}

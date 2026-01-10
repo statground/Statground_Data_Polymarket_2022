@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240694",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-13T18:48:05.234000Z",
+  "market_createdAt": "2022-01-13T18:48:05.234Z",
+  "market_updatedAt": "2024-04-22T23:56:50.860117Z",
+  "market_startDate": "2022-01-13T20:58:15.377Z",
+  "market_endDate": "2022-01-13T00:00:00Z",
+  "market_closedTime": "2022-01-15 23:23:56+00",
+  "conditionId": "0x685449ea583590a6fb968f4dd28f2964c0bbe282ad38cf9f624276d7e64303b7",
+  "slug": "nba-will-the-nuggets-beat-the-trail-blazers-by-more-than-10p5-points-in-their-january-13-matchup",
+  "question": "NBA: Will the Nuggets beat the Trail Blazers by more than 10.5 points in their January 13 matchup?"
+}

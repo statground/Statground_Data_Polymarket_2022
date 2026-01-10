@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248100",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-21T18:39:36.248000Z",
+  "market_createdAt": "2022-11-21T18:39:36.248Z",
+  "market_updatedAt": "2023-01-31T21:10:05.703Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-24T00:00:00Z",
+  "market_closedTime": "2022-11-25 01:31:31+00",
+  "conditionId": "0x1f6d9ac4321c3f4d139de2f159a813c469d40051fbcec26ef346d7a09359dd79",
+  "slug": "world-cup-2022-thursday-will-portugal-beat-ghana",
+  "question": "World Cup: Thursday - Will Portugal beat Ghana?"
+}

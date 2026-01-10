@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239028",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-19T17:16:21.998000Z",
+  "market_createdAt": "2021-10-19T17:16:21.998Z",
+  "market_updatedAt": "2024-04-22T22:43:02.320549Z",
+  "market_startDate": null,
+  "market_endDate": "2021-10-20T00:00:00Z",
+  "market_closedTime": "2021-10-21 02:46:14+00",
+  "conditionId": "0x51fd22105e61ef9cc570f3ad608576c66af4ed277605ab8fa7ebe8640ee34bf1",
+  "slug": "will-the-76ers-beat-the-pelicans-by-more-than-4pt5-points-in-their-october-20th-matchup",
+  "question": "Will the 76ers beat the Pelicans by more than 4.5 points in their October 20th matchup?"
+}

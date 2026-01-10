@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241489",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-15T08:03:15.215000Z",
+  "market_createdAt": "2022-02-15T08:03:15.215Z",
+  "market_updatedAt": "2024-04-22T23:54:36.440016Z",
+  "market_startDate": "2022-02-15T17:36:26.229Z",
+  "market_endDate": "2022-02-15T00:00:00Z",
+  "market_closedTime": "2022-02-16 20:10:31+00",
+  "conditionId": "0x9412da13e455531ba8f8b2572b84e1cde0888dd5d4b0573b9f47667871ec35ae",
+  "slug": "nhl-will-the-islanders-beat-the-sabres-by-more-than-1p5-goals-in-their-february-15-matchup-7pm-et",
+  "question": "NHL: Will the Islanders beat the Sabres by more than 1.5 goals in their February 15 matchup (7PM ET)?"
+}

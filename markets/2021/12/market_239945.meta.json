@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239945",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-10T16:40:40.209000Z",
+  "market_createdAt": "2021-12-10T16:40:40.209Z",
+  "market_updatedAt": "2024-04-22T23:34:35.211051Z",
+  "market_startDate": "2021-12-10T18:04:50.491Z",
+  "market_endDate": "2021-12-10T00:00:00Z",
+  "market_closedTime": "2021-12-11 18:13:35+00",
+  "conditionId": "0xdba5953dd25c906c5ce043112a15d565eda60c30b32a6950aefc256fbf3f3e97",
+  "slug": "nba-will-the-pacers-beat-the-mavericks-by-more-than-1pt5-points-in-their-december-10-matchup",
+  "question": "NBA: Will the Pacers beat the Mavericks by more than 1.5 points in their December 10 matchup?"
+}

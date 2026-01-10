@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242097",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-15T15:29:46.881000Z",
+  "market_createdAt": "2022-03-15T15:29:46.881Z",
+  "market_updatedAt": "2024-04-23T00:15:59.799329Z",
+  "market_startDate": "2022-03-15T17:56:22.754Z",
+  "market_endDate": "2022-03-15T00:00:00Z",
+  "market_closedTime": "2022-03-16 11:31:01+00",
+  "conditionId": "0x2c524baa176f26dddb89d71cacd1f84e9f998e4a8fa5eeda8750df305d69bfa9",
+  "slug": "nba-will-the-heat-beat-the-pistons-by-more-than-12pt5-points-in-their-march-15-7pt30-pm-et-matchup",
+  "question": "NBA: Will the Heat beat the Pistons by more than 12.5 points in their March 15 (7.30 PM ET) matchup?"
+}

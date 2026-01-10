@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242012",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-11T10:59:19.916000Z",
+  "market_createdAt": "2022-03-11T10:59:19.916Z",
+  "market_updatedAt": "2024-04-23T00:17:05.487581Z",
+  "market_startDate": "2022-03-11T20:37:14.234Z",
+  "market_endDate": "2022-03-11T00:00:00Z",
+  "market_closedTime": "2022-03-12 13:00:26+00",
+  "conditionId": "0xfb5f58156a246ed291d69de7571a5e5ff48f61480497d396f20407cd905ffc5f",
+  "slug": "nba-will-the-timberwolves-beat-the-magic-by-more-than-6pt5-points-in-their-march-11-7-pm-et-matchup",
+  "question": "NBA: Will the Timberwolves beat the Magic by more than 6.5 points in their March 11 (7 PM ET) matchup?"
+}

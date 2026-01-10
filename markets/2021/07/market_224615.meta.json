@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "224615",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-20T23:00:01.262000Z",
+  "market_createdAt": "2021-07-20T23:00:01.262Z",
+  "market_updatedAt": "2024-04-22T23:33:33.868595Z",
+  "market_startDate": null,
+  "market_endDate": "2021-08-09T00:00:00Z",
+  "market_closedTime": "2021-08-12 16:32:10+00",
+  "conditionId": "0x773793a1a39aab1547065592357484e8363138e8db9b39eb08b0db8d845dbf89",
+  "slug": "will-there-be-more-than-100-positive-cases-for-covid-19-at-the-2020-olympics",
+  "question": "Will there be more than 100 positive cases of COVID-19 among athletes at the 2020 Olympics?"
+}

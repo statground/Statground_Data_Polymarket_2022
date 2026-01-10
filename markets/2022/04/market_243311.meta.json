@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243311",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-15T15:29:40.837000Z",
+  "market_createdAt": "2022-04-15T15:29:40.837Z",
+  "market_updatedAt": "2023-01-31T21:10:05.703Z",
+  "market_startDate": "2022-04-15T16:40:01.015Z",
+  "market_endDate": "2022-04-15T00:00:00Z",
+  "market_closedTime": "2022-04-16 07:47:20+00",
+  "conditionId": "0x422f8fffbd0b3d0dc03ad24212d542d659d02e95eca654c1f104a0ea5556f118",
+  "slug": "nba-will-the-clippers-beat-the-pelicans-by-more-than-4pt5-points-in-their-april-15-10-pm-et-matchup",
+  "question": "NBA: Will the Clippers beat the Pelicans by more than 4.5 points in their April 15 (10 PM ET) matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244664",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-12T08:37:30.895000Z",
+  "market_createdAt": "2022-05-12T08:37:30.895Z",
+  "market_updatedAt": "2023-01-31T19:34:54.442Z",
+  "market_startDate": "2022-05-12T15:58:10.694Z",
+  "market_endDate": "2022-05-12T00:00:00Z",
+  "market_closedTime": "2022-05-13 07:46:40+00",
+  "conditionId": "0x3ad6372c4154dceda87b8f338dac5f13ea96fe71d6e9df51f31cd7cdf762036e",
+  "slug": "mlb-who-will-win-pittsburgh-pirates-vs-cincinnati-reds-scheduled-for-may-12-636-pm-et",
+  "question": "MLB: Who will win Pittsburgh Pirates vs. Cincinnati Reds, scheduled for May 12, 6:36 PM ET?"
+}

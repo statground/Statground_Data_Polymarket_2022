@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "234978",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-13T17:42:01.115000Z",
+  "market_createdAt": "2021-08-13T17:42:01.115Z",
+  "market_updatedAt": "2024-04-25T00:11:33.134256Z",
+  "market_startDate": "2021-08-13T18:57:06.452Z",
+  "market_endDate": "2021-12-21T00:00:00Z",
+  "market_closedTime": "2021-12-22 17:54:48+00",
+  "conditionId": "0xe1bb377d99e4db75895b1665f347062c414de9ee6fdddc8f361bc57826dc7e02",
+  "slug": "which-film-will-gross-more-in-their-domestic-box-office-releases-dune-or-shang-chi",
+  "question": "Which film will gross more in their domestic box office releases: Dune or Shang-Chi? "
+}

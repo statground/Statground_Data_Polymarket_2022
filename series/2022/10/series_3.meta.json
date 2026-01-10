@@ -1,0 +1,15 @@
+{
+  "entity": "series",
+  "series_id": "3",
+  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
+  "folder_dt_utc": "2022-10-13T00:37:01.013000Z",
+  "series_createdAt": "2022-10-13T00:37:01.013Z",
+  "series_publishedAt": "2022-10-13 00:37:11.511+00",
+  "series_updatedAt": "2026-01-06T14:40:59.736784Z",
+  "slug": "mlb",
+  "ticker": "mlb",
+  "title": "MLB",
+  "startDate": "2021-01-01T17:00:00Z",
+  "recurrence": "daily",
+  "seriesType": "single"
+}

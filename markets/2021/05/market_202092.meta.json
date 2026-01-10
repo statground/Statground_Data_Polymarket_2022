@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "202092",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-24T18:35:05.492000Z",
+  "market_createdAt": "2021-05-24T18:35:05.492Z",
+  "market_updatedAt": "2024-04-25T00:14:15.135297Z",
+  "market_startDate": null,
+  "market_endDate": "2021-12-31T00:00:00Z",
+  "market_closedTime": "2022-01-02 21:07:58+00",
+  "conditionId": "0x1075ef98c99607fd906e23d2d6365dc54a3ab30a23d0112ae3dd19d0aa28ded0",
+  "slug": "will-gavin-newsom-be-governor-of-california-on-december-31-2021",
+  "question": "Will Gavin Newsom be Governor of California on December 31, 2021?"
+}

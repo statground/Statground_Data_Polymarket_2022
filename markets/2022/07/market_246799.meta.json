@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246799",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-22T21:03:46.267000Z",
+  "market_createdAt": "2022-07-22T21:03:46.267Z",
+  "market_updatedAt": "2023-01-31T17:22:23.8Z",
+  "market_startDate": null,
+  "market_endDate": "2022-07-23T00:00:00Z",
+  "market_closedTime": "2022-07-24 02:00:59+00",
+  "conditionId": "0xfd63e99bbfb69fbf650300a6455ca2b25cf26ad072dbb4e30bec835a1b6aec13",
+  "slug": "ufc-fight-night-london-will-6-or-more-british-fighters-win",
+  "question": "UFC Fight Night London: Will 6 or more British fighters win?"
+}

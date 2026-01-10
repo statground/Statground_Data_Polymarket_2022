@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246698",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-12T20:10:46.992000Z",
+  "market_createdAt": "2022-07-12T20:10:46.992Z",
+  "market_updatedAt": "2023-01-31T13:05:21.751Z",
+  "market_startDate": "2022-07-12T21:43:15.918Z",
+  "market_endDate": "2022-12-31T00:00:00Z",
+  "market_closedTime": "2022-09-05 18:31:24+00",
+  "conditionId": "0x7188fc2e4c605d0b8468c420e121c185305e3fb472e93a6454f5a7e9dc52b2fb",
+  "slug": "will-liz-truss-be-the-next-uk-conservative-party-leader",
+  "question": "Will Liz Truss be the next UK Conservative Party Leader?"
+}

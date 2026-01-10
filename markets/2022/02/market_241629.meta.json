@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241629",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-20T16:52:20.342000Z",
+  "market_createdAt": "2022-02-20T16:52:20.342Z",
+  "market_updatedAt": "2024-04-23T00:12:19.031222Z",
+  "market_startDate": "2022-02-20T17:20:21.892Z",
+  "market_endDate": "2022-02-20T00:00:00Z",
+  "market_closedTime": "2022-02-21 16:31:28+00",
+  "conditionId": "0xa732fd6ce9e64768af0e5353a55f24fb8557579dafb47835dcd68c18c20cee41",
+  "slug": "nhl-will-the-stars-beat-the-coyotes-by-more-than-1p5-goals-in-their-february-20-matchup-7-pm-et",
+  "question": "NHL: Will the Stars beat the Coyotes by more than 1.5 goals in their February 20 matchup (7 PM ET)?"
+}

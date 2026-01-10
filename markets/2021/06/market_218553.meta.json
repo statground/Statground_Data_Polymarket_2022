@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218553",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-17T05:45:02.858000Z",
+  "market_createdAt": "2021-06-17T05:45:02.858Z",
+  "market_updatedAt": "2024-04-22T22:33:23.220524Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-17T00:00:00Z",
+  "market_closedTime": "2021-06-18 18:06:50+00",
+  "conditionId": "0x1de046716c8e22543a84a966e97fd2e23065c3efbadb5ab97f9799a301300899",
+  "slug": "will-the-netherlands-or-austria-win-their-euro-2020-match",
+  "question": "Will the Netherlands or Austria win their Euro 2020 match?"
+}

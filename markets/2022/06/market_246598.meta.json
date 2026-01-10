@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246598",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-27T21:30:01.210000Z",
+  "market_createdAt": "2022-06-27T21:30:01.21Z",
+  "market_updatedAt": "2023-01-31T05:35:33.158Z",
+  "market_startDate": "2022-06-27T22:42:39.379Z",
+  "market_endDate": "2022-07-24T00:00:00Z",
+  "market_closedTime": "2022-07-25 05:15:40+00",
+  "conditionId": "0x5244f3967580a29593edd2cb57dc38c4658ccd524388ce2fc71528f540e02edd",
+  "slug": "will-tadej-pogaar-win-the-2022-tour-de-france",
+  "question": "Will Tadej Pogačar win the 2022 Tour de France?"
+}

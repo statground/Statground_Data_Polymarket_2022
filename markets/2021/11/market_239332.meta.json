@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239332",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-10T09:49:05.709000Z",
+  "market_createdAt": "2021-11-10T09:49:05.709Z",
+  "market_updatedAt": "2024-04-22T23:17:00.234185Z",
+  "market_startDate": "2021-11-10T17:38:34.655Z",
+  "market_endDate": "2021-11-10T00:00:00Z",
+  "market_closedTime": "2021-11-11 22:22:10+00",
+  "conditionId": "0x65c09cb95441337e034d37e570238c2d5dbf44e5d48df73ac675d407366367b5",
+  "slug": "nba-will-the-knicks-beat-the-bucks-by-more-than-2pt5-points-in-their-november-10th-matchup",
+  "question": "NBA: Will the Knicks beat the Bucks by more than 2.5 points in their November 10th matchup?"
+}

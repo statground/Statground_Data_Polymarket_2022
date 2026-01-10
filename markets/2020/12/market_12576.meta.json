@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "12576",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-12-22T19:40:47.838000Z",
+  "market_createdAt": "2020-12-22T19:40:47.838Z",
+  "market_updatedAt": "2023-01-31T10:39:59.191Z",
+  "market_startDate": null,
+  "market_endDate": "2021-09-01T00:00:00Z",
+  "market_closedTime": "2021-02-23 20:36:32+00",
+  "conditionId": "0xc4adc685a5b2016a9dca1d32d2722a79bfd69a9ec39630f59751b16dde2f67eb",
+  "slug": "will-coinbase-delist-ripple-xrp-before-they-begin-publicly-trading",
+  "question": "Will Coinbase delist Ripple (XRP) before they begin publicly trading?"
+}

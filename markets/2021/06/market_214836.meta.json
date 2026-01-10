@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "214836",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-09T20:35:01.073000Z",
+  "market_createdAt": "2021-06-09T20:35:01.073Z",
+  "market_updatedAt": "2024-04-22T23:18:54.147566Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-22T00:00:00Z",
+  "market_closedTime": "2021-07-07 19:47:08+00",
+  "conditionId": "0x7759e5a3a46074a0d9114e1a697d1850410fda1a737b82e7e506915e3351dd48",
+  "slug": "will-kathryn-garcia-win-the-democratic-primary-for-mayor-of-new-york-city-in-2021",
+  "question": "Will Kathryn Garcia win the Democratic primary for Mayor of New York City in 2021?"
+}

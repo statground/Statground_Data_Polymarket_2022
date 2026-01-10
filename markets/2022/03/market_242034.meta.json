@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242034",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-12T20:03:00.026000Z",
+  "market_createdAt": "2022-03-12T20:03:00.026Z",
+  "market_updatedAt": "2024-04-22T23:57:43.536084Z",
+  "market_startDate": "2022-03-12T21:36:04.694Z",
+  "market_endDate": "2022-03-12T00:00:00Z",
+  "market_closedTime": "2022-03-13 11:47:44+00",
+  "conditionId": "0x8288afa2a1517059547d207cfaf215f48db180833d953af6d2a45793e9737baa",
+  "slug": "nba-will-the-spurs-beat-the-pacers-by-more-than-2pt5-points-in-their-march-12-8-pm-et-matchup",
+  "question": "NBA: Will the Spurs beat the Pacers by more than 2.5 points in their March 12 (8 PM ET) matchup?"
+}

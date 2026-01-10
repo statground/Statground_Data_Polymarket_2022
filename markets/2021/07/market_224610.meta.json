@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "224610",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-19T17:35:01.305000Z",
+  "market_createdAt": "2021-07-19T17:35:01.305Z",
+  "market_updatedAt": "2024-04-23T00:12:04.087463Z",
+  "market_startDate": null,
+  "market_endDate": "2021-08-02T00:00:00Z",
+  "market_closedTime": "2021-08-03 04:36:43+00",
+  "conditionId": "0x541ffe7977270723b6b63c1ec57faf9821b0e1dee37e22b7d8e27789837cb236",
+  "slug": "will-joe-bidens-approval-rating-be-525-or-higher-on-august-1",
+  "question": "Will Joe Biden's approval rating be 52.5% or higher on August 1?"
+}

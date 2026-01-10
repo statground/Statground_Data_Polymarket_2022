@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242037",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-12T20:14:54.754000Z",
+  "market_createdAt": "2022-03-12T20:14:54.754Z",
+  "market_updatedAt": "2024-04-23T00:26:25.24495Z",
+  "market_startDate": "2022-03-12T21:37:51.847Z",
+  "market_endDate": "2022-03-12T00:00:00Z",
+  "market_closedTime": "2022-03-13 11:48:26+00",
+  "conditionId": "0x2976934418d9dddadb4fac0dc4be97b0d73d29e54982665e5c89bd312fb9ba6a",
+  "slug": "nhl-will-the-devils-beat-the-ducks-by-more-than-1pt5-goals-in-their-march-12-matchup-7-pm-et",
+  "question": "NHL: Will the Devils beat the Ducks by more than 1.5 goals in their March 12 matchup (7 PM ET)?"
+}

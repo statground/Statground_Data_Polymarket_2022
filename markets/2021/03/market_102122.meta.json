@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "102122",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-03-09T18:40:02.050000Z",
+  "market_createdAt": "2021-03-09T18:40:02.05Z",
+  "market_updatedAt": "2024-04-23T00:58:26.187199Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-15T00:00:00Z",
+  "market_closedTime": "2021-04-16 14:42:57+00",
+  "conditionId": "0x001b6faa35c7d18d7eabea1a599812f7f0e132ea624e793b3921320e5bea9f5b",
+  "slug": "will-texas-florida-or-california-have-the-highest-7-day-daily-average-of-covid-19-cases-on-april-15-2021",
+  "question": "Will Texas, Florida, or California have the highest 7-day daily average of COVID-19 cases on April 15, 2021?"
+}

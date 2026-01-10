@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "200259",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-17T19:10:03.985000Z",
+  "market_createdAt": "2021-05-17T19:10:03.985Z",
+  "market_updatedAt": "2024-04-23T00:53:36.192978Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-13T00:00:00Z",
+  "market_closedTime": "2021-06-11 22:07:17+00",
+  "conditionId": "0x35722b82b68f8bea08737b2bd17c71d5c1fafbfc05966beb906b8622592e08f8",
+  "slug": "will-rafael-nadal-win-the-roland-garros-french-open",
+  "question": "Will Rafael Nadal win the Roland-Garros (French Open)?"
+}

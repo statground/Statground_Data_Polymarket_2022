@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238706",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-03T20:52:01.264000Z",
+  "market_createdAt": "2021-09-03T20:52:01.264Z",
+  "market_updatedAt": "2024-04-22T23:22:06.433657Z",
+  "market_startDate": "2021-09-03T21:08:11.651Z",
+  "market_endDate": "2021-09-04T00:00:00Z",
+  "market_closedTime": "2021-09-06 19:15:13+00",
+  "conditionId": "0x796bb9977211885769962fd8c348e46b5b5529a419df27fd9eb81503a837b4a6",
+  "slug": "gambit-10-rounds-v-entropiq-september-4-match",
+  "question": "Gambit (-10 rounds) v. Entropiq | September 4"
+}

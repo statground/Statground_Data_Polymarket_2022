@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "202072",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-23T21:45:03.996000Z",
+  "market_createdAt": "2021-05-23T21:45:03.996Z",
+  "market_updatedAt": "2024-04-23T00:14:37.086101Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-31T00:00:00Z",
+  "market_closedTime": "2021-06-01 16:24:16+00",
+  "conditionId": "0x4729ee3691a97046e77756ac0f0314d233b82149010e1e55f08a3ae0c516a7a0",
+  "slug": "will-the-bongcloud-be-played-during-the-ftx-crypto-cup",
+  "question": "Will the Bongcloud be played during the FTX Crypto Cup?"
+}

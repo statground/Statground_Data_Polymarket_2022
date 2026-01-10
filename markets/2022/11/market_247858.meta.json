@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247858",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-14T19:21:39.991000Z",
+  "market_createdAt": "2022-11-14T19:21:39.991Z",
+  "market_updatedAt": "2023-01-31T20:31:17.159Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-31T00:00:00Z",
+  "market_closedTime": "2023-01-02 22:02:03+00",
+  "conditionId": "0x5b43881378f983f014bfdfa5ed49dd337edad2212ff092cd18a45f8fb4cc60e9",
+  "slug": "will-nexo-become-insolvent-by-eoy",
+  "question": "Will Nexo become insolvent by EOY?"
+}

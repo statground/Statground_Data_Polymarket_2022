@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239159",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-30T13:43:17.340000Z",
+  "market_createdAt": "2021-10-30T13:43:17.34Z",
+  "market_updatedAt": "2024-04-23T00:49:23.808528Z",
+  "market_startDate": "2021-10-30T19:15:22.306Z",
+  "market_endDate": "2021-10-30T00:00:00Z",
+  "market_closedTime": "2021-10-31 16:37:57+00",
+  "conditionId": "0x0ebc2f2ce50a3cfd063729c2f3a0ee73887e99f003a1ade3c8eba8edab9020b8",
+  "slug": "will-the-suns-beat-the-cavaliers-by-more-than-3pt5-points-in-their-october-30th-matchup",
+  "question": "Will the Suns beat the Cavaliers by more than 3.5 points in their October 30th matchup?"
+}

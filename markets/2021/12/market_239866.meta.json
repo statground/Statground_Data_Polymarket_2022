@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239866",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-06T18:49:14.906000Z",
+  "market_createdAt": "2021-12-06T18:49:14.906Z",
+  "market_updatedAt": "2024-04-26T02:48:12.996404Z",
+  "market_startDate": "2021-12-06T20:06:10.456Z",
+  "market_endDate": "2022-01-01T00:00:00Z",
+  "market_closedTime": "2021-12-26 14:35:01+00",
+  "conditionId": "0xb1adca40efa3649bbb4c3d92968829f7f266d78e32965e4f927ed9084649c5e5",
+  "slug": "will-uniswap-be-live-on-polygon-before-2022",
+  "question": "Will Uniswap be live on Polygon before 2022?"
+}

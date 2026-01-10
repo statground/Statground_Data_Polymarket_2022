@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240847",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-19T11:25:29.690000Z",
+  "market_createdAt": "2022-01-19T11:25:29.69Z",
+  "market_updatedAt": "2024-04-22T22:39:35.140822Z",
+  "market_startDate": "2022-01-19T19:59:06.199Z",
+  "market_endDate": "2022-01-19T00:00:00Z",
+  "market_closedTime": "2022-01-21 13:22:33+00",
+  "conditionId": "0x368e45ca7bcd99be53801c8c545d8a937c19d594e8cb549d6cd685f1da7b189f",
+  "slug": "nba-will-the-cavaliers-beat-the-bulls-by-more-than-1p5-points-in-their-january-19-matchup",
+  "question": "NBA: Will the Cavaliers beat the Bulls by more than 1.5 points in their January 19 matchup?"
+}

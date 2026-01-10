@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "200885",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-18T20:50:02.417000Z",
+  "market_createdAt": "2021-05-18T20:50:02.417Z",
+  "market_updatedAt": "2024-04-22T23:16:31.993227Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-24T00:00:00Z",
+  "market_closedTime": "2021-05-24 22:18:46+00",
+  "conditionId": "0x4d7a592c8ca9f0dd49ef91478c4af27894b8554959704010f8aac903664d9055",
+  "slug": "will-scott-dixon-score-the-pole-position-for-the-indy-500",
+  "question": "Will Scott Dixon score the pole position for the Indy 500?"
+}

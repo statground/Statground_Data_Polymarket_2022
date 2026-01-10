@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "226959",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-29T17:25:01.268000Z",
+  "market_createdAt": "2021-07-29T17:25:01.268Z",
+  "market_updatedAt": "2024-04-23T00:56:32.205856Z",
+  "market_startDate": "2021-07-29T17:43:29.102Z",
+  "market_endDate": "2021-10-05T00:00:00Z",
+  "market_closedTime": "2021-10-06 01:08:25+00",
+  "conditionId": "0x642aa767ed0fb54f0432d9eb18ee745c4d52f6671ca9d36b51a6e38d5c8553e2",
+  "slug": "will-the-us-have-more-than-200000-new-daily-covid-19-cases-on-or-before-october-1-2021",
+  "question": "Will the US have more than 200,000 new daily COVID-19 cases on or before October 1, 2021? "
+}

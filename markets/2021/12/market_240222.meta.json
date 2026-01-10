@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240222",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-28T12:42:55.702000Z",
+  "market_createdAt": "2021-12-28T12:42:55.702Z",
+  "market_updatedAt": "2023-01-31T08:20:53.639Z",
+  "market_startDate": "2021-12-28T18:09:40.618Z",
+  "market_endDate": "2022-01-11T00:00:00Z",
+  "market_closedTime": "2022-01-12 18:53:10+00",
+  "conditionId": "0x25d913c3ff3bc08e99de14494e4f5ececc2805df55ef7a5c672a8bff4f87c716",
+  "slug": "will-bitcoin-btc-price-be-closer-to-42069-or-69420-at-noon-on-january-11",
+  "question": "Will Bitcoin (BTC) price be closer to $42,069 or $69,420 at noon on January 11?"
+}

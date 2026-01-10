@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243185",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-12T16:58:21.561000Z",
+  "market_createdAt": "2022-04-12T16:58:21.561Z",
+  "market_updatedAt": "2023-01-31T11:08:30.733Z",
+  "market_startDate": "2022-04-12T17:08:30.601Z",
+  "market_endDate": "2022-04-18T00:00:00Z",
+  "market_closedTime": "2022-04-19 07:16:58+00",
+  "conditionId": "0x1b00fbd53303ef0c1c57b1df9f90996803002d2c45491b796b5dbc60a8daf112",
+  "slug": "will-fantastic-beasts-the-secrets-of-dumbledore-gross-53-million-or-more-on-opening-weekend-in-the-united-states",
+  "question": "Will 'Fantastic Beasts: The Secrets of Dumbledore' gross $53 million or more on opening weekend in the United States?"
+}

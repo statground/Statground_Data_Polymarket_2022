@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242383",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-22T09:07:38.027000Z",
+  "market_createdAt": "2022-03-22T09:07:38.027Z",
+  "market_updatedAt": "2024-04-23T00:35:33.795481Z",
+  "market_startDate": "2022-03-22T16:25:48.966Z",
+  "market_endDate": "2022-03-22T00:00:00Z",
+  "market_closedTime": "2022-03-23 07:30:32+00",
+  "conditionId": "0x28dd7f5e18c4bd4a84a36f2c4411523ddb4ae31d07ec3a0edb7676ec3010e3ae",
+  "slug": "nba-who-will-win-warriors-vs-magic-scheduled-for-march-22-710-pm-et",
+  "question": "NBA: Who will win Warriors vs. Magic, scheduled for March 22, 7:10 PM ET?"
+}

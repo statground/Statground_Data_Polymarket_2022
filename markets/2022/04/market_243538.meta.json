@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243538",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-21T08:17:34.901000Z",
+  "market_createdAt": "2022-04-21T08:17:34.901Z",
+  "market_updatedAt": "2023-01-31T17:22:23.742Z",
+  "market_startDate": "2022-04-21T14:13:46.844Z",
+  "market_endDate": "2022-04-21T00:00:00Z",
+  "market_closedTime": "2022-04-22 07:15:37+00",
+  "conditionId": "0xd055a8929ebfc955ba9eff3a5abae81159f406b292ac123f5a25ac108a09d521",
+  "slug": "mlb-who-will-win-miami-marlins-vs-st-louis-cardinals-scheduled-for-april-21-641-pm-et",
+  "question": "MLB: Who will win Miami Marlins vs. St. Louis Cardinals, scheduled for April 21, 6:41 PM ET?"
+}

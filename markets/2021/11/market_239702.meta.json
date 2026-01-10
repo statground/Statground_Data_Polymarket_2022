@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239702",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-30T14:47:53.056000Z",
+  "market_createdAt": "2021-11-30T14:47:53.056Z",
+  "market_updatedAt": "2024-04-24T23:37:10.717364Z",
+  "market_startDate": "2021-12-01T17:42:29.132Z",
+  "market_endDate": "2021-12-25T00:00:00Z",
+  "market_closedTime": "2021-12-26 01:23:07+00",
+  "conditionId": "0xe304d365638703d9db63143d1bc11ecf45930a1d498edf94b6293b64a69d690f",
+  "slug": "will-poland-or-the-united-kingdom-report-a-higher-7-day-covid-19-case-average-per-capita-on-christmas-eve",
+  "question": "Will Poland or the United Kingdom report a higher 7-day COVID-19 case average per capita on Christmas Eve?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243590",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-22T16:58:10.652000Z",
+  "market_createdAt": "2022-04-22T16:58:10.652Z",
+  "market_updatedAt": "2024-04-23T00:52:20.423072Z",
+  "market_startDate": "2022-04-22T17:07:21.603Z",
+  "market_endDate": "2022-04-23T00:00:00Z",
+  "market_closedTime": "2022-04-24 07:18:05+00",
+  "conditionId": "0x9681e685d2c508882879f1a5303db8de04d821553e7b41ddd17eabe1daa2c5ae",
+  "slug": "will-tyson-fury-kotkortd-dillian-whyte",
+  "question": "Will Tyson Fury KO/TKO/RTD Dillian Whyte?"
+}

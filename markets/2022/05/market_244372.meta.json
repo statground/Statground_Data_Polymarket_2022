@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244372",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-06T20:37:54.011000Z",
+  "market_createdAt": "2022-05-06T20:37:54.011Z",
+  "market_updatedAt": "2023-01-31T19:08:50.752Z",
+  "market_startDate": "2022-05-07T01:43:49.092Z",
+  "market_endDate": "2022-07-14T00:00:00Z",
+  "market_closedTime": "2022-07-05 19:01:13+00",
+  "conditionId": "0xac3658994e23d2669b466af16dffe9bdd75a2b652480951e117cc7a6516f05b4",
+  "slug": "will-james-maynard-win-the-2022-fields-medal",
+  "question": "Will James Maynard win the 2022 Fields Medal?"
+}

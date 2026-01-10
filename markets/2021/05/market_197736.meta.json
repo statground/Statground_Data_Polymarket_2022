@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "197736",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-14T21:00:02.741000Z",
+  "market_createdAt": "2021-05-14T21:00:02.741Z",
+  "market_updatedAt": "2024-04-23T00:37:08.61941Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-14T00:00:00Z",
+  "market_closedTime": "2021-05-15 19:10:10+00",
+  "conditionId": "0xfd3e125f9c3a7e947851b59bd32678392367d65846b0d509afa4c3a924c51e88",
+  "slug": "will-henry-moore-s-girl-bust-sell-for-more-than-1-million-at-christie-s",
+  "question": "Will Henry Moore's “Girl: Bust” sell for more than $1 million at Christie’s?"
+}

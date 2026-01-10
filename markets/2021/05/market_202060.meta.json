@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "202060",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-21T19:15:03.584000Z",
+  "market_createdAt": "2021-05-21T19:15:03.584Z",
+  "market_updatedAt": "2024-04-22T23:56:17.541544Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-06T00:00:00Z",
+  "market_closedTime": "2021-06-03 15:28:37+00",
+  "conditionId": "0xebfac346206fe5367734b19451f88403d14e3995279b89ffd6d3d7dfcf92e14b",
+  "slug": "will-the-76ers-or-the-wizards-win-their-round-1-nba-playoff-series",
+  "question": "Will the 76ers or the Wizards win their Round 1 NBA Playoff Series?"
+}

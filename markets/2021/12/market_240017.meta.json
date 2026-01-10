@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240017",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-13T10:24:45.926000Z",
+  "market_createdAt": "2021-12-13T10:24:45.926Z",
+  "market_updatedAt": "2024-04-22T23:29:01.457148Z",
+  "market_startDate": "2021-12-13T19:14:15.629Z",
+  "market_endDate": "2021-12-13T00:00:00Z",
+  "market_closedTime": "2021-12-14 15:33:27+00",
+  "conditionId": "0xb6e7ca9a26f98923e4212b12f1511331f41cd64c75c9e477a652145d70545b57",
+  "slug": "nfl-will-the-cardinals-beat-the-rams-by-more-than-2pt5-points-in-their-december-13-matchup",
+  "question": "NFL: Will the Cardinals beat the Rams by more than 2.5 points in their December 13 matchup?"
+}

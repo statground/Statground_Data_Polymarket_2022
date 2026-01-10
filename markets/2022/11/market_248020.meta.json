@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248020",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T20:14:59.038000Z",
+  "market_createdAt": "2022-11-18T20:14:59.038Z",
+  "market_updatedAt": "2023-01-31T21:06:36.488Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-06T00:00:00Z",
+  "market_closedTime": "2022-11-30 01:32:24+00",
+  "conditionId": "0xf9bd77d7e2424183b01c03d09e18d6c14afea87d8c3c8fa0749d4942ae2ecd08",
+  "slug": "will-iran-qualify-from-group-b",
+  "question": "Will Iran qualify from Group B?"
+}

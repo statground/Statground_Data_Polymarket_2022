@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241252",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-02T12:18:47.705000Z",
+  "market_createdAt": "2022-02-02T12:18:47.705Z",
+  "market_updatedAt": "2024-04-23T00:50:48.999036Z",
+  "market_startDate": "2022-02-02T17:39:53.442Z",
+  "market_endDate": "2022-02-02T00:00:00Z",
+  "market_closedTime": "2022-02-04 21:10:10+00",
+  "conditionId": "0xb7cac6794c93c0504e401b090ff8a618d3b5f20e9ce0c1a51bf6a13be9df5123",
+  "slug": "nhl-will-the-kings-beat-the-red-wings-by-more-than-1p5-goals-in-their-february-2-matchup-730-pm-et",
+  "question": "NHL: Will the Kings beat the Red Wings by more than 1.5 goals in their February 2 matchup (7.30 PM ET)?"
+}

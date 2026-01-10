@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239665",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-29T10:21:13.102000Z",
+  "market_createdAt": "2021-11-29T10:21:13.102Z",
+  "market_updatedAt": "2024-04-23T00:14:03.767088Z",
+  "market_startDate": "2021-11-29T17:27:33.862Z",
+  "market_endDate": "2021-11-29T00:00:00Z",
+  "market_closedTime": "2021-11-30 13:55:24+00",
+  "conditionId": "0x372704cae59034a28f8715b6110ceffb18c71c984e3bd3cc2e980ead9fe7c5f6",
+  "slug": "nba-will-the-bulls-beat-the-hornets-by-more-than-5pt5-points-in-their-november-29th-matchup",
+  "question": "NBA: Will the Bulls beat the Hornets by more than 5.5 points in their November 29th matchup?"
+}

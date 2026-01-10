@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "196488",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-13T21:45:02.586000Z",
+  "market_createdAt": "2021-05-13T21:45:02.586Z",
+  "market_updatedAt": "2024-04-23T00:58:42.122311Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-13T00:00:00Z",
+  "market_closedTime": "2021-05-14 16:28:02+00",
+  "conditionId": "0x36604fc3dfa3b0b67dc06396e040ec2be2b1e1fc46746f355ae7fd8774248997",
+  "slug": "will-pablo-picassos-femme-assise-prs-dune-fentre-marie-thrse-sell-for-more-than-55-million-at-christies",
+  "question": "Will Pablo Picasso’s “Femme assise près d'une fenêtre (Marie-Thérèse)” sell for more than $55 million at Christie’s?"
+}

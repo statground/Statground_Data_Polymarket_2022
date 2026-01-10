@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240192",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-27T10:51:28.850000Z",
+  "market_createdAt": "2021-12-27T10:51:28.85Z",
+  "market_updatedAt": "2024-04-22T23:42:48.6222Z",
+  "market_startDate": "2021-12-27T19:08:26.419Z",
+  "market_endDate": "2021-12-27T00:00:00Z",
+  "market_closedTime": "2021-12-28 19:50:33+00",
+  "conditionId": "0xbff40217c0d875818bc01be869a869b5981270217d6b40bba8c68fcb45203a85",
+  "slug": "nba-will-the-mavericks-beat-the-trail-blazers-by-more-than-1pt5-points-in-their-december-27-matchup",
+  "question": "NBA: Will the Mavericks beat the Trail Blazers by more than 1.5 points in their December 27 matchup?"
+}

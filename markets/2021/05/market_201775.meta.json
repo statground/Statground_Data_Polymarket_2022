@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "201775",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-20T20:35:01.738000Z",
+  "market_createdAt": "2021-05-20T20:35:01.738Z",
+  "market_updatedAt": "2024-04-24T23:44:07.142581Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-25T00:00:00Z",
+  "market_closedTime": "2021-07-07 22:18:38+00",
+  "conditionId": "0x2a2245d9db4616bd30240e64b424e2184d7fb9ee222d72d92313e5fb962ef0fb",
+  "slug": "will-the-ever-given-exit-the-great-bitter-lake-in-the-suez-canal-by-july-25",
+  "question": "Will the Ever Given exit the Great Bitter Lake in the Suez Canal by July 25?"
+}

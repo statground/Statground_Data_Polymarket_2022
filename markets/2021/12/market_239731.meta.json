@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239731",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-01T13:01:38.538000Z",
+  "market_createdAt": "2021-12-01T13:01:38.538Z",
+  "market_updatedAt": "2024-04-22T23:59:22.09607Z",
+  "market_startDate": "2021-12-01T19:34:35.652Z",
+  "market_endDate": "2021-12-01T00:00:00Z",
+  "market_closedTime": "2021-12-02 07:05:39+00",
+  "conditionId": "0xed2708533e42db0f9d8e404334e0e8bb2904c6a43215ea452728ab5693d52bbd",
+  "slug": "nba-will-the-wizards-beat-the-timberwolves-by-more-than-3pt5-points-in-their-december-1-matchup",
+  "question": "NBA: Will the Wizards beat the Timberwolves by more than 3.5 points in their December 1 matchup?"
+}

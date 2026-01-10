@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241478",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-14T10:03:45.611000Z",
+  "market_createdAt": "2022-02-14T10:03:45.611Z",
+  "market_updatedAt": "2024-04-22T22:43:14.813397Z",
+  "market_startDate": "2022-02-14T14:50:10.605Z",
+  "market_endDate": "2022-02-14T00:00:00Z",
+  "market_closedTime": "2022-02-15 18:09:14+00",
+  "conditionId": "0x3a69e220a05be9a89939c3ba70fb8a8a87e771873b6ba3bc674c83ad2191a8ed",
+  "slug": "nba-will-the-bulls-beat-the-spurs-by-more-than-5p5-points-in-their-february-14-8-pm-et-matchup",
+  "question": "NBA: Will the Bulls beat the Spurs by more than 5.5 points in their February 14 (8 PM ET) matchup?"
+}

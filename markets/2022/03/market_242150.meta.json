@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242150",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-17T12:48:13.617000Z",
+  "market_createdAt": "2022-03-17T12:48:13.617Z",
+  "market_updatedAt": "2024-04-22T23:24:36.66818Z",
+  "market_startDate": "2022-03-17T17:44:32.191Z",
+  "market_endDate": "2022-03-17T00:00:00Z",
+  "market_closedTime": "2022-03-18 10:45:25+00",
+  "conditionId": "0x8cff798ff0b5056daed7305e555e5d707df82859658ffc6d5949479e121494f7",
+  "slug": "nba-who-will-win-magic-vspt-pistons-scheduled-for-march-17-710-pm-et",
+  "question": "NBA: Who will win Magic vs. Pistons, scheduled for March 17, 7:10 PM ET?"
+}

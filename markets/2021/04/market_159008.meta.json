@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "159008",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-27T22:50:03.227000Z",
+  "market_createdAt": "2021-04-27T22:50:03.227Z",
+  "market_updatedAt": "2024-04-24T23:27:42.189406Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-29T00:00:00Z",
+  "market_closedTime": "2021-04-30 06:12:53+00",
+  "conditionId": "0xc874371d9af987c471c52df58196bf2cdf0082d6c8e20a37c17ff1ca3890e80d",
+  "slug": "will-any-of-the-first-10-picks-in-the-nfl-draft-be-traded-during-the-draft",
+  "question": "Will any of the first 10 picks in the NFL draft be traded during the draft?"
+}

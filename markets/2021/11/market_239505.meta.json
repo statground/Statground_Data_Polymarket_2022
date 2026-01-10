@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239505",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-19T14:19:05.921000Z",
+  "market_createdAt": "2021-11-19T14:19:05.921Z",
+  "market_updatedAt": "2024-04-24T23:58:35.779183Z",
+  "market_startDate": "2021-11-19T19:41:50.89Z",
+  "market_endDate": "2021-11-21T00:00:00Z",
+  "market_closedTime": "2021-11-22 18:53:57+00",
+  "conditionId": "0x8b8ec9e3318a26199327848b9af3f7667dd9c665b75826ff35db6ba6dbd79ed1",
+  "slug": "f1-will-there-be-a-mclaren-or-a-ferrari-car-in-the-top-3-of-the-qatar-grand-prix",
+  "question": "F1: Will there be a McLaren or a Ferrari car in the top 3 of the Qatar Grand Prix?"
+}

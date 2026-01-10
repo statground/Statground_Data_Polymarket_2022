@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241927",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-06T16:05:24.335000Z",
+  "market_createdAt": "2022-03-06T16:05:24.335Z",
+  "market_updatedAt": "2024-04-22T22:24:44.192909Z",
+  "market_startDate": "2022-03-06T17:01:37.377Z",
+  "market_endDate": "2022-03-06T00:00:00Z",
+  "market_closedTime": "2022-03-07 12:20:54+00",
+  "conditionId": "0x78544d2fcbfc207e5c4647ae623438f39452cf8cc2bd864e26e99cb0dbfd7339",
+  "slug": "nba-who-will-win-the-cavaliers-vspt-raptors-scheduled-for-march-6-7pt30-pm-et",
+  "question": "NBA: Who will win the Cavaliers vs. Raptors, scheduled for March 6 (7.30 PM ET)?"
+}

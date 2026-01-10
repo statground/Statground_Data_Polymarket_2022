@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "92505",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-19T21:50:01.941000Z",
+  "market_createdAt": "2021-02-19T21:50:01.941Z",
+  "market_updatedAt": "2024-04-24T23:52:37.644228Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-20T00:00:00Z",
+  "market_closedTime": "2021-02-22 15:47:22+00",
+  "conditionId": "0x43d679d7ef5626a48a13777792c0b6ce7b0a4575425f4fa6b8adc594959ff146",
+  "slug": "will-the-heat-or-the-lakers-win-their-february-20th-matchup",
+  "question": "Will the Heat or the Lakers win their February 20th matchup?"
+}

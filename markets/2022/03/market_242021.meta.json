@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242021",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-11T17:23:09.253000Z",
+  "market_createdAt": "2022-03-11T17:23:09.253Z",
+  "market_updatedAt": "2024-04-24T23:29:59.451487Z",
+  "market_startDate": "2022-03-11T23:02:16.677Z",
+  "market_endDate": "2022-03-22T00:00:00Z",
+  "market_closedTime": "2022-03-23 06:30:40+00",
+  "conditionId": "0xfe7d2ef5f8fbcf7e1ae2c8a9e50ffa81c9759f192dada0741760a53bb518f67d",
+  "slug": "will-vikings-valhalla-season-1-be-the-1-netflix-show-worldwide-on-the-week-ending-march-20",
+  "question": "Will 'Vikings: Valhalla: Season 1' be the #1 Netflix show worldwide on the week ending March 20?"
+}

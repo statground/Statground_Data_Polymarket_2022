@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238989",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-13T22:28:47.185000Z",
+  "market_createdAt": "2021-10-13T22:28:47.185Z",
+  "market_updatedAt": "2024-04-23T00:36:26.291669Z",
+  "market_startDate": "2021-10-14T16:35:03.547Z",
+  "market_endDate": "2021-10-19T00:00:00Z",
+  "market_closedTime": "2021-10-20 09:30:05+00",
+  "conditionId": "0x06c5208fb320a6c67b2a2fc79582553a74f4e4304dac9eab116d71d6bcb75420",
+  "slug": "will-the-warriors-or-lakers-win-their-season-opener",
+  "question": "Will the Warriors or Lakers win their season opener?"
+}

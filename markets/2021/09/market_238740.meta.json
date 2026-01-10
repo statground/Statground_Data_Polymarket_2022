@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238740",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-13T17:16:01.539000Z",
+  "market_createdAt": "2021-09-13T17:16:01.539Z",
+  "market_updatedAt": "2024-04-22T23:22:27.00577Z",
+  "market_startDate": "2021-09-13T20:13:08.542Z",
+  "market_endDate": "2021-09-14T00:00:00Z",
+  "market_closedTime": "2021-09-14 21:28:55+00",
+  "conditionId": "0x72598d65208b11f33a619cb1aab687f68a82be0314bcee5f0f0600e97f648b82",
+  "slug": "will-barcelona-or-bayern-munich-win-their-champions-league-match-on-september-14-2021",
+  "question": "Will Barcelona or Bayern Munich win their Champions League match on September 14?"
+}

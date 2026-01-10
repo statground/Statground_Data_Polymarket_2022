@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "101490",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-03-07T19:30:01.720000Z",
+  "market_createdAt": "2021-03-07T19:30:01.72Z",
+  "market_updatedAt": "2023-01-31T11:51:56.058Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-30T00:00:00Z",
+  "market_closedTime": "2021-05-03 13:54:03+00",
+  "conditionId": "0x5d67e69145b7ed2575b058e2971337517f5f10cb457b6b6d7e3a48c87d53c85c",
+  "slug": "will-uniswap-v3-launch-before-april-30-2021",
+  "question": "Will Uniswap v3 launch before April 30, 2021?"
+}

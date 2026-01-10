@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238959",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-07T15:29:05.239000Z",
+  "market_createdAt": "2021-10-07T15:29:05.239Z",
+  "market_updatedAt": "2024-04-26T02:48:55.631001Z",
+  "market_startDate": "2021-10-07T17:09:49.574Z",
+  "market_endDate": "2021-10-10T00:00:00Z",
+  "market_closedTime": "2021-10-10 20:34:09+00",
+  "conditionId": "0x125820477cc3011eba0c15bb72d0ab5e664e4df70bbd96369fc952ae4d2508e2",
+  "slug": "will-the-buccaneers-beat-the-dolphins-by-more-than-10pt5-points-in-their-week-five-matchup",
+  "question": "(In-Game Trading) Will the Buccaneers beat the Dolphins by more than 10.5 points in their week five matchup?"
+}

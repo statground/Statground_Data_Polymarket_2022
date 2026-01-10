@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239894",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-07T18:20:12.858000Z",
+  "market_createdAt": "2021-12-07T18:20:12.858Z",
+  "market_updatedAt": "2024-04-26T03:11:57.52788Z",
+  "market_startDate": "2021-12-09T18:43:49.01Z",
+  "market_endDate": "2021-12-13T00:00:00Z",
+  "market_closedTime": "2021-12-14 15:41:29+00",
+  "conditionId": "0xc771c39d3258dd41e020ef40c31218b37b3cc3c000fee1a39d637774f5d3f138",
+  "slug": "will-a-single-person-become-times-2021-person-of-the-year",
+  "question": "Will a single person become Time's 2021 Person of the Year?"
+}

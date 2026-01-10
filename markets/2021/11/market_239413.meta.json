@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239413",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-13T12:37:27.106000Z",
+  "market_createdAt": "2021-11-13T12:37:27.106Z",
+  "market_updatedAt": "2024-04-26T02:51:32.043487Z",
+  "market_startDate": "2021-11-13T19:49:25.037Z",
+  "market_endDate": "2021-11-13T00:00:00Z",
+  "market_closedTime": "2021-11-14 19:49:17+00",
+  "conditionId": "0x09c88c2fa105312ab629d60e09a3b3d20b338e88419acd60928308b3f2dd2b1e",
+  "slug": "nba-will-the-grizzlies-beat-the-pelicans-by-more-than-2pt5-points-in-their-november-13th-matchup",
+  "question": "NBA: Will the Grizzlies beat the Pelicans by more than 2.5 points in their November 13th matchup?"
+}

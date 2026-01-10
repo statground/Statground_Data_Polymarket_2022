@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242631",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-30T09:02:56.465000Z",
+  "market_createdAt": "2022-03-30T09:02:56.465Z",
+  "market_updatedAt": "2024-04-23T00:56:18.981852Z",
+  "market_startDate": "2022-03-30T17:11:14.999Z",
+  "market_endDate": "2022-03-30T00:00:00Z",
+  "market_closedTime": "2022-03-31 08:30:28+00",
+  "conditionId": "0x6eb0bd8205ab7ddf07c6803a43fb3d54055d9887c56b8ed66237e46c170d42ae",
+  "slug": "nhl-will-the-jets-beat-the-sabres-by-more-than-1pt5-goals-in-their-march-30-700-pm-et-matchup",
+  "question": "NHL: Will the Jets beat the Sabres by more than 1.5 goals in their March 30, 7:00 PM ET matchup?"
+}

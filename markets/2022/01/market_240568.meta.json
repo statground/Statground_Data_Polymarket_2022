@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240568",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T19:14:28.476000Z",
+  "market_createdAt": "2022-01-11T19:14:28.476Z",
+  "market_updatedAt": "2024-04-26T03:11:49.139282Z",
+  "market_startDate": "2022-01-12T21:18:29.673Z",
+  "market_endDate": "2022-05-01T00:00:00Z",
+  "market_closedTime": "2022-05-03 04:00:32+00",
+  "conditionId": "0xbca629c2786735baedb7d9525e52a124baeced10627edc02df094c505a3d33cd",
+  "slug": "will-optimism-have-a-token-by-may-1st-2022",
+  "question": "Will Optimism have a token by May 1st, 2022?"
+}

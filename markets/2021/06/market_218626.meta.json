@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218626",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-22T21:40:01.177000Z",
+  "market_createdAt": "2021-06-22T21:40:01.177Z",
+  "market_updatedAt": "2024-04-23T00:40:29.63016Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-23T00:00:00Z",
+  "market_closedTime": "2021-06-24 17:54:18+00",
+  "conditionId": "0xfaa4e09c85cbb0fa6c19de7577f0e348850435d34ac2b57beedc0bc935e60ba1",
+  "slug": "will-gerhard-richters-abstraktes-bild-sell-for-more-than-55m-at-phillips",
+  "question": "Will Gerhard Richter’s “Abstraktes Bild” sell for more than $5.5M at Phillips?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240730",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-14T01:16:08.071000Z",
+  "market_createdAt": "2022-01-14T01:16:08.071Z",
+  "market_updatedAt": "2024-04-24T23:43:59.565376Z",
+  "market_startDate": null,
+  "market_endDate": "2022-01-16T00:00:00Z",
+  "market_closedTime": "2022-01-19 05:18:17+00",
+  "conditionId": "0x433acde5feb1af155a9b84c1c62ed6eeaa1d8b06ff82e80f9bfc661ef2ac74db",
+  "slug": "nfl-will-the-chiefs-beat-the-steelers-by-more-than-11pt5-points-in-their-january-16-matchup",
+  "question": "NFL: Will the Chiefs beat the Steelers by more than 11.5 points in their January 16 matchup?"
+}

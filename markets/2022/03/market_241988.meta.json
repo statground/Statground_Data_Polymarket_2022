@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241988",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-09T09:08:53.282000Z",
+  "market_createdAt": "2022-03-09T09:08:53.282Z",
+  "market_updatedAt": "2024-04-24T23:44:59.807788Z",
+  "market_startDate": "2022-03-09T17:12:40.31Z",
+  "market_endDate": "2022-03-09T00:00:00Z",
+  "market_closedTime": "2022-03-10 11:46:44+00",
+  "conditionId": "0xb0012e84537bd1d9f01ec34cee07ea44dc27910d901d363d7b9a4c9f2294071d",
+  "slug": "nba-will-the-bulls-beat-the-pistons-by-more-than-6pt5-points-in-their-march-9-7-pm-et-matchup",
+  "question": "NBA: Will the Bulls beat the Pistons by more than 6.5 points in their March 9 (7 PM ET) matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242609",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-29T14:30:36.468000Z",
+  "market_createdAt": "2022-03-29T14:30:36.468Z",
+  "market_updatedAt": "2024-04-23T00:09:31.721276Z",
+  "market_startDate": "2022-03-29T15:50:38.994Z",
+  "market_endDate": "2022-03-29T00:00:00Z",
+  "market_closedTime": "2022-03-30 07:30:45+00",
+  "conditionId": "0x4776c7de620b968f29d42d4602528eb4b27699204a57308c0dbb10e321bd2d9c",
+  "slug": "nba-who-will-win-jazz-vs-clippers-scheduled-for-march-29-10-pm-et",
+  "question": "NBA: Who will win Jazz vs. Clippers, scheduled for March 29 (10 PM ET)?"
+}

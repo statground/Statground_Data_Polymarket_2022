@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241089",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-27T00:30:28.599000Z",
+  "market_createdAt": "2022-01-27T00:30:28.599Z",
+  "market_updatedAt": "2024-04-22T23:57:15.374153Z",
+  "market_startDate": "2022-01-27T17:56:01.812Z",
+  "market_endDate": "2022-03-31T00:00:00Z",
+  "market_closedTime": "2022-04-02 07:18:10+00",
+  "conditionId": "0x84ff8dc94a760e6e1de0e78d6d2f003c2d016a25eae9dbce15c15d37bb4eff2a",
+  "slug": "will-opyn-squeeth-suffer-an-exploit-by-march-31st-2022",
+  "question": "Will Opyn (Squeeth) suffer an exploit by March 31st, 2022?"
+}

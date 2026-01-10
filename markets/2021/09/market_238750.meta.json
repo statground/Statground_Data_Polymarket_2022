@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238750",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-14T16:36:01.516000Z",
+  "market_createdAt": "2021-09-14T16:36:01.516Z",
+  "market_updatedAt": "2024-04-22T23:33:48.563153Z",
+  "market_startDate": null,
+  "market_endDate": "2021-10-13T00:00:00Z",
+  "market_closedTime": "2021-10-13 18:48:56+00",
+  "conditionId": "0xc74f81f25a74d8fbf45dee25cb6c3f44849e3de5f5e822f60d8dbe8383c69d78",
+  "slug": "will-inflation-be-04-or-more-from-august-to-september",
+  "question": "Will inflation be 0.4% or more from August to September?"
+}

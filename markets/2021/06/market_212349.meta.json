@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "212349",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-07T16:50:02.347000Z",
+  "market_createdAt": "2021-06-07T16:50:02.347Z",
+  "market_updatedAt": "2024-04-23T00:33:28.793241Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-13T00:00:00Z",
+  "market_closedTime": "2021-06-14 15:33:34+00",
+  "conditionId": "0x6993006b06c1e4eb03bcdb9269e52ac3e25fb945660d205d35dfab0bd0059b95",
+  "slug": "who-will-win-nets-v-bucks-conference-semifinal-game-4",
+  "question": "Who will win Nets v. Bucks: Conference Semifinal Game 4?"
+}

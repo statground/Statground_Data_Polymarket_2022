@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242056",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-14T10:58:36.558000Z",
+  "market_createdAt": "2022-03-14T10:58:36.558Z",
+  "market_updatedAt": "2024-04-23T00:16:01.513155Z",
+  "market_startDate": "2022-03-14T16:17:16.632Z",
+  "market_endDate": "2022-03-14T00:00:00Z",
+  "market_closedTime": "2022-03-15 09:30:34+00",
+  "conditionId": "0xc29277d61166a639d8d039423ebabbc5dace83f526e5f077d7811da9ea928212",
+  "slug": "nba-who-will-win-the-cavaliers-vspt-clippers-scheduled-for-march-14-7-pm-et",
+  "question": "NBA: Who will win the Cavaliers vs. Clippers, scheduled for March 14 (7 PM ET)?"
+}

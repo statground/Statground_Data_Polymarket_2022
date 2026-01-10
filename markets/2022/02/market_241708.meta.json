@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241708",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-25T09:54:20.382000Z",
+  "market_createdAt": "2022-02-25T09:54:20.382Z",
+  "market_updatedAt": "2024-04-23T00:47:20.704001Z",
+  "market_startDate": "2022-02-25T16:17:12.532Z",
+  "market_endDate": "2022-02-25T00:00:00Z",
+  "market_closedTime": "2022-02-26 19:34:31+00",
+  "conditionId": "0xfe6d69bde5bb374a126e57d82707f90ee4ea21bba0098e12519069fb703f3d05",
+  "slug": "nhl-will-the-avalanche-beat-the-jets-by-more-than-1p5-goals-in-their-february-25-matchup-9-pm-et",
+  "question": "NHL: Will the Avalanche beat the Jets by more than 1.5 goals in their February 25 matchup (9 PM ET)?"
+}

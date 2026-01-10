@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240828",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-18T16:12:40.859000Z",
+  "market_createdAt": "2022-01-18T16:12:40.859Z",
+  "market_updatedAt": "2024-04-22T23:27:38.783813Z",
+  "market_startDate": "2022-01-18T21:29:32.99Z",
+  "market_endDate": "2022-01-18T00:00:00Z",
+  "market_closedTime": "2022-01-21 13:34:13+00",
+  "conditionId": "0x9ebe9c6914daa03643877b4ff1bb740087c0f5325611e2164b7fe7a9e623a704",
+  "slug": "nhl-will-the-lightning-beat-the-kings-by-more-than-1p5-goals-in-their-january-18-matchup",
+  "question": "NHL: Will the Lightning beat the Kings by more than 1.5 goals in their January 18 matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240297",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-03T19:47:10.086000Z",
+  "market_createdAt": "2022-01-03T19:47:10.086Z",
+  "market_updatedAt": "2024-04-23T00:46:52.77309Z",
+  "market_startDate": "2022-01-05T22:58:19.234Z",
+  "market_endDate": "2022-01-06T00:00:00Z",
+  "market_closedTime": "2022-01-11 02:13:52+00",
+  "conditionId": "0x6c4e0bec7f64c09c5e298318d57bc9656ecda5db00fed9026ae46e230d782bb8",
+  "slug": "serie-a-who-will-win-the-juventus-v-napoli-game-on-january-6",
+  "question": "Serie A: Who will win the Juventus v. Napoli game on January 6?"
+}

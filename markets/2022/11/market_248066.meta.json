@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248066",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T22:21:56.206000Z",
+  "market_createdAt": "2022-11-18T22:21:56.206Z",
+  "market_updatedAt": "2023-01-31T18:22:14.869Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-18T00:00:00Z",
+  "market_closedTime": "2022-12-06 19:15:48+00",
+  "conditionId": "0xc2f0bb70b4ff53c19678651edb6b70f650d6ff4c1e615d8d7fd4e43821ee0b31",
+  "slug": "will-south-korea-win-the-2022-world-cup",
+  "question": "Will South Korea win the 2022 World Cup?"
+}

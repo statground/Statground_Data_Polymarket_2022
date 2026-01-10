@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "90402",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-17T16:20:04.009000Z",
+  "market_createdAt": "2021-02-17T16:20:04.009Z",
+  "market_updatedAt": "2024-04-23T00:36:08.230246Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-24T00:00:00Z",
+  "market_closedTime": "2021-02-24 20:50:08+00",
+  "conditionId": "0x2b02f74ff58d0b5dd06ffea430940d4f23f909c204d3bffb7689dbc5174ba82c",
+  "slug": "will-bitcoin-btc-be-above-55k-on-february-24-2021",
+  "question": "Will Bitcoin ($BTC) be above $55k on February 24, 2021?"
+}

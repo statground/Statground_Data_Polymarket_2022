@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240073",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-16T23:06:53.186000Z",
+  "market_createdAt": "2021-12-16T23:06:53.186Z",
+  "market_updatedAt": "2024-04-24T23:59:21.950435Z",
+  "market_startDate": "2021-12-17T21:24:30.207Z",
+  "market_endDate": "2021-12-19T00:00:00Z",
+  "market_closedTime": "2021-12-20 14:04:24+00",
+  "conditionId": "0x5f0f70a059367cee6c229f9358665c139985d7563d97ed2ffaedf8901cb6da4d",
+  "slug": "nfl-will-the-49ers-beat-the-falcons-by-more-than-9pt5-points-in-their-december-19-matchup",
+  "question": "NFL: Will the 49ers beat the Falcons by more than 9.5 points in their December 19 matchup?"
+}

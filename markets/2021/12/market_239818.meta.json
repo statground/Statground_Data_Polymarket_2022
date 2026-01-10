@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239818",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-03T20:19:14.108000Z",
+  "market_createdAt": "2021-12-03T20:19:14.108Z",
+  "market_updatedAt": "2024-04-23T00:28:00.851919Z",
+  "market_startDate": "2021-12-04T19:48:14.37Z",
+  "market_endDate": "2021-12-05T00:00:00Z",
+  "market_closedTime": "2021-12-06 17:26:40+00",
+  "conditionId": "0x613e44cc66601cb0694f9c458440fac4de141d677bc13edda43a7916cb5aac45",
+  "slug": "nfl-will-the-ravens-beat-the-steelers-by-more-than-6pt5-points-in-their-december-5-matchup",
+  "question": "NFL: Will the Ravens beat the Steelers by more than 6.5 points in their December 5 matchup?"
+}

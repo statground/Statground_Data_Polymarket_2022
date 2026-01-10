@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244944",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-18T06:39:00.084000Z",
+  "market_createdAt": "2022-05-18T06:39:00.084Z",
+  "market_updatedAt": "2023-01-31T19:22:08.24Z",
+  "market_startDate": null,
+  "market_endDate": "2022-05-18T00:00:00Z",
+  "market_closedTime": "2022-05-19 05:30:47+00",
+  "conditionId": "0xe56564f4f2be726f82e4892391d778d13a760b48b9ecf88ab3e7978148998ddc",
+  "slug": "nhl-who-will-win-hurricanes-vs-rangers-scheduled-for-may-18-700-pm-et",
+  "question": "NHL: Who will win Hurricanes vs. Rangers, scheduled for May 18, 7:00 PM ET?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239652",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-28T16:30:15.590000Z",
+  "market_createdAt": "2021-11-28T16:30:15.59Z",
+  "market_updatedAt": "2024-04-25T00:08:16.448618Z",
+  "market_startDate": "2021-11-28T16:51:13.782Z",
+  "market_endDate": "2021-11-28T00:00:00Z",
+  "market_closedTime": "2021-11-29 14:07:16+00",
+  "conditionId": "0xab8feb5a3ffc99b08e5c31aa00b6cbe6a62fa857f72d79ebf310236a75ff51a1",
+  "slug": "nfl-will-the-sum-of-points-in-chargers-v-broncos-be-more-than-47pt5",
+  "question": "NFL: Will the sum of points in Chargers v Broncos be more than 47.5?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "224617",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-21T15:40:01.174000Z",
+  "market_createdAt": "2021-07-21T15:40:01.174Z",
+  "market_updatedAt": "2024-04-22T22:51:54.086284Z",
+  "market_startDate": null,
+  "market_endDate": "2021-08-23T00:00:00Z",
+  "market_closedTime": "2021-08-13 16:41:42+00",
+  "conditionId": "0xa95d3fd6ecef327edaff7f014f62b201aeae91f472ccd0db06d3d090b52570b2",
+  "slug": "will-kanye-wests-donda-sell-more-than-250k-units-in-its-first-week",
+  "question": "Will Kanye West’s DONDA sell more than 250K album units in its first week?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242537",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-26T09:18:03.460000Z",
+  "market_createdAt": "2022-03-26T09:18:03.46Z",
+  "market_updatedAt": "2024-04-24T23:41:59.027712Z",
+  "market_startDate": "2022-03-26T19:41:00.664Z",
+  "market_endDate": "2022-03-26T00:00:00Z",
+  "market_closedTime": "2022-03-27 17:22:32+00",
+  "conditionId": "0x272f38c10aea0e39e0913954dfc415a2da32aaddd05dd9f86767a526cf654169",
+  "slug": "ncaab-will-the-houston-cougars-beat-the-villanova-wildcats-by-more-than-2pt5-points-in-their-march-26-609-pm-et-matchup",
+  "question": "NCAAB: Will the Houston Cougars beat the Villanova Wildcats by more than 2.5 points in their March 26, 6:09 PM ET matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246718",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-14T12:34:43.596000Z",
+  "market_createdAt": "2022-07-14T12:34:43.596Z",
+  "market_updatedAt": "2023-01-31T21:05:57.315Z",
+  "market_startDate": "2022-07-14T15:00:13.607Z",
+  "market_endDate": "2022-07-17T00:00:00Z",
+  "market_closedTime": "2022-07-18 05:30:40+00",
+  "conditionId": "0x3014c067037a478129f74b53f3723af49449600150bb11cab76702b53ccee32a",
+  "slug": "2022-open-championship-will-cameron-smith-win",
+  "question": "2022 Open Championship: Will Cameron Smith win?"
+}

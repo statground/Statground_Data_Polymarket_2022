@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240533",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T18:38:14.669000Z",
+  "market_createdAt": "2022-01-11T18:38:14.669Z",
+  "market_updatedAt": "2024-04-24T23:55:55.897623Z",
+  "market_startDate": "2022-01-12T21:06:36.255Z",
+  "market_endDate": "2022-03-31T00:00:00Z",
+  "market_closedTime": "2022-04-02 17:15:29+00",
+  "conditionId": "0x4086ac6bd8e94ac9b042a3a4ecf90d0b55320bc5321875733677fa97d800039c",
+  "slug": "will-foundation-airdrop-a-native-token-by-march-31st-2022",
+  "question": "Will Foundation airdrop a native token by March 31st, 2022?"
+}

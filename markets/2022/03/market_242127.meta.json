@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242127",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-16T11:23:44.673000Z",
+  "market_createdAt": "2022-03-16T11:23:44.673Z",
+  "market_updatedAt": "2024-04-23T00:51:00.233813Z",
+  "market_startDate": null,
+  "market_endDate": "2022-03-16T00:00:00Z",
+  "market_closedTime": "2022-03-17 11:30:51+00",
+  "conditionId": "0xbf189cfda9ed8103bb421e24d00076614b553f2df1f9bcce9ca993abaffb9f91",
+  "slug": "nba-who-will-win-the-76ers-vspt-cavaliers-scheduled-for-march-16-7-pm-et",
+  "question": "NBA: Who will win the 76ers vs. Cavaliers, scheduled for March 16 (7 PM ET)?"
+}

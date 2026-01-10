@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243637",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-24T07:31:50.849000Z",
+  "market_createdAt": "2022-04-24T07:31:50.849Z",
+  "market_updatedAt": "2023-01-31T20:26:40.328Z",
+  "market_startDate": "2022-04-24T15:29:38.483Z",
+  "market_endDate": "2022-04-24T00:00:00Z",
+  "market_closedTime": "2022-04-25 07:17:03+00",
+  "conditionId": "0x27ace88e9c4c276b3c12a32f40a7661fbc38ff0ae9c4d5d086749095661fcdfe",
+  "slug": "nba-who-will-win-bucks-vs-bulls-scheduled-for-april-24-100-pm-et",
+  "question": "NBA: Who will win Bucks vs. Bulls, scheduled for April 24, 1:00 PM ET?"
+}

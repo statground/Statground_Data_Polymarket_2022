@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238986",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-13T22:02:07.201000Z",
+  "market_createdAt": "2021-10-13T22:02:07.201Z",
+  "market_updatedAt": "2024-04-22T22:53:32.801409Z",
+  "market_startDate": "2021-10-14T16:33:20.695Z",
+  "market_endDate": "2021-10-20T00:00:00Z",
+  "market_closedTime": "2021-10-21 03:31:56+00",
+  "conditionId": "0x895ac1ef9eb5a5753775b08a4c17b99b8dfcfc9270a197e10b60e5aae1ea5dc3",
+  "slug": "will-ben-simmons-play-in-the-76ers-season-opener",
+  "question": "Will Ben Simmons play in the 76ers’ season opener?"
+}

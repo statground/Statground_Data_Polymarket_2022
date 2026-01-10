@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243221",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-13T13:33:36.862000Z",
+  "market_createdAt": "2022-04-13T13:33:36.862Z",
+  "market_updatedAt": "2023-01-31T18:55:57.597Z",
+  "market_startDate": "2022-04-13T15:32:40.653Z",
+  "market_endDate": "2022-04-13T00:00:00Z",
+  "market_closedTime": "2022-04-14 06:31:22+00",
+  "conditionId": "0x7032aa15a92f350c3587cb9aeffe9c0d02129cd8bb9bc4bb9b9f5e0821eff5ef",
+  "slug": "mlb-who-will-win-red-sox-vs-tigers-game-on-april-13",
+  "question": "MLB: Who will win Red Sox vs. Tigers game on April 13?"
+}

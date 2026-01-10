@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239170",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-31T08:05:23.029000Z",
+  "market_createdAt": "2021-10-31T08:05:23.029Z",
+  "market_updatedAt": "2024-04-22T23:17:40.128464Z",
+  "market_startDate": "2021-10-31T09:17:53.722Z",
+  "market_endDate": "2021-10-31T00:00:00Z",
+  "market_closedTime": "2021-11-01 10:31:07+00",
+  "conditionId": "0xc3da4af3f3669a87a1c2b46efce012f98db3d97d312e51f79e60b10f60c6c93f",
+  "slug": "nfl-will-the-eagles-beat-the-lions-by-more-than-3pt5-points-in-their-october-31st-matchup",
+  "question": "NFL: Will the Eagles beat the Lions by more than 3.5 points in their October 31st matchup?"
+}

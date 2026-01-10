@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242595",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-29T01:12:35.063000Z",
+  "market_createdAt": "2022-03-29T01:12:35.063Z",
+  "market_updatedAt": "2024-04-22T22:42:54.23947Z",
+  "market_startDate": "2022-03-29T19:36:30.976Z",
+  "market_endDate": "2022-04-02T00:00:00Z",
+  "market_closedTime": "2022-04-03 07:02:35+00",
+  "conditionId": "0x3fd160cb4b9fc65c4918204979bd4a5e07509faea7e67664dbf4f2d1d9957ae5",
+  "slug": "ncaab-march-madness-who-will-win-villanova-vs-kansas-scheduled-for-april-2-609-pm-et",
+  "question": "NCAAB March Madness: Who will win Villanova vs. Kansas, scheduled for April 2 (6:09 PM ET)?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239647",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-28T16:10:38.677000Z",
+  "market_createdAt": "2021-11-28T16:10:38.677Z",
+  "market_updatedAt": "2024-04-22T23:15:05.155037Z",
+  "market_startDate": "2021-11-28T16:50:09.273Z",
+  "market_endDate": "2021-11-28T00:00:00Z",
+  "market_closedTime": "2021-11-29 14:03:08+00",
+  "conditionId": "0x6bf20375fe472ce11d1c3b5d124edbc98ffecaa6ad3d1045945c307036b8bb78",
+  "slug": "nfl-will-the-rams-beat-the-packers-by-more-than-2pt5-points-in-their-november-28th-matchup",
+  "question": "NFL: Will the Rams beat the Packers by more than 2.5 points in their November 28th matchup?"
+}

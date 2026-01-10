@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239117",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-28T09:23:54.320000Z",
+  "market_createdAt": "2021-10-28T09:23:54.32Z",
+  "market_updatedAt": "2024-04-26T02:50:56.73489Z",
+  "market_startDate": "2021-10-28T17:27:33.675Z",
+  "market_endDate": "2021-10-28T00:00:00Z",
+  "market_closedTime": "2021-10-29 17:01:05+00",
+  "conditionId": "0x1f68fd953ee757a2157696aef18ace1db1f7c8fd28da0e15d96d39959f1a878e",
+  "slug": "who-will-win-the-knicks-v-bulls-game-on-october-28th",
+  "question": "Who will win the Knicks v. Bulls game on October 28th?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246939",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-08T17:41:47.677000Z",
+  "market_createdAt": "2022-08-08T17:41:47.677Z",
+  "market_updatedAt": "2023-01-31T21:10:02.822Z",
+  "market_startDate": "2022-08-12T20:12:57.422Z",
+  "market_endDate": "2022-08-11T00:00:00Z",
+  "market_closedTime": "2022-08-12 17:03:28+00",
+  "conditionId": "0xfad1faa90456240ca2abeea543e3cfc6ab063a72b150db1c7a2fa16990c7131b",
+  "slug": "nfl-preseason-who-will-win-new-york-giants-v-new-england-patriots-scheduled-for-august-11-700-pm-et",
+  "question": "NFL Preseason: Who will win New York Giants v. New England Patriots, scheduled for August 11, 7:00 PM ET?"
+}

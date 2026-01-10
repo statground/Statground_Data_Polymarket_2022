@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238675",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-29T06:00:01.603000Z",
+  "market_createdAt": "2021-08-29T06:00:01.603Z",
+  "market_updatedAt": "2024-04-22T23:31:49.871465Z",
+  "market_startDate": "2021-08-29T06:31:17.936Z",
+  "market_endDate": "2021-08-29T00:00:00Z",
+  "market_closedTime": "2021-08-30 15:38:48+00",
+  "conditionId": "0x4be6bf0642a8a13b21a7a19c2a1811cb0ac8ae1e091600e97f99e3f54f6d7e82",
+  "slug": "will-the-browns-beat-the-falcons-by-more-than-6-points-in-their-nfl-preseason-matchup",
+  "question": "Will the Browns beat the Falcons by more than 6 points in their NFL preseason matchup?"
+}

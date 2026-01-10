@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247289",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-16T17:45:41.964000Z",
+  "market_createdAt": "2022-09-16T17:45:41.964Z",
+  "market_updatedAt": "2023-01-31T03:42:55.477Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-02T00:00:00Z",
+  "market_closedTime": "2022-11-03 06:16:18+00",
+  "conditionId": "0x33dde7615c372a79eb91b500f56cbdc08df8d28f27c8f1217897829fb2aef901",
+  "slug": "will-the-fed-increase-interest-rates-by-100-bps-after-its-november-meeting",
+  "question": "Will the Fed increase interest rates by 100 bps after its November meeting?"
+}

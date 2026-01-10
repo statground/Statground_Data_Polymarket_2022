@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241492",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-15T08:08:31.132000Z",
+  "market_createdAt": "2022-02-15T08:08:31.132Z",
+  "market_updatedAt": "2024-04-24T23:46:04.843169Z",
+  "market_startDate": "2022-02-15T17:36:41.574Z",
+  "market_endDate": "2022-02-15T00:00:00Z",
+  "market_closedTime": "2022-02-16 20:11:07+00",
+  "conditionId": "0x310be85bf4e6f3810cf4da443543ff86b0bb18598118171388a04c21408a0b55",
+  "slug": "nhl-will-the-avalanche-beat-the-stars-by-more-than-1p5-goals-in-their-february-15-matchup-9-pm-et",
+  "question": "NHL: Will the Avalanche beat the Stars by more than 1.5 goals in their February 15 matchup (9 PM ET)?"
+}

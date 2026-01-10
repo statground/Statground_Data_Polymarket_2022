@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "226404",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-27T20:05:01.293000Z",
+  "market_createdAt": "2021-07-27T20:05:01.293Z",
+  "market_updatedAt": "2024-04-22T23:09:27.055495Z",
+  "market_startDate": "2021-07-27T20:43:02.748Z",
+  "market_endDate": "2021-07-28T00:00:00Z",
+  "market_closedTime": "2021-07-29 15:37:23+00",
+  "conditionId": "0x18eeaae3681f0a49ef3032beb9a46d6e34821dc50de598b7309944688478505c",
+  "slug": "will-caleb-win-gold-in-the-mens-100m-freestyle-at-the-2020-olympics",
+  "question": "Will Caeleb Dressel win gold in the Men’s 100M freestyle at the 2020 Olympics?"
+}

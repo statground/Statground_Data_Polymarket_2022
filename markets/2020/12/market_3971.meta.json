@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "3971",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-12-08T18:50:28.740000Z",
+  "market_createdAt": "2020-12-08T18:50:28.74Z",
+  "market_updatedAt": "2024-04-22T23:03:05.291234Z",
+  "market_startDate": null,
+  "market_endDate": "2021-01-22T00:00:00Z",
+  "market_closedTime": "2021-01-20 17:26:28+00",
+  "conditionId": "0x4d6b8c01606d5631a1edbb24bee3f120d47ce3bd4e906797849cc91c89146452",
+  "slug": "will-donald-trump-pardon-julian-assange",
+  "question": "Will Donald Trump pardon Julian Assange?"
+}

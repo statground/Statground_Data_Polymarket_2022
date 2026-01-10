@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239989",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-11T12:22:30.532000Z",
+  "market_createdAt": "2021-12-11T12:22:30.532Z",
+  "market_updatedAt": "2024-04-22T23:54:55.376792Z",
+  "market_startDate": "2021-12-13T19:31:40.81Z",
+  "market_endDate": "2022-01-11T00:00:00Z",
+  "market_closedTime": "2022-01-12 18:55:22+00",
+  "conditionId": "0x01168cd6bbe7cfb03124df9701307aea2d0bb99ff8d770ce8bf2d314c3c99f9b",
+  "slug": "will-youtube-bring-back-the-dislike-count-by-january-11",
+  "question": "Will Youtube bring back the dislike count by January 11, 2022?"
+}

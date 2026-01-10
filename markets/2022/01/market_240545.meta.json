@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240545",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T18:51:27.241000Z",
+  "market_createdAt": "2022-01-11T18:51:27.241Z",
+  "market_updatedAt": "2024-04-22T23:02:45.576006Z",
+  "market_startDate": "2022-01-12T21:16:45.03Z",
+  "market_endDate": "2022-03-31T00:00:00Z",
+  "market_closedTime": "2022-04-02 10:00:31+00",
+  "conditionId": "0x3dd39dc2ba7a67240c7c5351b4c1303ad0a34fb751f73c8b9c92e0732bf9aa3f",
+  "slug": "will-opyn-airdrop-a-native-token-by-march-31st-2022",
+  "question": "Will Opyn airdrop a native token by March 31st, 2022?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241342",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-05T11:24:43.562000Z",
+  "market_createdAt": "2022-02-05T11:24:43.562Z",
+  "market_updatedAt": "2024-04-25T00:08:57.775523Z",
+  "market_startDate": "2022-02-05T19:23:20.158Z",
+  "market_endDate": "2022-02-05T00:00:00Z",
+  "market_closedTime": "2022-02-07 18:20:06+00",
+  "conditionId": "0x64a6b92ac4075d7b5cb2fe9a968f6e4a50c09fb596117f75504b8e82bbb6d536",
+  "slug": "nba-will-the-heat-beat-the-hornets-by-more-than-3p5-points-in-their-february-5-7-pm-et-matchup",
+  "question": "NBA: Will the Heat beat the Hornets by more than 3.5 points in their February 5 (7 PM ET) matchup?"
+}

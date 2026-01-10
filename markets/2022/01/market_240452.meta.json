@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240452",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T16:22:10.498000Z",
+  "market_createdAt": "2022-01-11T16:22:10.498Z",
+  "market_updatedAt": "2024-04-22T23:26:35.425281Z",
+  "market_startDate": "2022-01-12T20:51:02.964Z",
+  "market_endDate": "2022-02-01T00:00:00Z",
+  "market_closedTime": "2022-02-02 17:19:13+00",
+  "conditionId": "0xd42bd553c470df0b4224ded46a3dd29f7ebfa1ebd9e15bca38c5ee9fd57b85bf",
+  "slug": "will-the-sandbox-or-decentraland-have-a-higher-floor-price-on-february-1st-2022",
+  "question": "Will The Sandbox or Decentraland have a higher floor price on February 1st, 2022?"
+}

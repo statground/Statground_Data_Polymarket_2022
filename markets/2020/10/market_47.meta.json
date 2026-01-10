@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "47",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-10-12T22:00:05.798000Z",
+  "market_createdAt": "2020-10-12T22:00:05.798Z",
+  "market_updatedAt": "2024-04-22T22:56:25.783919Z",
+  "market_startDate": null,
+  "market_endDate": "2020-11-20T00:00:00Z",
+  "market_closedTime": "2020-11-04 15:24:41+00",
+  "conditionId": "0xc64973cf7a20b3b114af9d918960f47cd1a70f2119819f7a434dfedc977560f0",
+  "slug": "which-party-will-win-florida-in-the-2020-presidential-election",
+  "question": "Which party will win Florida in the 2020 presidential election?"
+}

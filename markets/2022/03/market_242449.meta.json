@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242449",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-24T19:04:22.103000Z",
+  "market_createdAt": "2022-03-24T19:04:22.103Z",
+  "market_updatedAt": "2024-04-22T23:46:07.450651Z",
+  "market_startDate": "2022-03-24T19:31:09.965Z",
+  "market_endDate": "2022-03-24T00:00:00Z",
+  "market_closedTime": "2022-03-25 07:00:24+00",
+  "conditionId": "0x8e709c079e413fd9ec539fb45e80b1429a5a33918db334f6220c47753f09ea03",
+  "slug": "march-madness-who-will-win-the-arizona-vs-houston-scheduled-for-march-24-959-pm-et",
+  "question": "March Madness: Who will win Arizona vs. Houston, scheduled for March 24 (9:59 PM ET)?"
+}

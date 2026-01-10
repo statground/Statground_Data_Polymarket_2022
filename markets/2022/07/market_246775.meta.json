@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246775",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-20T20:09:56.986000Z",
+  "market_createdAt": "2022-07-20T20:09:56.986Z",
+  "market_updatedAt": "2023-01-31T20:46:10.704Z",
+  "market_startDate": "2022-07-20T21:14:20.798Z",
+  "market_endDate": "2022-12-31T00:00:00Z",
+  "market_closedTime": "2022-12-02 17:45:54+00",
+  "conditionId": "0x693202e9d23f0a7e6caf42bfe8e6676f1f922f770e716cba2859ec5af75223db",
+  "slug": "will-gay-marriage-pass-the-us-senate",
+  "question": "Will Gay Marriage pass the U.S. Senate?"
+}

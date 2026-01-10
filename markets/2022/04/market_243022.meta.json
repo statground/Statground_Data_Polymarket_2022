@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243022",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-07T12:04:51.423000Z",
+  "market_createdAt": "2022-04-07T12:04:51.423Z",
+  "market_updatedAt": "2024-04-22T22:45:13.336534Z",
+  "market_startDate": "2022-04-07T16:44:42.433Z",
+  "market_endDate": "2022-04-07T00:00:00Z",
+  "market_closedTime": "2022-04-08 06:46:31+00",
+  "conditionId": "0x9a8bca0651ccc041b8e7786d665a639df19102dc3a41778a83a3dba9ff193e1f",
+  "slug": "nba-will-the-warriors-beat-the-lakers-by-more-than-12pt5-points-in-their-april-7-10-pm-et-matchup",
+  "question": "NBA: Will the Warriors beat the Lakers by more than 12.5 points in their April 7 (10 PM ET) matchup?"
+}

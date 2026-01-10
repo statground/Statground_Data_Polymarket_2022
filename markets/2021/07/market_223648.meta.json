@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "223648",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-11T03:00:01.113000Z",
+  "market_createdAt": "2021-07-11T03:00:01.113Z",
+  "market_updatedAt": "2024-04-24T23:15:21.637282Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-11T00:00:00Z",
+  "market_closedTime": "2021-07-11 05:17:48+00",
+  "conditionId": "0xe703cf789d29968ec0faf6b9da0071655f873b50edc86e369718204d2a70259f",
+  "slug": "live-trading-who-will-win-ufc-264-mcgregor-vs-poirier",
+  "question": "(Live Trading) Who will win UFC 264: McGregor vs. Poirier? "
+}

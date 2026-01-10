@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248106",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-21T19:10:42.657000Z",
+  "market_createdAt": "2022-11-21T19:10:42.657Z",
+  "market_updatedAt": "2023-01-31T11:51:58.214Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-25T00:00:00Z",
+  "market_closedTime": "2022-11-26 01:00:54+00",
+  "conditionId": "0x1d8aee794b2f45c79f2ea212cdec4a9fe5b9cb735a13c8114bf169defa51d6e7",
+  "slug": "world-cup-2022-friday-will-england-beat-usa",
+  "question": "World Cup: Friday - Will England beat USA?"
+}

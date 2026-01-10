@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246546",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-14T20:39:45.109000Z",
+  "market_createdAt": "2022-06-14T20:39:45.109Z",
+  "market_updatedAt": "2023-01-31T19:21:25.736Z",
+  "market_startDate": "2022-06-14T20:40:13.42Z",
+  "market_endDate": "2022-07-27T00:00:00Z",
+  "market_closedTime": "2022-07-28 00:15:45+00",
+  "conditionId": "0x9b6fb33000fc1ce2cfea7f7606458fa5de55cfa850f5a18c2bee4b5e97a41fb9",
+  "slug": "will-the-fed-set-interest-rates-above-2pt25-after-their-scheduled-july-meeting",
+  "question": "Will the Fed set interest rates above 2.25% (75 bps or more) after their scheduled July meeting?"
+}

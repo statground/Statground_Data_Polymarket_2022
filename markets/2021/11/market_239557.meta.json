@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239557",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-22T15:40:58.063000Z",
+  "market_createdAt": "2021-11-22T15:40:58.063Z",
+  "market_updatedAt": "2024-04-23T00:39:34.043909Z",
+  "market_startDate": "2021-11-22T19:24:48.61Z",
+  "market_endDate": "2021-12-02T00:00:00Z",
+  "market_closedTime": "2021-12-04 18:35:53+00",
+  "conditionId": "0x3b44a66e66ec679feef3b055edd60479b71e31215df87ea54ccd5b2538161aaf",
+  "slug": "will-manchester-united-fc-announce-their-new-manager-by-december-2",
+  "question": "Will Manchester United F.C. announce their new manager by December 2?"
+}

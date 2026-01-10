@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239801",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-03T18:42:27.842000Z",
+  "market_createdAt": "2021-12-03T18:42:27.842Z",
+  "market_updatedAt": "2024-04-23T00:36:14.545626Z",
+  "market_startDate": "2021-12-03T20:05:05.224Z",
+  "market_endDate": "2021-12-03T00:00:00Z",
+  "market_closedTime": "2021-12-04 18:30:43+00",
+  "conditionId": "0x3f15e2ad8248c749680cc2243cab3085ed2e5418dd5c79e7cfbc5cc88699b606",
+  "slug": "nba-will-the-hawks-beat-the-76ers-by-more-than-1pt5-points-in-their-december-3-matchup",
+  "question": "NBA: Will the Hawks beat the 76ers by more than 1.5 points in their December 3 matchup?"
+}

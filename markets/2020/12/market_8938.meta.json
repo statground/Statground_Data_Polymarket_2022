@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "8938",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-12-16T17:05:22.378000Z",
+  "market_createdAt": "2020-12-16T17:05:22.378Z",
+  "market_updatedAt": "2024-04-25T00:02:26.17204Z",
+  "market_startDate": null,
+  "market_endDate": "2021-01-28T00:00:00Z",
+  "market_closedTime": "2021-01-27 18:14:46+00",
+  "conditionId": "0x8b255158454d4a2afeea47f8f0cdf0cbe1eb4f0f62c60d9abfc91d60515bfecd",
+  "slug": "will-eth-be-above-1-500-on-january-27th",
+  "question": "Will ETH be above $1,500 on January 27th?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "202141",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-25T21:10:06.249000Z",
+  "market_createdAt": "2021-05-25T21:10:06.249Z",
+  "market_updatedAt": "2024-04-24T23:17:08.921013Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-27T00:00:00Z",
+  "market_closedTime": "2021-05-27 19:14:35+00",
+  "conditionId": "0x0a9201d27908f31a80bb70f7fb43c3520587e7b34742462c282e4fde66367492",
+  "slug": "will-maxime-vachier-lagrave-or-wesley-so-win-their-quarterfinals-series-of-the-ftx-crypto-cup",
+  "question": "Will Maxime Vachier-Lagrave or Wesley So win their Quarterfinals Series of the FTX Crypto Cup?"
+}

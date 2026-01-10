@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241957",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-08T00:50:06.358000Z",
+  "market_createdAt": "2022-03-08T00:50:06.358Z",
+  "market_updatedAt": "2024-04-23T00:09:29.840933Z",
+  "market_startDate": "2022-03-08T01:08:24.374Z",
+  "market_endDate": "2022-12-31T00:00:00Z",
+  "market_closedTime": "2022-04-07 20:46:48+00",
+  "conditionId": "0x87f96a324301f46c7ea5b562019c77289f57ef907538d26c66bc485f59752087",
+  "slug": "will-lisa-murkowski-vote-to-confirm-ketanji-brown-jackson-to-scotus-by-december-31-2022",
+  "question": "Will Lisa Murkowski vote to confirm Ketanji Brown Jackson to SCOTUS by December 31, 2022?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218627",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-22T21:40:01.178000Z",
+  "market_createdAt": "2021-06-22T21:40:01.178Z",
+  "market_updatedAt": "2024-04-23T00:27:07.664728Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-23T00:00:00Z",
+  "market_closedTime": "2021-06-24 17:43:18+00",
+  "conditionId": "0xd22bdae66601f1f173ea4474d046c9824d81265305a5c1352453f6734646b8a3",
+  "slug": "will-vija-celmins-untitled-ocean-sell-for-more-than-65m-at-phillips",
+  "question": "Will Vija Celmins’ “Untitled (Ocean)” sell for more than $6.5M at Phillips?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241407",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-10T07:29:16.679000Z",
+  "market_createdAt": "2022-02-10T07:29:16.679Z",
+  "market_updatedAt": "2024-04-23T00:54:34.523361Z",
+  "market_startDate": "2022-02-10T14:59:23.986Z",
+  "market_endDate": "2022-02-10T00:00:00Z",
+  "market_closedTime": "2022-02-11 10:42:53+00",
+  "conditionId": "0xa79da76537ee51c4cd43a8e151a95bab874edc2f05cf7028342caa695b14ea43",
+  "slug": "nba-will-the-suns-beat-the-bucks-by-more-than-35-points-in-their-february-10-10pm-et-matchup",
+  "question": "NBA: Will the Suns beat the Bucks by more than 3.5 points in their February 10 (10PM ET) matchup?"
+}

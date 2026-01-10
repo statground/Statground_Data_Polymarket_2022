@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241830",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-02T17:27:50.454000Z",
+  "market_createdAt": "2022-03-02T17:27:50.454Z",
+  "market_updatedAt": "2023-01-31T01:31:32.478Z",
+  "market_startDate": "2022-03-02T19:23:10.922Z",
+  "market_endDate": "2022-03-15T00:00:00Z",
+  "market_closedTime": "2022-03-16 11:14:35+00",
+  "conditionId": "0x4045ba2f449c46d17732795d2e794501506747561381134cdc3922d014222cc1",
+  "slug": "will-the-price-of-a-barrel-of-crude-oil-be-115-or-more-on-march-15-2022",
+  "question": "Will the price of a barrel of crude oil be $115 or more on March 15, 2022?"
+}

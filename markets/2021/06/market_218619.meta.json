@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218619",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-22T19:55:01.629000Z",
+  "market_createdAt": "2021-06-22T19:55:01.629Z",
+  "market_updatedAt": "2024-04-23T00:28:09.000228Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-23T00:00:00Z",
+  "market_closedTime": "2021-07-24 19:49:53+00",
+  "conditionId": "0xb3a35c745dc29d3cd5618aa6564b3f8a71ff671cca47f986782d23974107a8d7",
+  "slug": "will-the-7-day-average-covid-19-case-count-in-the-us-be-less-than-15000-for-the-day-of-july-22",
+  "question": "Will the 7-day average COVID-19 case count in the US be less than 15,000 for the day of July 22? "
+}

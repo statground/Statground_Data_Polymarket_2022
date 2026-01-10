@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "113039",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-03-30T19:25:02.266000Z",
+  "market_createdAt": "2021-03-30T19:25:02.266Z",
+  "market_updatedAt": "2024-04-25T02:32:47.326628Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-05T00:00:00Z",
+  "market_closedTime": "2021-05-05 20:40:15+00",
+  "conditionId": "0xef483790c60a5371a4c38e0f8e9ac776dc8627d72780feedfd4b8937151070d3",
+  "slug": "will-the-workers-at-amazons-bessemer-facility-unionize-by-may-5",
+  "question": "Will the workers at Amazon's Bessemer facility unionize by May 5?"
+}

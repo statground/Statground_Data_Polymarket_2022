@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "223830",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-11T18:05:01.088000Z",
+  "market_createdAt": "2021-07-11T18:05:01.088Z",
+  "market_updatedAt": "2024-04-22T23:50:34.001027Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-11T00:00:00Z",
+  "market_closedTime": "2021-07-11 23:45:13+00",
+  "conditionId": "0xa5db46ed7b412f557da88e3d5c0275711b39d84b2ef66b46798531bd4bc0f155",
+  "slug": "will-england-or-italy-win-the-euro-2020-final",
+  "question": "(Live Trading) Will England or Italy win the Euro 2020 final?"
+}

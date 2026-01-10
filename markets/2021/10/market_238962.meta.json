@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238962",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-07T17:18:27.357000Z",
+  "market_createdAt": "2021-10-07T17:18:27.357Z",
+  "market_updatedAt": "2024-04-26T03:57:37.984151Z",
+  "market_startDate": "2021-10-07T17:55:36.002Z",
+  "market_endDate": "2021-10-13T00:00:00Z",
+  "market_closedTime": "2021-10-12 02:41:17+00",
+  "conditionId": "0x94d594581fdbf6d73222fd9a0e4fa5ad3aed43592aad13b04c6bcc0b8dea9351",
+  "slug": "will-the-rays-or-red-sox-win-their-alds-matchup",
+  "question": "Will the Rays or Red Sox win their ALDS matchup?"
+}

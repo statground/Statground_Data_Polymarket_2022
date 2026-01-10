@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240684",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-13T00:31:58.155000Z",
+  "market_createdAt": "2022-01-13T00:31:58.155Z",
+  "market_updatedAt": "2024-04-22T22:43:33.886425Z",
+  "market_startDate": "2022-01-13T01:09:25.932Z",
+  "market_endDate": "2022-01-20T00:00:00Z",
+  "market_closedTime": "2022-01-24 21:52:28+00",
+  "conditionId": "0x22e5e330f2b5f282c89adf38743cb089c68653019efce3fd5f4fbe19194d1278",
+  "slug": "will-boris-johnson-be-the-prime-minister-of-the-united-kingdom-on-january-20-2022",
+  "question": "Will Boris Johnson be the Prime Minister of the United Kingdom on January 20, 2022?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "224583",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-15T18:25:01.191000Z",
+  "market_createdAt": "2021-07-15T18:25:01.191Z",
+  "market_updatedAt": "2023-01-31T16:12:41.867Z",
+  "market_startDate": null,
+  "market_endDate": "2021-09-01T00:00:00Z",
+  "market_closedTime": "2021-07-29 15:37:59+00",
+  "conditionId": "0x67e662f63678981ec82d50ef60188812f6d82ec8d0d59ecb38f15b539335977b",
+  "slug": "will-40-or-more-us-states-have-highsubstantial-covid-19-community-spread-on-any-day-on-or-before-september-1",
+  "question": "Will 40 or more US states have high/substantial COVID-19 community spread on any day on or before September 1? "
+}

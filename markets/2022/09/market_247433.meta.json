@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247433",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-30T20:59:33.099000Z",
+  "market_createdAt": "2022-09-30T20:59:33.099Z",
+  "market_updatedAt": "2023-01-31T09:21:07.247Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-02T00:00:00Z",
+  "market_closedTime": "2022-10-03 05:16:09+00",
+  "conditionId": "0x0a78e63ae1fb4a5044234ebc3ea247be821d3b7a0f9d3b5ff8d5abdd96ebb63f",
+  "slug": "formula-1-will-17-or-more-drivers-complete-the-2022-singapore-grand-prix",
+  "question": "Formula 1: Will 17 or more drivers complete the 2022 Singapore Grand Prix?"
+}

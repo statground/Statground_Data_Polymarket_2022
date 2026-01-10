@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "176506",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-04T19:35:15.786000Z",
+  "market_createdAt": "2021-05-04T19:35:15.786Z",
+  "market_updatedAt": "2024-04-22T23:47:31.536711Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-01T00:00:00Z",
+  "market_closedTime": "2021-05-05 15:45:50+00",
+  "conditionId": "0x9e915df9c19aca83644a0f4f776aaf2b761db98cb78d0f57d970ee142d461f48",
+  "slug": "will-the-oversight-board-uphold-facebooks-decision-to-indefinitely-suspend-donald-trumps-account",
+  "question": "Will the Oversight Board uphold Facebook’s decision to indefinitely suspend Donald Trump's account?"
+}

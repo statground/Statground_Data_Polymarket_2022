@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "245568",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-27T15:46:39.939000Z",
+  "market_createdAt": "2022-05-27T15:46:39.939Z",
+  "market_updatedAt": "2024-04-22T23:15:57.22584Z",
+  "market_startDate": "2022-05-27T16:20:11.948Z",
+  "market_endDate": "2022-06-04T00:00:00Z",
+  "market_closedTime": "2022-06-04 20:15:40+00",
+  "conditionId": "0x82734914936499fb7d6f13642d6e3d1bbd71441054a55f22688f98d346ee6883",
+  "slug": "will-matic-be-above-0pt60-on-june-4",
+  "question": "Will $MATIC be above $0.60 on June 4?"
+}

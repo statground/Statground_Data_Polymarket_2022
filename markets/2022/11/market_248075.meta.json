@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248075",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T22:33:13.915000Z",
+  "market_createdAt": "2022-11-18T22:33:13.915Z",
+  "market_updatedAt": "2023-01-31T21:16:36.285Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-18T00:00:00Z",
+  "market_closedTime": "2022-12-01 00:01:15+00",
+  "conditionId": "0xb95f6fbe66b2335d4797adfd5ea4ee49933cfc6163e0146f968a5a77b7a3febc",
+  "slug": "will-tunisia-win-the-2022-world-cup",
+  "question": "Will Tunisia win the 2022 World Cup?"
+}

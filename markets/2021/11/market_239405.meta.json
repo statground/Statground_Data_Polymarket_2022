@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239405",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-13T01:14:27.264000Z",
+  "market_createdAt": "2021-11-13T01:14:27.264Z",
+  "market_updatedAt": "2024-04-24T23:45:31.352675Z",
+  "market_startDate": "2021-11-15T17:29:02.397Z",
+  "market_endDate": "2021-11-24T00:00:00Z",
+  "market_closedTime": "2021-11-24 23:06:25+00",
+  "conditionId": "0xf083c308f417a4c1904448f8d7b5f4eb1de16e97681acfc1758d58166e537cfb",
+  "slug": "will-joe-bidens-approval-rating-be-43pt0-or-higher-at-the-end-of-november-23",
+  "question": "Will Joe Biden's approval rating be 43.0% or higher at the end of November 23?"
+}

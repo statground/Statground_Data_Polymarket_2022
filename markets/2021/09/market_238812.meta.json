@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238812",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-21T16:22:52.270000Z",
+  "market_createdAt": "2021-09-21T16:22:52.27Z",
+  "market_updatedAt": "2024-04-24T23:28:33.57821Z",
+  "market_startDate": "2021-09-27T17:24:57.49Z",
+  "market_endDate": "2021-09-29T00:00:00Z",
+  "market_closedTime": "2021-09-29 21:04:57+00",
+  "conditionId": "0x2973ac5f6ad7c13124f401533daddd262bf439bf442fa919aff8630b0e7139e3",
+  "slug": "gaserrorwill-juventus-or-chelsea-win-their-champions-league-match-on-september-29",
+  "question": "Will Juventus or Chelsea win their Champions League match on September 29?"
+}

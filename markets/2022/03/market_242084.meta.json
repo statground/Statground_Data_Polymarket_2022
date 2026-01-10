@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242084",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-15T01:45:46.789000Z",
+  "market_createdAt": "2022-03-15T01:45:46.789Z",
+  "market_updatedAt": "2024-04-24T23:45:42.982109Z",
+  "market_startDate": "2022-03-15T16:40:33.366Z",
+  "market_endDate": "2022-03-26T00:00:00Z",
+  "market_closedTime": "2022-03-27 17:24:02+00",
+  "conditionId": "0xccf88e4756eca0005b6835ae036b063311a0dc2caf3fbac88e644661a415c19c",
+  "slug": "will-the-price-of-luna-be-above-90-on-march-26-2022",
+  "question": "Will the price of $LUNA be above $90 on March 26, 2022?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241800",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-01T11:56:59.226000Z",
+  "market_createdAt": "2022-03-01T11:56:59.226Z",
+  "market_updatedAt": "2024-04-23T00:44:22.055646Z",
+  "market_startDate": "2022-03-01T17:58:17.094Z",
+  "market_endDate": "2022-03-01T00:00:00Z",
+  "market_closedTime": "2022-03-02 16:23:35+00",
+  "conditionId": "0x1c97153f0404b435a9811c6b92f180b9f48250c4a5b33b2b29fa11cf53d43b9c",
+  "slug": "nba-will-the-mavericks-beat-the-lakers-by-more-than-4p5-points-in-their-march-1-10-pm-et-matchup",
+  "question": "NBA: Will the Mavericks beat the Lakers by more than 4.5 points in their March 1 (10 PM ET) matchup?"
+}

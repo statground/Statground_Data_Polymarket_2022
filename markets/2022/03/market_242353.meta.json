@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242353",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-21T19:06:23.253000Z",
+  "market_createdAt": "2022-03-21T19:06:23.253Z",
+  "market_updatedAt": "2024-04-23T00:11:53.563418Z",
+  "market_startDate": "2022-03-21T20:30:33.919Z",
+  "market_endDate": "2022-04-26T00:00:00Z",
+  "market_closedTime": "2022-04-27 06:48:49+00",
+  "conditionId": "0x213c856570bc0da1a3e013bd0ed77da8876542165ee6f12d861e8a28c54d6ad7",
+  "slug": "will-the-floor-price-of-mutant-apes-be-above-30-eth-on-4262022",
+  "question": "Will the floor price of Mutant Apes be above 30 ETH on April 26?"
+}

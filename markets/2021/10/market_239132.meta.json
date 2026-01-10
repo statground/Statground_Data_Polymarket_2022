@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239132",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-29T12:12:56.013000Z",
+  "market_createdAt": "2021-10-29T12:12:56.013Z",
+  "market_updatedAt": "2024-04-23T00:25:03.108342Z",
+  "market_startDate": "2021-10-29T19:05:59.235Z",
+  "market_endDate": "2021-10-29T00:00:00Z",
+  "market_closedTime": "2021-10-30 17:17:25+00",
+  "conditionId": "0x7749effca1ecdd5c06039d4525fd33b45bcfee82845b2120e58ad29618661398",
+  "slug": "will-the-lakers-beat-the-cavaliers-by-more-than-9pt5-points-in-their-october-29th-matchup",
+  "question": "Will the Lakers beat the Cavaliers by more than 9.5 points in their October 29th matchup?"
+}

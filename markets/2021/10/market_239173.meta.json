@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239173",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-31T08:09:15.560000Z",
+  "market_createdAt": "2021-10-31T08:09:15.56Z",
+  "market_updatedAt": "2024-04-24T23:56:41.874676Z",
+  "market_startDate": "2021-10-31T09:18:56.82Z",
+  "market_endDate": "2021-10-31T00:00:00Z",
+  "market_closedTime": "2021-11-01 10:29:25+00",
+  "conditionId": "0x9c73ad2a1d43f2a48b9d1a43934b2580e54067bde5b7c3a859d223b4f3a0e843",
+  "slug": "nfl-will-the-buccaneers-beat-the-saints-by-more-than-4pt5-points-in-their-october-31st-matchup",
+  "question": "NFL: Will the Buccaneers beat the Saints by more than 4.5 points in their October 31st matchup?"
+}

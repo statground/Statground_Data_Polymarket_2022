@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246953",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-09T14:38:17.826000Z",
+  "market_createdAt": "2022-08-09T14:38:17.826Z",
+  "market_updatedAt": "2023-01-31T20:59:02.214Z",
+  "market_startDate": "2022-08-09T17:03:05.981Z",
+  "market_endDate": "2022-08-13T00:00:00Z",
+  "market_closedTime": "2022-08-14 05:45:44+00",
+  "conditionId": "0x1cee1e5cfa7e62571babe6ccc031fcc76b9c201a314073175b84331db62a1363",
+  "slug": "ufc-fight-san-diego-who-will-win-vera-vs-cruz",
+  "question": "UFC Fight San Diego: Who will win - Vera vs. Cruz?"
+}

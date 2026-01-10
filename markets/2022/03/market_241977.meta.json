@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241977",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-08T23:34:48.948000Z",
+  "market_createdAt": "2022-03-08T23:34:48.948Z",
+  "market_updatedAt": "2024-04-22T23:31:16.863543Z",
+  "market_startDate": "2022-03-09T00:20:32.64Z",
+  "market_endDate": "2022-04-30T00:00:00Z",
+  "market_closedTime": "2022-05-01 07:02:34+00",
+  "conditionId": "0x6476b9a645d3222aa878869c736fc6c3febb54bcf13f0fe4f80329ca90689338",
+  "slug": "will-nato-declare-a-no-fly-zone-over-any-ukrainian-territory-by-april-30-2022",
+  "question": "Will NATO declare a No Fly-Zone over any Ukrainian territory by April 30, 2022?"
+}

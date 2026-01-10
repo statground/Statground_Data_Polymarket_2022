@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "226377",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-27T18:05:02.445000Z",
+  "market_createdAt": "2021-07-27T18:05:02.445Z",
+  "market_updatedAt": "2024-04-22T22:46:34.077467Z",
+  "market_startDate": "2021-07-27T20:48:20.22Z",
+  "market_endDate": "2021-12-01T00:00:00Z",
+  "market_closedTime": "2021-08-24 16:12:26+00",
+  "conditionId": "0x92c0eb0d4b1b7239cee38bf94cef8ad0a79bc4c83b6215b14c68ef9364f3ada6",
+  "slug": "will-any-of-the-covid-vaccines-be-granted-full-fda-approval-by-december-1",
+  "question": "Will any of the COVID vaccines be granted full FDA approval by December 1?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240134",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-22T07:59:20.608000Z",
+  "market_createdAt": "2021-12-22T07:59:20.608Z",
+  "market_updatedAt": "2024-04-22T22:44:37.272512Z",
+  "market_startDate": "2021-12-22T19:08:04.974Z",
+  "market_endDate": "2021-12-22T00:00:00Z",
+  "market_closedTime": "2021-12-23 17:10:00+00",
+  "conditionId": "0xbd204363590a14497bafbaecebf9db7876f257acb9218d7ebd1b37088e0839bd",
+  "slug": "nba-will-the-celtics-beat-the-cavaliers-by-more-than-5pt5-points-in-their-december-22-matchup",
+  "question": "NBA: Will the Celtics beat the Cavaliers by more than 5.5 points in their December 22 matchup?"
+}

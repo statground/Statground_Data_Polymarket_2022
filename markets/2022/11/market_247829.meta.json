@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247829",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-09T21:07:40.583000Z",
+  "market_createdAt": "2022-11-09T21:07:40.583Z",
+  "market_updatedAt": "2023-01-31T20:03:23.917Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-13T00:00:00Z",
+  "market_closedTime": "2022-11-14 08:00:46+00",
+  "conditionId": "0x3d87b51870e66f6cc956a0f5c7dc84576d28340f58af161a16d9178def847bb4",
+  "slug": "nfl-sunday-chargers-vs-49ers",
+  "question": "NFL Sunday: Chargers vs. 49ers"
+}

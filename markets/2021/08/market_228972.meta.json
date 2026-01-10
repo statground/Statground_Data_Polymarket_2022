@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "228972",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-05T17:00:01.145000Z",
+  "market_createdAt": "2021-08-05T17:00:01.145Z",
+  "market_updatedAt": "2024-04-22T23:31:09.764598Z",
+  "market_startDate": "2021-08-05T18:46:33.351Z",
+  "market_endDate": "2021-10-01T00:00:00Z",
+  "market_closedTime": "2021-08-16 16:06:39+00",
+  "conditionId": "0xd59306e90d33c053723e13eb7519ad3155e12954815b895246e5984eda15c734",
+  "slug": "will-kawhi-leonard-sign-with-the-clippers-for-the-nba-2021-22-season-on-or-before-october-1",
+  "question": "Will Kawhi Leonard Sign with the Clippers for the NBA 2021-22 season on or before October 1? "
+}

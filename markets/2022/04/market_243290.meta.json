@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243290",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-14T22:41:20.493000Z",
+  "market_createdAt": "2022-04-14T22:41:20.493Z",
+  "market_updatedAt": "2023-01-31T10:55:13.696Z",
+  "market_startDate": "2022-04-18T14:24:50.086Z",
+  "market_endDate": "2022-05-28T00:00:00Z",
+  "market_closedTime": "2022-05-29 07:30:32+00",
+  "conditionId": "0xe38dcbe63a2d79246abca9f71e910068fd9b6b1c5db5c12e0b3faa25fe8282a4",
+  "slug": "will-real-madrid-win-the-2021-22-uefa-champions-league",
+  "question": "Will Real Madrid win the 2021-22 UEFA Champions League?"
+}

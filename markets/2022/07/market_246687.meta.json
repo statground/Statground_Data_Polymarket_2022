@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246687",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-12T09:09:33.900000Z",
+  "market_createdAt": "2022-07-12T09:09:33.9Z",
+  "market_updatedAt": "2023-01-31T20:55:18.04Z",
+  "market_startDate": "2022-07-13T17:54:29.105Z",
+  "market_endDate": "2022-07-14T00:00:00Z",
+  "market_closedTime": "2022-07-14 23:45:45+00",
+  "conditionId": "0x324831dee73d995774109802ed401ee400cfc5e8d90814ad072bb6d7bc0051e9",
+  "slug": "cricket-who-will-win-england-vs-india-2nd-odi",
+  "question": "Cricket: Who will win England vs. India, 2nd ODI?"
+}

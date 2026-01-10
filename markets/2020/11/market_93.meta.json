@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "93",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-11-08T19:50:06.096000Z",
+  "market_createdAt": "2020-11-08T19:50:06.096Z",
+  "market_updatedAt": "2024-04-23T00:44:26.026362Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-01T00:00:00Z",
+  "market_closedTime": "2021-01-20 18:11:06+00",
+  "conditionId": "0x4afe273cde9f431f55621c666b7552f11cb8acbc36e06c39ea7e87564a02b34a",
+  "slug": "will-donald-trump-be-inaugurated-for-his-second-term-as-president-of-the-usa-on-inauguration-day-january-20th-2021",
+  "question": "Will Donald Trump be inaugurated for his second term as President of the USA on Inauguration Day, January 20th, 2021?"
+}

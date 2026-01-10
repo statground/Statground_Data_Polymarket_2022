@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242790",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-03T09:08:41.858000Z",
+  "market_createdAt": "2022-04-03T09:08:41.858Z",
+  "market_updatedAt": "2024-04-23T00:44:20.247807Z",
+  "market_startDate": "2022-04-03T16:39:54.102Z",
+  "market_endDate": "2022-04-03T00:00:00Z",
+  "market_closedTime": "2022-04-04 07:16:44+00",
+  "conditionId": "0x29328387d6c46ec394c563ce01a09827f240b7cf83db52d24552f83c35518242",
+  "slug": "nba-who-will-win-nuggets-vs-lakers-scheduled-for-april-3-340-pm-et",
+  "question": "NBA: Who will win Nuggets vs. Lakers, scheduled for April 3, 3:40 PM ET?"
+}

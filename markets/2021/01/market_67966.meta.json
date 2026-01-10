@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "67966",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-01-30T20:35:04.222000Z",
+  "market_createdAt": "2021-01-30T20:35:04.222Z",
+  "market_updatedAt": "2024-04-22T23:52:44.013834Z",
+  "market_startDate": null,
+  "market_endDate": "2021-01-30T00:00:00Z",
+  "market_closedTime": "2021-02-01 15:57:39+00",
+  "conditionId": "0xdaec8ddb2c948e89d19cfce59822cf45b2ea011cb282351b3be610d5f20d3870",
+  "slug": "will-the-lakers-or-the-celtics-win-their-january-30th-matchup",
+  "question": "Will the Lakers or the Celtics win their January 30th matchup?"
+}

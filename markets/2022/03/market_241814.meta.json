@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241814",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-02T12:58:08.404000Z",
+  "market_createdAt": "2022-03-02T12:58:08.404Z",
+  "market_updatedAt": "2024-04-23T00:45:15.419101Z",
+  "market_startDate": "2022-03-02T15:45:50.974Z",
+  "market_endDate": "2022-03-02T00:00:00Z",
+  "market_closedTime": "2022-03-03 21:46:09+00",
+  "conditionId": "0x39bc3ae251993c1aef6b6d92a9cade154258928d275474b995a2c8d84d00fa8f",
+  "slug": "nba-who-will-win-the-cavaliers-vspt-hornets-scheduled-for-march-2-7-pm-et",
+  "question": "NBA: Who will win the Cavaliers vs. Hornets, scheduled for March 2 (7 PM ET)?"
+}

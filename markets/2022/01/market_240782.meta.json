@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240782",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-17T09:45:45.507000Z",
+  "market_createdAt": "2022-01-17T09:45:45.507Z",
+  "market_updatedAt": "2024-04-24T23:15:57.393415Z",
+  "market_startDate": "2022-01-17T17:23:30.806Z",
+  "market_endDate": "2022-01-17T00:00:00Z",
+  "market_closedTime": "2022-01-19 21:32:04+00",
+  "conditionId": "0x0a39f5572b23cf6cf581fd5ade143aa094fd9e19d3d55d58bd7d7e5d73caa2b8",
+  "slug": "nba-will-the-celtics-beat-the-pelicans-by-more-than-6p5-points-in-their-january-17-matchup",
+  "question": "NBA: Will the Celtics beat the Pelicans by more than 6.5 points in their January 17 matchup?"
+}

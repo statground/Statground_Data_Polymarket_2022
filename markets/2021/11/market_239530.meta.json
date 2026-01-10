@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239530",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-20T23:47:44.204000Z",
+  "market_createdAt": "2021-11-20T23:47:44.204Z",
+  "market_updatedAt": "2024-04-22T22:45:23.014792Z",
+  "market_startDate": "2021-11-22T18:46:47.153Z",
+  "market_endDate": "2021-12-01T00:00:00Z",
+  "market_closedTime": "2021-12-02 19:42:05+00",
+  "conditionId": "0x902f4171eb69411ddc0ed9c44b1c02e9bf2e1a569a71d5eb897cd07b80176476",
+  "slug": "will-france-or-the-usa-report-a-higher-7-day-covid-19-case-average-per-capita-on-november-30",
+  "question": "Will France or the USA report a higher 7-day COVID-19 case average per capita on November 30?"
+}

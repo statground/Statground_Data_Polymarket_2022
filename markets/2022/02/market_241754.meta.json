@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241754",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-27T15:05:59.920000Z",
+  "market_createdAt": "2022-02-27T15:05:59.92Z",
+  "market_updatedAt": "2024-04-24T23:36:05.271944Z",
+  "market_startDate": "2022-02-27T16:54:16.282Z",
+  "market_endDate": "2022-02-27T00:00:00Z",
+  "market_closedTime": "2022-02-28 16:19:32+00",
+  "conditionId": "0x6cefa1f19886e81c11ef22296f6d163e7c3c0925461a7a5c422e456006a3b313",
+  "slug": "nhl-will-the-sharks-beat-the-kraken-by-more-than-1p5-goals-in-their-february-27-matchup-10-pm-et",
+  "question": "NHL: Will the Sharks beat the Kraken by more than 1.5 goals in their February 27 matchup (10 PM ET)?"
+}

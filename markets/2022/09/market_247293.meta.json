@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247293",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-19T16:58:01.890000Z",
+  "market_createdAt": "2022-09-19T16:58:01.89Z",
+  "market_updatedAt": "2023-01-31T21:09:58.847Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-08T00:00:00Z",
+  "market_closedTime": "2022-11-09 10:15:42+00",
+  "conditionId": "0xc23030f8d61147bed8ae3b6601e5f67ea9dd9b8cddbfadb40eb243abab674b00",
+  "slug": "2022-us-gubernatorial-elections-will-a-democrat-or-republican-win-in-florida",
+  "question": "Governor: Will a Democrat (Christ) or Republican (DeSantis) win in Florida?"
+}

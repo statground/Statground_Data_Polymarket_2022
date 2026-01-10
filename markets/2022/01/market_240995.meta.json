@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240995",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-24T18:57:08.761000Z",
+  "market_createdAt": "2022-01-24T18:57:08.761Z",
+  "market_updatedAt": "2024-04-22T23:04:37.421725Z",
+  "market_startDate": "2022-01-24T20:12:34.721Z",
+  "market_endDate": "2022-01-24T00:00:00Z",
+  "market_closedTime": "2022-01-25 22:06:46+00",
+  "conditionId": "0x8b70e65f3401996c71cd1762ea986eb816523ebcf2a6ef8b319971129b2ee149",
+  "slug": "nba-will-the-bulls-beat-the-thunder-by-more-than-1p5-points-in-their-january-24-matchup",
+  "question": "NBA: Will the Bulls beat the Thunder by more than 1.5 points in their January 24 matchup?"
+}

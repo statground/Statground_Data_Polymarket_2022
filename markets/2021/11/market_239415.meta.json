@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239415",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-13T12:50:59.902000Z",
+  "market_createdAt": "2021-11-13T12:50:59.902Z",
+  "market_updatedAt": "2024-04-24T23:41:15.714766Z",
+  "market_startDate": "2021-11-13T19:50:15.793Z",
+  "market_endDate": "2021-11-13T00:00:00Z",
+  "market_closedTime": "2021-11-14 19:47:47+00",
+  "conditionId": "0xb2774c327ebe29eab313fc48269ab8574c629d2bd7c4a5f7b01262b491b7f626",
+  "slug": "nba-will-the-wizards-beat-the-magic-by-more-than-3pt5-points-in-their-november-13th-matchup",
+  "question": "NBA: Will the Wizards beat the Magic by more than 3.5 points in their November 13th matchup?"
+}

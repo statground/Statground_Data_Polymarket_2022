@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241623",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-19T16:41:36.003000Z",
+  "market_createdAt": "2022-02-19T16:41:36.003Z",
+  "market_updatedAt": "2024-04-22T22:57:36.319878Z",
+  "market_startDate": "2022-02-19T17:08:48.228Z",
+  "market_endDate": "2022-02-20T00:00:00Z",
+  "market_closedTime": "2022-02-21 19:30:56+00",
+  "conditionId": "0x7aab1caf1957b598e7e46564cd5d630120e384ba6d3dd948a8f53c6cc402d32d",
+  "slug": "nba-all-star-2022-will-the-top-scoring-player-be-from-team-lebron-or-team-durant",
+  "question": "NBA All-Star 2022: Will the top scoring player be from Team LeBron or Team Durant?"
+}

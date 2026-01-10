@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239846",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-06T15:00:48.018000Z",
+  "market_createdAt": "2021-12-06T15:00:48.018Z",
+  "market_updatedAt": "2024-04-22T23:10:27.288452Z",
+  "market_startDate": "2021-12-06T16:57:51.982Z",
+  "market_endDate": "2021-12-06T00:00:00Z",
+  "market_closedTime": "2021-12-07 18:24:21+00",
+  "conditionId": "0xfa391050808b8c0d3f318862e23f4c6a0ea7d143e49ef77af78663cef2ca3db4",
+  "slug": "nba-will-the-pistons-beat-the-thunder-by-more-than-4pt5-points-in-their-december-6-matchup",
+  "question": "NBA: Will the Pistons beat the Thunder by more than 4.5 points in their December 6 matchup?"
+}

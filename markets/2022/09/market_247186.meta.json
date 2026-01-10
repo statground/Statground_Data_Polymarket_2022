@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247186",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-06T18:44:47.256000Z",
+  "market_createdAt": "2022-09-06T18:44:47.256Z",
+  "market_updatedAt": "2023-01-31T21:06:41.796Z",
+  "market_startDate": "2022-09-06T19:22:35.345Z",
+  "market_endDate": "2022-09-06T00:00:00Z",
+  "market_closedTime": "2022-09-07 17:00:52+00",
+  "conditionId": "0x2c779959d9398b6434f6371b50f5458a2a87b3b7ad561d46b98d41473747dca4",
+  "slug": "mlb-who-will-win-toronto-blue-jays-v-baltimore-orioles-scheduled-for-september-6-705-pm-et",
+  "question": "MLB: Who will win Toronto Blue Jays v. Baltimore Orioles, scheduled for September 6, 7:05 PM ET?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239636",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-27T22:58:47.764000Z",
+  "market_createdAt": "2021-11-27T22:58:47.764Z",
+  "market_updatedAt": "2024-04-22T22:58:00.828044Z",
+  "market_startDate": "2021-11-28T16:53:35.335Z",
+  "market_endDate": "2021-12-31T00:00:00Z",
+  "market_closedTime": "2021-12-12 18:31:02+00",
+  "conditionId": "0xe93937d8444e7ba791b23d59e92312bd829f317e90301ff6f4a5d6b581cbda12",
+  "slug": "will-vice-president-harris-cast-15-or-more-tie-breaking-votes-in-2021",
+  "question": "Will Vice President Harris cast 15 or more tie-breaking votes in 2021?"
+}

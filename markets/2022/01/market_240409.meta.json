@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240409",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T13:41:12.739000Z",
+  "market_createdAt": "2022-01-11T13:41:12.739Z",
+  "market_updatedAt": "2024-04-24T23:39:57.561978Z",
+  "market_startDate": "2022-01-12T20:43:16.949Z",
+  "market_endDate": "2022-07-28T00:00:00Z",
+  "market_closedTime": "2022-04-29 21:30:32+00",
+  "conditionId": "0x4573d7ab77b04f39d36649f00f8849eb3ad25c051fce78c827444897d6e3280e",
+  "slug": "will-the-next-recession-in-the-us-happen-by-q2-2022",
+  "question": "Will the next recession in the US happen by Q2 2022?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "35988",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-01-11T17:25:07.466000Z",
+  "market_createdAt": "2021-01-11T17:25:07.466Z",
+  "market_updatedAt": "2024-04-22T23:51:36.983386Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-28T00:00:00Z",
+  "market_closedTime": "2021-03-01 14:04:45+00",
+  "conditionId": "0x1f794487d63963d94abe0b3d99dac24d39620ed45e769f84f0cc66560644bce4",
+  "slug": "2000-stimulus-checks-by-february-28-2021",
+  "question": "$2000 stimulus checks by February 28, 2021?"
+}

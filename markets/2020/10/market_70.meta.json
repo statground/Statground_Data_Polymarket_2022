@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "70",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-10-28T20:20:03.681000Z",
+  "market_createdAt": "2020-10-28T20:20:03.681Z",
+  "market_updatedAt": "2024-04-23T00:37:17.052195Z",
+  "market_startDate": null,
+  "market_endDate": null,
+  "market_closedTime": "2020-11-24 21:07:21+00",
+  "conditionId": "0x8a5b6ae9b967ce2a154bfe07a9db6034bb3bc11f432a57c1ab8ae21c51ff1837",
+  "slug": "which-party-will-win-north-carolina-in-the-2020-presidential-election",
+  "question": "Which party will win North Carolina in the 2020 presidential election?"
+}

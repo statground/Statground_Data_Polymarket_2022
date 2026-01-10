@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243078",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-11T11:24:34.232000Z",
+  "market_createdAt": "2022-04-11T11:24:34.232Z",
+  "market_updatedAt": "2023-01-31T20:25:17.11Z",
+  "market_startDate": "2022-04-11T15:45:57.187Z",
+  "market_endDate": "2022-04-11T00:00:00Z",
+  "market_closedTime": "2022-04-12 07:30:39+00",
+  "conditionId": "0xf4abce5921201118957def426a7f01c5eff6a222f1689538fb31e3c257991462",
+  "slug": "mlb-who-will-win-guardians-vs-city-royals-game-on-april-11",
+  "question": "MLB: Who will win Guardians vs. City Royals game on April 11?"
+}

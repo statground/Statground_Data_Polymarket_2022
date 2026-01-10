@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248072",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T22:29:48.991000Z",
+  "market_createdAt": "2022-11-18T22:29:48.991Z",
+  "market_updatedAt": "2023-01-31T19:21:09.505Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-18T00:00:00Z",
+  "market_closedTime": "2022-12-09 18:15:41+00",
+  "conditionId": "0xf4b879b39df295f3431adca6b00f0c1920faaf71e21db3e2f2e9c820aee88649",
+  "slug": "will-cameroon-win-the-2022-world-cup",
+  "question": "Will Cameroon win the 2022 World Cup?"
+}

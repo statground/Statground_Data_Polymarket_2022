@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239587",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-24T12:30:50.154000Z",
+  "market_createdAt": "2021-11-24T12:30:50.154Z",
+  "market_updatedAt": "2024-04-24T23:34:43.336967Z",
+  "market_startDate": "2021-11-24T19:08:16.253Z",
+  "market_endDate": "2021-11-24T00:00:00Z",
+  "market_closedTime": "2021-11-25 20:52:20+00",
+  "conditionId": "0x632b0b6de07f6ac452f7734616fc2b544eb6903c2fd7500914a8416f0b19da97",
+  "slug": "nba-will-the-bulls-beat-the-rockets-by-more-than-8pt5-points-in-their-24th-november-matchup",
+  "question": "NBA: Will the Bulls beat the Rockets by more than 8.5 points in their 24th November matchup?"
+}

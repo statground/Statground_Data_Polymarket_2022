@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238712",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-07T19:46:01.390000Z",
+  "market_createdAt": "2021-09-07T19:46:01.39Z",
+  "market_updatedAt": "2024-04-22T22:39:54.93227Z",
+  "market_startDate": "2021-09-07T23:10:44.346Z",
+  "market_endDate": "2021-09-21T00:00:00Z",
+  "market_closedTime": "2021-09-21 22:11:22+00",
+  "conditionId": "0x32dda7cef8e9a661db6d648c024a99bd6b0965962469bcceb63b2169d20dc59f",
+  "slug": "what-will-the-floor-price-of-bored-apes-be-on-september-21-2021",
+  "question": "What will the ETH floor price of Bored Apes be on September 21, 2021?"
+}

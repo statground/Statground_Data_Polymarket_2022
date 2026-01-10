@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240789",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-17T16:48:31.322000Z",
+  "market_createdAt": "2022-01-17T16:48:31.322Z",
+  "market_updatedAt": "2024-04-22T23:11:17.353713Z",
+  "market_startDate": "2022-01-17T17:49:11.298Z",
+  "market_endDate": "2022-01-17T00:00:00Z",
+  "market_closedTime": "2022-01-19 21:34:40+00",
+  "conditionId": "0x6fd2212b1555e9c3ea81a436a83f78a9d759aa10d19f20b634f847d196457cf0",
+  "slug": "nba-will-the-magic-beat-the-trail-blazers-by-more-than-2p5-points-in-their-january-17-matchup",
+  "question": "NBA: Will the Magic beat the Trail Blazers by more than 2.5 points in their January 17 matchup?"
+}

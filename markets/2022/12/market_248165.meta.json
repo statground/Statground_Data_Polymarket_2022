@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248165",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-05T15:57:33.936000Z",
+  "market_createdAt": "2022-12-05T15:57:33.936Z",
+  "market_updatedAt": "2023-02-10T01:03:40.119Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-10T00:00:00Z",
+  "market_closedTime": "2022-12-10 23:15:40+00",
+  "conditionId": "0xb51ccf704ac1fe87750db843ef3982e3dd37e4405c1dc545b49b416e0d64efd7",
+  "slug": "world-cup-saturday-france-vs-england",
+  "question": "World Cup: Saturday - France vs. England"
+}

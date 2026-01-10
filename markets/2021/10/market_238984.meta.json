@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238984",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-13T21:51:14.981000Z",
+  "market_createdAt": "2021-10-13T21:51:14.981Z",
+  "market_updatedAt": "2024-04-24T23:15:29.675877Z",
+  "market_startDate": "2021-10-13T21:59:15.793Z",
+  "market_endDate": "2021-10-14T00:00:00Z",
+  "market_closedTime": "2021-10-14 03:49:17+00",
+  "conditionId": "0xe0282334a95182996ebabe0cd50b5a6ab15ef281a5f7c96bcf56ba8e85ebfc22",
+  "slug": "will-the-bucks-or-jazz-win-their-preseason-matchup",
+  "question": "Will the Bucks or Jazz win their preseason matchup on October 13th?"
+}

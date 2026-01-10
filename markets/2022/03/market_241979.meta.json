@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241979",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-08T23:45:25.272000Z",
+  "market_createdAt": "2022-03-08T23:45:25.272Z",
+  "market_updatedAt": "2023-01-31T16:56:22.552Z",
+  "market_startDate": "2022-03-09T00:23:11.377Z",
+  "market_endDate": "2022-03-25T00:00:00Z",
+  "market_closedTime": "2022-03-26 16:21:03+00",
+  "conditionId": "0x155f05137d7c22eed51899566563c8a17b0d6cfbc512fcd50e98d060198f8864",
+  "slug": "will-the-price-of-a-barrel-of-crude-oil-reach-150-by-march-25-2022",
+  "question": "Will the price of a barrel of crude oil reach $150 by March 25, 2022?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239789",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-02T18:35:17.252000Z",
+  "market_createdAt": "2021-12-02T18:35:17.252Z",
+  "market_updatedAt": "2024-04-24T23:30:28.252039Z",
+  "market_startDate": "2021-12-02T21:16:42.089Z",
+  "market_endDate": "2021-12-25T00:00:00Z",
+  "market_closedTime": "2021-12-26 01:20:21+00",
+  "conditionId": "0xe947ce2e7969a88a51bc92388332897fb7969cee0623e8f6e77fe5dd8c3ab30e",
+  "slug": "will-derek-carr-have-the-most-passing-yards-on-december-25",
+  "question": "Will Derek Carr have the most passing yards in the 2021 NFL season on December 25?"
+}

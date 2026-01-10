@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248292",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-27T15:16:05.896000Z",
+  "market_createdAt": "2022-12-27T15:16:05.896Z",
+  "market_updatedAt": "2023-02-10T01:03:40.974Z",
+  "market_startDate": null,
+  "market_endDate": "2023-01-01T00:00:00Z",
+  "market_closedTime": "2023-01-01 23:15:11+00",
+  "conditionId": "0x86a95921efba50773e078f7b935e0ce94b6bfb35f42fcab86ff63ff226d9237f",
+  "slug": "nfl-sunday-dolphins-vs-patriots",
+  "question": "NFL Sunday: Dolphins vs. Patriots"
+}

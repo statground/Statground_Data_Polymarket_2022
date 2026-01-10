@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "203797",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-28T18:00:01.859000Z",
+  "market_createdAt": "2021-05-28T18:00:01.859Z",
+  "market_updatedAt": "2024-04-22T23:33:16.424256Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-01T00:00:00Z",
+  "market_closedTime": "2021-06-02 15:07:21+00",
+  "conditionId": "0x876f58d45bf1099208200acbf4e295941609a8d0b8a3108be7d8366f415f4175",
+  "slug": "who-will-win-suns-v-lakers-game-5",
+  "question": "Who will win Suns v. Lakers: Game 5?"
+}

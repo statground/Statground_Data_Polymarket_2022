@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218547",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-17T05:45:02.856000Z",
+  "market_createdAt": "2021-06-17T05:45:02.856Z",
+  "market_updatedAt": "2024-04-22T22:56:12.205087Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-18T00:00:00Z",
+  "market_closedTime": "2021-06-20 21:13:48+00",
+  "conditionId": "0x4ce447133d74be5d0e781a55d43a1dcbf29814a7d8abad725e3d6d9d7d560a69",
+  "slug": "will-croatia-or-the-czech-republic-win-their-euro-2020-match",
+  "question": "Will Croatia or the Czech Republic win their Euro 2020 match?"
+}

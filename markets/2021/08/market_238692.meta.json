@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238692",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-31T06:58:01.242000Z",
+  "market_createdAt": "2021-08-31T06:58:01.242Z",
+  "market_updatedAt": "2024-04-23T00:01:21.964426Z",
+  "market_startDate": "2021-09-01T17:11:32.756Z",
+  "market_endDate": "2022-01-01T00:00:00Z",
+  "market_closedTime": "2021-10-22 21:35:44+00",
+  "conditionId": "0x833802a6e1cec0ca5db47dd43caa574fb18d743c37b1225d7422cb29e0b541e2",
+  "slug": "will-newsom-get-at-least-54-support-in-his-recall-election",
+  "question": "Will Newsom get at least 54% support in his recall election?"
+}

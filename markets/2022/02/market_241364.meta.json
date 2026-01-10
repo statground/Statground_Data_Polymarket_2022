@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241364",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-07T11:27:01.229000Z",
+  "market_createdAt": "2022-02-07T11:27:01.229Z",
+  "market_updatedAt": "2024-04-25T00:08:12.037341Z",
+  "market_startDate": "2022-02-07T17:44:35.853Z",
+  "market_endDate": "2022-02-07T00:00:00Z",
+  "market_closedTime": "2022-02-09 17:56:33+00",
+  "conditionId": "0x1629c52c71a3323385ec69e08625e6457153d7e0e17fdee13511035e301c89b4",
+  "slug": "nba-will-the-jazz-beat-the-knicks-by-more-than-6p5-points-in-their-february-7-10-pm-et-matchup",
+  "question": "NBA: Will the Jazz beat the Knicks by more than 6.5 points in their February 7 (10 PM ET) matchup?"
+}

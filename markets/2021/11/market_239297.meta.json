@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239297",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-08T10:33:49.794000Z",
+  "market_createdAt": "2021-11-08T10:33:49.794Z",
+  "market_updatedAt": "2024-04-22T23:01:28.703123Z",
+  "market_startDate": "2021-11-08T20:18:38.996Z",
+  "market_endDate": "2021-11-08T00:00:00Z",
+  "market_closedTime": "2021-11-09 17:02:07+00",
+  "conditionId": "0x9f2f1c30b19732d244a75530fb9f17707bd7067cae9cee56c48ba33b084c307c",
+  "slug": "nba-will-the-heat-beat-the-nuggets-by-more-than-2pt5-points-in-their-november-8th-matchup",
+  "question": "NBA: Will the Heat beat the Nuggets by more than 2.5 points in their November 8th matchup?"
+}

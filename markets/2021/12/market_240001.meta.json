@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240001",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-12T13:42:18.205000Z",
+  "market_createdAt": "2021-12-12T13:42:18.205Z",
+  "market_updatedAt": "2024-04-22T23:00:07.128259Z",
+  "market_startDate": "2021-12-12T19:51:06.672Z",
+  "market_endDate": "2021-12-12T00:00:00Z",
+  "market_closedTime": "2021-12-13 20:34:36+00",
+  "conditionId": "0xc2bf0ba28d5f75c1ec316dc23432d077e69cca583a3cc3de086450ec363e4505",
+  "slug": "nba-will-the-mavericks-beat-the-city-thunder-by-more-than-4pt5-points-in-their-december-12-matchup",
+  "question": "NBA: Will the Mavericks beat the Thunder by more than 4.5 points in their December 12 matchup?"
+}

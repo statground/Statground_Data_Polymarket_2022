@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247434",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-30T22:23:53.708000Z",
+  "market_createdAt": "2022-09-30T22:23:53.708Z",
+  "market_updatedAt": "2023-01-31T17:22:18.267Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-19T00:00:00Z",
+  "market_closedTime": "2022-10-20 06:15:37+00",
+  "conditionId": "0x202ada9e804f8c2144537e9e980599683b4ef43aac29385901eef8476f425d79",
+  "slug": "will-uk-inflation-be-8pt9-or-more-in-september-2022",
+  "question": "Will UK inflation be 8.9% or more in September 2022?"
+}

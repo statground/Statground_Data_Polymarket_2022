@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244175",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-04T08:11:45.180000Z",
+  "market_createdAt": "2022-05-04T08:11:45.18Z",
+  "market_updatedAt": "2023-01-31T18:01:07.016Z",
+  "market_startDate": "2022-05-04T14:21:41.3Z",
+  "market_endDate": "2022-05-04T00:00:00Z",
+  "market_closedTime": "2022-05-05 06:46:27+00",
+  "conditionId": "0x72855f4f519a6d696a0e0734a3f8b64a3e5ee5782a845b062bfa2e9002faf53a",
+  "slug": "nba-who-will-win-suns-vs-mavericks-scheduled-for-may-4-1000-pm-et",
+  "question": "NBA: Who will win Suns vs. Mavericks, scheduled for May 4, 10:00 PM ET?"
+}

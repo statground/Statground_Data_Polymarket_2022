@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "90594",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-17T21:10:03.892000Z",
+  "market_createdAt": "2021-02-17T21:10:03.892Z",
+  "market_updatedAt": "2024-04-23T00:14:56.963135Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-18T00:00:00Z",
+  "market_closedTime": "2021-02-20 17:59:40+00",
+  "conditionId": "0x22f4fe27eb1c21046795da7edb49d542bc321fbcfc24a7fe6c57e0e826f56ded",
+  "slug": "will-the-nets-or-the-lakers-win-their-february-18th-matchup",
+  "question": "Will the Nets or the Lakers win their February 18th matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248212",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-15T18:00:27.889000Z",
+  "market_createdAt": "2022-12-15T18:00:27.889Z",
+  "market_updatedAt": "2024-07-17T09:18:48.341562Z",
+  "market_startDate": "2023-02-23T16:36:44.318Z",
+  "market_endDate": "2024-09-10T00:00:00Z",
+  "market_closedTime": "2024-07-16 09:19:49+00",
+  "conditionId": "0x65805e37d6c891808a44064013a0c80babf87010fe6e69204b17381fd0761fdd",
+  "slug": "will-tim-scott-win-the-2024-republican-presidential-nomination",
+  "question": "[Single Market] Will Tim Scott win the 2024 Republican presidential nomination?"
+}

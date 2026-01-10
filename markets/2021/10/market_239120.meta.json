@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239120",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-28T21:14:03.204000Z",
+  "market_createdAt": "2021-10-28T21:14:03.204Z",
+  "market_updatedAt": "2024-04-25T00:00:29.288197Z",
+  "market_startDate": "2021-10-28T22:09:19.748Z",
+  "market_endDate": "2021-11-04T00:00:00Z",
+  "market_closedTime": "2021-11-05 02:34:29+00",
+  "conditionId": "0xf5a5830c3898b496319321fa047c7635773039442f41e471d269db9244748107",
+  "slug": "which-cryptocurrency-will-have-higher-market-cap-on-november-4th-doge-or-shib",
+  "question": "Which cryptocurrency will have higher market cap on November 4th: $DOGE or $SHIB?"
+}

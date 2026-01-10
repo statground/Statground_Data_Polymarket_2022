@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243506",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-20T09:01:04.888000Z",
+  "market_createdAt": "2022-04-20T09:01:04.888Z",
+  "market_updatedAt": "2023-01-31T16:58:06.33Z",
+  "market_startDate": "2022-04-20T14:48:39.33Z",
+  "market_endDate": "2022-04-20T00:00:00Z",
+  "market_closedTime": "2022-04-21 07:16:23+00",
+  "conditionId": "0x4455383cc38baa599aad77042608894b4d7a61e82586d4aafd7e45f47493523f",
+  "slug": "mlb-who-will-win-san-francisco-giants-vs-new-york-mets-scheduled-for-april-20-710-pm-et",
+  "question": "MLB: Who will win San Francisco Giants vs. New York Mets, scheduled for April 20, 7:10 PM ET?"
+}

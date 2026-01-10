@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247800",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-01T20:19:14.426000Z",
+  "market_createdAt": "2022-11-01T20:19:14.426Z",
+  "market_updatedAt": "2023-01-31T18:01:52.464Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-30T00:00:00Z",
+  "market_closedTime": "2022-11-08 16:30:34+00",
+  "conditionId": "0x58c93a5bb95ba33a9a27ca22dc3527ce9d40c175899a1dfcac8b8c6199e06ca3",
+  "slug": "will-doge-dip-below-0pt10-by-nov-30",
+  "question": "Will $DOGE dip below $0.10 by Nov 30?"
+}

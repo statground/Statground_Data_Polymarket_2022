@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247840",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-12T17:01:23.650000Z",
+  "market_createdAt": "2022-11-12T17:01:23.65Z",
+  "market_updatedAt": "2023-01-31T11:08:30.692Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-14T00:00:00Z",
+  "market_closedTime": "2022-11-13 15:15:59+00",
+  "conditionId": "0x06953d95b9a5692aebf208bf4a425e0cbe907a7cb648345762802db64768f903",
+  "slug": "ufc-281-who-will-win-carla-esparza-vs-weili-zhang",
+  "question": "UFC 281: Who will win - Carla Esparza vs Weili Zhang"
+}

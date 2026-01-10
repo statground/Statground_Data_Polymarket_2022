@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "220317",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-29T17:25:01.200000Z",
+  "market_createdAt": "2021-06-29T17:25:01.2Z",
+  "market_updatedAt": "2024-04-24T23:51:14.320074Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-11T00:00:00Z",
+  "market_closedTime": "2021-07-07 22:10:50+00",
+  "conditionId": "0x1b9fc9900bcd522aec5172c36701176b604087e72c46f104676f475b36861014",
+  "slug": "will-spain-win-the-2020-euros",
+  "question": "Will Spain win the Euro 2020?"
+}

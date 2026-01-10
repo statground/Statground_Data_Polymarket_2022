@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241041",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-26T12:28:32.887000Z",
+  "market_createdAt": "2022-01-26T12:28:32.887Z",
+  "market_updatedAt": "2024-04-23T00:10:21.596731Z",
+  "market_startDate": "2022-01-26T18:59:23.638Z",
+  "market_endDate": "2022-01-26T00:00:00Z",
+  "market_closedTime": "2022-01-27 23:58:21+00",
+  "conditionId": "0xd994cd163d00c0c86df2fa23454dfe21a7b3f04d58f27bf08ed53ac462d0c23a",
+  "slug": "nhl-will-the-capitals-beat-the-sharks-by-more-than-1p5-goals-in-their-january-26-matchup-7-pm-et",
+  "question": "NHL: Will the Capitals beat the Sharks by more than 1.5 goals in their January 26 matchup? (7 PM ET)?"
+}

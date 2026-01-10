@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "245532",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-26T07:25:34.701000Z",
+  "market_createdAt": "2022-05-26T07:25:34.701Z",
+  "market_updatedAt": "2023-01-30T19:09:43.465Z",
+  "market_startDate": "2022-05-26T16:06:55.604Z",
+  "market_endDate": "2022-05-26T00:00:00Z",
+  "market_closedTime": "2022-05-27 05:00:37+00",
+  "conditionId": "0x47d932360f436b4d3046a609efa1e810ac38f575cf68cccb887f9adc3c7a38cf",
+  "slug": "mlb-who-will-win-new-york-yankees-vs-tampa-bay-rays-scheduled-for-may-26-641-pm-et",
+  "question": "MLB: Who will win New York Yankees vs. Tampa Bay Rays, scheduled for May 26, 6:41 PM ET?"
+}

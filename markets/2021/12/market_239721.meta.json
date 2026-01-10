@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239721",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-01T10:02:31.098000Z",
+  "market_createdAt": "2021-12-01T10:02:31.098Z",
+  "market_updatedAt": "2024-04-22T22:40:46.563951Z",
+  "market_startDate": "2021-12-01T19:45:07.528Z",
+  "market_endDate": "2021-12-02T00:00:00Z",
+  "market_closedTime": "2021-12-03 23:44:04+00",
+  "conditionId": "0xad1f4bd8c35a0c6cdfb65c0a542c8d54d5324514652b33d62ac5bbeb760f3532",
+  "slug": "nfl-will-the-sum-of-points-in-cowboys-v-saints-be-an-even-or-an-odd-number",
+  "question": "NFL: Will the sum of points in Cowboys v. Saints be an even or an odd number?"
+}

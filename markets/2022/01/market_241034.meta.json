@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241034",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-26T12:20:40.643000Z",
+  "market_createdAt": "2022-01-26T12:20:40.643Z",
+  "market_updatedAt": "2024-04-23T00:45:11.692706Z",
+  "market_startDate": "2022-01-26T19:00:09.416Z",
+  "market_endDate": "2022-01-26T00:00:00Z",
+  "market_closedTime": "2022-01-27 23:57:49+00",
+  "conditionId": "0xc67580f21972ae43cd22b19b3472b8b6d8230ef23cda334b527481faac85cf40",
+  "slug": "nba-who-will-win-the-hornets-vs-pacers-scheduled-for-january-26-7-pm-et",
+  "question": "NBA: Who will win the Hornets vs. Pacers, scheduled for January 26 (7 PM ET)?"
+}

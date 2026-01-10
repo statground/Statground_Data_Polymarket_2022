@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238934",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-03T06:07:20.666000Z",
+  "market_createdAt": "2021-10-03T06:07:20.666Z",
+  "market_updatedAt": "2024-04-22T23:33:03.054087Z",
+  "market_startDate": "2021-10-03T07:24:01.787Z",
+  "market_endDate": "2021-10-03T00:00:00Z",
+  "market_closedTime": "2021-10-03 20:34:46+00",
+  "conditionId": "0xfb2d66d57cf2c39fac31fd16330941a86f1c22ed80ecaeb17a7df8e0655c6fba",
+  "slug": "in-game-trading-will-washington-beat-the-atlanta-falcons-by-over-15-points-in-their-week-four-matchup",
+  "question": "(In-Game Trading) Will Washington beat the Atlanta Falcons by over 1.5 points in their week four matchup?"
+}

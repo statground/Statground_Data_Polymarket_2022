@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243385",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-18T07:32:16.094000Z",
+  "market_createdAt": "2022-04-18T07:32:16.094Z",
+  "market_updatedAt": "2023-01-30T17:39:53.219Z",
+  "market_startDate": "2022-04-18T13:52:28.582Z",
+  "market_endDate": "2022-05-01T00:00:00Z",
+  "market_closedTime": "2022-05-01 17:45:34+00",
+  "conditionId": "0x5237ab502c75d41fe88b1cbef5d6bb8bc6893d1cf0c72247db917a34e113f1b4",
+  "slug": "2022-nba-playoffs-1st-round-who-will-win-76ers-vs-raptors",
+  "question": "2022 NBA Playoffs, 1st Round: Who will win 76ers vs. Raptors?"
+}

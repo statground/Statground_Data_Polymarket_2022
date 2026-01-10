@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243875",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-28T08:09:26.065000Z",
+  "market_createdAt": "2022-04-28T08:09:26.065Z",
+  "market_updatedAt": "2023-01-31T09:33:45.424Z",
+  "market_startDate": null,
+  "market_endDate": "2022-04-28T00:00:00Z",
+  "market_closedTime": "2022-04-29 07:17:27+00",
+  "conditionId": "0x83b2d63ba459ce262c56f12c3db6271c23b3c6deabdc8a68c4c1f4886adae365",
+  "slug": "nhl-will-the-panthers-beat-the-senators-by-more-than-1pt5-goals-in-their-april-28-700-pm-et-matchup",
+  "question": "NHL: Will the Panthers beat the Senators by more than 1.5 goals in their April 28, 7:00 PM ET matchup?"
+}

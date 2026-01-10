@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241741",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-26T17:48:47.581000Z",
+  "market_createdAt": "2022-02-26T17:48:47.581Z",
+  "market_updatedAt": "2024-04-22T23:33:50.052675Z",
+  "market_startDate": "2022-02-26T20:30:29.922Z",
+  "market_endDate": "2022-02-27T00:00:00Z",
+  "market_closedTime": "2022-02-28 15:22:46+00",
+  "conditionId": "0x05b4132668af908d810a4621d4114119baf9edc2b819d6ea480866d5321de3a6",
+  "slug": "golf-will-daniel-berger-win-honda-classic-2022",
+  "question": "Golf: Will Daniel Berger win Honda Classic 2022?"
+}

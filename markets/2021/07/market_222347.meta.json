@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "222347",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-06T16:30:01.079000Z",
+  "market_createdAt": "2021-07-06T16:30:01.079Z",
+  "market_updatedAt": "2024-04-22T23:01:41.829841Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-08T00:00:00Z",
+  "market_closedTime": "2021-07-09 21:59:44+00",
+  "conditionId": "0x4d8bd386859d80cf3f4851009fc61439b3581f6d9ff9d01fb4db5f5fc208e20a",
+  "slug": "who-will-win-bucks-v-suns-nba-finals-game-2",
+  "question": "Who will win Bucks v. Suns: NBA Finals Game 2?"
+}

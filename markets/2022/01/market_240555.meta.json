@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240555",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T18:59:23.619000Z",
+  "market_createdAt": "2022-01-11T18:59:23.619Z",
+  "market_updatedAt": "2024-04-23T00:52:27.535887Z",
+  "market_startDate": "2022-01-12T21:14:21.588Z",
+  "market_endDate": "2022-03-31T00:00:00Z",
+  "market_closedTime": "2022-04-02 01:01:12+00",
+  "conditionId": "0x8aae825283e3ae2cc2b6ee149bbe0bdd56bb033fa5c63aa996b785c4bebf1b5c",
+  "slug": "will-zapper-airdrop-a-native-token-by-march-31st-2022",
+  "question": "Will Zapper airdrop a native token by March 31st, 2022?"
+}

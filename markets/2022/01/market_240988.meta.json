@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240988",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-24T18:00:17.396000Z",
+  "market_createdAt": "2022-01-24T18:00:17.396Z",
+  "market_updatedAt": "2024-04-23T00:51:52.876095Z",
+  "market_startDate": "2022-01-24T20:12:11.217Z",
+  "market_endDate": "2022-01-24T00:00:00Z",
+  "market_closedTime": "2022-01-25 22:08:14+00",
+  "conditionId": "0x660f3c5a399a30855bd275c9f8cfd810a8e7c50f4aa4e1beff547abb3067a079",
+  "slug": "nba-who-will-win-the-suns-vs-jazz-game-on-january-24",
+  "question": "NBA: Who will win the Suns vs. Jazz game on January 24?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239639",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-28T16:00:34.222000Z",
+  "market_createdAt": "2021-11-28T16:00:34.222Z",
+  "market_updatedAt": "2024-04-24T23:30:59.22622Z",
+  "market_startDate": "2021-11-28T16:47:39.105Z",
+  "market_endDate": "2021-11-28T00:00:00Z",
+  "market_closedTime": "2021-11-29 13:59:18+00",
+  "conditionId": "0xfa354387f881481954207814026c88dfbe12e2e1a31cf3fdc7133353489bd7e1",
+  "slug": "nfl-will-the-panthers-beat-the-dolphins-by-more-than-1pt5-points-in-their-november-28th-matchup",
+  "question": "NFL: Will the Panthers beat the Dolphins by more than 1.5 points in their November 28th matchup?"
+}

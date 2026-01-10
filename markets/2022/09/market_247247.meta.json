@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247247",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-12T19:06:49.253000Z",
+  "market_createdAt": "2022-09-12T19:06:49.253Z",
+  "market_updatedAt": "2023-01-31T16:49:30.837Z",
+  "market_startDate": "2022-09-13T15:56:57.349Z",
+  "market_endDate": "2022-09-14T00:00:00Z",
+  "market_closedTime": "2022-09-15 06:30:54+00",
+  "conditionId": "0x8d95324bec853a8b14efbde1d43bc3c145c8be7e7f664e24ecd6db56eca385d8",
+  "slug": "mlb-who-will-win-kansas-city-royals-v-minnesota-twins-scheduled-for-september-14-740-pm-et",
+  "question": "MLB: Who will win Kansas City Royals v. Minnesota Twins, scheduled for September 14, 7:40 PM ET?"
+}

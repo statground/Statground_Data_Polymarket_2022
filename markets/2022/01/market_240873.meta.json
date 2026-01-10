@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240873",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-19T20:55:39.430000Z",
+  "market_createdAt": "2022-01-19T20:55:39.43Z",
+  "market_updatedAt": "2024-04-24T23:37:50.542216Z",
+  "market_startDate": null,
+  "market_endDate": "2022-01-31T00:00:00Z",
+  "market_closedTime": "2022-01-31 22:39:56+00",
+  "conditionId": "0x75dcb3cf6fb0223aacfdb03a95d7fc8f0fa102cb490faa63fd8cc06ed23f278c",
+  "slug": "will-daniil-medvedev-win-the-australian-open-2022",
+  "question": "Will Daniil Medvedev win the Australian Open 2022?"
+}

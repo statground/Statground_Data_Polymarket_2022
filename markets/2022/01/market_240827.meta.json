@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240827",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-18T16:11:00.719000Z",
+  "market_createdAt": "2022-01-18T16:11:00.719Z",
+  "market_updatedAt": "2024-04-23T00:15:18.467002Z",
+  "market_startDate": "2022-01-18T21:28:57.032Z",
+  "market_endDate": "2022-01-18T00:00:00Z",
+  "market_closedTime": "2022-01-21 13:33:09+00",
+  "conditionId": "0x65d589f82db85ce0a9756e199326a7b24ffbbf244181cdd6d7503ccb4ee31727",
+  "slug": "nhl-will-the-panthers-beat-the-flames-by-more-than-1p5-goals-in-their-january-18-matchup",
+  "question": "NHL: Will the Panthers beat the Flames by more than 1.5 goals in their January 18 matchup?"
+}

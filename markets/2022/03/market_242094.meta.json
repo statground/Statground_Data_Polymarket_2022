@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242094",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-15T15:12:18.150000Z",
+  "market_createdAt": "2022-03-15T15:12:18.15Z",
+  "market_updatedAt": "2024-04-22T23:30:20.371903Z",
+  "market_startDate": "2022-03-15T17:54:57.529Z",
+  "market_endDate": "2022-03-15T00:00:00Z",
+  "market_closedTime": "2022-03-16 11:01:03+00",
+  "conditionId": "0x88d4b6a5dd0e47a04a2b913cc29a0d0818d1d116cc068aa5e461ee15ceacc69b",
+  "slug": "nba-who-will-win-the-suns-vspt-pelicans-scheduled-for-march-15-8-pm-et",
+  "question": "NBA: Who will win the Suns vs. Pelicans, scheduled for March 15 (8 PM ET)?"
+}

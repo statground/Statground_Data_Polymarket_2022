@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242014",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-11T11:33:31.134000Z",
+  "market_createdAt": "2022-03-11T11:33:31.134Z",
+  "market_updatedAt": "2024-04-23T00:07:31.003906Z",
+  "market_startDate": "2022-03-11T20:37:33.985Z",
+  "market_endDate": "2022-03-11T00:00:00Z",
+  "market_closedTime": "2022-03-12 12:30:34+00",
+  "conditionId": "0x479336e88055c4177b711b7a791b60389e2acd9f255bbd1a28dc17c992928fd1",
+  "slug": "nba-will-the-grizzlies-beat-the-knicks-by-more-than-9pt5-points-in-their-march-11-8-pm-et-matchup",
+  "question": "NBA: Will the Grizzlies beat the Knicks by more than 9.5 points in their March 11 (8 PM ET) matchup?"
+}

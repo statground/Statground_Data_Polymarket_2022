@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "130144",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-15T21:45:02.891000Z",
+  "market_createdAt": "2021-04-15T21:45:02.891Z",
+  "market_updatedAt": "2024-04-22T23:26:28.414632Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-16T00:00:00Z",
+  "market_closedTime": "2021-04-16 22:25:19+00",
+  "conditionId": "0xf742ad08d4a6296cd56a86d273cae231b3645076529c9ff0c184dbf30a2361d1",
+  "slug": "what-will-edward-snowdens-nft-stay-free-sell-for-at-auction",
+  "question": "What will Edward Snowden’s NFT “Stay Free” sell for at auction?"
+}

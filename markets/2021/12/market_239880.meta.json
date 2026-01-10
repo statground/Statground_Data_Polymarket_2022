@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239880",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-07T11:16:53.409000Z",
+  "market_createdAt": "2021-12-07T11:16:53.409Z",
+  "market_updatedAt": "2024-04-23T00:54:14.899273Z",
+  "market_startDate": "2021-12-07T18:53:21.984Z",
+  "market_endDate": "2021-12-07T00:00:00Z",
+  "market_closedTime": "2021-12-08 19:01:19+00",
+  "conditionId": "0x0c5d329fe7ecae05539cbe3cd11d64d01f31b4534a64b67ff32a374ec82e1f3f",
+  "slug": "nba-will-the-sum-of-points-in-nets-v-mavericks-be-an-even-or-an-odd-number",
+  "question": "NBA: Will the sum of points in Nets v Mavericks be an even or an odd number?"
+}

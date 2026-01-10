@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240747",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-14T15:17:59.867000Z",
+  "market_createdAt": "2022-01-14T15:17:59.867Z",
+  "market_updatedAt": "2024-04-22T23:30:02.181424Z",
+  "market_startDate": null,
+  "market_endDate": "2022-02-13T00:00:00Z",
+  "market_closedTime": "2022-02-15 07:33:56+00",
+  "conditionId": "0x4d732a07f98785e89ca6b2be859468fcb78bff4952ed58c62241de31933f804f",
+  "slug": "will-there-be-another-1073th-nfl-scorigami-this-season",
+  "question": "Will there be another (1073rd) NFL Scorigami this season?"
+}

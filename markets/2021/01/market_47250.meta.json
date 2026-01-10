@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "47250",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-01-18T21:20:01.644000Z",
+  "market_createdAt": "2021-01-18T21:20:01.644Z",
+  "market_updatedAt": "2024-04-22T22:53:15.308703Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-01T00:00:00Z",
+  "market_closedTime": "2021-03-31 17:37:46+00",
+  "conditionId": "0x46f4890c7c37a14453d8381426d70596213a4e25dd76d6b7b927a8940b49bf66",
+  "slug": "will-donald-trump-be-president-of-the-usa-on-march-31-2021",
+  "question": "Will Donald Trump be President of the USA on March 31, 2021?"
+}

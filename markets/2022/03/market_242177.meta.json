@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242177",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-17T18:31:25.546000Z",
+  "market_createdAt": "2022-03-17T18:31:25.546Z",
+  "market_updatedAt": "2024-04-22T23:01:52.256675Z",
+  "market_startDate": "2022-03-17T19:19:35.649Z",
+  "market_endDate": "2022-06-05T00:00:00Z",
+  "market_closedTime": "2022-06-08 15:25:11+00",
+  "conditionId": "0x443a092e82f01af2163b674108cdbf67ed514763273577f4f4752ec5bf979496",
+  "slug": "will-peace-hit-its-google-trends-all-time-high-global-monthly-before-june-2022",
+  "question": "Will \"peace\" hit its Google Trends all time high (global, monthly) before June 2022?"
+}

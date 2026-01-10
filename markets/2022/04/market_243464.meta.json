@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243464",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-19T08:19:11.015000Z",
+  "market_createdAt": "2022-04-19T08:19:11.015Z",
+  "market_updatedAt": "2023-01-31T19:06:05.92Z",
+  "market_startDate": "2022-04-19T15:03:33.577Z",
+  "market_endDate": "2022-04-19T00:00:00Z",
+  "market_closedTime": "2022-04-20 07:32:46+00",
+  "conditionId": "0xe0c46c933f96620f279ba019792d08541a32873596883258cf4e8fba0f2f08b4",
+  "slug": "nhl-will-the-kings-beat-the-ducks-by-more-than-1pt5-goals-in-their-april-19-1000-pm-et-matchup",
+  "question": "NHL: Will the Kings beat the Ducks by more than 1.5 goals in their April 19, 10:00 PM ET matchup?"
+}

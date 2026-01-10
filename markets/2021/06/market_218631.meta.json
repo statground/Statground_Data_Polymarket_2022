@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218631",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-23T16:05:07.360000Z",
+  "market_createdAt": "2021-06-23T16:05:07.36Z",
+  "market_updatedAt": "2024-04-22T23:40:59.203921Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-29T00:00:00Z",
+  "market_closedTime": "2021-06-30 14:54:21+00",
+  "conditionId": "0x9cd2928d210190ed65d21c5235eeaa10a51c29aea1af94ade062be6499e9ab1f",
+  "slug": "will-f9-gross-more-than-62m-domestically-on-opening-weekend",
+  "question": "Will F9 gross more than $62M domestically on opening weekend?"
+}

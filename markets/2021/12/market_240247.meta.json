@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240247",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-30T16:43:35.648000Z",
+  "market_createdAt": "2021-12-30T16:43:35.648Z",
+  "market_updatedAt": "2024-04-22T23:28:48.817941Z",
+  "market_startDate": "2021-12-30T17:45:32.552Z",
+  "market_endDate": "2021-12-30T00:00:00Z",
+  "market_closedTime": "2021-12-31 17:42:52+00",
+  "conditionId": "0x94ccb314a73205668e4a28c2c0e9acfd3b7c2debf31227557008c4578e473c6c",
+  "slug": "nba-will-the-nets-beat-the-76ers-by-more-than-5pt5-points-in-their-december-30-matchup",
+  "question": "NBA: Will the Nets beat the 76ers by more than 5.5 points in their December 30 matchup?"
+}

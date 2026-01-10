@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247316",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-20T20:48:22.202000Z",
+  "market_createdAt": "2022-09-20T20:48:22.202Z",
+  "market_updatedAt": "2023-01-31T21:25:30.035Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-31T00:00:00Z",
+  "market_closedTime": "2022-09-30 17:15:49+00",
+  "conditionId": "0xd48ee7f491db43dacddf9c318705b176b39a7457e41ba960eda88b8322316670",
+  "slug": "will-a-hurricane-make-landfall-in-the-lower-48-states-by-october-31",
+  "question": "Will a hurricane make landfall in the lower 48 U.S. states by October 31?"
+}

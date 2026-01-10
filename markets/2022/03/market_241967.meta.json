@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241967",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-08T11:50:17.093000Z",
+  "market_createdAt": "2022-03-08T11:50:17.093Z",
+  "market_updatedAt": "2024-04-22T22:43:51.501328Z",
+  "market_startDate": "2022-03-08T21:21:20.019Z",
+  "market_endDate": "2022-03-08T00:00:00Z",
+  "market_closedTime": "2022-03-09 19:01:31+00",
+  "conditionId": "0xb978d50b5afbf25f3ec2a9648ff4cd4c714ef9cfa16abcba8932d658a7ce1258",
+  "slug": "nba-will-the-nets-beat-the-hornets-by-more-than-3pt5-points-in-their-march-8-7-pm-et-matchup",
+  "question": "NBA: Will the Nets beat the Hornets by more than 3.5 points in their March 8 (7 PM ET) matchup?"
+}

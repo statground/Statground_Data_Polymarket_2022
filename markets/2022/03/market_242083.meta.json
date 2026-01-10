@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242083",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-15T01:44:18.678000Z",
+  "market_createdAt": "2022-03-15T01:44:18.678Z",
+  "market_updatedAt": "2024-04-22T23:26:32.12718Z",
+  "market_startDate": "2022-03-15T16:40:13.507Z",
+  "market_endDate": "2022-03-25T00:00:00Z",
+  "market_closedTime": "2022-03-25 19:11:18+00",
+  "conditionId": "0x51a2e99e3b38527c2772c147be686faaad52187951edc56a5169e4ad70e5467f",
+  "slug": "will-the-price-of-matic-be-above-1pt40-on-march-25-2022",
+  "question": "Will the price of $MATIC be above $1.40 on March 25, 2022?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241064",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-26T21:08:03.044000Z",
+  "market_createdAt": "2022-01-26T21:08:03.044Z",
+  "market_updatedAt": "2024-04-24T23:46:32.837856Z",
+  "market_startDate": "2022-02-11T17:47:24.218Z",
+  "market_endDate": "2022-05-03T00:00:00Z",
+  "market_closedTime": "2022-05-04 06:47:54+00",
+  "conditionId": "0xf021c8be1f29e990da1f4fa89dbfeb1da1cee47ba5c38ecffdc1161658c11464",
+  "slug": "will-j-d-vance-win-the-republican-nomination-for-the-2022-united-states-senate-election-in-ohio",
+  "question": "Will J. D. Vance win the Republican nomination for the 2022 United States Senate election in Ohio?"
+}

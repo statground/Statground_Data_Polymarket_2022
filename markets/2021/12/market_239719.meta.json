@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239719",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-01T09:51:02.604000Z",
+  "market_createdAt": "2021-12-01T09:51:02.604Z",
+  "market_updatedAt": "2024-04-25T00:02:47.638745Z",
+  "market_startDate": "2021-12-01T19:43:28.784Z",
+  "market_endDate": "2021-12-02T00:00:00Z",
+  "market_closedTime": "2021-12-03 23:55:38+00",
+  "conditionId": "0x244e9a5cbeacbb388d228810c955c676aa73ef4820f1dd6c22e7ce709a83276b",
+  "slug": "nfl-will-the-cowboys-beat-the-saints-by-more-than-3pt5-points-in-their-december-2nd-matchup",
+  "question": "NFL: Will the Cowboys beat the Saints by more than 3.5 points in their December 2nd matchup?"
+}

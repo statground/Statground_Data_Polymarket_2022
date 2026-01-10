@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218649",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-23T22:20:00.971000Z",
+  "market_createdAt": "2021-06-23T22:20:00.971Z",
+  "market_updatedAt": "2024-04-25T00:12:58.019605Z",
+  "market_startDate": null,
+  "market_endDate": null,
+  "market_closedTime": "2021-07-14 05:14:32+00",
+  "conditionId": "0x06bd872ea6a062f8e63a89bb1e2e42659accebd3f9365f5fb4c779126726ad62",
+  "slug": "will-maya-wiley-win-second-place-in-the-2021-nyc-democratic-primary",
+  "question": "Will Maya Wiley win second place in the 2021 NYC Democratic Primary?"
+}

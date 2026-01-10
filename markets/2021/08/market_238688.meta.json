@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238688",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-30T21:24:01.554000Z",
+  "market_createdAt": "2021-08-30T21:24:01.554Z",
+  "market_updatedAt": "2024-04-22T22:46:39.29483Z",
+  "market_startDate": "2021-08-31T02:04:11.288Z",
+  "market_endDate": "2021-09-03T00:00:00Z",
+  "market_closedTime": "2021-09-06 19:13:12+00",
+  "conditionId": "0xbc0d3aaf2bb5566248f29aac130e9b46288128847b7bcd3fa6cc0aa86e175457",
+  "slug": "will-gambit-or-furia-win-their-esl-pro-league-season-14-matchup-on-september-3-2021",
+  "question": "Will Gambit or FURIA win their ESL matchup on September 3?"
+}

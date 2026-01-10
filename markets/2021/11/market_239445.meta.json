@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239445",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-15T18:05:10.877000Z",
+  "market_createdAt": "2021-11-15T18:05:10.877Z",
+  "market_updatedAt": "2024-04-22T23:39:34.629878Z",
+  "market_startDate": "2021-11-15T20:46:49.752Z",
+  "market_endDate": "2021-11-18T00:00:00Z",
+  "market_closedTime": "2021-11-19 20:41:25+00",
+  "conditionId": "0x7a5581c5d480fabd500aa1bd3cfb6d8c12b243e8d8b85597c6c2655de62aea7b",
+  "slug": "will-constitutiondao-win-the-sothebys-auction-for-the-united-states-constitution",
+  "question": "Will ConstitutionDAO win the Sotheby’s auction for the United States Constitution?"
+}

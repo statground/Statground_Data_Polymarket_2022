@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240717",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-13T23:20:35.590000Z",
+  "market_createdAt": "2022-01-13T23:20:35.59Z",
+  "market_updatedAt": "2024-04-22T22:54:15.715854Z",
+  "market_startDate": "2022-01-14T00:02:15.365Z",
+  "market_endDate": "2022-01-13T00:00:00Z",
+  "market_closedTime": "2022-01-15 00:08:38+00",
+  "conditionId": "0x00a82e891b42f022a61f2acb20a40dfd2a0e9136fed801ce44f298c776e871f7",
+  "slug": "nhl-will-the-flames-beat-the-senators-by-more-than-1p5-goals-in-their-january-13-matchup",
+  "question": "NHL: Will the Flames beat the Senators by more than 1.5 goals in their January 13 matchup?"
+}

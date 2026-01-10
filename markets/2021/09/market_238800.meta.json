@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238800",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-19T16:20:01.498000Z",
+  "market_createdAt": "2021-09-19T16:20:01.498Z",
+  "market_updatedAt": "2024-04-23T00:58:48.670283Z",
+  "market_startDate": "2021-09-21T20:40:14.3Z",
+  "market_endDate": "2021-09-25T00:00:00Z",
+  "market_closedTime": "2021-09-26 23:56:40+00",
+  "conditionId": "0x490d8bca67e6c2849e3be233636e9fe7df459d0f9d0e38172f54ff43dc4473c7",
+  "slug": "will-anthony-joshua-or-oleksandr-usyk-win-their-boxing-match-1",
+  "question": "Will Anthony Joshua or Oleksandr Usyk win their boxing match?"
+}

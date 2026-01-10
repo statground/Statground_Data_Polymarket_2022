@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "222356",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-06T17:00:01.135000Z",
+  "market_createdAt": "2021-07-06T17:00:01.135Z",
+  "market_updatedAt": "2024-04-22T22:55:07.025094Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-22T00:00:00Z",
+  "market_closedTime": "2021-07-22 23:19:13+00",
+  "conditionId": "0x1062921f22c2be8a9fe5a8087c239172a49fc457e3d2f3757f6661ed86933281",
+  "slug": "will-eth-ethereum-be-above-2500-on-july-22",
+  "question": "Will $ETH (Ethereum) be above $2500 on July 22?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241363",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-07T11:25:41.130000Z",
+  "market_createdAt": "2022-02-07T11:25:41.13Z",
+  "market_updatedAt": "2024-04-22T23:00:19.131856Z",
+  "market_startDate": "2022-02-07T17:44:27.802Z",
+  "market_endDate": "2022-02-07T00:00:00Z",
+  "market_closedTime": "2022-02-09 17:52:57+00",
+  "conditionId": "0x75bc1517d6219b910622478dbabaf1b30502c14f1dfdc7d7e072ef33a294dbb8",
+  "slug": "nba-will-the-suns-beat-the-bulls-by-more-than-6p5-points-in-their-february-7-8-pm-et-matchup",
+  "question": "NBA: Will the Suns beat the Bulls by more than 6.5 points in their February 7 (8 PM ET) matchup?"
+}

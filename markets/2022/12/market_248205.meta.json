@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248205",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-14T21:45:48.556000Z",
+  "market_createdAt": "2022-12-14T21:45:48.556Z",
+  "market_updatedAt": "2024-04-25T00:10:26.171524Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-18T00:00:00Z",
+  "market_closedTime": "2022-12-18 20:00:50+00",
+  "conditionId": "0x1e7db4f6ca3919aa41887f9701605568da64287e1e1662aa7558a749ec61146c",
+  "slug": "world-cup-final-france-vs-argentina",
+  "question": "World Cup Final: France vs. Argentina"
+}

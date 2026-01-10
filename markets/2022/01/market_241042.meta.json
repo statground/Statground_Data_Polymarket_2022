@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241042",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-26T12:28:52.946000Z",
+  "market_createdAt": "2022-01-26T12:28:52.946Z",
+  "market_updatedAt": "2024-04-23T00:59:50.365986Z",
+  "market_startDate": "2022-01-26T19:06:39.075Z",
+  "market_endDate": "2022-01-26T00:00:00Z",
+  "market_closedTime": "2022-01-28 15:29:13+00",
+  "conditionId": "0x9cb0b38f6d34b8d3f0180dd3426163c470f5843e1df0626599643269891105d6",
+  "slug": "nba-will-the-grizzlies-beat-the-spurs-by-more-than-3p5-points-in-their-january-26-830-pm-et-matchup",
+  "question": "NBA: Will the Grizzlies beat the Spurs by more than 3.5 points in their January 26 (8.30 PM ET) matchup?"
+}

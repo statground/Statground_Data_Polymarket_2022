@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "217744",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-14T21:25:01.031000Z",
+  "market_createdAt": "2021-06-14T21:25:01.031Z",
+  "market_updatedAt": "2024-04-22T23:32:19.487337Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-14T00:00:00Z",
+  "market_closedTime": "2021-06-15 15:11:48+00",
+  "conditionId": "0x88b2b87646d31b98c494dd254cf714f648775e0df44b1b6b33ff0898bbb63fd8",
+  "slug": "who-will-win-canadiens-v-golden-knights-semifinals-game-1",
+  "question": "Who will win Canadiens v. Golden Knights: Semifinals Game 1?"
+}

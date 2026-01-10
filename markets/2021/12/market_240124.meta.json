@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240124",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-21T15:14:51.089000Z",
+  "market_createdAt": "2021-12-21T15:14:51.089Z",
+  "market_updatedAt": "2024-04-23T00:54:33.521908Z",
+  "market_startDate": "2021-12-21T18:24:30.18Z",
+  "market_endDate": "2021-12-21T00:00:00Z",
+  "market_closedTime": "2021-12-22 18:37:35+00",
+  "conditionId": "0x2aaf487c55ea665bb44dc465d4d4a6c037bf3f2c9e18eac20b4cecc25bfea19d",
+  "slug": "nfl-will-the-eagles-beat-the-washington-by-more-than-10pt5-points-in-their-december-21-matchup",
+  "question": "NFL: Will the Eagles beat the Washington by more than 10.5 points in their December 21 matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "34767",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-01-10T18:05:05.877000Z",
+  "market_createdAt": "2021-01-10T18:05:05.877Z",
+  "market_updatedAt": "2023-01-31T18:46:08.953Z",
+  "market_startDate": null,
+  "market_endDate": "2021-01-21T00:00:00Z",
+  "market_closedTime": "2021-01-20 17:52:52+00",
+  "conditionId": "0x60e4236398c327691bfd2f70346aab13bb84a6422c56276c49436e54e57e2688",
+  "slug": "will-an-official-presidential-inauguration-take-place-in-person-outside-the-us-capitol-on-january-20th-2021",
+  "question": "Will an official Presidential inauguration take place in-person outside the US Capitol on January 20th, 2021?"
+}

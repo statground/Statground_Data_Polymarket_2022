@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238997",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-13T23:03:42.324000Z",
+  "market_createdAt": "2021-10-13T23:03:42.324Z",
+  "market_updatedAt": "2024-04-22T23:30:56.399992Z",
+  "market_startDate": "2021-10-14T16:30:10.481Z",
+  "market_endDate": "2021-10-31T00:00:00Z",
+  "market_closedTime": "2021-11-01 19:48:08+00",
+  "conditionId": "0x53d1d69d051803312ae4785af899321ff3e93904c4f08315eb8577bbc12b781d",
+  "slug": "will-an-ens-domain-sell-for-greater-than-1pt55m",
+  "question": "Will an ENS domain sell for more than 1.55m by October 31st?"
+}

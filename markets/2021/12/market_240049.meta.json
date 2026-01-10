@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240049",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-15T10:02:21.397000Z",
+  "market_createdAt": "2021-12-15T10:02:21.397Z",
+  "market_updatedAt": "2024-04-22T23:48:25.259051Z",
+  "market_startDate": "2021-12-15T21:42:56.145Z",
+  "market_endDate": "2021-12-15T00:00:00Z",
+  "market_closedTime": "2021-12-16 17:05:40+00",
+  "conditionId": "0x1637296ab021c31d9c6423f61ab0c9e9917cbdd8dc636586fce52f20203a540b",
+  "slug": "nba-will-the-76ers-beat-the-heat-by-more-than-4pt5-points-in-their-december-15-matchup",
+  "question": "NBA: Will the 76ers beat the Heat by more than 4.5 points in their December 15 matchup?"
+}

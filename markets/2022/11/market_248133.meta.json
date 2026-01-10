@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248133",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-28T15:47:43.543000Z",
+  "market_createdAt": "2022-11-28T15:47:43.543Z",
+  "market_updatedAt": "2023-01-31T09:21:07.413Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-29T00:00:00Z",
+  "market_closedTime": "2022-11-30 01:33:28+00",
+  "conditionId": "0x237f87fa0d4ef4255babdd8234eb20b1900f885a4de40da90237cb04ffdea05f",
+  "slug": "world-cup-tuesday-will-united-states-beat-iran",
+  "question": "World Cup: Tuesday - Will United States beat Iran?"
+}

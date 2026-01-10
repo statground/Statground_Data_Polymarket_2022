@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248202",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-14T18:05:49.582000Z",
+  "market_createdAt": "2022-12-14T18:05:49.582Z",
+  "market_updatedAt": "2023-02-10T01:03:44.825Z",
+  "market_startDate": null,
+  "market_endDate": "2023-01-31T00:00:00Z",
+  "market_closedTime": "2023-02-02 10:31:50+00",
+  "conditionId": "0x7e6488eadc8fc58186091fc8db7cd7946dbe15f70f3607f7f197f3e74901f908",
+  "slug": "will-binancecom-become-insolvent-by-jan-31-2023",
+  "question": "Will Binance.com become insolvent by Jan 31, 2023?"
+}

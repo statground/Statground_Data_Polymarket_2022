@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239009",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-13T23:53:32.665000Z",
+  "market_createdAt": "2021-10-13T23:53:32.665Z",
+  "market_updatedAt": "2024-04-26T02:50:15.471098Z",
+  "market_startDate": "2021-10-14T17:01:27.382Z",
+  "market_endDate": "2021-11-01T00:00:00Z",
+  "market_closedTime": "2021-11-01 16:56:27+00",
+  "conditionId": "0xd8ec28de2c6bf8046a9c3b3fd746c200cb7a126a73cdb5927f42d963d8377aac",
+  "slug": "what-will-the-price-of-sol-be-on-november-1-2021",
+  "question": "What will the price of $SOL be on November 1, 2021?"
+}

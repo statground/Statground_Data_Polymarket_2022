@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239227",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-03T15:34:40.204000Z",
+  "market_createdAt": "2021-11-03T15:34:40.204Z",
+  "market_updatedAt": "2024-04-23T00:32:27.035817Z",
+  "market_startDate": "2021-11-03T16:48:56.241Z",
+  "market_endDate": "2021-11-03T00:00:00Z",
+  "market_closedTime": "2021-11-04 17:00:23+00",
+  "conditionId": "0xce0f307374972daa47752990d7db54907f6a1015b7dce6570536339b132f3c7d",
+  "slug": "nba-who-will-win-the-grizzlies-v-nuggets-game-on-november-3rd",
+  "question": "NBA: Who will win the Grizzlies v. Nuggets game on November 3rd?"
+}

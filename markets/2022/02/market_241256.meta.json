@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241256",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-02T12:29:20.016000Z",
+  "market_createdAt": "2022-02-02T12:29:20.016Z",
+  "market_updatedAt": "2024-04-22T22:59:49.844301Z",
+  "market_startDate": "2022-02-02T17:34:26.123Z",
+  "market_endDate": "2022-02-02T00:00:00Z",
+  "market_closedTime": "2022-02-04 21:06:44+00",
+  "conditionId": "0xc09684e92cc5100c6cc8b6533215498b743c3384adb1e83a598c9e5893b7de97",
+  "slug": "nba-who-will-win-the-pacers-vs-magic-scheduled-for-february-2-7-pm-et",
+  "question": "NBA: Who will win the Pacers vs. Magic, scheduled for February 2 (7 PM ET)?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241652",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-23T14:40:52.665000Z",
+  "market_createdAt": "2022-02-23T14:40:52.665Z",
+  "market_updatedAt": "2024-04-24T23:57:10.561863Z",
+  "market_startDate": "2022-02-23T16:45:26.223Z",
+  "market_endDate": "2022-02-23T00:00:00Z",
+  "market_closedTime": "2022-02-24 04:02:36+00",
+  "conditionId": "0x8d7b20356e1f0b86b6c5fcc16c16e0a93f7d4e81c27fcc241515e8918d158d85",
+  "slug": "uefa-champions-league-will-ajax-beat-benfica-by-more-than-1p5-goals-in-their-february-23-matchup",
+  "question": "UEFA Champions League: Will Ajax beat Benfica by more than 1.5 goals in their February 23 matchup?"
+}

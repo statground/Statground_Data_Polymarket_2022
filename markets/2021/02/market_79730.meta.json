@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "79730",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-08T16:40:03.036000Z",
+  "market_createdAt": "2021-02-08T16:40:03.036Z",
+  "market_updatedAt": "2024-04-22T23:57:55.873112Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-15T00:00:00Z",
+  "market_closedTime": "2021-02-15 18:25:32+00",
+  "conditionId": "0xa471f8d0928ae8a54e2fdf4e50f67376ce29a20756a9a9be763e1efb05ee2916",
+  "slug": "will-dogecoin-be-above-1-on-february-15-2021",
+  "question": "Will Dogecoin be above $0.10 on February 15, 2021?"
+}

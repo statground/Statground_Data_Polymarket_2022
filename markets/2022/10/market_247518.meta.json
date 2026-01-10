@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247518",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-12T18:23:00.839000Z",
+  "market_createdAt": "2022-10-12T18:23:00.839Z",
+  "market_updatedAt": "2023-01-31T20:21:36.605Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-16T00:00:00Z",
+  "market_closedTime": "2022-10-16 23:45:32+00",
+  "conditionId": "0x39ac984efc042424db8f13eb14dd7f9e862f03273475ed21082e96a86436c0d8",
+  "slug": "nfl-sunday-jets-vs-packers",
+  "question": "NFL Sunday: Jets vs. Packers"
+}

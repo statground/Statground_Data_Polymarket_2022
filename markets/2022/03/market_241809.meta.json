@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241809",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-01T20:05:47.517000Z",
+  "market_createdAt": "2022-03-01T20:05:47.517Z",
+  "market_updatedAt": "2024-04-24T23:37:25.886114Z",
+  "market_startDate": null,
+  "market_endDate": "2022-03-15T00:00:00Z",
+  "market_closedTime": "2022-03-16 11:05:29+00",
+  "conditionId": "0xc41d472c940af47e1069a98e3ef77a6d680f04d55dc8da2c93651830280962b8",
+  "slug": "which-cryptocurrency-will-have-a-higher-market-cap-on-march-15-terra-luna-or-solana-sol",
+  "question": "Which cryptocurrency will have a higher market cap on March 15: Terra ($LUNA) or Solana ($SOL)?"
+}

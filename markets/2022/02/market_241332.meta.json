@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241332",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-04T18:59:01.922000Z",
+  "market_createdAt": "2022-02-04T18:59:01.922Z",
+  "market_updatedAt": "2024-04-22T22:25:15.512158Z",
+  "market_startDate": "2022-02-04T19:13:30.06Z",
+  "market_endDate": "2022-02-14T00:00:00Z",
+  "market_closedTime": "2022-02-14 22:59:00+00",
+  "conditionId": "0x9d79554bb02522cee965e82c2b51024fba938640087a2a53dadad2c7e96ecf49",
+  "slug": "will-the-floor-price-of-bored-apes-be-above-100-eth-on-valentines-day",
+  "question": "Will the floor price of Bored Apes be above 100 ETH on Valentine's Day?"
+}

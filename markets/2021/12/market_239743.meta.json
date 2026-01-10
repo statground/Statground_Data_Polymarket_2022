@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239743",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-01T14:17:04.258000Z",
+  "market_createdAt": "2021-12-01T14:17:04.258Z",
+  "market_updatedAt": "2024-04-23T00:47:46.7845Z",
+  "market_startDate": "2021-12-02T20:28:07.73Z",
+  "market_endDate": "2022-01-01T00:00:00Z",
+  "market_closedTime": "2022-01-01 18:49:07+00",
+  "conditionId": "0x06636cf3ac6e8506bf752372cb8d4d4de868d8aa45ed8a044b096e3781aef237",
+  "slug": "which-cryptocurrency-will-perform-better-in-december-2021-bitcoin-or-ethereum",
+  "question": "Which cryptocurrency will perform better in December 2021: Bitcoin or Ethereum?"
+}

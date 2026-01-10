@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241677",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-24T12:23:19.100000Z",
+  "market_createdAt": "2022-02-24T12:23:19.1Z",
+  "market_updatedAt": "2024-04-22T23:55:01.681889Z",
+  "market_startDate": "2022-02-24T14:32:53.044Z",
+  "market_endDate": "2022-02-24T00:00:00Z",
+  "market_closedTime": "2022-02-26 18:52:11+00",
+  "conditionId": "0x2dfb67fcbc905961eb54eb1100366d20f8f29c99e183b61772e48db9313192c7",
+  "slug": "uefa-europa-league-will-napoli-or-barcelona-qualify-to-round-of-16",
+  "question": "UEFA Europa League: Will Napoli or Barcelona qualify to Round of 16?"
+}

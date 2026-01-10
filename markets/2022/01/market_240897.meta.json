@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240897",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-20T19:19:38.043000Z",
+  "market_createdAt": "2022-01-20T19:19:38.043Z",
+  "market_updatedAt": "2024-04-23T00:54:19.893152Z",
+  "market_startDate": "2022-01-24T18:21:25.991Z",
+  "market_endDate": "2022-06-30T00:00:00Z",
+  "market_closedTime": "2022-07-01 07:15:36+00",
+  "conditionId": "0x6ad706fd00446a1cd4cb28ad79b4d7825439510357ee3160b82c57de56b4068a",
+  "slug": "will-turkish-lira-try-price-fall-below-005-by-the-end-of-june-2022",
+  "question": "Will Turkish Lira (TRY) price fall below $0.05 by the end of June 2022?"
+}

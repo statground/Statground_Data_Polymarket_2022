@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243478",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-19T11:19:52.504000Z",
+  "market_createdAt": "2022-04-19T11:19:52.504Z",
+  "market_updatedAt": "2023-01-31T19:20:08.672Z",
+  "market_startDate": "2022-04-19T15:15:16.325Z",
+  "market_endDate": "2022-04-26T00:00:00Z",
+  "market_closedTime": "2022-04-27 06:48:31+00",
+  "conditionId": "0x0061d1f4f69248f269f892fbd9c31ebe92379ea0f0f19dec2a534d33d89cde33",
+  "slug": "will-girl-with-balloon-by-banksy-sell-for-500k-or-more-at-sothebys",
+  "question": "Will Girl with Balloon (by Banksy) sell for £500k or more at Sotheby’s?"
+}

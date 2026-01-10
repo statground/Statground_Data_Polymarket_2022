@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239338",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-10T09:57:42.231000Z",
+  "market_createdAt": "2021-11-10T09:57:42.231Z",
+  "market_updatedAt": "2024-04-22T23:48:01.364161Z",
+  "market_startDate": "2021-11-10T17:40:46.687Z",
+  "market_endDate": "2021-11-10T00:00:00Z",
+  "market_closedTime": "2021-11-11 22:18:40+00",
+  "conditionId": "0xc1fe433da2a3c81d3b85f1ef950586d971d4ee47b1cf0e43b6b3c9c6a0473e29",
+  "slug": "nba-will-the-suns-beat-the-trail-blazers-by-more-than-6pt5-points-in-their-november-10th-matchup",
+  "question": "NBA: Will the Suns beat the Trail Blazers by more than 6.5 points in their November 10th matchup?"
+}

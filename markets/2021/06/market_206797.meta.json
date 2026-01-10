@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "206797",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-02T21:45:04.859000Z",
+  "market_createdAt": "2021-06-02T21:45:04.859Z",
+  "market_updatedAt": "2024-04-23T00:18:09.294784Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-26T00:00:00Z",
+  "market_closedTime": "2021-06-28 15:10:42+00",
+  "conditionId": "0x386589d5a7f78eb0d09db524bdf48ab4dcb5230b9ed858103f96104bda07fc1b",
+  "slug": "what-will-the-price-of-doge-be-on-june-26",
+  "question": "What will the price of $DOGE be on June 26?"
+}

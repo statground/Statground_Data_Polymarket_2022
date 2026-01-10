@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242590",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-28T21:00:19.051000Z",
+  "market_createdAt": "2022-03-28T21:00:19.051Z",
+  "market_updatedAt": "2024-04-24T23:26:52.136633Z",
+  "market_startDate": "2022-03-28T21:42:24.795Z",
+  "market_endDate": "2022-07-31T00:00:00Z",
+  "market_closedTime": "2022-08-01 23:01:02+00",
+  "conditionId": "0x986959e613051734bc3eb5e568ac532eee17420bb52f2c15d55d0efdb60d6880",
+  "slug": "will-hunter-biden-be-federally-indicted-by-july-31-2022",
+  "question": "Will Hunter Biden be federally indicted by July 31, 2022?"
+}

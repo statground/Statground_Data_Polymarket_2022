@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243225",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-13T13:59:26.728000Z",
+  "market_createdAt": "2022-04-13T13:59:26.728Z",
+  "market_updatedAt": "2023-01-31T21:16:35.441Z",
+  "market_startDate": "2022-04-13T15:37:25.676Z",
+  "market_endDate": "2022-04-13T00:00:00Z",
+  "market_closedTime": "2022-04-14 06:33:16+00",
+  "conditionId": "0x2133c87f26234e3c1b59acb8ab91177d128c066dd7e6d7432510deb8d59e95cf",
+  "slug": "nhl-will-the-rangers-beat-the-flyers-by-more-than-15-goals-in-their-april-13-matchup-7-pm-et",
+  "question": "NHL: Will the Rangers beat the Flyers by more than 1,5 goals in their April 13 matchup (7 PM ET)?"
+}

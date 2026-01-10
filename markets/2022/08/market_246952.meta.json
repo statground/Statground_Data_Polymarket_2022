@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246952",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-08T17:55:48.532000Z",
+  "market_createdAt": "2022-08-08T17:55:48.532Z",
+  "market_updatedAt": "2023-02-01T04:12:28.583Z",
+  "market_startDate": "2022-08-15T03:37:24.442Z",
+  "market_endDate": "2022-08-14T00:00:00Z",
+  "market_closedTime": "2022-08-15 02:45:41+00",
+  "conditionId": "0x5afb48af961d4416471f591953e37c49eb10f65ed3252f8315430f8db0a2a7d7",
+  "slug": "nfl-preseason-who-will-win-minnesota-vikings-v-las-vegas-raiders-scheduled-for-august-14-425-pm-et",
+  "question": "NFL Preseason: Who will win Minnesota Vikings v. Las Vegas Raiders, scheduled for August 14, 4:25 PM ET?"
+}

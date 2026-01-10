@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247752",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-24T20:54:10.541000Z",
+  "market_createdAt": "2022-10-24T20:54:10.541Z",
+  "market_updatedAt": "2023-01-31T17:18:04.286Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-13T00:00:00Z",
+  "market_closedTime": "2022-11-15 04:15:30+00",
+  "conditionId": "0x9edb8ec4ed58e577d837510e9d53fcaeaa91f0fc1caf064281be23592ae66fb7",
+  "slug": "will-black-panther-wakanda-forever-gross-less-than-180-million-domestically-in-its-opening-weekend",
+  "question": "Will ‘Black Panther: Wakanda Forever’ gross less than $180 million domestically in its opening weekend?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243125",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-12T00:13:30.578000Z",
+  "market_createdAt": "2022-04-12T00:13:30.578Z",
+  "market_updatedAt": "2023-01-31T20:26:40.521Z",
+  "market_startDate": "2022-04-12T14:14:16.921Z",
+  "market_endDate": "2022-04-13T00:00:00Z",
+  "market_closedTime": "2022-04-14 06:31:40+00",
+  "conditionId": "0x5066878ae67f8f8ecf1f6746646e9bb6d1a965a4cd0e96556439a109a128661c",
+  "slug": "nba-who-will-win-hawks-vs-hornets-scheduled-for-april-13-7-pm-et",
+  "question": "NBA: Who will win Hawks vs. Hornets, scheduled for April 13 (7 PM ET)?"
+}

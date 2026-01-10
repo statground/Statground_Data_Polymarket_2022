@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "222968",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-08T19:05:01.296000Z",
+  "market_createdAt": "2021-07-08T19:05:01.296Z",
+  "market_updatedAt": "2024-04-23T00:28:05.394808Z",
+  "market_startDate": null,
+  "market_endDate": "2022-01-01T00:00:00Z",
+  "market_closedTime": "2022-01-02 21:16:20+00",
+  "conditionId": "0x2daee0f5ffec6eb8b9b66b218a5cf7c5316118b33d9f21a48b35edcdff410264",
+  "slug": "will-founders-fund-be-announced-as-an-investor-in-onlyfans-next-funding-round-in-2021",
+  "question": "Will Founders Fund invest in the next announced Onlyfans fundraising round in 2021?"
+}

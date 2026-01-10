@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238701",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-03T05:32:01.537000Z",
+  "market_createdAt": "2021-09-03T05:32:01.537Z",
+  "market_updatedAt": "2024-04-22T23:50:31.667462Z",
+  "market_startDate": "2021-09-03T05:34:32.794Z",
+  "market_endDate": "2021-09-06T00:00:00Z",
+  "market_closedTime": "2021-09-08 18:12:43+00",
+  "conditionId": "0xec3dfbbb8ab2111cd11ca5b3d27206247d97d7cf8e5f0e4ee7a7fb4e8befd68b",
+  "slug": "will-shang-chi-gross-more-than-52m-domestically-on-opening-weekend",
+  "question": "Will Shang-Chi gross more than $52M domestically on opening weekend?"
+}

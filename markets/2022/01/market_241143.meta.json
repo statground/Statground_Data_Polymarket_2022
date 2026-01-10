@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241143",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-28T12:36:05.942000Z",
+  "market_createdAt": "2022-01-28T12:36:05.942Z",
+  "market_updatedAt": "2024-04-22T23:24:30.700462Z",
+  "market_startDate": "2022-01-28T20:32:54.715Z",
+  "market_endDate": "2022-01-28T00:00:00Z",
+  "market_closedTime": "2022-01-30 01:30:06+00",
+  "conditionId": "0x6b5f87235310647b555969c23a5a0149bcf6ff9327e4330ab940a5a9141ba214",
+  "slug": "nba-will-the-bulls-beat-the-spurs-by-more-than-1p5-points-in-their-january-28-830-pm-et-matchup",
+  "question": "NBA: Will the Bulls beat the Spurs by more than 1.5 points in their January 28 (8.30 PM ET) matchup?"
+}

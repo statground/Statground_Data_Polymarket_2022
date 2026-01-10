@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "91600",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-18T22:40:02.303000Z",
+  "market_createdAt": "2021-02-18T22:40:02.303Z",
+  "market_updatedAt": "2024-04-22T23:47:27.437705Z",
+  "market_startDate": null,
+  "market_endDate": "2021-03-15T00:00:00Z",
+  "market_closedTime": "2021-03-14 21:30:31+00",
+  "conditionId": "0xb2cf80949cbdbe6092427c1237ee6cadce99565cb5364b1c199a88ac288d3082",
+  "slug": "new-government-stimulus-checks-by-march-15-2021",
+  "question": "New government stimulus checks by March 15, 2021?"
+}

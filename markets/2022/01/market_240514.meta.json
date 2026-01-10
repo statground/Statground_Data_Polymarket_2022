@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240514",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T18:06:16.673000Z",
+  "market_createdAt": "2022-01-11T18:06:16.673Z",
+  "market_updatedAt": "2024-04-22T23:49:41.848932Z",
+  "market_startDate": "2022-01-12T21:03:34.861Z",
+  "market_endDate": "2022-02-01T00:00:00Z",
+  "market_closedTime": "2022-02-02 16:59:55+00",
+  "conditionId": "0x3ff7d3cb813324dbfe4e722413a1c5270a97cfc529cb25611e37dec1132520f0",
+  "slug": "will-the-price-of-btc-be-above-53000-on-february-1st-2022",
+  "question": "Will the price of $BTC be above $53,000 on February 1st, 2022?"
+}

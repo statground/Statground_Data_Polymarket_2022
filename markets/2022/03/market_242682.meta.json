@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242682",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-31T20:52:02.073000Z",
+  "market_createdAt": "2022-03-31T20:52:02.073Z",
+  "market_updatedAt": "2024-04-22T23:59:05.110429Z",
+  "market_startDate": "2022-04-02T18:53:34.164Z",
+  "market_endDate": "2022-04-07T00:00:00Z",
+  "market_closedTime": "2022-04-07 20:45:56+00",
+  "conditionId": "0xbdfbddb4e6fe961078d4305f8d0669871a22279320b1331220164ca277875f6f",
+  "slug": "triton-poker-will-jason-koon-place-1st-in-at-least-one-event",
+  "question": "Triton Poker: Will Jason Koon place 1st in at least one event?"
+}

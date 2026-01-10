@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241419",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-11T10:22:27.638000Z",
+  "market_createdAt": "2022-02-11T10:22:27.638Z",
+  "market_updatedAt": "2024-04-23T00:20:57.824149Z",
+  "market_startDate": "2022-02-11T20:02:58.627Z",
+  "market_endDate": "2022-02-11T00:00:00Z",
+  "market_closedTime": "2022-02-13 04:56:38+00",
+  "conditionId": "0x2d50607189bd555ace1d2605f8ded7b5b779c445f40ff9932619dcd6024678b3",
+  "slug": "nba-who-will-win-the-jazz-vs-magic-scheduled-for-february-11-9-pm-et",
+  "question": "NBA: Who will win the Jazz vs. Magic, scheduled for February 11 (9 PM ET)?"
+}

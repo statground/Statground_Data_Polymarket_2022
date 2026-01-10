@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241437",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-12T10:54:45.641000Z",
+  "market_createdAt": "2022-02-12T10:54:45.641Z",
+  "market_updatedAt": "2024-04-22T22:51:26.974109Z",
+  "market_startDate": "2022-02-12T16:27:50.842Z",
+  "market_endDate": "2022-02-12T00:00:00Z",
+  "market_closedTime": "2022-02-13 11:23:15+00",
+  "conditionId": "0xab210c55e78f1b9421106dbf9dcaea56d638cca8579dcce93e690b8afa42e2a1",
+  "slug": "nba-who-will-win-the-raptors-vs-nuggets-scheduled-for-february-12-730-pm-et",
+  "question": "NBA: Who will win the Raptors vs. Nuggets, scheduled for February 12 (7.30 PM ET)?"
+}

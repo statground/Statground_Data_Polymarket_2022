@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "66634",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-01-30T00:05:03.150000Z",
+  "market_createdAt": "2021-01-30T00:05:03.15Z",
+  "market_updatedAt": "2024-04-22T23:58:49.575296Z",
+  "market_startDate": "2021-01-29T00:00:00Z",
+  "market_endDate": "2021-01-30T00:00:00Z",
+  "market_closedTime": "2021-01-30 20:45:50+00",
+  "conditionId": "0x8eb3a02d9def8cf0f46d32360e8a8a0399393b5a33051597516ac8c6087ac030",
+  "slug": "will-the-mavericks-or-the-jazz-win-their-january-29th-matchup",
+  "question": "Will the Mavericks or the Jazz win their January 29th matchup?"
+}

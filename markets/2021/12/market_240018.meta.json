@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240018",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-13T22:12:16.900000Z",
+  "market_createdAt": "2021-12-13T22:12:16.9Z",
+  "market_updatedAt": "2024-04-26T02:51:26.087465Z",
+  "market_startDate": "2021-12-14T17:51:46.609Z",
+  "market_endDate": "2021-12-25T00:00:00Z",
+  "market_closedTime": "2021-12-26 01:37:21+00",
+  "conditionId": "0x4deaaa0066811b5aa58d09e07e358e55c4a6327c78a37433568ca3105aad81ae",
+  "slug": "will-the-matrix-resurrections-get-75-or-higher-tomatometer-score",
+  "question": "Will 'The Matrix Resurrections' get a 75% or higher Critic Tomatometer Score?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247001",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-16T14:30:05.956000Z",
+  "market_createdAt": "2022-08-16T14:30:05.956Z",
+  "market_updatedAt": "2023-01-31T19:22:08.409Z",
+  "market_startDate": "2022-08-16T17:04:42.887Z",
+  "market_endDate": "2022-09-11T00:00:00Z",
+  "market_closedTime": "2022-09-07 02:00:51+00",
+  "conditionId": "0xe82a3684a24122e8466857802e54d7ac2af763635cb00d402f7cc05aaef51204",
+  "slug": "will-rafael-nadal-win-the-2022-us-open-mens-singles",
+  "question": "Will Rafael Nadal win the 2022 US Open?"
+}

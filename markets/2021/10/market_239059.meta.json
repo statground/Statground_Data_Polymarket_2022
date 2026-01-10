@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239059",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-20T19:50:49.362000Z",
+  "market_createdAt": "2021-10-20T19:50:49.362Z",
+  "market_updatedAt": "2024-04-26T02:47:51.767469Z",
+  "market_startDate": "2021-10-24T17:52:29.694Z",
+  "market_endDate": "2021-10-24T00:00:00Z",
+  "market_closedTime": "2021-10-25 02:33:39+00",
+  "conditionId": "0xec93b65ced5daa587cc2f453dc93beeaf615809a0b7c05ec9b83882d346cd493",
+  "slug": "will-the-cardinals-beat-the-texans-by-more-than-17pt5-points-in-their-october-24th-matchup",
+  "question": "Will the Cardinals beat the Texans by more than 17.5 points in their October 24th matchup?"
+}

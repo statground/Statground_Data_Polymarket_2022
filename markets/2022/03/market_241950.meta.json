@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241950",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-07T17:27:28.262000Z",
+  "market_createdAt": "2022-03-07T17:27:28.262Z",
+  "market_updatedAt": "2024-04-22T23:10:51.498039Z",
+  "market_startDate": "2022-03-07T18:05:04.438Z",
+  "market_endDate": "2022-06-05T00:00:00Z",
+  "market_closedTime": "2022-05-27 00:30:38+00",
+  "conditionId": "0x6cd63e0f5e2e3a0dc739bf05e5b179ddaa954b41ff769c6405369337f77094b3",
+  "slug": "will-novak-djokovic-play-in-the-2022-french-open",
+  "question": "Will Novak Djokovic play in the 2022 French Open?"
+}

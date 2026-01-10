@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246977",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-12T16:12:38.545000Z",
+  "market_createdAt": "2022-08-12T16:12:38.545Z",
+  "market_updatedAt": "2023-01-31T14:32:53.618Z",
+  "market_startDate": "2022-08-12T17:09:38.755Z",
+  "market_endDate": "2022-11-08T00:00:00Z",
+  "market_closedTime": "2022-11-13 19:00:53+00",
+  "conditionId": "0xd85f1b6d62793f09de5af96ea2680dd765798cf6f0b6e3e13270237c0bdfa04d",
+  "slug": "republican-house-and-republican-senate-after-us-2022-midterms",
+  "question": "Republican House and Republican Senate after U.S. 2022 Midterms?"
+}

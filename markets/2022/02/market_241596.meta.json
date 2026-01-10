@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241596",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-17T20:00:34.847000Z",
+  "market_createdAt": "2022-02-17T20:00:34.847Z",
+  "market_updatedAt": "2024-04-25T00:01:49.387199Z",
+  "market_startDate": "2022-02-17T22:55:34.948Z",
+  "market_endDate": "2022-03-18T00:00:00Z",
+  "market_closedTime": "2022-03-14 12:30:31+00",
+  "conditionId": "0xb2131618c9c9280063c6a73daf11561e4545cd01ac18daa634e05f69e92ce18c",
+  "slug": "will-elon-musk-tweet-doge-or-dogecoin-before-march-19-2022",
+  "question": "Will Elon Musk tweet “Doge” or “Dogecoin” before March 19, 2022?"
+}

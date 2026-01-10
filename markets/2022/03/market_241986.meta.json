@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241986",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-09T09:02:04.898000Z",
+  "market_createdAt": "2022-03-09T09:02:04.898Z",
+  "market_updatedAt": "2024-04-23T00:41:32.701424Z",
+  "market_startDate": "2022-03-09T17:10:01.726Z",
+  "market_endDate": "2022-03-09T00:00:00Z",
+  "market_closedTime": "2022-03-10 11:46:08+00",
+  "conditionId": "0xf5fb09f9db006f41e27bc01cb35bc0a766f832fa006728a3ba7c6730b374174f",
+  "slug": "nba-who-will-win-the-lakers-vspt-rockets-scheduled-for-march-9-8-pm-et",
+  "question": "NBA: Who will win the Lakers vs. Rockets, scheduled for March 9 (8 PM ET)?"
+}

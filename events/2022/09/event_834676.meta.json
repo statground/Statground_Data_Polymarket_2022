@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_id": "834676",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2022-09-30T15:32:07.743000Z",
+  "event_createdAt": "2022-09-30T15:32:07.743Z",
+  "event_creationDate": "2022-09-30T00:00:00Z",
+  "event_startDate": "2022-09-30T00:00:00Z",
+  "event_endDate": "2022-10-07T00:00:00Z",
+  "event_updatedAt": "2024-03-22T01:47:36.137432Z",
+  "markets_len": 1,
+  "market_ids": [
+    "247409"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "42"
+  ],
+  "series_slug": "eth-weeklies"
+}

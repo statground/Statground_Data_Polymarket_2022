@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238920",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-30T20:22:38.067000Z",
+  "market_createdAt": "2021-09-30T20:22:38.067Z",
+  "market_updatedAt": "2024-04-22T23:17:59.212998Z",
+  "market_startDate": "2021-10-01T19:20:33.955Z",
+  "market_endDate": "2021-10-31T00:00:00Z",
+  "market_closedTime": "2021-11-01 08:34:27+00",
+  "conditionId": "0x3ee3ef35fedd2e20e2a4e1c0e7ba2c651b34dc1d3670a388d6049d0f4bfb5c13",
+  "slug": "will-britney-spears-father-james-spears-be-charged-with-a-crime-on-or-before-october-31-2021",
+  "question": "Will Britney Spears’ father James Spears be charged with a crime by Halloween?"
+}

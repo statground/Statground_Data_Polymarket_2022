@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241873",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-03T17:59:28.455000Z",
+  "market_createdAt": "2022-03-03T17:59:28.455Z",
+  "market_updatedAt": "2024-04-24T23:23:10.03926Z",
+  "market_startDate": "2022-03-03T20:12:38.372Z",
+  "market_endDate": "2022-03-03T00:00:00Z",
+  "market_closedTime": "2022-03-04 16:00:45+00",
+  "conditionId": "0x052692eb085e2d1f8163c025d39b0115bec56f14c52db78fd5ffb6dd8a0ee140",
+  "slug": "nba-who-will-win-the-celtics-vspt-grizzlies-scheduled-for-march-3-7pt30-pm-et",
+  "question": "NBA: Who will win the Celtics vs. Grizzlies, scheduled for March 3 (7.30 PM ET)?"
+}

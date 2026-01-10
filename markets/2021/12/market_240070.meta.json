@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240070",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-16T22:48:04.165000Z",
+  "market_createdAt": "2021-12-16T22:48:04.165Z",
+  "market_updatedAt": "2024-04-23T00:53:41.85009Z",
+  "market_startDate": "2021-12-17T21:16:32.471Z",
+  "market_endDate": "2021-12-19T00:00:00Z",
+  "market_closedTime": "2021-12-20 14:08:14+00",
+  "conditionId": "0xee97bbe5658f35d0da7992a4434b535e55f05db291e2ac604cfe075d4d2d4e63",
+  "slug": "nfl-will-the-cowboys-beat-the-giants-by-more-than-10pt5-points-in-their-december-19-matchup",
+  "question": "NFL: Will the Cowboys beat the Giants by more than 10.5 points in their December 19 matchup?"
+}

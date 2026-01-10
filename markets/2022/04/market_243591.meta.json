@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243591",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-22T17:25:40.922000Z",
+  "market_createdAt": "2022-04-22T17:25:40.922Z",
+  "market_updatedAt": "2023-01-31T17:22:24.039Z",
+  "market_startDate": "2022-04-22T20:43:58.225Z",
+  "market_endDate": "2022-05-15T00:00:00Z",
+  "market_closedTime": "2022-05-15 22:00:43+00",
+  "conditionId": "0x670d8678133818116df043b5cb450b1011a34e2ba51a1c4d820c5a3a2d967728",
+  "slug": "will-the-floor-price-of-moonbirds-be-30-eth-or-more-on-may-15-2022",
+  "question": "Will the floor price of Moonbirds be 30 ETH or more on May 15, 2022?"
+}

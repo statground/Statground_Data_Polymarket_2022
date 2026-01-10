@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239953",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-10T16:59:28.917000Z",
+  "market_createdAt": "2021-12-10T16:59:28.917Z",
+  "market_updatedAt": "2024-04-25T00:14:36.242213Z",
+  "market_startDate": "2021-12-10T18:22:07.501Z",
+  "market_endDate": "2021-12-10T00:00:00Z",
+  "market_closedTime": "2021-12-11 18:22:53+00",
+  "conditionId": "0xf9ead3419409bf5d9715b180aeb5c9f2c7fdd80bb0c01b90b661531b3361cf11",
+  "slug": "nba-will-the-timberwolves-beat-the-cavaliers-by-more-than-1pt5-points-in-their-december-10-matchup",
+  "question": "NBA: Will the Timberwolves beat the Cavaliers by more than 1.5 points in their December 10 matchup?"
+}

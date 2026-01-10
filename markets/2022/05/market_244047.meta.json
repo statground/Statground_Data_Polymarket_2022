@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244047",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-03T15:07:24.215000Z",
+  "market_createdAt": "2022-05-03T15:07:24.215Z",
+  "market_updatedAt": "2023-01-31T17:34:23.547Z",
+  "market_startDate": "2022-05-03T16:52:24.778Z",
+  "market_endDate": "2022-05-03T00:00:00Z",
+  "market_closedTime": "2022-05-04 06:45:30+00",
+  "conditionId": "0x205b28f491b3c472a75109142946a3b528279f0e22264bcf422d0fc310341d45",
+  "slug": "mlb-who-will-win-atlanta-braves-vs-new-york-mets-scheduled-for-may-3-610-pm-et",
+  "question": "MLB: Who will win Atlanta Braves vs. New York Mets, scheduled for May 3, 6:10 PM ET?"
+}

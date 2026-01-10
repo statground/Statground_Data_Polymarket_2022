@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248141",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-28T16:30:46.574000Z",
+  "market_createdAt": "2022-11-28T16:30:46.574Z",
+  "market_updatedAt": "2023-01-31T18:02:11.476Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-01T00:00:00Z",
+  "market_closedTime": "2022-12-01 20:16:03+00",
+  "conditionId": "0x4d60922dddee6b3b58c77f7c34209a53af88c4639c63633d633f69d895c0d416",
+  "slug": "world-cup-thursday-will-morocco-beat-canada",
+  "question": "World Cup: Thursday - Will Morocco beat Canada?"
+}

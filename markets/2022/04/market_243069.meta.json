@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243069",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-10T16:28:51.889000Z",
+  "market_createdAt": "2022-04-10T16:28:51.889Z",
+  "market_updatedAt": "2023-01-31T15:54:29.721Z",
+  "market_startDate": "2022-04-10T16:47:06.002Z",
+  "market_endDate": "2022-04-10T00:00:00Z",
+  "market_closedTime": "2022-04-11 09:16:45+00",
+  "conditionId": "0x07b307be0d2a8447aff4ba4fa18b8bfbd7d152dc9d36689c9b53953dfbc09365",
+  "slug": "nhl-will-the-penguins-beat-the-predators-by-more-than-1pt5-goals-in-their-april-10-matchup-4-pm-et",
+  "question": "NHL: Will the Penguins beat the Predators by more than 1.5 goals in their April 10 matchup (4 PM ET)?"
+}

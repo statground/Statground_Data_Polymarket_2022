@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240352",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T01:08:49.696000Z",
+  "market_createdAt": "2022-01-11T01:08:49.696Z",
+  "market_updatedAt": "2024-04-22T22:36:36.090201Z",
+  "market_startDate": "2022-01-12T20:48:46.029Z",
+  "market_endDate": "2022-06-10T00:00:00Z",
+  "market_closedTime": "2022-05-13 21:30:51+00",
+  "conditionId": "0x29ba3b73c7bdb5fbe42d92e4d0cdd20ae5919d2be41f27a416c905e297c8ee87",
+  "slug": "will-luka-doncic-win-the-nba-21-22-most-valuable-player-mvp-award",
+  "question": "Will Luka Doncic win the NBA ’21-’22 Most Valuable Player (MVP) Award?"
+}

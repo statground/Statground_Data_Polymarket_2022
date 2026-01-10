@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243486",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-20T07:55:17.283000Z",
+  "market_createdAt": "2022-04-20T07:55:17.283Z",
+  "market_updatedAt": "2023-01-31T19:21:06.95Z",
+  "market_startDate": "2022-04-20T14:42:02.605Z",
+  "market_endDate": "2022-04-20T00:00:00Z",
+  "market_closedTime": "2022-04-21 07:17:47+00",
+  "conditionId": "0x70a0299c910b7a677aa48d3e89badb82d292b35191447e28446f94f5983619ed",
+  "slug": "nhl-will-the-avalanche-beat-the-kraken-by-more-than-1pt5-goals-in-their-april-20-1000-pm-et-matchup",
+  "question": "NHL: Will the Avalanche beat the Kraken by more than 1.5 goals in their April 20, 10:00 PM ET matchup?"
+}

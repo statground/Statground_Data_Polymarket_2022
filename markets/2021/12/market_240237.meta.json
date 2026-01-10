@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240237",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-29T13:31:11.499000Z",
+  "market_createdAt": "2021-12-29T13:31:11.499Z",
+  "market_updatedAt": "2024-04-24T23:22:40.337764Z",
+  "market_startDate": "2021-12-29T16:46:21.006Z",
+  "market_endDate": "2021-12-29T00:00:00Z",
+  "market_closedTime": "2021-12-30 17:48:00+00",
+  "conditionId": "0x0d9b06aed60efd5973693b4c22a4c56f72c5f53e21f2609f7f05e4bd62b98c6e",
+  "slug": "nba-will-the-mavericks-beat-the-kings-by-more-than-1pt5-points-in-their-december-29-matchup",
+  "question": "NBA: Will the Mavericks beat the Kings by more than 1.5 points in their December 29 matchup?"
+}

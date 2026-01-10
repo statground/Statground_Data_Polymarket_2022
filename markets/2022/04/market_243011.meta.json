@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243011",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-07T09:35:13.999000Z",
+  "market_createdAt": "2022-04-07T09:35:13.999Z",
+  "market_updatedAt": "2024-04-24T23:36:31.815622Z",
+  "market_startDate": null,
+  "market_endDate": "2022-04-07T00:00:00Z",
+  "market_closedTime": "2022-04-08 06:45:53+00",
+  "conditionId": "0x2ef5c71f72c0b26d8f46f19d12d2bf6a583c505143f4b0d31a2146670358ce7a",
+  "slug": "nba-who-will-win-raptors-vs-76ers-scheduled-for-april-7-740-pm-et",
+  "question": "NBA: Who will win Raptors vs. 76ers, scheduled for April 7, 7:40 PM ET?"
+}

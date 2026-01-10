@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240845",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-19T11:22:57.542000Z",
+  "market_createdAt": "2022-01-19T11:22:57.542Z",
+  "market_updatedAt": "2024-04-22T23:15:43.435366Z",
+  "market_startDate": "2022-01-19T19:58:25.086Z",
+  "market_endDate": "2022-01-19T00:00:00Z",
+  "market_closedTime": "2022-01-21 13:21:23+00",
+  "conditionId": "0x4c73de5b1e0a8b7dd12a63df8afde9b41a4db3262cb8bdf4378ea4ded3229c80",
+  "slug": "nba-will-the-hawks-beat-the-timberwolves-by-more-than-2p5-points-in-their-january-19-matchup",
+  "question": "NBA: Will the Hawks beat the Timberwolves by more than 2.5 points in their January 19 matchup?"
+}

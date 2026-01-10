@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241349",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-06T09:36:07.333000Z",
+  "market_createdAt": "2022-02-06T09:36:07.333Z",
+  "market_updatedAt": "2024-04-23T00:35:31.87119Z",
+  "market_startDate": "2022-02-06T20:23:50.772Z",
+  "market_endDate": "2022-02-06T00:00:00Z",
+  "market_closedTime": "2022-02-08 00:17:09+00",
+  "conditionId": "0xe0132b476da8509f4d6e98fe97dda3fb1403a410e83e2bc393d4e8e279ceb973",
+  "slug": "nba-will-the-nuggets-beat-the-nets-by-more-than-55-points-in-their-february-6-330-pm-et-matchup",
+  "question": "NBA: Will the Nuggets beat the Nets by more than 5.5 points in their February 6 (3.30 PM ET) matchup?"
+}

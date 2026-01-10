@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "97181",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-24T20:55:03.068000Z",
+  "market_createdAt": "2021-02-24T20:55:03.068Z",
+  "market_updatedAt": "2024-04-24T23:19:58.692225Z",
+  "market_startDate": null,
+  "market_endDate": "2021-03-15T00:00:00Z",
+  "market_closedTime": "2021-03-15 16:17:39+00",
+  "conditionId": "0xdbb59249e2e4c228b8c5670c2441557ca19e1cda116c3029490c1ead55bd33c4",
+  "slug": "will-bitcoin-btc-be-above-55k-on-march-15-2021",
+  "question": "Will Bitcoin ($BTC) be above $55k on March 15, 2021?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247363",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-26T18:12:55.746000Z",
+  "market_createdAt": "2022-09-26T18:12:55.746Z",
+  "market_updatedAt": "2023-01-31T19:35:11.185Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-02T00:00:00Z",
+  "market_closedTime": "2022-10-02 23:30:46+00",
+  "conditionId": "0x2ceab4a04531d6587b3495a593a73772593a54bee6a5f4a52a1da539f9a220fb",
+  "slug": "nfl-sunday-browns-vs-falcons",
+  "question": "NFL Sunday: Browns vs. Falcons"
+}

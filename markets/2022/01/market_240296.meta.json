@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240296",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-03T19:43:21.532000Z",
+  "market_createdAt": "2022-01-03T19:43:21.532Z",
+  "market_updatedAt": "2024-04-22T22:55:12.848582Z",
+  "market_startDate": "2022-01-05T22:59:44.015Z",
+  "market_endDate": "2022-01-13T00:00:00Z",
+  "market_closedTime": "2022-01-14 21:14:46+00",
+  "conditionId": "0x09e4fee6598b8b175ed61d3e46078e5f7e0c1ff4f0d354b787dcbee33d49e9c2",
+  "slug": "carabao-cup-who-will-win-the-arsenal-v-liverpool-game-on-january-13",
+  "question": "Carabao Cup: Who will win the Arsenal v. Liverpool game on January 13?"
+}

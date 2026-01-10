@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243126",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-12T00:15:46.397000Z",
+  "market_createdAt": "2022-04-12T00:15:46.397Z",
+  "market_updatedAt": "2023-01-31T19:34:58.143Z",
+  "market_startDate": "2022-04-12T14:15:42.848Z",
+  "market_endDate": "2022-04-13T00:00:00Z",
+  "market_closedTime": "2022-04-14 06:32:14+00",
+  "conditionId": "0x7b3b701fb02119a122efbfd0c9de66a1f4f3f0d52a592da0e765cdd34d77ec62",
+  "slug": "nba-who-will-win-pelicans-vs-spurs-scheduled-for-april-13-930-pm-et",
+  "question": "NBA: Who will win Pelicans vs. Spurs, scheduled for April 13 (9:30 PM ET)?"
+}

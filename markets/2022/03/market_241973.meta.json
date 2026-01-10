@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241973",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-08T13:22:25.889000Z",
+  "market_createdAt": "2022-03-08T13:22:25.889Z",
+  "market_updatedAt": "2024-04-22T23:37:59.343557Z",
+  "market_startDate": "2022-03-08T18:32:56.457Z",
+  "market_endDate": "2022-03-08T00:00:00Z",
+  "market_closedTime": "2022-03-09 19:30:18+00",
+  "conditionId": "0x5b1aa61df8b4b71cc2213636e8ae997c9bf06333d489e65b952e874359107008",
+  "slug": "nhl-will-the-blackhawks-beat-the-ducks-by-more-than-1pt5-goals-in-their-march-8-matchup-8pt30-pm-et",
+  "question": "NHL: Will the Blackhawks beat the Ducks by more than 1.5 goals in their March 8 matchup (8.30 PM ET)?"
+}

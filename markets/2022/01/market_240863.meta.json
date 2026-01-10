@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240863",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-19T19:14:22.115000Z",
+  "market_createdAt": "2022-01-19T19:14:22.115Z",
+  "market_updatedAt": "2024-04-23T00:24:13.683146Z",
+  "market_startDate": "2022-01-19T19:39:15.266Z",
+  "market_endDate": "2022-01-19T00:00:00Z",
+  "market_closedTime": "2022-01-21 13:16:41+00",
+  "conditionId": "0xdf6ebb57187ac819b572e04fc5ddf4c5a493b211b51a89b4b25541549fc803f3",
+  "slug": "will-president-biden-mention-manchin-sinema-or-filibuster-in-his-press-conference-on-january-19",
+  "question": "Will President Biden mention Manchin, Sinema or filibuster in his press conference on January 19 ?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239113",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-28T09:09:36.978000Z",
+  "market_createdAt": "2021-10-28T09:09:36.978Z",
+  "market_updatedAt": "2024-04-25T00:03:31.153507Z",
+  "market_startDate": "2021-10-28T17:23:24.775Z",
+  "market_endDate": "2021-10-28T00:00:00Z",
+  "market_closedTime": "2021-10-29 17:31:09+00",
+  "conditionId": "0x70600a037466af3c099a6fdb95f741c4ad9dff947ee0a049a819d81fc4d7560d",
+  "slug": "will-the-76ers-beat-the-pistons-by-more-than-9pt5-points-in-their-october-28th-matchup",
+  "question": "Will the 76ers beat the Pistons by more than 9.5 points in their October 28th matchup?"
+}

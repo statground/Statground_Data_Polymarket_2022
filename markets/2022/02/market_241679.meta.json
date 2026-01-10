@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241679",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-24T12:36:26.146000Z",
+  "market_createdAt": "2022-02-24T12:36:26.146Z",
+  "market_updatedAt": "2024-04-22T23:09:36.153903Z",
+  "market_startDate": "2022-02-24T14:33:55.551Z",
+  "market_endDate": "2022-02-24T00:00:00Z",
+  "market_closedTime": "2022-03-01 19:21:22+00",
+  "conditionId": "0x0ed37234ea76e1417a0fff13dfdb868c35f76b3fc5766e28f6986c4320b55c13",
+  "slug": "cricket-who-will-win-new-zealand-vs-south-africa-starting-on-february-2425",
+  "question": "Cricket: Who will win New Zealand vs. South Africa, starting on February 24/25?"
+}

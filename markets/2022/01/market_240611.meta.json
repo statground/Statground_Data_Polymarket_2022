@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240611",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-12T00:20:11.098000Z",
+  "market_createdAt": "2022-01-12T00:20:11.098Z",
+  "market_updatedAt": "2024-04-23T00:12:34.82542Z",
+  "market_startDate": "2022-01-12T21:08:46.66Z",
+  "market_endDate": "2022-11-15T00:00:00Z",
+  "market_closedTime": "2022-11-10 04:28:39+00",
+  "conditionId": "0x2b7675caa0ec6391d54cf5970525558c7fbbb880ffea6d9fce1f6ccf7ba848f1",
+  "slug": "2022-us-gubernatorial-elections-will-a-democrat-or-republican-win-in-minnesota",
+  "question": "Governor: Will a Democrat (Walz) or Republican (Jensen) win in Minnesota?"
+}

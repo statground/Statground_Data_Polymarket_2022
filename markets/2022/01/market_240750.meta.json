@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240750",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-14T17:41:58.998000Z",
+  "market_createdAt": "2022-01-14T17:41:58.998Z",
+  "market_updatedAt": "2024-04-22T23:05:02.126539Z",
+  "market_startDate": "2022-01-18T21:57:29.846Z",
+  "market_endDate": "2022-01-31T00:00:00Z",
+  "market_closedTime": "2022-02-01 19:30:46+00",
+  "conditionId": "0x519bc9322d15661b2c59e072772efc0171beefdfecc1b51093996bca10990cfd",
+  "slug": "nft-marketplaces-will-opensea-or-looksrare-have-higher-30d-volume-on-january-31",
+  "question": "NFT marketplaces: Will OpenSea or LooksRare have higher 30d volume on January 31?"
+}

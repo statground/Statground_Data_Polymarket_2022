@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242159",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-17T12:50:57.675000Z",
+  "market_createdAt": "2022-03-17T12:50:57.675Z",
+  "market_updatedAt": "2024-04-23T00:15:12.442765Z",
+  "market_startDate": "2022-03-17T16:38:21.346Z",
+  "market_endDate": "2022-03-17T00:00:00Z",
+  "market_closedTime": "2022-03-18 11:15:51+00",
+  "conditionId": "0xe5b86ac3703fbfb69d474c6dcd4a23119af2fbae531f5b8d58af43c5fec53ca5",
+  "slug": "ncaab-who-will-win-heels-vspt-eagles-scheduled-for-march-17-430-pm-et",
+  "question": "NCAAB: Who will win Heels vs. Eagles, scheduled for March 17, 4:30 PM ET?"
+}

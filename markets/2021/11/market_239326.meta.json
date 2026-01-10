@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239326",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-09T21:00:12.213000Z",
+  "market_createdAt": "2021-11-09T21:00:12.213Z",
+  "market_updatedAt": "2024-04-26T02:49:24.974739Z",
+  "market_startDate": "2021-11-10T07:37:10.561Z",
+  "market_endDate": "2021-11-16T00:00:00Z",
+  "market_closedTime": "2021-11-16 17:44:30+00",
+  "conditionId": "0x257bda842ecf95df8dcda8101cf0ed6828bfefd895b9ad6bb40e98e5edfeae5a",
+  "slug": "will-the-high-temperature-in-new-yorks-central-park-be-60f-or-higher-on-november-15th-2021",
+  "question": "Will the high temperature in New York's Central Park be 60°F or higher on November 15th, 2021?"
+}

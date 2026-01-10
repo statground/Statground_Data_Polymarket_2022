@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246965",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-10T17:41:14.966000Z",
+  "market_createdAt": "2022-08-10T17:41:14.966Z",
+  "market_updatedAt": "2023-01-31T21:16:37.657Z",
+  "market_startDate": "2022-08-10T22:14:38.138Z",
+  "market_endDate": "2022-08-20T00:00:00Z",
+  "market_closedTime": "2022-08-21 08:16:03+00",
+  "conditionId": "0x3ef366cb17765d090afe4e5a54245ba6c4af3991d5b1135186c39d74ab0ee5c5",
+  "slug": "ufc-278-who-will-win-costa-vs-rockhold",
+  "question": "UFC 278: Who will win - Costa vs Rockhold"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "201774",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-20T20:35:01.738000Z",
+  "market_createdAt": "2021-05-20T20:35:01.738Z",
+  "market_updatedAt": "2024-04-22T22:59:46.949356Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-10T00:00:00Z",
+  "market_closedTime": "2021-06-10 16:52:44+00",
+  "conditionId": "0x396a2bedb910328c4e3e9e03bc5259634c07dc1774ad67925360fe22c0e99725",
+  "slug": "will-matic-polygon-be-above-2-on-june-10-2021",
+  "question": "Will $MATIC (Polygon) be above $2 on June 10, 2021?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239561",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-22T16:47:24.675000Z",
+  "market_createdAt": "2021-11-22T16:47:24.675Z",
+  "market_updatedAt": "2024-04-22T23:53:14.585636Z",
+  "market_startDate": "2021-11-22T19:35:22.123Z",
+  "market_endDate": "2021-11-22T00:00:00Z",
+  "market_closedTime": "2021-11-23 13:49:52+00",
+  "conditionId": "0xdbfa94ef71de117d7071f600f499c7265601a1948d0c2fa89bd2480cbc7c195e",
+  "slug": "nba-will-the-bucks-beat-the-magic-by-more-than-12pt5-points-in-their-november-22-matchup",
+  "question": "NBA: Will the Bucks beat the Magic by more than 12.5 points in their November 22 matchup?"
+}

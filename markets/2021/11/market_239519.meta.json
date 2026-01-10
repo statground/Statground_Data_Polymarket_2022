@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239519",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-20T15:22:22.541000Z",
+  "market_createdAt": "2021-11-20T15:22:22.541Z",
+  "market_updatedAt": "2024-04-26T02:46:36.337759Z",
+  "market_startDate": "2021-11-20T20:11:01.371Z",
+  "market_endDate": "2021-11-20T00:00:00Z",
+  "market_closedTime": "2021-11-21 15:53:45+00",
+  "conditionId": "0x35b4b9aa8681dfc23220b7d13bec3bcf32f798a9e4229a2bdea734f5ca852158",
+  "slug": "nba-will-the-timberwolves-beat-the-grizzlies-by-more-than-1pt5-points-in-their-november-20th-matchup",
+  "question": "NBA: Will the Timberwolves beat the Grizzlies by more than 1.5 points in their November 20th matchup?"
+}

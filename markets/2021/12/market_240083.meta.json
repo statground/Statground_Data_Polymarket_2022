@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240083",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-17T16:08:12.266000Z",
+  "market_createdAt": "2021-12-17T16:08:12.266Z",
+  "market_updatedAt": "2024-04-26T02:48:06.072507Z",
+  "market_startDate": "2021-12-17T22:39:39.653Z",
+  "market_endDate": "2021-12-17T00:00:00Z",
+  "market_closedTime": "2021-12-18 18:04:01+00",
+  "conditionId": "0x0418a16063b51b04ee1785c8b8af234324e525197a8d84f277c81190da26c46a",
+  "slug": "nba-will-the-bucks-beat-the-pelicans-by-more-than-3pt5-points-in-their-december-17-matchup",
+  "question": "NBA: Will the Bucks beat the Pelicans by more than 3.5 points in their December 17 matchup?"
+}

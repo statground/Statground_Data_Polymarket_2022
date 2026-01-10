@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240093",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-18T09:55:43.115000Z",
+  "market_createdAt": "2021-12-18T09:55:43.115Z",
+  "market_updatedAt": "2024-04-22T22:35:22.732426Z",
+  "market_startDate": "2021-12-20T17:25:52.578Z",
+  "market_endDate": "2022-01-07T00:00:00Z",
+  "market_closedTime": "2022-01-04 22:35:43+00",
+  "conditionId": "0xc390bb9ef1da82170404c322fa9fc21e6868495f8249988f26e301de8ad8fc17",
+  "slug": "will-annual-inflation-in-the-european-union-be-5pt4-or-more-in-december",
+  "question": "Will annual inflation in the European Union be 5.4% or more in December?"
+}

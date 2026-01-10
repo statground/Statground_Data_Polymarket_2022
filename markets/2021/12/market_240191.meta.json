@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240191",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-27T10:50:16.784000Z",
+  "market_createdAt": "2021-12-27T10:50:16.784Z",
+  "market_updatedAt": "2024-04-24T23:57:44.848439Z",
+  "market_startDate": "2021-12-27T19:08:15.669Z",
+  "market_endDate": "2021-12-27T00:00:00Z",
+  "market_closedTime": "2021-12-28 19:52:41+00",
+  "conditionId": "0xac8d85f2e68e5d17559a17b9615c1f2a1d32e0a841185033b62b2010a30e775b",
+  "slug": "nba-will-the-celtics-beat-the-timberwolves-by-more-than-8pt5-points-in-their-december-27-matchup",
+  "question": "NBA: Will the Celtics beat the Timberwolves by more than 8.5 points in their December 27 matchup?"
+}

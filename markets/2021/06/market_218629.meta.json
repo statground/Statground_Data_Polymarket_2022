@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218629",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-22T21:40:01.177000Z",
+  "market_createdAt": "2021-06-22T21:40:01.177Z",
+  "market_updatedAt": "2024-04-22T23:47:58.153753Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-23T00:00:00Z",
+  "market_closedTime": "2021-06-24 20:55:03+00",
+  "conditionId": "0xc2f01d724035b0f60d3c36240920c9f400e047c29b4a93a1ad06ebb59d2b2f4c",
+  "slug": "will-wayne-thiebauds-winding-river-sell-for-more-than-8m-at-phillips",
+  "question": "Will Wayne Thiebaud’s “Winding River” sell for more than $8M at Phillips?"
+}

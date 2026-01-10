@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241805",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-01T18:34:18.434000Z",
+  "market_createdAt": "2022-03-01T18:34:18.434Z",
+  "market_updatedAt": "2024-04-22T22:35:53.239296Z",
+  "market_startDate": "2022-03-01T19:57:35.345Z",
+  "market_endDate": "2022-03-15T00:00:00Z",
+  "market_closedTime": "2022-03-16 11:24:33+00",
+  "conditionId": "0xf47c209f8be544fea5874d87b035a2f67041496264ffdea5a0277cecb4446781",
+  "slug": "will-elden-ring-be-in-the-top-5-most-played-games-on-steam-on-march-15-2022",
+  "question": "Will Elden Ring be in the top 5 most played games on Steam on March 15, 2022?"
+}

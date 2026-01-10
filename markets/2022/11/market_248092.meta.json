@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248092",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-21T17:25:48.018000Z",
+  "market_createdAt": "2022-11-21T17:25:48.018Z",
+  "market_updatedAt": "2023-01-31T19:26:50.11Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-22T00:00:00Z",
+  "market_closedTime": "2022-11-23 00:00:44+00",
+  "conditionId": "0x4c5d872b40582c999d16ee0555f6a601bc7b1b34946b95b0a65bc4167408650d",
+  "slug": "world-cup-2022-tuesday-will-mexico-beat-poland",
+  "question": "World Cup: Tuesday - Will Mexico beat Poland?"
+}

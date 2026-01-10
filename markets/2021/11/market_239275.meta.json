@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239275",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-06T19:29:42.750000Z",
+  "market_createdAt": "2021-11-06T19:29:42.75Z",
+  "market_updatedAt": "2024-04-25T00:14:55.060133Z",
+  "market_startDate": "2021-11-07T01:01:49.747Z",
+  "market_endDate": "2021-11-07T00:00:00Z",
+  "market_closedTime": "2021-11-08 13:36:27+00",
+  "conditionId": "0xf16e5246a89aaf6c27e9a694bb36781689d43e07a81716332302a5b8cd5fdfb3",
+  "slug": "nfl-who-will-win-the-chargers-v-eagles-game-on-november-7th",
+  "question": "NFL: Who will win the Chargers v. Eagles game on November 7th?"
+}

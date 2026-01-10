@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239500",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-18T11:21:40.973000Z",
+  "market_createdAt": "2021-11-18T11:21:40.973Z",
+  "market_updatedAt": "2024-04-22T22:56:50.327867Z",
+  "market_startDate": "2021-11-18T17:26:23.324Z",
+  "market_endDate": "2021-11-18T00:00:00Z",
+  "market_closedTime": "2021-11-19 19:55:12+00",
+  "conditionId": "0x29c691115afa298d54f012eb2acd42d30ea6e6e8d3d458c215e58728ce8b7fd3",
+  "slug": "nba-will-the-jazz-beat-the-raptors-by-more-than-9pt5-points-in-their-november-18th-matchup",
+  "question": "NBA: Will the Jazz beat the Raptors by more than 9.5 points in their November 18th matchup?"
+}

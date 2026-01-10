@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243994",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-02T08:00:22.952000Z",
+  "market_createdAt": "2022-05-02T08:00:22.952Z",
+  "market_updatedAt": "2023-01-31T20:39:11.793Z",
+  "market_startDate": null,
+  "market_endDate": "2022-05-02T00:00:00Z",
+  "market_closedTime": "2022-05-03 05:46:40+00",
+  "conditionId": "0x2e73f405834d17e1a92fe6471bb17ca5d21bfc1686df894934f11ae94dee025b",
+  "slug": "nhl-will-the-hurricanes-beat-the-bruins-by-more-than-1pt5-goals-in-their-may-2-700-pm-et-matchup",
+  "question": "NHL: Will the Hurricanes beat the Bruins by more than 1.5 goals in their May 2, 7:00 PM ET matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240204",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-27T22:25:24.770000Z",
+  "market_createdAt": "2021-12-27T22:25:24.77Z",
+  "market_updatedAt": "2024-04-23T00:41:49.210114Z",
+  "market_startDate": "2021-12-28T22:12:16.772Z",
+  "market_endDate": "2022-01-12T00:00:00Z",
+  "market_closedTime": "2022-01-12 18:57:40+00",
+  "conditionId": "0xb0c6970625b6cc4d0f81423f3bed026d8401a446583d7facaf5f2d36d7987edb",
+  "slug": "will-the-floor-price-of-mutant-apes-be-above-7-eth-on-january-12",
+  "question": "Will the floor price of Mutant Apes be above 7 ETH on January 12?"
+}

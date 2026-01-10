@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "227254",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-30T17:55:01.713000Z",
+  "market_createdAt": "2021-07-30T17:55:01.713Z",
+  "market_updatedAt": "2024-04-26T03:02:26.753041Z",
+  "market_startDate": "2021-07-30T19:11:38.508Z",
+  "market_endDate": "2021-08-06T00:00:00Z",
+  "market_closedTime": "2021-08-06 19:30:42+00",
+  "conditionId": "0x66cc37d12d40676b03defb1483742c9bcd221d58403ab165453c1786c63f9f15",
+  "slug": "how-many-album-unit-sales-will-billie-eilishs-happier-than-ever-generate-in-its-first-week",
+  "question": "How many album unit sales will Billie Eilish’s “Happier Than Ever” generate in its first week?"
+}

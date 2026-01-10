@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242760",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-02T09:12:31.263000Z",
+  "market_createdAt": "2022-04-02T09:12:31.263Z",
+  "market_updatedAt": "2024-04-22T22:44:22.200016Z",
+  "market_startDate": "2022-04-02T16:38:18.793Z",
+  "market_endDate": "2022-04-02T00:00:00Z",
+  "market_closedTime": "2022-04-03 07:01:37+00",
+  "conditionId": "0x17c67d67e89f11145de4d22c28c4fb3ce2a1fe97df16497d1b9648960552fa65",
+  "slug": "nba-will-the-76ers-beat-the-hornets-by-more-than-5pt5-points-in-their-april-2-1230-pm-et-matchup",
+  "question": "NBA: Will the 76ers beat the Hornets by more than 5.5 points in their April 2, 12:30 PM ET matchup?"
+}

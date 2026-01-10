@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "220911",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-01T17:20:01.080000Z",
+  "market_createdAt": "2021-07-01T17:20:01.08Z",
+  "market_updatedAt": "2024-04-25T00:12:27.871003Z",
+  "market_startDate": null,
+  "market_endDate": null,
+  "market_closedTime": "2021-08-24 17:50:13+00",
+  "conditionId": "0xa83fa2a8e32e3d6817413d005f0fa62c043f864ab00f34b28e4295f31b9cf0c1",
+  "slug": "will-brad-mcclelland-win-top-male-on-love-island-uk-season-7",
+  "question": "Will Brad McClelland be in the winning couple on Love Island UK Season 7?"
+}

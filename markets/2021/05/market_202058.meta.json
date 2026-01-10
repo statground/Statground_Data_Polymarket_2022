@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "202058",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-21T19:10:05.479000Z",
+  "market_createdAt": "2021-05-21T19:10:05.479Z",
+  "market_updatedAt": "2024-04-22T23:01:22.082286Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-26T00:00:00Z",
+  "market_closedTime": "2021-05-27 15:30:26+00",
+  "conditionId": "0x0030593a04ac5d23141f7e2d9be9cbcde550d8ddf1068bf23f0210616c729e44",
+  "slug": "will-the-knicks-or-the-hawks-win-their-game-2-nba-playoff-matchup",
+  "question": "Who will win Knicks vs. Hawks: Game 2?"
+}

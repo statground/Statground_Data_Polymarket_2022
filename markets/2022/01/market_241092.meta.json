@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241092",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-27T00:34:56.807000Z",
+  "market_createdAt": "2022-01-27T00:34:56.807Z",
+  "market_updatedAt": "2024-04-23T00:14:29.516658Z",
+  "market_startDate": null,
+  "market_endDate": "2022-03-31T00:00:00Z",
+  "market_closedTime": "2022-04-02 07:17:50+00",
+  "conditionId": "0xd5f932f559c1fecca3106308fbcd3c8abc1bfd36c4fc25d6365a1842f4ba3a3a",
+  "slug": "will-olympusdao-ohm-suffer-an-exploit-by-march-31st-2022",
+  "question": "Will OlympusDAO (Ohm) suffer an exploit by March 31st, 2022?"
+}

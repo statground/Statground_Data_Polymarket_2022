@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243093",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-11T17:07:59.419000Z",
+  "market_createdAt": "2022-04-11T17:07:59.419Z",
+  "market_updatedAt": "2023-01-31T21:24:47.115Z",
+  "market_startDate": "2022-04-11T17:26:38.42Z",
+  "market_endDate": "2022-04-25T00:00:00Z",
+  "market_closedTime": "2022-04-26 15:15:42+00",
+  "conditionId": "0xe493bdda4f74b6776b89ce54d1fcfb20faae8130d68d597399c71839cb105814",
+  "slug": "will-the-aaa-us-average-national-gas-price-drop-below-4pt00-by-april-25-2022",
+  "question": "Will the AAA US average national gas price drop below $4.00 by April 25, 2022?"
+}

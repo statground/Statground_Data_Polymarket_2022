@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239811",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-03T20:04:21.044000Z",
+  "market_createdAt": "2021-12-03T20:04:21.044Z",
+  "market_updatedAt": "2024-04-23T00:15:39.153559Z",
+  "market_startDate": "2021-12-04T19:43:25.07Z",
+  "market_endDate": "2021-12-05T00:00:00Z",
+  "market_closedTime": "2021-12-06 20:30:58+00",
+  "conditionId": "0xee571e54baf3f6e757c8c25e343e91ab995f07ed736363012e44ce4921aa4851",
+  "slug": "nfl-will-the-bengals-beat-the-chargers-by-more-than-2pt5-points-in-their-december-5-matchup",
+  "question": "NFL: Will the Bengals beat the Chargers by more than 2.5 points in their December 5 matchup?"
+}

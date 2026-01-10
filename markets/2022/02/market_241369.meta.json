@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241369",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-08T06:55:13.441000Z",
+  "market_createdAt": "2022-02-08T06:55:13.441Z",
+  "market_updatedAt": "2024-04-22T22:43:21.883587Z",
+  "market_startDate": null,
+  "market_endDate": "2022-02-08T00:00:00Z",
+  "market_closedTime": "2022-02-10 15:15:50+00",
+  "conditionId": "0xf6bb0a84ef10724d7d711530acf6cb80ff5a8ca4d7375ec3eda90f824c2018d1",
+  "slug": "nba-who-will-win-the-76ers-vs-suns-scheduled-for-february-8-7-pm-et",
+  "question": "NBA: Who will win the 76ers vs. Suns, scheduled for February 8 (7 PM ET)?"
+}

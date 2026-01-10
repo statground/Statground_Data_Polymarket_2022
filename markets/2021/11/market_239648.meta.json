@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239648",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-28T16:11:50.803000Z",
+  "market_createdAt": "2021-11-28T16:11:50.803Z",
+  "market_updatedAt": "2024-04-22T22:43:39.161614Z",
+  "market_startDate": "2021-11-28T16:50:45.116Z",
+  "market_endDate": "2021-11-28T00:00:00Z",
+  "market_closedTime": "2021-11-29 13:59:58+00",
+  "conditionId": "0x584aeda42812ba6311431c92b7565735bce92b194275b5d2d0c8ed0ff23d0ff5",
+  "slug": "nfl-will-the-49ers-beat-the-vikings-by-more-than-3pt5-points-in-their-november-28th-matchup",
+  "question": "NFL: Will the 49ers beat the Vikings by more than 3.5 points in their November 28th matchup?"
+}

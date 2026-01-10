@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239419",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-13T14:50:22.093000Z",
+  "market_createdAt": "2021-11-13T14:50:22.093Z",
+  "market_updatedAt": "2024-04-24T23:38:46.239755Z",
+  "market_startDate": "2021-11-15T19:04:36.061Z",
+  "market_endDate": "2021-11-27T00:00:00Z",
+  "market_closedTime": "2021-11-29 16:31:41+00",
+  "conditionId": "0x5c3dd0c7122f610b206e679f3b7ef96801903c715631450c2431e9c393eae5df",
+  "slug": "will-nasa-have-confirmed-more-than-4580-existing-exoplanets-by-november-27",
+  "question": "Will NASA have confirmed more than 4580 existing exoplanets by November 27?"
+}

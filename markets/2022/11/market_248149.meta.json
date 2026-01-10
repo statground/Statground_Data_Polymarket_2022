@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248149",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-28T21:23:25.608000Z",
+  "market_createdAt": "2022-11-28T21:23:25.608Z",
+  "market_updatedAt": "2023-01-31T17:12:13.729Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-31T00:00:00Z",
+  "market_closedTime": "2023-01-01 14:16:24+00",
+  "conditionId": "0xb77a7e212ef519176091ebfe219beca20a879242d78f4aa2e70195df554a0547",
+  "slug": "will-twitter-be-removed-from-the-apple-app-store-by-eoy",
+  "question": "Will Twitter be removed from the Apple app store by EOY?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241718",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-25T13:03:10.135000Z",
+  "market_createdAt": "2022-02-25T13:03:10.135Z",
+  "market_updatedAt": "2024-04-25T00:02:11.778068Z",
+  "market_startDate": "2022-02-25T16:17:35.306Z",
+  "market_endDate": "2022-02-25T00:00:00Z",
+  "market_closedTime": "2022-02-26 21:30:33+00",
+  "conditionId": "0x37d97d2127ef6dc60b93efe0c0fa94660c66230f8d1b6bcc1ed0f605a2208a76",
+  "slug": "ncaa-college-basketball-who-will-win-the-northwestern-vs-penn-state-scheduled-for-february-25-8-pm-et",
+  "question": "NCAA College Basketball: Who will win the Northwestern vs. Penn State, scheduled for February 25 (8 PM ET)?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239630",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-27T18:48:42.462000Z",
+  "market_createdAt": "2021-11-27T18:48:42.462Z",
+  "market_updatedAt": "2024-04-22T22:59:18.95366Z",
+  "market_startDate": "2021-11-27T19:12:19.555Z",
+  "market_endDate": "2021-11-27T00:00:00Z",
+  "market_closedTime": "2021-11-28 20:32:38+00",
+  "conditionId": "0xae778ad19cfbc75185aa22aa350a72808c84088f021af6d4bc184d1e6dbff6f0",
+  "slug": "nba-will-the-cavaliers-beat-the-magic-by-more-than-9pt5-points-in-their-november-27th-matchup",
+  "question": "NBA: Will the Cavaliers beat the Magic by more than 9.5 points in their November 27th matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "202100",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-25T17:15:09.262000Z",
+  "market_createdAt": "2021-05-25T17:15:09.262Z",
+  "market_updatedAt": "2024-04-23T00:10:26.752568Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-26T00:00:00Z",
+  "market_closedTime": "2021-05-27 19:11:43+00",
+  "conditionId": "0x965d43ff50a785e55737b7ca6a36f89ddcaf5f1c175347332f19146d5d548aa2",
+  "slug": "will-villarreal-or-manchester-united-win-the-europa-league-final",
+  "question": "Will Villarreal or Manchester United win the Europa League Final?"
+}

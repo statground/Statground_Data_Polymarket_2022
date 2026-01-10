@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242284",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-19T09:09:45.780000Z",
+  "market_createdAt": "2022-03-19T09:09:45.78Z",
+  "market_updatedAt": "2024-04-22T23:42:45.880889Z",
+  "market_startDate": "2022-03-19T18:42:34.063Z",
+  "market_endDate": "2022-03-19T00:00:00Z",
+  "market_closedTime": "2022-03-20 21:13:45+00",
+  "conditionId": "0xef253d772a3512324ea9053b223f613a9cf39007320968aa278b8b6ae89597a3",
+  "slug": "ncaab-who-will-win-providence-friars-vspt-richmond-spiders-scheduled-for-march-19-610-pm-et",
+  "question": "NCAAB: Who will win Providence Friars vs. Richmond Spiders, scheduled for March 19, 6:10 PM ET?"
+}

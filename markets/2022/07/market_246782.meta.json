@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246782",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-21T18:47:54.390000Z",
+  "market_createdAt": "2022-07-21T18:47:54.39Z",
+  "market_updatedAt": "2023-01-31T18:22:14.67Z",
+  "market_startDate": "2022-07-21T18:55:16.937Z",
+  "market_endDate": "2022-07-29T00:00:00Z",
+  "market_closedTime": "2022-07-29 22:45:45+00",
+  "conditionId": "0x912ebb58800de42acf55d6509c3ca036ac8792bc9ee491e7877156e07d258e9c",
+  "slug": "will-joe-bidens-fivethirtyeight-approval-rating-be-37pt0-or-higher-on-july-28",
+  "question": "Will Joe Biden's FiveThirtyEight approval rating be 37.0% or higher on July 28?"
+}

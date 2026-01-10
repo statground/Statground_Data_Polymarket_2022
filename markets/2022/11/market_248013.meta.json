@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248013",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T18:57:50.419000Z",
+  "market_createdAt": "2022-11-18T18:57:50.419Z",
+  "market_updatedAt": "2023-01-31T20:21:38.341Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-06T00:00:00Z",
+  "market_closedTime": "2022-11-29 02:30:42+00",
+  "conditionId": "0x78f00f8830f71e099eba577d160153cffef6f1fa315824aa5f43249eceb0f67b",
+  "slug": "will-qatar-qualify-from-group-a",
+  "question": "Will Qatar qualify from Group A?"
+}

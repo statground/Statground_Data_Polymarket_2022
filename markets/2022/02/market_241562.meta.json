@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241562",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-16T19:13:13.334000Z",
+  "market_createdAt": "2022-02-16T19:13:13.334Z",
+  "market_updatedAt": "2024-04-22T22:26:12.159786Z",
+  "market_startDate": "2022-02-16T19:37:56.138Z",
+  "market_endDate": "2022-02-16T00:00:00Z",
+  "market_closedTime": "2022-02-17 20:19:38+00",
+  "conditionId": "0x158826c1b75524872ee2921074b564fddd942d513fc9ce1d44d26903417dbc8e",
+  "slug": "nba-who-will-win-the-jazz-vs-lakers-scheduled-for-february-16-10-pm-et",
+  "question": "NBA: Who will win the Jazz vs. Lakers, scheduled for February 16 (10 PM ET)?"
+}

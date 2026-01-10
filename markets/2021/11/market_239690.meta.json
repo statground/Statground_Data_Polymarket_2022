@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239690",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-30T10:46:09.831000Z",
+  "market_createdAt": "2021-11-30T10:46:09.831Z",
+  "market_updatedAt": "2024-04-24T23:59:11.96992Z",
+  "market_startDate": "2021-11-30T18:23:06.493Z",
+  "market_endDate": "2021-11-30T00:00:00Z",
+  "market_closedTime": "2021-12-02 06:44:10+00",
+  "conditionId": "0xf602c3708f1a46b883c8d4d8087194b8f6f75a10212ccbe6510e0922fcf0f335",
+  "slug": "nba-will-the-raptors-beat-the-grizzlies-by-more-than-4pt5-points-in-their-november-30th-matchup",
+  "question": "NBA: Will the Raptors beat the Grizzlies by more than 4.5 points in their November 30th matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248016",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T20:05:51.025000Z",
+  "market_createdAt": "2022-11-18T20:05:51.025Z",
+  "market_updatedAt": "2023-11-25T14:09:08.835Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-06T00:00:00Z",
+  "market_closedTime": "2022-11-30 01:31:18+00",
+  "conditionId": "0x40ffacdc7e180a85c1c6f2fce2269ebd7cbd17ebf82527971c5b5cbd67d3bcdb",
+  "slug": "will-netherlands-qualify-from-group-a",
+  "question": "Will Netherlands qualify from Group A?"
+}

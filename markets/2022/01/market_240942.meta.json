@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240942",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-21T21:25:38.718000Z",
+  "market_createdAt": "2022-01-21T21:25:38.718Z",
+  "market_updatedAt": "2024-04-22T22:44:01.609918Z",
+  "market_startDate": "2022-01-21T22:48:33.308Z",
+  "market_endDate": "2022-01-31T00:00:00Z",
+  "market_closedTime": "2022-02-01 19:32:22+00",
+  "conditionId": "0x42f7a087ca20da22c2d3fb37478cd0e56272fae538ced6ccb72d1dff1619dcaa",
+  "slug": "will-ethereum-eth-price-be-above-3000-at-noon-on-january-31-2022",
+  "question": "Will Ethereum (ETH) be above $3,000 at noon on January 31 2022?"
+}

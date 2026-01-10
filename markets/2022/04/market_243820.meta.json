@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243820",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-26T19:57:57.371000Z",
+  "market_createdAt": "2022-04-26T19:57:57.371Z",
+  "market_updatedAt": "2023-01-31T15:39:26.683Z",
+  "market_startDate": "2022-04-26T20:29:58.412Z",
+  "market_endDate": "2022-07-31T00:00:00Z",
+  "market_closedTime": "2022-08-01 23:46:06+00",
+  "conditionId": "0x4df14c042cc75ab5b3b6a07f17c223b9b6316a805272fa4a6d79bc173628a4fe",
+  "slug": "will-twtr-be-delisted-from-the-nyse-by-july-31",
+  "question": "Will TWTR be delisted from the NYSE by July 31?"
+}

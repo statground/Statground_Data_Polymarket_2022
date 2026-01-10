@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242090",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-15T07:48:13.701000Z",
+  "market_createdAt": "2022-03-15T07:48:13.701Z",
+  "market_updatedAt": "2023-03-17T19:20:43.45Z",
+  "market_startDate": "2022-03-15T16:48:24.954Z",
+  "market_endDate": "2022-05-05T00:00:00Z",
+  "market_closedTime": "2022-03-31 22:03:26+00",
+  "conditionId": "0xed859d3f2043c4db2653b174cb3e224cc8471437f21a7b684cd21d484e856180",
+  "slug": "will-china-report-a-record-high-7-day-covid-19-case-average-by-may-1",
+  "question": "Will China report a record high 7-day COVID-19 case average by May 1?"
+}

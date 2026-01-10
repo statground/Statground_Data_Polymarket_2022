@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241212",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-31T08:06:53.775000Z",
+  "market_createdAt": "2022-01-31T08:06:53.775Z",
+  "market_updatedAt": "2024-04-22T23:53:44.294069Z",
+  "market_startDate": "2022-01-31T22:01:04.244Z",
+  "market_endDate": "2022-01-31T00:00:00Z",
+  "market_closedTime": "2022-02-02 23:37:02+00",
+  "conditionId": "0x07850a501082e817d69bf733ceacd41ec24112753aa0f361138f4ce853e23fc7",
+  "slug": "nba-who-will-win-the-76ers-vs-grizzlies-scheduled-for-january-31-7-pm-et",
+  "question": "NBA: Who will win the 76ers vs. Grizzlies, scheduled for January 31 (7 PM ET)?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241747",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-27T14:48:03.093000Z",
+  "market_createdAt": "2022-02-27T14:48:03.093Z",
+  "market_updatedAt": "2024-04-22T22:35:33.980829Z",
+  "market_startDate": "2022-02-27T16:51:35.738Z",
+  "market_endDate": "2022-02-27T00:00:00Z",
+  "market_closedTime": "2022-02-28 15:21:58+00",
+  "conditionId": "0x9a0a79a8a8e4f7af41579a4353e19bbea0c7a01b1cc7e87b440d09254a53b507",
+  "slug": "nba-will-the-nuggets-beat-the-trail-blazers-by-more-than-7p5-points-in-their-february-27-9-pm-et-matchup",
+  "question": "NBA: Will the Nuggets beat the Trail Blazers by more than 7.5 points in their February 27 (9 PM ET) matchup?"
+}

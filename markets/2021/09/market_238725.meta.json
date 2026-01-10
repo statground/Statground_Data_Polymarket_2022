@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238725",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-09T18:26:01.483000Z",
+  "market_createdAt": "2021-09-09T18:26:01.483Z",
+  "market_updatedAt": "2024-04-26T02:51:14.203051Z",
+  "market_startDate": "2021-09-09T22:49:48.18Z",
+  "market_endDate": "2021-09-12T00:00:00Z",
+  "market_closedTime": "2021-09-13 03:29:53+00",
+  "conditionId": "0x1d033afe0abf5170f2cf5d35bf84e8f02c49162e3ade05ac48b2b091f40789ee",
+  "slug": "broncos-3-v-giants-spread",
+  "question": "Broncos (-3) v. Giants Spread"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247672",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-17T16:55:26.214000Z",
+  "market_createdAt": "2022-10-17T16:55:26.214Z",
+  "market_updatedAt": "2023-01-31T06:08:24.048Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-24T00:00:00Z",
+  "market_closedTime": "2022-10-25 16:55:49+00",
+  "conditionId": "0x36f71cd845f37205eb61fadbaef4eb8a7a0000e7313959041a906d25d6432b7f",
+  "slug": "will-black-adam-gross-more-than-65-million-domestically-on-its-opening-weekend",
+  "question": "Will 'Black Adam' gross more than $65 million domestically on its opening weekend?"
+}

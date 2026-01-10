@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241151",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-28T16:53:10.215000Z",
+  "market_createdAt": "2022-01-28T16:53:10.215Z",
+  "market_updatedAt": "2024-04-22T22:56:09.367858Z",
+  "market_startDate": null,
+  "market_endDate": "2022-02-22T00:00:00Z",
+  "market_closedTime": "2022-02-23 13:30:47+00",
+  "conditionId": "0x2d440a63ba0a09f765a6acf31d1971d45ce7a7721b9f2af225e7c257d14750ab",
+  "slug": "will-kanye-west-release-donda-2-or-another-new-album-by-22222",
+  "question": "Will Kanye West release 'Donda 2' (or another new album) by 2/22/22?"
+}

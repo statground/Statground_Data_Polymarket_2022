@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241864",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-03T17:11:35.581000Z",
+  "market_createdAt": "2022-03-03T17:11:35.581Z",
+  "market_updatedAt": "2024-04-23T00:08:00.34139Z",
+  "market_startDate": "2022-03-03T20:24:15.068Z",
+  "market_endDate": "2022-03-03T00:00:00Z",
+  "market_closedTime": "2022-03-04 16:16:59+00",
+  "conditionId": "0x7c97c3961f803e1bfc401b59cfc52bcbb11e42c54551cd1ec7890da8271b0bb7",
+  "slug": "nhl-will-the-panthers-beat-the-senators-by-more-than-1pt5-goals-in-their-march-3-matchup-7-pm-et",
+  "question": "NHL: Will the Panthers beat the Senators by more than 1.5 goals in their March 3 matchup (7 PM ET)?"
+}

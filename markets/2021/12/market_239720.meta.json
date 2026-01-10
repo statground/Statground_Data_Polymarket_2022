@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239720",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-01T09:57:38.773000Z",
+  "market_createdAt": "2021-12-01T09:57:38.773Z",
+  "market_updatedAt": "2024-04-26T02:46:42.973693Z",
+  "market_startDate": "2021-12-01T19:44:13.676Z",
+  "market_endDate": "2021-12-02T00:00:00Z",
+  "market_closedTime": "2021-12-03 23:50:08+00",
+  "conditionId": "0x7f7c7331302878c6db54c28841e6c3774210e87119e9a5ea8917f3d11a76dc4a",
+  "slug": "nfl-will-the-sum-of-points-in-cowboys-v-saints-be-more-than-47pt5",
+  "question": "NFL: Will the sum of points in Cowboys v. Saints be more than 47.5?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "228986",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-05T18:00:01.194000Z",
+  "market_createdAt": "2021-08-05T18:00:01.194Z",
+  "market_updatedAt": "2024-04-22T22:56:52.876582Z",
+  "market_startDate": "2021-08-05T18:47:14.77Z",
+  "market_endDate": "2022-02-22T00:00:00Z",
+  "market_closedTime": "2022-01-16 18:57:54+00",
+  "conditionId": "0x5e12b849599d72d0597138f4e8f2c4a6e14cf4c526d33e1a54842e63042565d8",
+  "slug": "will-tim-tebow-score-a-touchdown-in-the-upcoming-nfl-season",
+  "question": "Will Tim Tebow score a touchdown in the upcoming NFL season?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239299",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-08T10:38:22.539000Z",
+  "market_createdAt": "2021-11-08T10:38:22.539Z",
+  "market_updatedAt": "2024-04-23T00:45:08.296095Z",
+  "market_startDate": "2021-11-08T20:47:57.403Z",
+  "market_endDate": "2021-11-08T00:00:00Z",
+  "market_closedTime": "2021-11-09 17:01:39+00",
+  "conditionId": "0x7f50428de05cdb73ca93d4fea09051247ff1a9f6b0fe83e50429e59d1d387f5a",
+  "slug": "nba-will-the-suns-beat-the-kings-by-more-than-2pt5-points-in-their-november-8th-matchup",
+  "question": "NBA: Will the Suns beat the Kings by more than 2.5 points in their November 8th matchup?"
+}

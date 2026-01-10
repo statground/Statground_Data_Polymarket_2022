@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "196275",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-13T18:10:02.828000Z",
+  "market_createdAt": "2021-05-13T18:10:02.828Z",
+  "market_updatedAt": "2024-04-23T00:42:05.587539Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-13T00:00:00Z",
+  "market_closedTime": "2021-05-14 16:03:16+00",
+  "conditionId": "0x1ca75bfb06f8cdc25267a357ea9d23403718ed2b0747f95f7241b686fbacb110",
+  "slug": "will-georges-seurat-s-paysage-et-personnages-sell-for-more-than-8-million-at-christie-s",
+  "question": "Will Georges Seurat's “Paysage et personnages” sell for more than $8 million at Christie’s?"
+}

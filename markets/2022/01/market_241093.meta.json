@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241093",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-27T00:36:16.684000Z",
+  "market_createdAt": "2022-01-27T00:36:16.684Z",
+  "market_updatedAt": "2024-04-24T23:45:51.975892Z",
+  "market_startDate": "2022-01-27T18:01:11.42Z",
+  "market_endDate": "2022-03-31T00:00:00Z",
+  "market_closedTime": "2022-04-02 07:16:02+00",
+  "conditionId": "0xd3fb986b2b7d606b9b9f03665c8f1afc8d991e94afe14baf16dbd2808c352bf7",
+  "slug": "will-chainlink-suffer-an-exploit-by-march-31st-2022",
+  "question": "Will Chainlink suffer an exploit by March 31st, 2022?"
+}

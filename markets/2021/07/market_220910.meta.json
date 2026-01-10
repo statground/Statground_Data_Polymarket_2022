@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "220910",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-01T17:20:01.077000Z",
+  "market_createdAt": "2021-07-01T17:20:01.077Z",
+  "market_updatedAt": "2024-04-23T00:36:01.294807Z",
+  "market_startDate": null,
+  "market_endDate": null,
+  "market_closedTime": "2021-08-24 17:51:17+00",
+  "conditionId": "0xe5c8a89c240b58cd1ddaa4b36324efd12f4c06033595469e32a4ed382400d333",
+  "slug": "will-kaz-kamwi-win-top-female-on-love-island-uk-season-7",
+  "question": "Will Kaz Kamwi be in the winning couple on Love Island UK Season 7?"
+}

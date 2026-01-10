@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242851",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-05T20:37:30.830000Z",
+  "market_createdAt": "2022-04-05T20:37:30.83Z",
+  "market_updatedAt": "2024-04-24T23:21:49.045355Z",
+  "market_startDate": "2022-04-05T20:53:26.932Z",
+  "market_endDate": "2022-05-09T00:00:00Z",
+  "market_closedTime": "2022-05-13 01:46:15+00",
+  "conditionId": "0x25309f96214265be6e2d78227a7ecac57273ccc2d7ace94e43436f89918623bf",
+  "slug": "will-bongbong-marcos-be-elected-president-of-the-philippines-in-2022",
+  "question": "Will Bongbong Marcos be elected President of the Philippines in 2022?"
+}

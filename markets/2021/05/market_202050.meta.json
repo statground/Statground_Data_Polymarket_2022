@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "202050",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-21T18:55:02.545000Z",
+  "market_createdAt": "2021-05-21T18:55:02.545Z",
+  "market_updatedAt": "2024-04-24T23:16:37.30834Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-22T00:00:00Z",
+  "market_closedTime": "2021-05-23 19:04:22+00",
+  "conditionId": "0x73d88bffd3580a880abcebdfe6f3c4d1fbee9e62147e99145d5907a708a11025",
+  "slug": "will-the-nuggets-or-the-trail-blazers-win-their-game-1-nba-playoff-matchup",
+  "question": "Will the Nuggets or the Trail Blazers win their Game 1 NBA Playoff matchup?"
+}

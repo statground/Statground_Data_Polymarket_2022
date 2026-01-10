@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241243",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-01T13:17:24.677000Z",
+  "market_createdAt": "2022-02-01T13:17:24.677Z",
+  "market_updatedAt": "2024-04-22T23:34:53.897785Z",
+  "market_startDate": null,
+  "market_endDate": "2022-02-01T00:00:00Z",
+  "market_closedTime": "2022-02-03 00:09:35+00",
+  "conditionId": "0x8f73d4f91402bba0c1b29fe9d24f2f61cb14f9c23d210fcb24c71b45962562dd",
+  "slug": "nba-who-will-win-the-warriors-vs-spurs-scheduled-for-february-1-830-pm-et",
+  "question": "NBA: Who will win the Warriors vs. Spurs, scheduled for February 1 (8.30 PM ET)?"
+}

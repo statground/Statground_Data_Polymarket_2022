@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247371",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-27T20:31:09.685000Z",
+  "market_createdAt": "2022-09-27T20:31:09.685Z",
+  "market_updatedAt": "2023-01-31T20:46:10.657Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-03T00:00:00Z",
+  "market_closedTime": "2022-10-05 00:16:28+00",
+  "conditionId": "0x0a856ba17192a202cc8c733d669506d3c3ec176e7bb3409b4533e236154e1483",
+  "slug": "will-smile-gross-more-than-17-million-domestically-on-its-opening-weekend",
+  "question": "Will 'Smile' gross more than $17 million domestically on its opening weekend?"
+}

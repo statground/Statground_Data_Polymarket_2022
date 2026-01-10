@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247647",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-13T19:51:11.009000Z",
+  "market_createdAt": "2022-10-13T19:51:11.009Z",
+  "market_updatedAt": "2023-01-31T20:55:51.887Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-22T00:00:00Z",
+  "market_closedTime": "2022-10-23 01:46:04+00",
+  "conditionId": "0x04945b6a0f927103e4e4850588cdc5898a2d16640ed33762a8e11ea1770e2e05",
+  "slug": "ufc-280-who-will-win-yan-vs-omalley",
+  "question": "UFC 280: Who will win - Yan vs O'Malley"
+}

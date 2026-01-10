@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238930",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-01T21:27:00.968000Z",
+  "market_createdAt": "2021-10-01T21:27:00.968Z",
+  "market_updatedAt": "2024-04-23T00:50:46.348728Z",
+  "market_startDate": "2021-10-01T22:18:49.537Z",
+  "market_endDate": "2021-10-03T00:00:00Z",
+  "market_closedTime": "2021-10-03 23:52:33+00",
+  "conditionId": "0xaff6bfb76884e70459ce78d7b9709ab1cdd9d86f4b664282513c0885e83054c7",
+  "slug": "will-the-ravens-beat-the-broncos-by-more-than-1pt5-points-in-their-week-four-matchup",
+  "question": "Will the Ravens beat the Broncos by more than 1.5 points in their week four matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239357",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-10T20:41:42.004000Z",
+  "market_createdAt": "2021-11-10T20:41:42.004Z",
+  "market_updatedAt": "2024-04-23T00:18:02.189621Z",
+  "market_startDate": "2021-11-10T22:28:59.777Z",
+  "market_endDate": "2021-11-11T00:00:00Z",
+  "market_closedTime": "2021-11-12 19:53:25+00",
+  "conditionId": "0xf85c3763fee46c4c17d2834410b885ccfa4353fc30107723b7b03224279629f1",
+  "slug": "will-ed-ruschas-ripe-lot-37c-sell-for-more-than-22m-at-christies-on-november-11",
+  "question": "Will Ed Ruscha's “Ripe” (Lot 37C) sell for more than $22m at Christie’s on November 11?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241410",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-10T14:08:04.991000Z",
+  "market_createdAt": "2022-02-10T14:08:04.991Z",
+  "market_updatedAt": "2024-04-24T23:15:10.492032Z",
+  "market_startDate": "2022-02-10T15:00:33.137Z",
+  "market_endDate": "2022-02-10T00:00:00Z",
+  "market_closedTime": "2022-02-11 10:45:17+00",
+  "conditionId": "0x273993d64cb86d5557f150171cf582bf953451798f98a761984d06dacc0f4574",
+  "slug": "nhl-will-the-blues-beat-the-devils-by-more-than-1p5-goals-in-their-february-10-matchup-8-pm-et",
+  "question": "NHL: Will the Blues beat the Devils by more than 1.5 goals in their February 10 matchup (8 PM ET)?"
+}

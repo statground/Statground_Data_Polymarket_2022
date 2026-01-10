@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242178",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-17T18:36:22.354000Z",
+  "market_createdAt": "2022-03-17T18:36:22.354Z",
+  "market_updatedAt": "2024-04-22T23:52:14.642293Z",
+  "market_startDate": null,
+  "market_endDate": "2022-03-27T00:00:00Z",
+  "market_closedTime": "2022-03-28 09:57:43+00",
+  "conditionId": "0x1308ec9f080d4b38a62b52ce178ee4e5d19ac1ae4121d631eb8485bf4d3017e0",
+  "slug": "oscars-2022-will-will-smith-win-the-best-actor",
+  "question": "Oscars 2022: Will Will Smith win Best Actor?"
+}

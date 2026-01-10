@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240430",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T15:38:43.803000Z",
+  "market_createdAt": "2022-01-11T15:38:43.803Z",
+  "market_updatedAt": "2024-04-24T23:30:20.062749Z",
+  "market_startDate": "2022-01-12T20:49:15.492Z",
+  "market_endDate": "2022-05-02T00:00:00Z",
+  "market_closedTime": "2022-05-03 15:00:41+00",
+  "conditionId": "0x7a54a3fadc06d6fe7766120adf3503e05ff37b8365ace8bfacf7da4f849ab0ae",
+  "slug": "will-opensea-have-more-volume-in-april-22-than-it-did-in-march-22",
+  "question": "Will OpenSea have more volume in April ‘22 than it did in March ‘22?"
+}

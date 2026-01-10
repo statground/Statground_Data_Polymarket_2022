@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244271",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-05T08:07:39.381000Z",
+  "market_createdAt": "2022-05-05T08:07:39.381Z",
+  "market_updatedAt": "2023-01-31T10:54:25.601Z",
+  "market_startDate": null,
+  "market_endDate": "2022-05-05T00:00:00Z",
+  "market_closedTime": "2022-05-06 06:30:40+00",
+  "conditionId": "0x92165d7645c4a09a1fb8f465d22632ff3ca84f76c69a134e0c118acb8b7b9497",
+  "slug": "mlb-who-will-win-toronto-blue-jays-vs-cleveland-guardians-scheduled-for-may-5-610-pm-et",
+  "question": "MLB: Who will win Toronto Blue Jays vs. Cleveland Guardians, scheduled for May 5, 6:10 PM ET?"
+}

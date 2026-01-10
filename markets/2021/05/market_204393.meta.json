@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "204393",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-29T18:35:03.132000Z",
+  "market_createdAt": "2021-05-29T18:35:03.132Z",
+  "market_updatedAt": "2023-01-31T15:35:47.288Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-31T00:00:00Z",
+  "market_closedTime": "2021-06-01 16:23:42+00",
+  "conditionId": "0xc0d951a58e69632cb4710e8c837428f3e1b654dee57010984e2d33e4aee7a861",
+  "slug": "who-will-win-3rd-place-in-the-ftx-crypto-cup-ian-nepomniachtchi-vs-teimour-radjabov",
+  "question": "Who will win 3rd place in the FTX Crypto Cup: Ian Nepomniachtchi vs. Teimour Radjabov?"
+}

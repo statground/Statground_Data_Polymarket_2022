@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242759",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-02T09:11:54.817000Z",
+  "market_createdAt": "2022-04-02T09:11:54.817Z",
+  "market_updatedAt": "2024-04-22T22:54:32.134768Z",
+  "market_startDate": "2022-04-02T16:37:45.131Z",
+  "market_endDate": "2022-04-02T00:00:00Z",
+  "market_closedTime": "2022-04-03 07:00:57+00",
+  "conditionId": "0x1ca82ed70e9cd6207d091d7e1c24c6f58c40a53bf8feb9873ed57209a573ae40",
+  "slug": "nba-who-will-win-jazz-vs-warriors-scheduled-for-april-2-830-pm-et",
+  "question": "NBA: Who will win Jazz vs. Warriors, scheduled for April 2, 8:30 PM ET?"
+}

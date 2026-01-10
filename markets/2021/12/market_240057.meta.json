@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240057",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-16T11:33:41.512000Z",
+  "market_createdAt": "2021-12-16T11:33:41.512Z",
+  "market_updatedAt": "2024-04-25T00:04:34.20298Z",
+  "market_startDate": "2021-12-16T17:52:47.092Z",
+  "market_endDate": "2021-12-16T00:00:00Z",
+  "market_closedTime": "2021-12-17 17:12:26+00",
+  "conditionId": "0x3420396082b11a0b058127bfe9b6ad6ff992857a4decb4e02760c418f73ec05b",
+  "slug": "nba-will-the-pacers-beat-the-pistons-by-more-than-9pt5-points-in-their-december-16-matchup",
+  "question": "NBA: Will the Pacers beat the Pistons by more than 9.5 points in their December 16 matchup?"
+}

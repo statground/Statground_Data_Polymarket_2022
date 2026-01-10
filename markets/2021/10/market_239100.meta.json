@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239100",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-26T22:44:42.505000Z",
+  "market_createdAt": "2021-10-26T22:44:42.505Z",
+  "market_updatedAt": "2024-04-26T02:48:45.222195Z",
+  "market_startDate": "2021-10-27T18:17:16.009Z",
+  "market_endDate": "2021-10-27T00:00:00Z",
+  "market_closedTime": "2021-10-28 09:59:56+00",
+  "conditionId": "0xd626dc495fe19c153edee841c513bad5f421f9bd5fa50ed12938a9e306c3934e",
+  "slug": "will-the-celtics-beat-the-wizards-by-more-than-4pt5-points-in-their-october-27th-matchup",
+  "question": "Will the Celtics beat the Wizards by more than 4.5 points in their October 27th matchup?"
+}

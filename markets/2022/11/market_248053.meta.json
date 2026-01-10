@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248053",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T22:01:00.234000Z",
+  "market_createdAt": "2022-11-18T22:01:00.234Z",
+  "market_updatedAt": "2023-01-31T16:32:30.456Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-18T00:00:00Z",
+  "market_closedTime": "2022-12-10 04:00:49+00",
+  "conditionId": "0x10ac21ddaa7e3adf525c9f59ba3d46689a4944c018f1471776b2b46e0698f917",
+  "slug": "will-netherlands-win-the-2022-world-cup",
+  "question": "Will Netherlands win the 2022 World Cup?"
+}

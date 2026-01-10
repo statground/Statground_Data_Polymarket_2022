@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239805",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-03T18:46:40.319000Z",
+  "market_createdAt": "2021-12-03T18:46:40.319Z",
+  "market_updatedAt": "2024-04-22T22:42:40.72018Z",
+  "market_startDate": "2021-12-03T20:07:08.382Z",
+  "market_endDate": "2021-12-03T00:00:00Z",
+  "market_closedTime": "2021-12-04 18:10:37+00",
+  "conditionId": "0x59f196fa87e5062a30601e8cc841d1a592450a3ecc1232ac25d21845e7177bae",
+  "slug": "nba-will-the-clippers-beat-the-lakers-by-more-than-1pt5-points-in-their-december-3-matchup",
+  "question": "NBA: Will the Clippers beat the Lakers by more than 1.5 points in their December 3 matchup?"
+}

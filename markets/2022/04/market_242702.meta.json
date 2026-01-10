@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242702",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-01T09:02:39.856000Z",
+  "market_createdAt": "2022-04-01T09:02:39.856Z",
+  "market_updatedAt": "2024-04-22T23:49:24.18044Z",
+  "market_startDate": "2022-04-01T15:30:45.757Z",
+  "market_endDate": "2022-04-01T00:00:00Z",
+  "market_closedTime": "2022-04-02 07:20:10+00",
+  "conditionId": "0x3243f15970e6ca872032f97617db429b7120176143656b95cba31414f68d1c4b",
+  "slug": "nhl-will-the-lightning-beat-the-blackhawks-by-more-than-1pt5-goals-in-their-april-1-700-pm-et-matchup",
+  "question": "NHL: Will the Lightning beat the Blackhawks by more than 1.5 goals in their April 1, 7:00 PM ET matchup?"
+}

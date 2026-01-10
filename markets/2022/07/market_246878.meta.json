@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246878",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-29T22:10:52.547000Z",
+  "market_createdAt": "2022-07-29T22:10:52.547Z",
+  "market_updatedAt": "2023-01-31T20:44:34.042Z",
+  "market_startDate": "2022-07-30T00:37:20.007Z",
+  "market_endDate": "2022-08-08T00:00:00Z",
+  "market_closedTime": "2022-08-09 03:00:37+00",
+  "conditionId": "0x6e5bbfc6f7c61f7962fbef3000da3a58ea94e9a4760109d30b10d6205241b688",
+  "slug": "will-bullet-train-gross-more-than-32pt5-million-domestically-on-its-opening-weekend",
+  "question": "Will 'Bullet Train' gross more than $32.5 million domestically on its opening weekend?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239148",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-30T12:52:58.949000Z",
+  "market_createdAt": "2021-10-30T12:52:58.949Z",
+  "market_updatedAt": "2024-04-26T02:51:59.67967Z",
+  "market_startDate": "2021-10-31T09:11:32.379Z",
+  "market_endDate": "2021-11-06T00:00:00Z",
+  "market_closedTime": "2021-11-08 21:06:37+00",
+  "conditionId": "0x666552f0680482e9b75dad539c4abc7a2ebdc939b43bd394eac5747c85df66a2",
+  "slug": "who-will-win-ufc-268-gaethje-vs-chandler",
+  "question": "Who will win UFC 268: Gaethje vs Chandler?"
+}

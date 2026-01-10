@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240965",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-23T13:07:31.570000Z",
+  "market_createdAt": "2022-01-23T13:07:31.57Z",
+  "market_updatedAt": "2024-04-22T22:40:20.464683Z",
+  "market_startDate": "2022-01-23T17:36:44.097Z",
+  "market_endDate": "2022-01-23T00:00:00Z",
+  "market_closedTime": "2022-01-25 00:07:47+00",
+  "conditionId": "0xca58c2cc2cd9b8e4da96956f86761046e23e71b15122ea25687e5f3a3a706b26",
+  "slug": "nba-will-the-hornets-beat-the-hawks-by-more-than-3p5-points-in-their-january-23-matchup",
+  "question": "NBA: Will the Hornets beat the Hawks by more than 3.5 points in their January 23 matchup?"
+}

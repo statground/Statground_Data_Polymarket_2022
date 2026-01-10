@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218575",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-21T16:25:01.383000Z",
+  "market_createdAt": "2021-06-21T16:25:01.383Z",
+  "market_updatedAt": "2024-04-22T23:31:28.926807Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-21T00:00:00Z",
+  "market_closedTime": "2021-06-22 17:03:29+00",
+  "conditionId": "0x4ebf4948128e888c7ca53a3b9c1e5ea71c796fb468e11a71d676e796d0780af1",
+  "slug": "will-finland-or-belgium-win-their-euro-2020-match-1",
+  "question": "Will Finland or Belgium win their Euro 2020 match?"
+}

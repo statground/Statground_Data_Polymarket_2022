@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248056",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T22:06:36.935000Z",
+  "market_createdAt": "2022-11-18T22:06:36.935Z",
+  "market_updatedAt": "2023-01-31T17:59:41.786Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-18T00:00:00Z",
+  "market_closedTime": "2022-12-01 00:00:43+00",
+  "conditionId": "0xd9d6855bdee7cf7eaa2312b69e3e833202de414d6628f4022c66c2a299ffe404",
+  "slug": "will-denmark-win-the-2022-world-cup",
+  "question": "Will Denmark win the 2022 World Cup?"
+}

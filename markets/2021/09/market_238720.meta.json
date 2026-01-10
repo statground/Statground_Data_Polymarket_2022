@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238720",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-09T18:22:01.663000Z",
+  "market_createdAt": "2021-09-09T18:22:01.663Z",
+  "market_updatedAt": "2024-04-24T23:45:48.988045Z",
+  "market_startDate": "2021-09-09T19:55:51.23Z",
+  "market_endDate": "2021-10-05T00:00:00Z",
+  "market_closedTime": "2021-10-06 01:09:17+00",
+  "conditionId": "0x21212772636d67b66dca38cf9978325d4c0f8992e9c222ebf3630c56dce233c8",
+  "slug": "will-wisconsin-or-south-carolina-have-a-higher-7-day-covid-19-case-average-on-october-1",
+  "question": "Will Wisconsin or South Carolina have a higher 7-day COVID-19 case average on October 1?"
+}

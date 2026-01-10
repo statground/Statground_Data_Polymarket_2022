@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241700",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-24T22:58:05.627000Z",
+  "market_createdAt": "2022-02-24T22:58:05.627Z",
+  "market_updatedAt": "2023-01-31T21:25:30.164Z",
+  "market_startDate": "2022-02-26T17:06:33.39Z",
+  "market_endDate": "2022-03-01T00:00:00Z",
+  "market_closedTime": "2022-03-02 17:31:55+00",
+  "conditionId": "0x69bd271206c520717066b80f81c5a1ee214f4fa7e4cf0d8926de5e6d59853e1f",
+  "slug": "will-president-biden-mention-cryptocurrency-in-the-2022-state-of-the-union-address",
+  "question": "Will President Biden mention Cryptocurrency in the 2022 State of the Union Address?"
+}

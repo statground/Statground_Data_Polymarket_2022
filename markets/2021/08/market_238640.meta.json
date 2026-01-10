@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238640",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-22T04:44:01.426000Z",
+  "market_createdAt": "2021-08-22T04:44:01.426Z",
+  "market_updatedAt": "2024-04-23T00:23:12.855846Z",
+  "market_startDate": "2021-08-22T04:54:40.909Z",
+  "market_endDate": "2021-08-22T00:00:00Z",
+  "market_closedTime": "2021-08-23 01:19:18+00",
+  "conditionId": "0xd839041ce6b6cad10ed1e246c5ba8a3a0f4bf2bd239275445cf7c700f65676ec",
+  "slug": "will-tsm-or-cloud-9-win-their-lcs-playoffs-matchup-on-august-22-2021",
+  "question": "Will TSM or Cloud 9 win their LCS Playoffs matchup on August 22, 2021?"
+}

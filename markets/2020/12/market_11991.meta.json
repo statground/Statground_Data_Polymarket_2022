@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "11991",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-12-21T20:30:44.783000Z",
+  "market_createdAt": "2020-12-21T20:30:44.783Z",
+  "market_updatedAt": "2024-04-23T00:30:45.782316Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-01T00:00:00Z",
+  "market_closedTime": "2021-04-01 17:26:20+00",
+  "conditionId": "0x27d2c539ab4f349b603d4a47f071f581c06fd13f668d58ed35ae96eada116961",
+  "slug": "will-100-million-people-have-received-a-dose-of-an-approved-covid-19-vaccine-in-the-us-by-april-1-2021",
+  "question": "Will 100 million people have received a dose of an approved COVID-19 vaccine in the US by April 1, 2021?"
+}

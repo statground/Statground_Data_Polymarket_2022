@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239827",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-04T10:34:40.325000Z",
+  "market_createdAt": "2021-12-04T10:34:40.325Z",
+  "market_updatedAt": "2024-04-23T00:22:37.57092Z",
+  "market_startDate": "2021-12-04T19:35:16.037Z",
+  "market_endDate": "2021-12-04T00:00:00Z",
+  "market_closedTime": "2021-12-06 19:35:35+00",
+  "conditionId": "0xbea9d7e335b52cfe793876543f962605c4608737c9f73b45d06e42b93e0f4518",
+  "slug": "nba-will-the-warriors-beat-the-spurs-by-more-than-9pt5-points-in-their-december-4-matchup",
+  "question": "NBA: Will the Warriors beat the Spurs by more than 9.5 points in their December 4 matchup?"
+}

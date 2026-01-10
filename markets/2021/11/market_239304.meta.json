@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239304",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-08T20:30:48.744000Z",
+  "market_createdAt": "2021-11-08T20:30:48.744Z",
+  "market_updatedAt": "2024-04-26T02:46:40.569683Z",
+  "market_startDate": "2021-11-08T22:48:30.174Z",
+  "market_endDate": "2021-11-22T00:00:00Z",
+  "market_closedTime": "2021-11-24 00:08:25+00",
+  "conditionId": "0x6f8150942b1c61fe102b0a24db0b5d004675eb11949fd6be40549360a94af101",
+  "slug": "will-ghostbusters-afterlife-get-86-or-higher-audience-score-on-rotten-tomatoes",
+  "question": "Will 'Ghostbusters: Afterlife' get 86% or higher Audience Score on Rotten Tomatoes?"
+}

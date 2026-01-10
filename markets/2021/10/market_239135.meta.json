@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239135",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-29T12:18:52.201000Z",
+  "market_createdAt": "2021-10-29T12:18:52.201Z",
+  "market_updatedAt": "2024-04-22T23:16:10.317395Z",
+  "market_startDate": "2021-10-29T19:07:35.321Z",
+  "market_endDate": "2021-10-29T00:00:00Z",
+  "market_closedTime": "2021-10-30 17:24:49+00",
+  "conditionId": "0x69a83d4299ff29dd9d2ad9fb7f1e1bfffb531bae6f7512a4bbc67a998b5391bf",
+  "slug": "who-will-win-the-trail-blazers-v-clippers-game-on-october-29th",
+  "question": "Who will win the Trail Blazers v. Clippers game on October 29th?"
+}

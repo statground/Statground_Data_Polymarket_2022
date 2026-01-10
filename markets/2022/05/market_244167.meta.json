@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244167",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-03T23:48:00.272000Z",
+  "market_createdAt": "2022-05-03T23:48:00.272Z",
+  "market_updatedAt": "2023-01-31T21:06:35.204Z",
+  "market_startDate": "2022-05-04T14:36:09.499Z",
+  "market_endDate": "2022-05-07T00:00:00Z",
+  "market_closedTime": "2022-05-08 07:48:04+00",
+  "conditionId": "0x9b8b41fe3383ae00a74d5569de6d29b435133c66730b7bbeff759a285a58d74a",
+  "slug": "ufc-274-who-will-win-rose-namajunas-or-carla-esparza",
+  "question": "UFC 274: Who will win - Rose Namajunas or Carla Esparza?"
+}

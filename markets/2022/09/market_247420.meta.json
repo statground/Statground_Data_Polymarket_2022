@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247420",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-30T15:36:23.716000Z",
+  "market_createdAt": "2022-09-30T15:36:23.716Z",
+  "market_updatedAt": "2024-04-22T23:48:18.919987Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-07T00:00:00Z",
+  "market_closedTime": "2022-10-07 18:31:15+00",
+  "conditionId": "0xc452ea100ae7845cdb380e2434aecff50957efb14840379acdceb3b9082a8855",
+  "slug": "will-the-price-of-polygon-matic-be-above-0pt75-on-october-7",
+  "question": "Will the price of Polygon ($MATIC) be above $0.75 on October 7?"
+}

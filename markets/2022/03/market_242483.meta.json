@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242483",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-25T09:12:06.617000Z",
+  "market_createdAt": "2022-03-25T09:12:06.617Z",
+  "market_updatedAt": "2024-04-22T23:32:57.664544Z",
+  "market_startDate": "2022-03-25T15:53:48.056Z",
+  "market_endDate": "2022-03-25T00:00:00Z",
+  "market_closedTime": "2022-03-26 16:18:43+00",
+  "conditionId": "0x68aae6f56b973da5d8b03c33c2437c2d201c6c66608c3b24f556ae8acee731d0",
+  "slug": "ncaab-who-will-win-miami-hurricanes-vs-iowa-state-cyclones-scheduled-for-march-25-1000-pm-et",
+  "question": "NCAAB: Who will win Miami Hurricanes vs. Iowa State Cyclones, scheduled for March 25, 10:00 PM ET?"
+}

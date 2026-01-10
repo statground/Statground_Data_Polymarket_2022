@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242009",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-11T08:43:56.861000Z",
+  "market_createdAt": "2022-03-11T08:43:56.861Z",
+  "market_updatedAt": "2024-04-22T23:56:45.306544Z",
+  "market_startDate": "2022-03-11T20:35:51.744Z",
+  "market_endDate": "2022-03-11T00:00:00Z",
+  "market_closedTime": "2022-03-12 10:30:35+00",
+  "conditionId": "0xd20ce0178b0aff32f9627a5f8c0ad574acc94bd19034bc282a315a9d8a196d6a",
+  "slug": "nba-who-will-win-the-hornets-vspt-pelicans-scheduled-for-march-11-8-pm-et",
+  "question": "NBA: Who will win the Hornets vs. Pelicans, scheduled for March 11 (8 PM ET)?"
+}

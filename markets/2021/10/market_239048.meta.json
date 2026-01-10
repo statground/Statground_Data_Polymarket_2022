@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239048",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-20T18:37:59.944000Z",
+  "market_createdAt": "2021-10-20T18:37:59.944Z",
+  "market_updatedAt": "2024-04-23T00:10:28.100826Z",
+  "market_startDate": "2021-10-21T03:51:02.557Z",
+  "market_endDate": "2021-10-21T00:00:00Z",
+  "market_closedTime": "2021-10-22 05:48:43+00",
+  "conditionId": "0x65b1e111cb73663797d25ff3041eba5beab4084632146a4c5b7b3649c6826fae",
+  "slug": "who-will-win-the-broncos-v-browns-game-on-october-21st",
+  "question": "(In-Game Trading) Who will win the Broncos v. Browns game on October 21st?"
+}

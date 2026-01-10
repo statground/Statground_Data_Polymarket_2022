@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241287",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-03T09:50:28.758000Z",
+  "market_createdAt": "2022-02-03T09:50:28.758Z",
+  "market_updatedAt": "2024-04-22T23:10:12.363293Z",
+  "market_startDate": "2022-02-03T16:18:49.772Z",
+  "market_endDate": "2022-02-03T00:00:00Z",
+  "market_closedTime": "2022-02-07 02:52:18+00",
+  "conditionId": "0xf72649d04eb71daa013c857ce26bedb5dffda040ce10d957a5aa8e4f277b83ec",
+  "slug": "nba-who-will-win-the-timberwolves-vs-pistons-scheduled-for-february-3-7-pm-et",
+  "question": "NBA: Who will win the Timberwolves vs. Pistons, scheduled for February 3 (7 PM ET)?"
+}

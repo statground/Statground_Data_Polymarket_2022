@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240148",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-23T10:30:12.617000Z",
+  "market_createdAt": "2021-12-23T10:30:12.617Z",
+  "market_updatedAt": "2024-04-23T00:59:32.572384Z",
+  "market_startDate": "2021-12-23T17:59:41.874Z",
+  "market_endDate": "2021-12-23T00:00:00Z",
+  "market_closedTime": "2021-12-24 17:20:12+00",
+  "conditionId": "0x0a40049264b39b2857f5e423f449f6f73f8b16078a05f84a48a914b20f8c367e",
+  "slug": "nba-will-the-jazz-beat-the-timberwolves-by-more-than-10pt5-points-in-their-december-23-matchup",
+  "question": "NBA: Will the Jazz beat the Timberwolves by more than 10.5 points in their December 23 matchup?"
+}

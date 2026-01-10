@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240270",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-01T21:07:39.586000Z",
+  "market_createdAt": "2022-01-01T21:07:39.586Z",
+  "market_updatedAt": "2024-04-24T23:15:16.503336Z",
+  "market_startDate": "2022-01-01T21:35:53.709Z",
+  "market_endDate": "2022-01-01T00:00:00Z",
+  "market_closedTime": "2022-01-03 15:13:19+00",
+  "conditionId": "0x9085632a10ac2d7b9cfbf3a6649a00df20f4ab175e3e9219c1eb0ff2400d16cd",
+  "slug": "nhl-will-the-wild-beat-the-blues-by-more-than-1pt5-goals-in-their-january-1-matchup",
+  "question": "NHL: Will the Wild beat the Blues by more than 1.5 goals in their January 1 matchup?"
+}

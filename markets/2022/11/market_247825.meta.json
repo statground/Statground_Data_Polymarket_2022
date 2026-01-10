@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247825",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-09T20:16:35.792000Z",
+  "market_createdAt": "2022-11-09T20:16:35.792Z",
+  "market_updatedAt": "2023-01-31T16:12:51.604Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-10T00:00:00Z",
+  "market_closedTime": "2022-11-11 18:15:31+00",
+  "conditionId": "0xc7b412d16bf5bccc530e37a9f7e24912edd50b1d4fdf9b128314084f350c74af",
+  "slug": "nfl-thursday-falcons-vs-panthers",
+  "question": "NFL Thursday: Falcons vs. Panthers"
+}

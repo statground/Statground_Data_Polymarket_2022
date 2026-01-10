@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239456",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-16T12:04:31.902000Z",
+  "market_createdAt": "2021-11-16T12:04:31.902Z",
+  "market_updatedAt": "2024-04-26T02:51:20.167034Z",
+  "market_startDate": "2021-11-16T17:46:21.192Z",
+  "market_endDate": "2021-11-24T00:00:00Z",
+  "market_closedTime": "2021-11-25 20:15:38+00",
+  "conditionId": "0x5418ff2cd3bc9b8ab8b03371901d0c6b99730ea51e9cd5ac9c1816ba1c61cccf",
+  "slug": "which-cryptocurrency-will-have-higher-market-cap-on-november-24th-polygon-matic-or-algorand-algo",
+  "question": "Which cryptocurrency will have higher market cap on November 24th: Polygon ($MATIC) or Algorand ($ALGO)?"
+}

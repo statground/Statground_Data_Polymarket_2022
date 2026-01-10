@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241587",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-17T16:45:42.823000Z",
+  "market_createdAt": "2022-02-17T16:45:42.823Z",
+  "market_updatedAt": "2024-04-24T23:35:01.718125Z",
+  "market_startDate": "2022-02-17T18:16:25.722Z",
+  "market_endDate": "2022-02-17T00:00:00Z",
+  "market_closedTime": "2022-02-18 20:33:29+00",
+  "conditionId": "0x24ad73406380917682def0d0863ef004daeeceb9fb7ad3c21b003a2bc4f09f70",
+  "slug": "nba-who-will-win-the-bucks-vs-76ers-scheduled-for-february-17-830-pm-et",
+  "question": "NBA: Who will win the Bucks vs. 76ers, scheduled for February 17 (8.30 PM ET)?"
+}

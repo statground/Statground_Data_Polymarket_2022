@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243197",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-13T05:52:34.080000Z",
+  "market_createdAt": "2022-04-13T05:52:34.08Z",
+  "market_updatedAt": "2023-01-31T20:21:37.086Z",
+  "market_startDate": "2022-04-13T14:54:21.865Z",
+  "market_endDate": "2022-06-19T00:00:00Z",
+  "market_closedTime": "2022-05-15 18:15:36+00",
+  "conditionId": "0xc25c70e08066c1fdee6661ab495841b40cfc2bf2244430de6d4f7f97de7c3352",
+  "slug": "will-the-memphis-grizzlies-win-the-nba-21-22-championship",
+  "question": "Will the Memphis Grizzlies win the NBA ‘21-’22 Championship?"
+}

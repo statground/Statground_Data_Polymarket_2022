@@ -1,0 +1,23 @@
+{
+  "entity": "event",
+  "event_id": "5662",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2022-07-27T14:43:05.226000Z",
+  "event_createdAt": "2022-07-27T14:43:05.226Z",
+  "event_creationDate": "2022-04-13T00:00:00Z",
+  "event_startDate": "2022-04-13T00:00:00Z",
+  "event_endDate": "2022-04-13T00:00:00Z",
+  "event_updatedAt": "2024-03-22T01:57:13.897025Z",
+  "markets_len": 4,
+  "market_ids": [
+    "243220",
+    "243221",
+    "243222",
+    "243223"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "3"
+  ],
+  "series_slug": "mlb"
+}

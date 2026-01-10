@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240050",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-15T10:03:37.541000Z",
+  "market_createdAt": "2021-12-15T10:03:37.541Z",
+  "market_updatedAt": "2024-04-22T23:57:18.52819Z",
+  "market_startDate": "2021-12-15T21:42:43.065Z",
+  "market_endDate": "2021-12-15T00:00:00Z",
+  "market_closedTime": "2021-12-16 17:01:24+00",
+  "conditionId": "0x03fc0cbbcc9caf5d56ce665f59b43c36f6de0de5a0fcd204f36bc6f7fa594b1b",
+  "slug": "nba-will-the-mavericks-beat-the-lakers-by-more-than-1pt5-points-in-their-december-15-matchup",
+  "question": "NBA: Will the Mavericks beat the Lakers by more than 1.5 points in their December 15 matchup?"
+}

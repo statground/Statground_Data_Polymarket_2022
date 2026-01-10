@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238686",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-30T21:20:01.346000Z",
+  "market_createdAt": "2021-08-30T21:20:01.346Z",
+  "market_updatedAt": "2024-04-23T00:31:04.615848Z",
+  "market_startDate": "2021-08-31T02:03:23.32Z",
+  "market_endDate": "2021-09-01T00:00:00Z",
+  "market_closedTime": "2021-09-02 16:37:25+00",
+  "conditionId": "0x8f0f14f83e8374e555ca04629cff00fa1fa6979d13c125bf4d02af8baa7cc42b",
+  "slug": "will-nip-or-liquid-win-their-esl-pro-league-season-14-matchup-on-september-1-2021",
+  "question": "Will NIP or Liquid win their ESL matchup on September 1?"
+}

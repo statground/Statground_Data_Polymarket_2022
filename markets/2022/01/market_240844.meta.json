@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240844",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-19T11:21:17.516000Z",
+  "market_createdAt": "2022-01-19T11:21:17.516Z",
+  "market_updatedAt": "2024-04-22T22:53:47.387596Z",
+  "market_startDate": "2022-01-19T19:57:51.232Z",
+  "market_endDate": "2022-01-19T00:00:00Z",
+  "market_closedTime": "2022-01-21 13:20:55+00",
+  "conditionId": "0x1c23315f2472d1c7d850aabf51718b3f99320e3b0a3e5b900f737f82f75b98b3",
+  "slug": "nba-will-the-celtics-beat-the-hornets-by-more-than-4p5-points-in-their-january-19-matchup",
+  "question": "NBA: Will the Celtics beat the Hornets by more than 4.5 points in their January 19 matchup?"
+}

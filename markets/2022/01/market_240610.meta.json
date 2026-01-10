@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240610",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-12T00:18:35.007000Z",
+  "market_createdAt": "2022-01-12T00:18:35.007Z",
+  "market_updatedAt": "2024-04-23T00:58:54.518751Z",
+  "market_startDate": "2022-01-12T21:08:44.259Z",
+  "market_endDate": "2022-11-15T00:00:00Z",
+  "market_closedTime": "2022-11-09 15:35:13+00",
+  "conditionId": "0x53c1eb7a0741c450dc6e69a5a0747605dace38942a7919e77a6b32c01042dbb6",
+  "slug": "2022-us-gubernatorial-elections-will-a-democrat-or-republican-win-in-maine",
+  "question": "Governor: Will a Democrat (Mills) or Republican (LePage) win in Maine?"
+}

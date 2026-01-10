@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239463",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-16T14:31:27.032000Z",
+  "market_createdAt": "2021-11-16T14:31:27.032Z",
+  "market_updatedAt": "2024-04-22T22:54:46.951224Z",
+  "market_startDate": "2021-11-16T18:28:27.039Z",
+  "market_endDate": "2021-11-29T00:00:00Z",
+  "market_closedTime": "2021-11-30 13:37:02+00",
+  "conditionId": "0x413dbefe8117e61f101b840e8eda7662592e04af8cc4f59f6837ceabf5647a1d",
+  "slug": "will-there-be-an-earthquake-of-magnitude-4pt5-or-higher-in-conterminous-us-by-november-29",
+  "question": "Will there be an earthquake of magnitude 4.5 or higher in conterminous U.S. by November 29th?"
+}

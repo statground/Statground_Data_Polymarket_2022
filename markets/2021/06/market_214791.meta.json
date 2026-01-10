@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "214791",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-09T19:10:01.112000Z",
+  "market_createdAt": "2021-06-09T19:10:01.112Z",
+  "market_updatedAt": "2024-04-23T00:12:26.233243Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-12T00:00:00Z",
+  "market_closedTime": "2021-06-13 18:04:19+00",
+  "conditionId": "0x2f94e5f9cb8742d442a6a7a9ffd382f2e03c5f84f71174f86b24e41bab59211c",
+  "slug": "will-bryce-hall-ko-tko-or-retire-austin-mcbroom",
+  "question": "Will Bryce Hall KO, TKO, or retire Austin McBroom?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "229159",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-06T08:05:01.252000Z",
+  "market_createdAt": "2021-08-06T08:05:01.252Z",
+  "market_updatedAt": "2024-04-22T23:24:50.741662Z",
+  "market_startDate": "2021-08-06T18:00:10.564Z",
+  "market_endDate": "2021-08-12T00:00:00Z",
+  "market_closedTime": "2021-08-13 16:27:05+00",
+  "conditionId": "0xd692cec1910ae5198a9d350d46e12d8bbc2c9fd85def16dc04fd0e749ff6123c",
+  "slug": "will-weekly-jobless-claims-exceed-385k-for-the-week-ending-on-august-7",
+  "question": "Will weekly jobless claims exceed 385K for the week ending on August 7?"
+}

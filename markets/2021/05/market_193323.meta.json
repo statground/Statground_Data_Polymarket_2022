@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "193323",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-11T23:30:03.957000Z",
+  "market_createdAt": "2021-05-11T23:30:03.957Z",
+  "market_updatedAt": "2024-04-23T00:42:49.187528Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-11T00:00:00Z",
+  "market_closedTime": "2021-05-12 15:03:27+00",
+  "conditionId": "0x7f6ad51666c66f7034e14a1f071ed4bf6bfa6292b765d5f78471a07738967703",
+  "slug": "will-kippenberger-s-martin-into-the-corner-you-should-be-ashamed-of-yourself-sell-for-more-than-15-million-on-christie-s",
+  "question": "Will Kippenberger's \"Martin, Into the Corner, You Should Be Ashamed of Yourself\" sell for more than 15 million on Christie's?"
+}

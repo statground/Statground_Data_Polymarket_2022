@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240637",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-12T16:52:13.690000Z",
+  "market_createdAt": "2022-01-12T16:52:13.69Z",
+  "market_updatedAt": "2024-07-18T22:20:45.06002Z",
+  "market_startDate": "2023-02-23T16:36:44.221Z",
+  "market_endDate": "2024-09-10T00:00:00Z",
+  "market_closedTime": "2024-07-18 00:10:37.491895+00",
+  "conditionId": "0xd93cb2d70e5e00e804ff2115f59aaed64cffe4af275264e9a629e1e4ad3dab80",
+  "slug": "will-tucker-carlson-win-the-us-2024-republican-presidential-nomination",
+  "question": "[Single Market] Will Tucker Carlson win the U.S. 2024 Republican presidential nomination?"
+}

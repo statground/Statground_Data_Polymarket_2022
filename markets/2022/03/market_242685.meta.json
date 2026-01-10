@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242685",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-31T21:05:19.886000Z",
+  "market_createdAt": "2022-03-31T21:05:19.886Z",
+  "market_updatedAt": "2024-04-22T23:56:30.978674Z",
+  "market_startDate": "2022-03-31T23:16:22.581Z",
+  "market_endDate": "2022-04-03T00:00:00Z",
+  "market_closedTime": "2022-04-04 07:01:23+00",
+  "conditionId": "0xb083e83a0b0be60768581c31ef083c2956423f7454d739f9515707ca3ee4c764",
+  "slug": "grammys-2022-will-lady-gagas-and-tony-bennets-i-get-a-kick-out-of-you-win-record-of-the-year",
+  "question": "GRAMMYs 2022: Will Lady Gaga's and Tony Bennet's \"I Get a Kick Out of You\" win Record of the Year?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241112",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-27T12:38:54.210000Z",
+  "market_createdAt": "2022-01-27T12:38:54.21Z",
+  "market_updatedAt": "2024-04-23T00:09:37.917145Z",
+  "market_startDate": "2022-01-27T21:19:15.616Z",
+  "market_endDate": "2022-01-27T00:00:00Z",
+  "market_closedTime": "2022-01-29 17:09:45+00",
+  "conditionId": "0x94fa5a58ea1629b7f53ab7e4c2f74d3b8f11a1741ccd85eb959e5d89fab7c1bf",
+  "slug": "nba-will-the-sum-of-points-in-warriors-v-timberwolves-be-an-even-or-an-odd-number",
+  "question": "NBA: Will the sum of points in Warriors v Timberwolves be an even or an odd number?"
+}

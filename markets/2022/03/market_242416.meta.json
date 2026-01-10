@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242416",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-23T18:55:05.641000Z",
+  "market_createdAt": "2022-03-23T18:55:05.641Z",
+  "market_updatedAt": "2024-04-24T23:28:11.632927Z",
+  "market_startDate": "2022-03-23T19:51:44.062Z",
+  "market_endDate": "2022-03-23T00:00:00Z",
+  "market_closedTime": "2022-03-24 16:49:16+00",
+  "conditionId": "0x9cb9d11cb5d94ce0b64efb1b98d42d354ad4ab88b401c245bad63b6f45faa6b6",
+  "slug": "nba-will-the-76ers-beat-the-lakers-by-more-than-7pt5-points-in-their-march-23-10-pm-et-matchup",
+  "question": "NBA: Will the 76ers beat the Lakers by more than 7.5 points in their March 23 (10 PM ET) matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "100903",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-03-05T22:35:02.263000Z",
+  "market_createdAt": "2021-03-05T22:35:02.263Z",
+  "market_updatedAt": "2023-01-31T06:41:49.79Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-01T00:00:00Z",
+  "market_closedTime": "2021-06-01 16:25:38+00",
+  "conditionId": "0x1ab896a8edc6f829ab0de1bbfb0a2804f1f854a7736972bec0c47d66968508e9",
+  "slug": "will-donald-trump-file-to-run-for-president-before-june-1-2021-1",
+  "question": "Will Donald Trump file to run for president before June 1, 2021?"
+}

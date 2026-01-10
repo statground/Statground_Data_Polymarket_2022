@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246490",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-06T17:09:19.763000Z",
+  "market_createdAt": "2022-06-06T17:09:19.763Z",
+  "market_updatedAt": "2023-01-31T19:22:08.319Z",
+  "market_startDate": "2022-06-06T21:23:57.389Z",
+  "market_endDate": "2022-06-07T00:00:00Z",
+  "market_closedTime": "2022-06-08 03:30:40+00",
+  "conditionId": "0xe4ba78852e779f1221605eaa9ceedc2df9d53773790d6aadafffb5193f9faad2",
+  "slug": "uefa-nations-league-who-will-win-the-germany-vs-england-game-on-june-7",
+  "question": "UEFA Nations League: Who will win the Germany vs. England game on June 7?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "139547",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-19T15:55:04.228000Z",
+  "market_createdAt": "2021-04-19T15:55:04.228Z",
+  "market_updatedAt": "2024-04-26T02:45:30.45748Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-27T00:00:00Z",
+  "market_closedTime": "2021-04-30 06:09:29+00",
+  "conditionId": "0x8ac7076b3d84ce71dc420b16af7fc7371328eed81b533c2a1b46cde962d43ae1",
+  "slug": "what-will-the-price-of-link-be-on-april-27-2021",
+  "question": "What will the price of $LINK be on April 27, 2021?"
+}

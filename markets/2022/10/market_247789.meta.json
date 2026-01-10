@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247789",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-27T15:21:27.936000Z",
+  "market_createdAt": "2022-10-27T15:21:27.936Z",
+  "market_updatedAt": "2023-01-31T04:09:06.256Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-08T00:00:00Z",
+  "market_closedTime": "2022-11-10 06:15:58+00",
+  "conditionId": "0x36152058f2624342499ebc0125bbbb8a4aafc3a6668cff59a8f4d972842241ca",
+  "slug": "will-joe-bidens-fivethirtyeight-approval-rating-be-42-or-higher-on-election-day",
+  "question": "Will Joe Biden's FiveThirtyEight approval rating be 42% or higher on Election Day?"
+}

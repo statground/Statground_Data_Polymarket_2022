@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244601",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-10T00:46:23.139000Z",
+  "market_createdAt": "2022-05-10T00:46:23.139Z",
+  "market_updatedAt": "2023-01-31T04:57:11.241Z",
+  "market_startDate": "2022-05-10T00:48:11.64Z",
+  "market_endDate": "2022-07-31T00:00:00Z",
+  "market_closedTime": "2022-05-11 17:16:13+00",
+  "conditionId": "0xcf4248bdb8766f4c2175bd1fc023cc63461d74b8a0edf6390125a68e82dac31e",
+  "slug": "will-terra-usd-ust-fall-below-50-cents-by-july-30-2022",
+  "question": "Will Terra USD (UST) fall below 50 cents by July 30, 2022?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242442",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-24T18:24:24.080000Z",
+  "market_createdAt": "2022-03-24T18:24:24.08Z",
+  "market_updatedAt": "2024-04-22T23:59:16.258968Z",
+  "market_startDate": "2022-03-24T19:28:34.468Z",
+  "market_endDate": "2022-03-24T00:00:00Z",
+  "market_closedTime": "2022-03-25 15:29:15+00",
+  "conditionId": "0xd9d7f8c195dcf0ff589901b143b607fe6448d2cdbfd42e3d90b1312f1aa180b5",
+  "slug": "march-madness-who-will-win-the-duke-vs-texas-tech-scheduled-for-march-24-939-pm-et",
+  "question": "March Madness: Who will win Duke vs. Texas Tech, scheduled for March 24 (9:39 PM ET)?"
+}

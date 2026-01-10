@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242591",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-28T21:06:23.104000Z",
+  "market_createdAt": "2022-03-28T21:06:23.104Z",
+  "market_updatedAt": "2023-01-31T18:53:28.925Z",
+  "market_startDate": "2022-03-28T21:43:18.187Z",
+  "market_endDate": "2022-07-31T00:00:00Z",
+  "market_closedTime": "2022-08-01 23:01:18+00",
+  "conditionId": "0xcccebb29379cd6924608c967f5381668852f64a765bae216f921146a87b94d48",
+  "slug": "will-kim-kardashian-announce-shes-pregnant-by-july-31-2022",
+  "question": "Will Kim Kardashian announce she’s pregnant by July 31, 2022?"
+}

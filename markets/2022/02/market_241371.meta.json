@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241371",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-08T06:58:37.662000Z",
+  "market_createdAt": "2022-02-08T06:58:37.662Z",
+  "market_updatedAt": "2024-04-22T23:39:41.439099Z",
+  "market_startDate": "2022-02-08T17:13:48.872Z",
+  "market_endDate": "2022-02-08T00:00:00Z",
+  "market_closedTime": "2022-02-10 15:17:56+00",
+  "conditionId": "0x4f5b4e68da7ef3ea5855d7f6c5cf5ee2b5777e7b865e744c008861bdaa5fd861",
+  "slug": "nhl-will-the-oilers-beat-the-golden-knights-by-more-than-1p5-goals-in-their-february-8-matchup-9-pm-et",
+  "question": "NHL: Will the Oilers beat the Golden Knights by more than 1.5 goals in their February 8 matchup (9 PM ET)?"
+}

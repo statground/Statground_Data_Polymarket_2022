@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243302",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-15T07:51:40.037000Z",
+  "market_createdAt": "2022-04-15T07:51:40.037Z",
+  "market_updatedAt": "2023-01-31T16:58:48.685Z",
+  "market_startDate": null,
+  "market_endDate": "2022-04-15T00:00:00Z",
+  "market_closedTime": "2022-04-16 07:46:40+00",
+  "conditionId": "0x0de6c070640d4273d219b132c45b95ee75673c774ecc19938c44dc589366bf40",
+  "slug": "mlb-who-will-win-kansas-city-royals-vs-detroit-tigers-scheduled-for-april-15-811-pm-et",
+  "question": "MLB: Who will win Kansas City Royals vs. Detroit Tigers, scheduled for April 15, 8:11 PM ET?"
+}

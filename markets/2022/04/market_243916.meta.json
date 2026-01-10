@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243916",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-28T20:52:13.672000Z",
+  "market_createdAt": "2022-04-28T20:52:13.672Z",
+  "market_updatedAt": "2023-01-31T21:23:11.01Z",
+  "market_startDate": "2022-04-28T22:04:16.601Z",
+  "market_endDate": "2022-04-30T00:00:00Z",
+  "market_closedTime": "2022-05-01 07:01:10+00",
+  "conditionId": "0x04037c5ba3a81500c679e22fb242c8af8a73130439d1b5d68e3e9498d44d4db9",
+  "slug": "boxing-katie-taylor-vs-amanda-serrano",
+  "question": "Boxing: Katie Taylor vs. Amanda Serrano"
+}

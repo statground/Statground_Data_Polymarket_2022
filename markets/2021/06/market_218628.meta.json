@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218628",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-22T21:40:01.177000Z",
+  "market_createdAt": "2021-06-22T21:40:01.177Z",
+  "market_updatedAt": "2024-04-23T00:36:41.901744Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-23T00:00:00Z",
+  "market_closedTime": "2021-06-24 17:45:26+00",
+  "conditionId": "0x87eee8b8bf78fb995b354745e265310075166a44c6c1b83510010a56358e0cd4",
+  "slug": "will-mark-rothkos-untitled-sell-for-more-than-45m-at-phillips",
+  "question": "Will Mark Rothko’s “Untitled” sell for more than $4.5M at Phillips?"
+}

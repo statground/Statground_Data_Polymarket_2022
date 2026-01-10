@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242130",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-16T11:41:31.665000Z",
+  "market_createdAt": "2022-03-16T11:41:31.665Z",
+  "market_updatedAt": "2024-04-24T23:15:04.549542Z",
+  "market_startDate": "2022-03-16T17:10:37.316Z",
+  "market_endDate": "2022-03-16T00:00:00Z",
+  "market_closedTime": "2022-03-17 12:00:48+00",
+  "conditionId": "0xbda587b9f0177c4fb87f865e221d692b707d048f5e13222c1406ffeda49defde",
+  "slug": "nba-will-the-76ers-beat-the-cavaliers-by-more-than-4pt5-points-in-their-march-16-7-pm-et-matchup",
+  "question": "NBA: Will the 76ers beat the Cavaliers by more than 4.5 points in their March 16 (7 PM ET) matchup?"
+}

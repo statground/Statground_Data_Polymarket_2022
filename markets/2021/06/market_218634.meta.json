@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218634",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-23T20:15:18.672000Z",
+  "market_createdAt": "2021-06-23T20:15:18.672Z",
+  "market_updatedAt": "2024-04-24T23:27:20.078935Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-10T00:00:00Z",
+  "market_closedTime": "2021-07-11 05:16:42+00",
+  "conditionId": "0x7a25f568151fd9533deeb938e808e8bcdf9c71d5f41568555ee240d871b8aead",
+  "slug": "will-brazil-win-the-2021-copa-america",
+  "question": "Will Brazil win the 2021 Copa America?"
+}

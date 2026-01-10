@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "156342",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-26T19:15:03.130000Z",
+  "market_createdAt": "2021-04-26T19:15:03.13Z",
+  "market_updatedAt": "2024-04-22T22:59:25.180932Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-05T00:00:00Z",
+  "market_closedTime": "2021-05-05 22:13:46+00",
+  "conditionId": "0x8e9f0b3bb98e9d70e4b90cd13b08a4c29296bf36f1041144a570771cd3494451",
+  "slug": "will-real-madrid-or-chelsea-advance-to-the-champions-league-final",
+  "question": "Will Real Madrid or Chelsea advance to the Champions League final?"
+}

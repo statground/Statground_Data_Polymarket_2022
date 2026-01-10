@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "202066",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-21T19:20:03.342000Z",
+  "market_createdAt": "2021-05-21T19:20:03.342Z",
+  "market_updatedAt": "2024-04-23T00:50:04.165905Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-05T00:00:00Z",
+  "market_closedTime": "2021-06-04 16:01:30+00",
+  "conditionId": "0x84c3ffe2527e8005661b0004178320db86d4daa12b8204aae494689e6728e3f4",
+  "slug": "will-the-nuggets-or-the-trail-blazers-win-their-round-1-nba-playoff-series",
+  "question": "Will the Nuggets or the Trail Blazers win their Round 1 NBA Playoff Series?"
+}

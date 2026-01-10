@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247246",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-12T19:04:15.519000Z",
+  "market_createdAt": "2022-09-12T19:04:15.519Z",
+  "market_updatedAt": "2023-01-31T18:46:10.746Z",
+  "market_startDate": "2022-09-13T15:56:07.038Z",
+  "market_endDate": "2022-09-13T00:00:00Z",
+  "market_closedTime": "2022-09-14 06:00:45+00",
+  "conditionId": "0x9f044637b786fe813abc9049bf82f85f146c428b3dad35d8371cae7bc54c1cbe",
+  "slug": "mlb-who-will-win-new-york-yankees-v-boston-red-sox-scheduled-for-september-13-710-pm-et",
+  "question": "MLB: Who will win New York Yankees v. Boston Red Sox, scheduled for September 13, 7:10 PM ET?"
+}

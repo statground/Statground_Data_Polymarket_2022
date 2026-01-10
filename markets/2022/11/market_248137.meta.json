@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248137",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-28T16:07:12.962000Z",
+  "market_createdAt": "2022-11-28T16:07:12.962Z",
+  "market_updatedAt": "2023-01-31T09:05:01.65Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-30T00:00:00Z",
+  "market_closedTime": "2022-12-01 00:16:15+00",
+  "conditionId": "0xf518114e3a9bc8b944376c1ed4092908f8c23ba1748e6404969035221ecdbd06",
+  "slug": "world-cup-wednesday-will-mexico-beat-saudi-arabia",
+  "question": "World Cup: Wednesday - Will Mexico beat Saudi Arabia?"
+}

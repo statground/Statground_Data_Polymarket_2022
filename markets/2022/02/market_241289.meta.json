@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241289",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-03T10:01:37.338000Z",
+  "market_createdAt": "2022-02-03T10:01:37.338Z",
+  "market_updatedAt": "2024-04-22T23:48:26.337929Z",
+  "market_startDate": "2022-02-03T16:18:55.714Z",
+  "market_endDate": "2022-02-03T00:00:00Z",
+  "market_closedTime": "2022-02-07 02:50:48+00",
+  "conditionId": "0x9c0fc2cc0e55fc98391e9ea14840f0f68ad1a368232a503723b9376dfb9d7916",
+  "slug": "nba-who-will-win-the-raptors-vs-bulls-scheduled-for-february-3-730-pm-et",
+  "question": "NBA: Who will win the Raptors vs. Bulls, scheduled for February 3 (7.30 PM ET)?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238883",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-26T06:05:46.240000Z",
+  "market_createdAt": "2021-09-26T06:05:46.24Z",
+  "market_updatedAt": "2024-04-23T00:37:38.292652Z",
+  "market_startDate": "2021-09-26T06:27:13.849Z",
+  "market_endDate": "2021-09-27T00:00:00Z",
+  "market_closedTime": "2021-09-28 17:19:56+00",
+  "conditionId": "0x00822a431052a77991228f8aeb9b522f247ef33cb26946af3d385e457eb26ca2",
+  "slug": "will-the-cowboys-beat-the-eagles-by-more-than-3pt5-points-in-their-week-three-matchup",
+  "question": "Will the Cowboys beat the Eagles by more than 3.5 points in their week three matchup?"
+}

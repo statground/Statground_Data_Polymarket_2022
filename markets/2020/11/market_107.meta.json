@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "107",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-11-20T18:05:07.084000Z",
+  "market_createdAt": "2020-11-20T18:05:07.084Z",
+  "market_updatedAt": "2024-04-23T00:54:45.287966Z",
+  "market_startDate": null,
+  "market_endDate": "2020-11-22T00:00:00Z",
+  "market_closedTime": "2020-11-22 20:13:07+00",
+  "conditionId": "0x953456ca4bc5036ba8c2b4a5d096e484095f4ffcac5531ff2bd3b898f44d29eb",
+  "slug": "will-figueiredo-win-his-ufc-255-match",
+  "question": "Will Deiveson Figueiredo win his UFC 255 match?"
+}

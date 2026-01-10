@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "83537",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-11T17:00:06.213000Z",
+  "market_createdAt": "2021-02-11T17:00:06.213Z",
+  "market_updatedAt": "2024-04-22T23:57:26.485072Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-12T00:00:00Z",
+  "market_closedTime": "2021-02-13 21:05:05+00",
+  "conditionId": "0xacea78adb99681aec3c9e023d6b8140bdeb3bce6e8a51ebb637d7ca13e5587c6",
+  "slug": "will-the-grizzlies-or-the-lakers-win-their-february-12th-matchup",
+  "question": "Will the Grizzlies or the Lakers win their February 12th matchup?"
+}

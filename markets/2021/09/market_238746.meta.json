@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238746",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-13T17:40:01.267000Z",
+  "market_createdAt": "2021-09-13T17:40:01.267Z",
+  "market_updatedAt": "2024-04-22T23:58:36.42108Z",
+  "market_startDate": "2021-09-13T21:06:20.904Z",
+  "market_endDate": "2021-09-16T00:00:00Z",
+  "market_closedTime": "2021-09-17 18:07:10+00",
+  "conditionId": "0x6c071791ce1ec25de29a2f1c54f04b11b3d5336a5d27a631b9149944d5d844e8",
+  "slug": "will-weekly-jobless-claims-exceed-310k-for-the-week-ending-on-september-11",
+  "question": "Will weekly jobless claims exceed 310K for the week ending on September 11?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "234938",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-13T16:26:01.514000Z",
+  "market_createdAt": "2021-08-13T16:26:01.514Z",
+  "market_updatedAt": "2023-01-31T17:38:43.518Z",
+  "market_startDate": "2021-08-13T16:44:14.231Z",
+  "market_endDate": "2022-01-01T00:00:00Z",
+  "market_closedTime": "2022-01-02 21:17:42+00",
+  "conditionId": "0x755e082f2d74ab88ffbdea7d845c27eb272d8c052f620a5041474c18cd60fffe",
+  "slug": "will-more-than-2pt5-million-people-travel-through-a-tsa-checkpoint-on-any-day-on-or-before-december-31",
+  "question": "Will more than 2.5 million people travel through a TSA checkpoint on any day on or before December 31?"
+}

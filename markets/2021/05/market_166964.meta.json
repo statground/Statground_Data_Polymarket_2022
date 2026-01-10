@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "166964",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-01T00:40:02.443000Z",
+  "market_createdAt": "2021-05-01T00:40:02.443Z",
+  "market_updatedAt": "2024-04-25T00:13:48.019673Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-24T00:00:00Z",
+  "market_closedTime": "2021-05-24 18:03:19+00",
+  "conditionId": "0xaa8a019639ab945322882b156344e0b5de53ecc2c79836071468ce53fb267e12",
+  "slug": "will-sol-solana-be-above-50-on-may-24-2021",
+  "question": "Will $SOL (Solana) be above $50 on May 24, 2021?"
+}

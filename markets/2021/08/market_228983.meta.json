@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "228983",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-05T17:50:01.287000Z",
+  "market_createdAt": "2021-08-05T17:50:01.287Z",
+  "market_updatedAt": "2024-04-22T23:03:53.996437Z",
+  "market_startDate": "2021-08-05T18:45:46.309Z",
+  "market_endDate": "2021-08-10T00:00:00Z",
+  "market_closedTime": "2021-08-12 15:27:15+00",
+  "conditionId": "0x72efaaa88e436ab98e2314f9e3aa2ddae066ea274c8c956198b6b3b60be57819",
+  "slug": "will-the-suicide-squad-gross-more-than-375m-domestically-on-opening-weekend",
+  "question": "Will “The Suicide Squad” gross more than $37.5M domestically on opening weekend?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239141",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-30T12:23:06.933000Z",
+  "market_createdAt": "2021-10-30T12:23:06.933Z",
+  "market_updatedAt": "2024-04-22T22:39:11.775524Z",
+  "market_startDate": "2021-10-30T19:37:14.137Z",
+  "market_endDate": "2021-10-30T00:00:00Z",
+  "market_closedTime": "2021-10-31 16:48:47+00",
+  "conditionId": "0x4841f1c1f24af76309ec7fbe726fb5edb7bdb2d4f56f2e8b972a66326095c55c",
+  "slug": "who-will-win-ufc-267-blachowicz-vs-teixeira",
+  "question": "Who will win UFC 267: Błachowicz vs Teixeira?"
+}

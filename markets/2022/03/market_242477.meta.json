@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242477",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-25T09:08:33.657000Z",
+  "market_createdAt": "2022-03-25T09:08:33.657Z",
+  "market_updatedAt": "2024-04-24T23:28:15.988189Z",
+  "market_startDate": null,
+  "market_endDate": "2022-03-25T00:00:00Z",
+  "market_closedTime": "2022-03-26 16:18:13+00",
+  "conditionId": "0x837beb93d0131456dd26f7a4ebcf8934d9a7ad0ba713500018664d6a72eff3de",
+  "slug": "nba-will-the-heat-beat-the-knicks-by-more-than-5pt5-points-in-their-march-25-810-pm-et-matchup",
+  "question": "NBA: Will the Heat beat the Knicks by more than 5.5 points in their March 25, 8:10 PM ET matchup?"
+}

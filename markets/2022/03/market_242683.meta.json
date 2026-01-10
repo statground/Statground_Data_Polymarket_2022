@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242683",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-31T20:57:46.481000Z",
+  "market_createdAt": "2022-03-31T20:57:46.481Z",
+  "market_updatedAt": "2024-04-24T23:15:25.308474Z",
+  "market_startDate": null,
+  "market_endDate": "2022-04-15T00:00:00Z",
+  "market_closedTime": "2022-04-16 07:45:52+00",
+  "conditionId": "0x0aa716561464dc9a5d1f45e156f5b4011ebe42c399276c78dacdf577634c322d",
+  "slug": "will-moex-close-above-3000-by-april-15-2022",
+  "question": "Will MOEX close above 3,000 by April 15, 2022?"
+}

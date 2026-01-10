@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218206",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-15T16:45:01.504000Z",
+  "market_createdAt": "2021-06-15T16:45:01.504Z",
+  "market_updatedAt": "2024-04-22T22:59:59.185578Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-16T00:00:00Z",
+  "market_closedTime": "2021-06-18 18:09:12+00",
+  "conditionId": "0xab2aa53d0347813a6b1860fe129730225266100f5fc9939478a2c22410db7a6c",
+  "slug": "who-will-win-islanders-v-lightning-semifinals-game-3",
+  "question": "Who will win Islanders v. Lightning: Semifinals Game 3?"
+}

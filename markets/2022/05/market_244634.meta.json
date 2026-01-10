@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244634",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-11T15:51:14.882000Z",
+  "market_createdAt": "2022-05-11T15:51:14.882Z",
+  "market_updatedAt": "2023-01-31T19:58:12.241Z",
+  "market_startDate": "2022-05-11T16:46:26.414Z",
+  "market_endDate": "2022-05-11T00:00:00Z",
+  "market_closedTime": "2022-05-12 05:00:50+00",
+  "conditionId": "0xd81954d472c7eb21f06c969ad067f399a53c09cdb36fc7b6170ba3f163bbae9e",
+  "slug": "nhl-who-will-win-the-rangers-v-penguins-game-on-may-11",
+  "question": "NHL: Who will win the Rangers v. Penguins game on May 11?"
+}

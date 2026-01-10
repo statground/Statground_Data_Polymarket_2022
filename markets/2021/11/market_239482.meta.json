@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239482",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-17T14:13:10.915000Z",
+  "market_createdAt": "2021-11-17T14:13:10.915Z",
+  "market_updatedAt": "2024-04-22T23:33:05.555886Z",
+  "market_startDate": "2021-11-17T19:24:43.053Z",
+  "market_endDate": "2021-11-21T00:00:00Z",
+  "market_closedTime": "2021-11-22 17:41:30+00",
+  "conditionId": "0x08b29eff5e12af44a05269a660a8da6032549b268d6b8a4a7e4a93c43aa33663",
+  "slug": "nfl-will-the-titans-beat-the-texans-by-more-than-10pt5-points-in-their-november-21st-matchup",
+  "question": "NFL: Will the Titans beat the Texans by more than 10.5 points in their November 21st matchup?"
+}

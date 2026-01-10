@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240364",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T01:29:29.093000Z",
+  "market_createdAt": "2022-01-11T01:29:29.093Z",
+  "market_updatedAt": "2024-04-24T23:16:17.873414Z",
+  "market_startDate": "2022-01-12T20:52:08.607Z",
+  "market_endDate": "2022-05-22T00:00:00Z",
+  "market_closedTime": "2022-05-06 20:31:22+00",
+  "conditionId": "0x6c4826bb122cf73de4f7355ef4b617dfb0116d2904ca1d4d4a3b2b675a37c096",
+  "slug": "will-fc-barcelona-win-2021-22-la-liga",
+  "question": "Will FC Barcelona win 2021-22 La Liga?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242693",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-31T22:43:03.682000Z",
+  "market_createdAt": "2022-03-31T22:43:03.682Z",
+  "market_updatedAt": "2024-04-23T00:55:08.589338Z",
+  "market_startDate": "2022-04-01T13:57:23.481Z",
+  "market_endDate": "2022-04-15T00:00:00Z",
+  "market_closedTime": "2022-04-14 22:15:39+00",
+  "conditionId": "0xed3bdd224f5116749e0dc3992e05c4bab0bd386c8ce1cc609840fcbc393d1294",
+  "slug": "will-charlotte-hornets-qualify-to-the-2022-nba-playoffs",
+  "question": "Will the Charlotte Hornets make the 2022 NBA playoffs?"
+}

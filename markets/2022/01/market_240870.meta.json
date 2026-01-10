@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240870",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-19T20:46:35.559000Z",
+  "market_createdAt": "2022-01-19T20:46:35.559Z",
+  "market_updatedAt": "2024-04-24T07:41:36.575474Z",
+  "market_startDate": "2022-01-20T20:10:57.543Z",
+  "market_endDate": "2022-02-06T00:00:00Z",
+  "market_closedTime": "2022-02-09 17:52:27+00",
+  "conditionId": "0x773055f71aef0827bf8b74704f722eb72098f85c4cae94dd8be8c7884e2972d0",
+  "slug": "africa-cup-of-nations-will-senegal-win-the-tournament",
+  "question": "Africa Cup of Nations: Will Senegal win the tournament?"
+}

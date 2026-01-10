@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247400",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-29T20:24:12.104000Z",
+  "market_createdAt": "2022-09-29T20:24:12.104Z",
+  "market_updatedAt": "2023-01-31T14:58:57.499Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-06T00:00:00Z",
+  "market_closedTime": "2022-10-07 07:00:50+00",
+  "conditionId": "0xb04c55536364203feddb81331c8d14ddc6ec79248d90c7095b0cdee89aa91eb7",
+  "slug": "will-the-30-year-fixed-rate-mortgage-average-be-7-or-higher-on-october-6",
+  "question": "Will the 30-year Fixed Rate Mortgage Average be 7% or higher on October 6?"
+}

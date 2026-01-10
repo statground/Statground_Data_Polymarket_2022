@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240587",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T23:04:47.539000Z",
+  "market_createdAt": "2022-01-11T23:04:47.539Z",
+  "market_updatedAt": "2024-04-09T21:40:28.064525Z",
+  "market_startDate": "2022-01-12T21:12:10.483Z",
+  "market_endDate": "2022-10-30T00:00:00Z",
+  "market_closedTime": "2022-11-01 04:56:55+00",
+  "conditionId": "0x29f4461e6973c5cdf0a01b6e13484a5f5d1926e2994401200001784a0f4c36ec",
+  "slug": "will-luiz-da-silva-win-2022-presidential-elections-in-brazil",
+  "question": "Will Luiz da Silva win 2022 Presidential Elections in Brazil?"
+}

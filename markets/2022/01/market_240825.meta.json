@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240825",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-18T16:07:28.580000Z",
+  "market_createdAt": "2022-01-18T16:07:28.58Z",
+  "market_updatedAt": "2024-04-23T00:27:24.227451Z",
+  "market_startDate": "2022-01-18T21:28:04.013Z",
+  "market_endDate": "2022-01-18T00:00:00Z",
+  "market_closedTime": "2022-01-21 13:31:05+00",
+  "conditionId": "0x8f2f44b7d559b3ac9215ec6b3dc594e55c2c11a46e7b1b7a43ff449ed8f03155",
+  "slug": "nhl-will-the-predators-beat-the-canucks-by-more-than-1p5-goals-in-their-january-18-matchup",
+  "question": "NHL: Will the Predators beat the Canucks by more than 1.5 goals in their January 18 matchup?"
+}

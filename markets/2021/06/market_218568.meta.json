@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218568",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-19T05:40:01.172000Z",
+  "market_createdAt": "2021-06-19T05:40:01.172Z",
+  "market_updatedAt": "2024-04-24T23:40:35.782364Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-20T00:00:00Z",
+  "market_closedTime": "2021-06-21 14:28:42+00",
+  "conditionId": "0xbb42e6f0e42b5bcb00ec068c2274b0054eabc732cf728b4b3dfaf6cb3b00cf6f",
+  "slug": "who-will-win-suns-v-clippers-western-conference-finals-game-1",
+  "question": "Who will win Suns v. Clippers: Western Conference Finals Game 1?"
+}

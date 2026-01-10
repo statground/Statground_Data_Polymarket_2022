@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242038",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-12T20:17:34.672000Z",
+  "market_createdAt": "2022-03-12T20:17:34.672Z",
+  "market_updatedAt": "2024-04-22T22:55:17.999079Z",
+  "market_startDate": "2022-03-12T21:38:14.452Z",
+  "market_endDate": "2022-03-12T00:00:00Z",
+  "market_closedTime": "2022-03-13 11:48:48+00",
+  "conditionId": "0xd96832300c9097ad1e14c50378eb1cf71597ae882f9d9eadcd4ca39b166fd84b",
+  "slug": "nhl-will-the-flames-beat-the-red-wings-by-more-than-2pt5-goals-in-their-march-12-matchup-7-pm-et",
+  "question": "NHL: Will the Flames beat the Red Wings by more than 2.5 goals in their March 12 matchup (7 PM ET)?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242342",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-21T09:01:20.490000Z",
+  "market_createdAt": "2022-03-21T09:01:20.49Z",
+  "market_updatedAt": "2024-04-23T00:51:02.039102Z",
+  "market_startDate": null,
+  "market_endDate": "2022-03-21T00:00:00Z",
+  "market_closedTime": "2022-03-22 11:15:34+00",
+  "conditionId": "0x715e817e102fdec0f99c3d446c45c283ab76e999448c2958d9f11fe25c696e10",
+  "slug": "nhl-who-will-win-predators-vspt-ducks-scheduled-for-march-21-1000-pm-et",
+  "question": "NHL: Who will win Predators vs. Ducks, scheduled for March 21, 10:00 PM ET?"
+}

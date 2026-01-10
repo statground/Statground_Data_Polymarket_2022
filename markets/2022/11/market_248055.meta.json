@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248055",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T22:05:16.360000Z",
+  "market_createdAt": "2022-11-18T22:05:16.36Z",
+  "market_updatedAt": "2023-01-31T17:06:25.144Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-18T00:00:00Z",
+  "market_closedTime": "2022-12-02 19:21:20+00",
+  "conditionId": "0xe3ee0dc5aa8fe1caf8a39902c685b3f41a1c2daeebe3d920762c3d98cb4db0a0",
+  "slug": "will-belgium-win-the-2022-world-cup",
+  "question": "Will Belgium win the 2022 World Cup?"
+}

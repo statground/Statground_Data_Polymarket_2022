@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "215331",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-10T17:05:00.985000Z",
+  "market_createdAt": "2021-06-10T17:05:00.985Z",
+  "market_updatedAt": "2024-04-22T23:41:56.120637Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-22T00:00:00Z",
+  "market_closedTime": "2021-07-07 22:13:26+00",
+  "conditionId": "0x36e9deb9347b554606b4cc79df579e35876067b76305fa8e5866c18889171e86",
+  "slug": "will-the-nyc-democratic-mayoral-first-round-leader-also-win-the-primary",
+  "question": "Will the NYC Democratic mayoral first round leader also win the primary?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243296",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-15T07:31:19.732000Z",
+  "market_createdAt": "2022-04-15T07:31:19.732Z",
+  "market_updatedAt": "2023-01-31T16:56:12.156Z",
+  "market_startDate": "2022-04-15T15:40:25.342Z",
+  "market_endDate": "2022-04-15T00:00:00Z",
+  "market_closedTime": "2022-04-16 07:47:42+00",
+  "conditionId": "0xe8426442088bde4ca45a2ff8c4a47733cc9c3dc2aab9c00a519460762049f7d1",
+  "slug": "nhl-will-the-islanders-beat-the-canadiens-by-more-than-1pt5-goals-in-their-april-15-700-pm-et-matchup",
+  "question": "NHL: Will the Islanders beat the Canadiens by more than 1.5 goals in their April 15, 7:00 PM ET matchup?"
+}

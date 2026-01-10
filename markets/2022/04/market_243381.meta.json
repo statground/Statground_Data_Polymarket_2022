@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243381",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-18T07:18:31.230000Z",
+  "market_createdAt": "2022-04-18T07:18:31.23Z",
+  "market_updatedAt": "2023-01-31T21:23:15.582Z",
+  "market_startDate": "2022-04-18T13:48:23.297Z",
+  "market_endDate": "2022-05-01T00:00:00Z",
+  "market_closedTime": "2022-04-28 07:03:53+00",
+  "conditionId": "0xdd15d02810569d7faebf190e61594e9e63446f6413ba4fdfa18c7b0611389141",
+  "slug": "2022-nba-playoffs-1st-round-who-will-win-heat-vs-hawks",
+  "question": "2022 NBA Playoffs, 1st Round: Who will win Heat vs. Hawks?"
+}

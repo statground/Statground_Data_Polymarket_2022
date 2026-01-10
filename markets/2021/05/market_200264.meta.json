@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "200264",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-17T19:10:03.983000Z",
+  "market_createdAt": "2021-05-17T19:10:03.983Z",
+  "market_updatedAt": "2024-04-25T00:04:40.492432Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-18T00:00:00Z",
+  "market_closedTime": "2021-05-19 14:33:29+00",
+  "conditionId": "0x94bb2c02692cd88631b048dc77b4d5afa3ac5c53516d607caf2904543102c1d9",
+  "slug": "will-the-wizards-or-the-celtics-win-their-nba-play-in-tournament-matchup",
+  "question": "Will the Wizards or the Celtics win their NBA play-in tournament matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "119",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-11-25T19:00:13.449000Z",
+  "market_createdAt": "2020-11-25T19:00:13.449Z",
+  "market_updatedAt": "2024-04-23T00:40:07.849022Z",
+  "market_startDate": null,
+  "market_endDate": "2020-11-29T00:00:00Z",
+  "market_closedTime": "2020-11-29 19:15:59+00",
+  "conditionId": "0xca22eaf16179c94a6547c71ec9381adaf51f27f1b863e7f43c94155e253fca5e",
+  "slug": "will-jake-paul-win-his-boxing-match-against-nate-robinson",
+  "question": "Will Jake Paul win his boxing match against Nate Robinson?"
+}

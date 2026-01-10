@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242079",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-14T23:15:36.739000Z",
+  "market_createdAt": "2022-03-14T23:15:36.739Z",
+  "market_updatedAt": "2023-01-31T18:53:29.494Z",
+  "market_startDate": "2022-03-14T23:53:13.39Z",
+  "market_endDate": "2022-04-12T00:00:00Z",
+  "market_closedTime": "2022-04-12 19:00:52+00",
+  "conditionId": "0xde8681e77f79ea7d4e8d9ab36fad812a1b040eb5a4c821ad89141555c19d3c31",
+  "slug": "will-the-uptspt-inflation-be-morethan-1pt0-from-february-to-march-2022",
+  "question": "Will U.S. inflation be more than 1.0% from February to March 2022?"
+}

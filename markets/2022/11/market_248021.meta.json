@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248021",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T20:16:51.204000Z",
+  "market_createdAt": "2022-11-18T20:16:51.204Z",
+  "market_updatedAt": "2023-01-31T20:03:23.97Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-06T00:00:00Z",
+  "market_closedTime": "2022-12-02 19:19:04+00",
+  "conditionId": "0xfbd127dcd58608b7d19353897a5a0deac97de72c2045250a4071ce83002538f9",
+  "slug": "will-argentina-qualify-from-group-c",
+  "question": "Will Argentina qualify from Group C?"
+}

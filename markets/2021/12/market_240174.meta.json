@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240174",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-23T20:21:28.212000Z",
+  "market_createdAt": "2021-12-23T20:21:28.212Z",
+  "market_updatedAt": "2024-04-22T23:46:58.875164Z",
+  "market_startDate": "2021-12-25T07:22:43.068Z",
+  "market_endDate": "2021-12-25T00:00:00Z",
+  "market_closedTime": "2021-12-26 14:32:31+00",
+  "conditionId": "0x6559e24923a4153dae48021ebf17739ac515298b9007d8f8fc217e8a42a829a8",
+  "slug": "nba-will-the-knicks-beat-the-hawks-by-more-than-1pt5-points-in-their-december-25-matchup",
+  "question": "NBA: Will the Knicks beat the Hawks by more than 1.5 points in their December 25 matchup?"
+}

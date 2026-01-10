@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243499",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-20T08:45:07.043000Z",
+  "market_createdAt": "2022-04-20T08:45:07.043Z",
+  "market_updatedAt": "2023-01-31T20:59:05.359Z",
+  "market_startDate": "2022-04-20T14:48:28.129Z",
+  "market_endDate": "2022-04-20T00:00:00Z",
+  "market_closedTime": "2022-04-21 07:16:07+00",
+  "conditionId": "0x467a2440d20406ac54d41f2d477d728184c520281fa2499efe2d4eed50f87c4c",
+  "slug": "mlb-who-will-win-philadelphia-phillies-vs-colorado-rockies-scheduled-for-april-20-311-pm-et",
+  "question": "MLB: Who will win Philadelphia Phillies vs. Colorado Rockies, scheduled for April 20, 3:11 PM ET?"
+}

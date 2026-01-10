@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238629",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-19T19:18:01.233000Z",
+  "market_createdAt": "2021-08-19T19:18:01.233Z",
+  "market_updatedAt": "2023-01-31T20:25:17.147Z",
+  "market_startDate": "2021-08-20T01:52:15.332Z",
+  "market_endDate": "2021-09-30T00:00:00Z",
+  "market_closedTime": "2021-09-09 20:46:56+00",
+  "conditionId": "0x9ed89f9f8aaa1b73713d99e1522ec57d0e49eb4e5ba26d4aeb1095675d6cecb7",
+  "slug": "t2-what-will-be-the-average-price-for-a-nyc-unrestricted-taxi-medallion-in-august-2021",
+  "question": "What will be the average price for a NYC unrestricted taxi medallion in August 2021?"
+}

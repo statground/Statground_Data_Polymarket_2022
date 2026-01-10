@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242060",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-14T11:28:42.360000Z",
+  "market_createdAt": "2022-03-14T11:28:42.36Z",
+  "market_updatedAt": "2024-04-23T00:13:10.528477Z",
+  "market_startDate": "2022-03-14T16:24:37.861Z",
+  "market_endDate": "2022-03-14T00:00:00Z",
+  "market_closedTime": "2022-03-15 10:00:28+00",
+  "conditionId": "0x4c825a719f7e5941835b5f97bd49c1245deb87a8c6417ceb85205ecb6f32c029",
+  "slug": "nba-will-the-76ers-beat-the-nuggets-by-more-than-2pt5-points-in-their-march-14-7pt30-pm-et-matchup",
+  "question": "NBA: Will the 76ers beat the Nuggets by more than 2.5 points in their March 14 (7.30 PM ET) matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239957",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-10T17:09:01.646000Z",
+  "market_createdAt": "2021-12-10T17:09:01.646Z",
+  "market_updatedAt": "2024-04-23T00:11:46.412186Z",
+  "market_startDate": "2021-12-10T18:26:12.506Z",
+  "market_endDate": "2021-12-10T00:00:00Z",
+  "market_closedTime": "2021-12-11 15:34:44+00",
+  "conditionId": "0x073acc9430d6d3fd9488138065d28a29ead7807fb9ca11ca61dc920308d1a8eb",
+  "slug": "nhl-will-the-rangers-beat-the-sabres-by-more-than-1pt5-goal-in-their-december-10-matchup",
+  "question": "NHL: Will the Rangers beat the Sabres by more than 1.5 goals in their December 10 matchup?"
+}

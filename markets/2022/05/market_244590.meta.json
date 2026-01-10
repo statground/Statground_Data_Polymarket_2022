@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244590",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-09T19:56:55.096000Z",
+  "market_createdAt": "2022-05-09T19:56:55.096Z",
+  "market_updatedAt": "2023-01-31T21:05:56.934Z",
+  "market_startDate": "2022-05-09T20:22:26.373Z",
+  "market_endDate": "2022-07-31T00:00:00Z",
+  "market_closedTime": "2022-05-10 05:47:03+00",
+  "conditionId": "0x5d3220e108293bc860bc75299aa3925567635856c428f291df4660ad0c6cbc21",
+  "slug": "will-ust-terra-usd-fall-below-85-cents-by-july-30-2022",
+  "question": "Will UST (Terra USD) fall below 85 cents by July 30, 2022?"
+}

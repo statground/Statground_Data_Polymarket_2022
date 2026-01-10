@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239153",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-30T13:32:41.150000Z",
+  "market_createdAt": "2021-10-30T13:32:41.15Z",
+  "market_updatedAt": "2024-04-22T22:40:18.022729Z",
+  "market_startDate": "2021-10-30T19:11:07.622Z",
+  "market_endDate": "2021-10-30T00:00:00Z",
+  "market_closedTime": "2021-10-31 16:30:41+00",
+  "conditionId": "0x64deaa579c8e81938f4f79e46079b5ce689719b46bfad2c33802c4392c59cb36",
+  "slug": "will-the-pacers-beat-the-raptors-by-more-than-3pt5-points-in-their-october-30th-matchup",
+  "question": "Will the Pacers beat the Raptors by more than 3.5 points in their October 30th matchup?"
+}

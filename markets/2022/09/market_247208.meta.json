@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247208",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-08T19:14:33.087000Z",
+  "market_createdAt": "2022-09-08T19:14:33.087Z",
+  "market_updatedAt": "2023-01-31T20:44:31.857Z",
+  "market_startDate": "2022-09-08T19:36:12.498Z",
+  "market_endDate": "2022-09-15T00:00:00Z",
+  "market_closedTime": "2022-09-17 01:30:50+00",
+  "conditionId": "0xfdcc31c83ff3a7bd39ef7d4c37a8ec5522361d00ec6997c355de1da848b007e5",
+  "slug": "will-joe-bidens-fivethirtyeight-approval-rating-be-43pt0-or-higher-on-september-15",
+  "question": "Will Joe Biden's FiveThirtyEight approval rating be 43.0% or higher on September 15?"
+}

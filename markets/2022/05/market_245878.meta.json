@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "245878",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-30T10:40:23.099000Z",
+  "market_createdAt": "2022-05-30T10:40:23.099Z",
+  "market_updatedAt": "2023-01-31T19:34:53.661Z",
+  "market_startDate": "2022-05-30T15:30:20.896Z",
+  "market_endDate": "2022-06-13T00:00:00Z",
+  "market_closedTime": "2022-06-13 21:30:38+00",
+  "conditionId": "0xeeb9fc4ab67da4fb16e13e9af5961f534ee0bbc170b5c74fab667886bccd4905",
+  "slug": "will-the-floor-price-of-goblintownwtf-be-above-2-eth-on-june-13",
+  "question": "Will the floor price of goblintown.wtf be above 2 ETH on June 13?"
+}

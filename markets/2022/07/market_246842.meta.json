@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246842",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-26T14:47:26.554000Z",
+  "market_createdAt": "2022-07-26T14:47:26.554Z",
+  "market_updatedAt": "2023-01-31T21:05:57.025Z",
+  "market_startDate": "2022-07-26T23:46:20.511Z",
+  "market_endDate": "2022-08-31T00:00:00Z",
+  "market_closedTime": "2022-07-29 21:29:51+00",
+  "conditionId": "0x52f7b221026eee97560459d99527b5ea6a0c0f9cc5fe8a87f8480b1b6d1b3e4f",
+  "slug": "will-president-biden-declare-a-national-emergency-before-september",
+  "question": "(Early Resolved) Will President Biden declare a new National Emergency before September?"
+}

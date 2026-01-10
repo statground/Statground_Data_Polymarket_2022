@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242062",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-14T11:59:55.732000Z",
+  "market_createdAt": "2022-03-14T11:59:55.732Z",
+  "market_updatedAt": "2024-04-23T00:30:55.508322Z",
+  "market_startDate": "2022-03-14T16:26:38.313Z",
+  "market_endDate": "2022-03-14T00:00:00Z",
+  "market_closedTime": "2022-03-15 10:45:32+00",
+  "conditionId": "0xf5b7b99fd2e968bef9e37159af2fbe44d35908b0730f33c7c7c45a5cbe3952dc",
+  "slug": "nba-will-the-raptors-beat-the-lakers-by-more-than-2pt5-points-in-their-march-14-10pt30-pm-et-matchup",
+  "question": "NBA: Will the Raptors beat the Lakers by more than 2.5 points in their March 14 (10.30 PM ET) matchup?"
+}

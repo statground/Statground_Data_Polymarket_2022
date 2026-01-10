@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247702",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-19T18:19:53.600000Z",
+  "market_createdAt": "2022-10-19T18:19:53.6Z",
+  "market_updatedAt": "2023-01-31T09:33:45.338Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-23T00:00:00Z",
+  "market_closedTime": "2022-10-24 15:15:48+00",
+  "conditionId": "0xf26aec5575d5c56367e5a4981ede13491b9477cafa35b82a4724c4481d4f2020",
+  "slug": "formula-1-will-max-verstappen-win-the-2022-united-states-grand-prix",
+  "question": "Formula 1: Will Max Verstappen win the 2022 United States Grand Prix?"
+}

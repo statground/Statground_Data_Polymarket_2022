@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247266",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-13T21:07:31.342000Z",
+  "market_createdAt": "2022-09-13T21:07:31.342Z",
+  "market_updatedAt": "2024-04-26T02:54:51.754402Z",
+  "market_startDate": "2023-03-28T21:08:33.696Z",
+  "market_endDate": "2023-03-31T00:00:00Z",
+  "market_closedTime": "2023-04-03 01:30:11+00",
+  "conditionId": "0xb5858726a0b48b44465ee6c6d0d8fc913bde224ebb1045a537a687cfe1171222",
+  "slug": "will-donald-j-trump-be-indicted-by-march-31-2023",
+  "question": "Will Donald J. Trump be indicted by March 31, 2023?"
+}

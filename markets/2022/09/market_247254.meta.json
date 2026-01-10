@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247254",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-12T20:03:53.731000Z",
+  "market_createdAt": "2022-09-12T20:03:53.731Z",
+  "market_updatedAt": "2023-01-31T20:21:31.021Z",
+  "market_startDate": "2022-09-12T20:19:00.323Z",
+  "market_endDate": "2022-09-19T00:00:00Z",
+  "market_closedTime": "2022-09-20 07:45:44+00",
+  "conditionId": "0x796b5406b46cecb0ffe02ce9fd012040f10df1124171863346b7b62e3c5fa686",
+  "slug": "will-the-price-of-natural-gas-be-8pt25-or-more-on-september-19-2022-oct-2022-future",
+  "question": "Will the price of natural gas be $8.25 or more on September 19, 2022? (OCT 2022 Future)"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240517",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T18:08:36.872000Z",
+  "market_createdAt": "2022-01-11T18:08:36.872Z",
+  "market_updatedAt": "2024-04-24T23:23:23.988265Z",
+  "market_startDate": "2022-01-12T21:03:47.8Z",
+  "market_endDate": "2022-02-01T00:00:00Z",
+  "market_closedTime": "2022-02-02 17:04:27+00",
+  "conditionId": "0x32eeb415468f4b4959c7385aff575acc23817a6c8b3fca96264610919f53ab18",
+  "slug": "will-the-price-of-sol-be-above-200-on-february-1st-2022",
+  "question": "Will the price of $SOL be above $200 on February 1st, 2022?"
+}

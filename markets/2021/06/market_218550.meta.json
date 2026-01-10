@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218550",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-17T05:45:02.858000Z",
+  "market_createdAt": "2021-06-17T05:45:02.858Z",
+  "market_updatedAt": "2024-04-23T00:15:53.53448Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-19T00:00:00Z",
+  "market_closedTime": "2021-06-19 20:23:50+00",
+  "conditionId": "0xa7f9ddeb7e3d2ea0158c0a1d140cb3cb012b483c29299db5582a530feb4771d2",
+  "slug": "will-portugal-or-germany-win-their-euro-2020-match",
+  "question": "Will Portugal or Germany win their Euro 2020 match?"
+}

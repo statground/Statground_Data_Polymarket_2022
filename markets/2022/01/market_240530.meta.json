@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240530",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T18:33:14.204000Z",
+  "market_createdAt": "2022-01-11T18:33:14.204Z",
+  "market_updatedAt": "2024-04-22T22:42:37.030096Z",
+  "market_startDate": "2022-01-12T20:44:43.027Z",
+  "market_endDate": "2022-12-31T00:00:00Z",
+  "market_closedTime": "2023-01-04 20:02:09+00",
+  "conditionId": "0xacb4d483927f243909007ce6356391d7938fddd0d2088da58bcd8148dc3210f8",
+  "slug": "will-the-fully-diluted-market-cap-of-metamasks-mask-token-be-higher-than-20-billion-a-week-after-its-launch",
+  "question": "Will the fully diluted market cap of MetaMask’s $MASK token be higher than $20 Billion a week after its launch?"
+}

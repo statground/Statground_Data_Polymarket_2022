@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246983",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-12T19:29:30.033000Z",
+  "market_createdAt": "2022-08-12T19:29:30.033Z",
+  "market_updatedAt": "2023-04-20T00:05:41.795Z",
+  "market_startDate": "2022-08-12T20:02:16.356Z",
+  "market_endDate": "2022-08-22T00:00:00Z",
+  "market_closedTime": "2022-08-23 09:00:51+00",
+  "conditionId": "0xee60211751afa65f52f8778fb106f65b5b80b8db58148050d349ce4466de0f34",
+  "slug": "will-the-price-of-a-barrel-of-crude-oil-be-92pt5-or-more-on-august-22-2022",
+  "question": "Will the price of a barrel of crude oil be $92.50 or more on August 22, 2022? (OCT 2022 future)"
+}

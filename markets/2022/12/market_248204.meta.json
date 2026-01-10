@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248204",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-14T21:40:01.915000Z",
+  "market_createdAt": "2022-12-14T21:40:01.915Z",
+  "market_updatedAt": "2024-04-26T03:12:04.018971Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-17T00:00:00Z",
+  "market_closedTime": "2022-12-17 19:00:50+00",
+  "conditionId": "0xe4d3e91c7fa9bf0391fd77114f17a2a00d2fb23c4a9567c29d3dfe4746685a94",
+  "slug": "world-cup-3rd-place-croatia-vs-morocco",
+  "question": "World Cup 3rd Place: Croatia vs. Morocco"
+}

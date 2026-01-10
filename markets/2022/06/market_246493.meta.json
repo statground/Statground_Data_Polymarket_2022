@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246493",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-06T19:24:16.122000Z",
+  "market_createdAt": "2022-06-06T19:24:16.122Z",
+  "market_updatedAt": "2023-01-31T21:10:05.638Z",
+  "market_startDate": null,
+  "market_endDate": "2022-07-15T00:00:00Z",
+  "market_closedTime": "2022-07-16 17:15:43+00",
+  "conditionId": "0xcb513489e726e7a571ff67e766fb9ab6d6509af36949df7711a681d3af35dbe5",
+  "slug": "will-a-hurricane-make-landfall-in-the-lower-48-states-by-july-15",
+  "question": "Will a hurricane make landfall in the lower 48 U.S. states by July 15?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238641",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-23T22:56:02.138000Z",
+  "market_createdAt": "2021-08-23T22:56:02.138Z",
+  "market_updatedAt": "2024-04-23T00:16:22.838544Z",
+  "market_startDate": null,
+  "market_endDate": "2021-11-01T00:00:00Z",
+  "market_closedTime": "2021-09-10 21:02:08+00",
+  "conditionId": "0x64249571f1ab1618e573f0624ed327bedd14e7f55f36d76567a1fd409995d637",
+  "slug": "which-will-sell-more-album-units-in-its-first-week-of-release-kanyes-donda-or-drakes-certified-lover-boy6bd9d5f4",
+  "question": "Which will sell more album units in its first week of release: Kanye’s Donda or Drake’s Certified Lover Boy?"
+}

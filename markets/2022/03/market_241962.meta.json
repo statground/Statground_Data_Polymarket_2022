@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241962",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-08T11:16:19.223000Z",
+  "market_createdAt": "2022-03-08T11:16:19.223Z",
+  "market_updatedAt": "2024-04-22T22:30:54.131927Z",
+  "market_startDate": "2022-03-08T18:33:35.108Z",
+  "market_endDate": "2022-03-08T00:00:00Z",
+  "market_closedTime": "2022-03-09 19:16:27+00",
+  "conditionId": "0xbf2b4b73d417450ab11ca78c615ff7e22ced29e6f617872de465fce8820187e7",
+  "slug": "nba-who-will-win-the-nets-vspt-hornets-scheduled-for-march-8-7-pm-et",
+  "question": "NBA: Who will win the Nets vs. Hornets, scheduled for March 8 (7 PM ET)?"
+}

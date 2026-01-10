@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240910",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-21T11:02:31.382000Z",
+  "market_createdAt": "2022-01-21T11:02:31.382Z",
+  "market_updatedAt": "2024-04-23T00:41:26.372712Z",
+  "market_startDate": "2022-01-21T21:47:04.393Z",
+  "market_endDate": "2022-01-21T00:00:00Z",
+  "market_closedTime": "2022-01-25 05:38:51+00",
+  "conditionId": "0xeb84fd44ff384dfc560d055b266c42bd2f1390150957361ee98add7c53191a56",
+  "slug": "nba-will-the-76ers-beat-the-clippers-by-more-than-7p5-points-in-their-january-21-matchup",
+  "question": "NBA: Will the 76ers beat the Clippers by more than 7.5 points in their January 21 matchup?"
+}

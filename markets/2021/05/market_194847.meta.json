@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "194847",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-12T18:10:12.321000Z",
+  "market_createdAt": "2021-05-12T18:10:12.321Z",
+  "market_updatedAt": "2024-04-25T00:00:21.761475Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-29T00:00:00Z",
+  "market_closedTime": "2021-05-30 17:29:27+00",
+  "conditionId": "0xb9e4ba9cd14729d18944d9049e8a89d75f936b3130bb7219b24567523e7ec3c7",
+  "slug": "who-will-win-the-champions-league-final-man-city-or-chelsea",
+  "question": "Who will win the Champions League Final: Man City or Chelsea?"
+}

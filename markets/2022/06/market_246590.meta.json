@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246590",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-24T16:32:41.167000Z",
+  "market_createdAt": "2022-06-24T16:32:41.167Z",
+  "market_updatedAt": "2023-01-31T17:06:25.039Z",
+  "market_startDate": "2022-06-24T17:47:08.657Z",
+  "market_endDate": "2022-06-24T00:00:00Z",
+  "market_closedTime": "2022-06-25 07:15:41+00",
+  "conditionId": "0xbefb3edb785f6c76a21398dfaee180c262f1bf9f29e40c69ed218d2d6b24b18f",
+  "slug": "nhl-2022-stanley-cup-finals-who-will-win-lightning-vs-avalanche-game-5",
+  "question": "NHL 2022 Stanley Cup Finals: Who will win Lightning vs. Avalanche, Game 5?"
+}

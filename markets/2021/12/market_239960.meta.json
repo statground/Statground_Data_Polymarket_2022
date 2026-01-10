@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239960",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-10T18:02:11.976000Z",
+  "market_createdAt": "2021-12-10T18:02:11.976Z",
+  "market_updatedAt": "2024-04-24T23:51:22.405123Z",
+  "market_startDate": "2021-12-11T10:13:13.609Z",
+  "market_endDate": "2021-12-11T00:00:00Z",
+  "market_closedTime": "2021-12-12 18:32:32+00",
+  "conditionId": "0x284dc9401acbc5f9a906bb2ead1ec6757712a67a6580f6fb90b9f84b89aeb608",
+  "slug": "ufc-269-who-will-win-charles-oliveira-or-dustin-poirier",
+  "question": "UFC 269: Who will win - Charles Oliveira or Dustin Poirier?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238631",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-20T03:22:01.124000Z",
+  "market_createdAt": "2021-08-20T03:22:01.124Z",
+  "market_updatedAt": "2024-04-22T23:32:00.446889Z",
+  "market_startDate": "2021-08-20T03:24:44.607Z",
+  "market_endDate": "2021-08-20T00:00:00Z",
+  "market_closedTime": "2021-08-21 20:31:01+00",
+  "conditionId": "0xb5e661dcefb56970fcbca48e236b3673f0a98d07f0ea5312e4e06b1515543083",
+  "slug": "will-tsm-or-immortals-win-their-lcs-playoffs-matchup-on-august-20-2021",
+  "question": "Will TSM or Immortals win their LCS Playoffs matchup on August 20, 2021?"
+}

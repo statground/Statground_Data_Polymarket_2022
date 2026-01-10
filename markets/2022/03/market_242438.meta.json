@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242438",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-24T17:42:13.809000Z",
+  "market_createdAt": "2022-03-24T17:42:13.809Z",
+  "market_updatedAt": "2024-04-24T23:29:56.47984Z",
+  "market_startDate": "2022-03-24T18:42:12.114Z",
+  "market_endDate": "2022-03-24T00:00:00Z",
+  "market_closedTime": "2022-03-25 15:30:33+00",
+  "conditionId": "0xed731eaa7abf91df417b3ae7eab2a6acf9b2969224e0b34a5ec8b9e9c511a263",
+  "slug": "nba-will-the-bulls-beat-the-pelicans-by-more-than-1pt5-points-in-their-march-24-8-pm-et-matchup",
+  "question": "NBA: Will the Bulls beat the Pelicans by more than 1.5 points in their March 24 (8 PM ET) matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239292",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-08T10:09:00.779000Z",
+  "market_createdAt": "2021-11-08T10:09:00.779Z",
+  "market_updatedAt": "2024-04-23T00:08:08.362063Z",
+  "market_startDate": "2021-11-08T20:12:36.924Z",
+  "market_endDate": "2021-11-11T00:00:00Z",
+  "market_closedTime": "2021-11-12 19:47:07+00",
+  "conditionId": "0x409c30eda573f471cba6dc9a72b68b79d96e0bcea06911c1bf2fbd41f7e02cbc",
+  "slug": "nfl-will-the-ravens-beat-the-dolphins-by-more-than-7pt5-points-in-their-november-11th-matchup",
+  "question": "NFL: Will the Ravens beat the Dolphins by more than 7.5 points in their November 11th matchup?"
+}

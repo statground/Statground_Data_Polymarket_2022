@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240351",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T01:07:36.094000Z",
+  "market_createdAt": "2022-01-11T01:07:36.094Z",
+  "market_updatedAt": "2024-04-24T23:57:20.325494Z",
+  "market_startDate": "2022-01-12T20:48:13.997Z",
+  "market_endDate": "2022-06-10T00:00:00Z",
+  "market_closedTime": "2022-05-13 21:30:35+00",
+  "conditionId": "0x8675ebbadc3de26a1c2abdae92d18ae7816a62a99208e485c6eb64c246e71b27",
+  "slug": "will-lebron-james-win-nba-21-22-mvp",
+  "question": "Will Lebron James win NBA ’21-’22 MVP?"
+}

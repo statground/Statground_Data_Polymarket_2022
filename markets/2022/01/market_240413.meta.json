@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240413",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T14:02:41.723000Z",
+  "market_createdAt": "2022-01-11T14:02:41.723Z",
+  "market_updatedAt": "2024-04-25T00:02:30.34463Z",
+  "market_startDate": "2022-01-12T21:40:53.298Z",
+  "market_endDate": "2022-12-31T00:00:00Z",
+  "market_closedTime": "2023-01-03 01:00:39+00",
+  "conditionId": "0xfeecce4f257f80075cd794ee1f39e38addf0082e769475f9f9841a139b3fc6ee",
+  "slug": "will-joe-bidens-approval-rating-be-higher-than-his-disapproval-rating-on-any-day-in-2022",
+  "question": "Will Joe Biden’s approval rating be higher than his disapproval rating on any day in 2022?"
+}

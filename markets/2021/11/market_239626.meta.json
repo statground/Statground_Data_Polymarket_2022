@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239626",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-27T18:44:34.345000Z",
+  "market_createdAt": "2021-11-27T18:44:34.345Z",
+  "market_updatedAt": "2024-04-23T00:37:46.560782Z",
+  "market_startDate": "2021-11-27T19:07:53.622Z",
+  "market_endDate": "2021-11-27T00:00:00Z",
+  "market_closedTime": "2021-11-28 20:32:06+00",
+  "conditionId": "0x80ad05e47acb11f0d38b9118fee8473a294276fd0b29ab1c7c04ae5d142ce706",
+  "slug": "nba-will-the-hawks-beat-the-knicks-by-more-than-7pt5-points-in-their-november-27th-matchup",
+  "question": "NBA: Will the Hawks beat the Knicks by more than 7.5 points in their November 27th matchup?"
+}

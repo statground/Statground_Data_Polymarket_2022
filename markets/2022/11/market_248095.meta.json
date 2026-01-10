@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248095",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-21T17:44:40.518000Z",
+  "market_createdAt": "2022-11-21T17:44:40.518Z",
+  "market_updatedAt": "2023-01-31T16:32:35.898Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-23T00:00:00Z",
+  "market_closedTime": "2022-11-23 18:15:33+00",
+  "conditionId": "0xacab0aac133ae233aa459cfb54faec6e6892209d4114cd7eb5f51818ee945201",
+  "slug": "world-cup-2022-wednesday-will-germany-beat-japan",
+  "question": "World Cup: Wednesday - Will Germany beat Japan?"
+}

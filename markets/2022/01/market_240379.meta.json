@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240379",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T02:07:03.024000Z",
+  "market_createdAt": "2022-01-11T02:07:03.024Z",
+  "market_updatedAt": "2024-07-18T15:38:43.630074Z",
+  "market_startDate": "2023-02-23T16:36:44.22Z",
+  "market_endDate": "2024-09-10T00:00:00Z",
+  "market_closedTime": "2024-07-18 00:10:37.491895+00",
+  "conditionId": "0x12a0cb60174abc437bf1178367c72d11f069e1a3add20b148fb0ab4279b772b2",
+  "slug": "will-ron-desantis-win-the-us-2024-republican-presidential-nomination",
+  "question": "[Single Market] Will Ron DeSantis win the U.S. 2024 Republican presidential nomination?"
+}

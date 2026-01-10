@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240365",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T01:32:57.390000Z",
+  "market_createdAt": "2022-01-11T01:32:57.39Z",
+  "market_updatedAt": "2024-04-22T23:52:54.389598Z",
+  "market_startDate": "2022-01-12T20:53:50.897Z",
+  "market_endDate": "2022-06-20T00:00:00Z",
+  "market_closedTime": "2022-06-28 23:00:37+00",
+  "conditionId": "0x1506fe0978ffba1887bff31e0e98dcbe2d8e4fbe525a93e69ef14596c7882f5d",
+  "slug": "will-the-colorado-avalanche-win-the-nhl-2021-22-stanley-cup",
+  "question": "Will the Colorado Avalanche win the NHL 2021-22 Stanley Cup?"
+}

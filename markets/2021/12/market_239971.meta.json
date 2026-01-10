@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239971",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-10T22:04:31.256000Z",
+  "market_createdAt": "2021-12-10T22:04:31.256Z",
+  "market_updatedAt": "2024-04-22T22:35:25.654973Z",
+  "market_startDate": "2021-12-11T10:19:54.387Z",
+  "market_endDate": "2021-12-11T00:00:00Z",
+  "market_closedTime": "2021-12-12 18:33:04+00",
+  "conditionId": "0x201262b3b638e8d73028bfac1b659484c2bd31bbd834cef70713f81965e67a3a",
+  "slug": "ufc-269-who-will-win-kai-kara-france-or-cody-garbrandt",
+  "question": "UFC 269: Who will win - Kai Kara-France or Cody Garbrandt?"
+}

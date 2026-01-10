@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246583",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-23T16:58:25.939000Z",
+  "market_createdAt": "2022-06-23T16:58:25.939Z",
+  "market_updatedAt": "2023-01-31T17:38:45.223Z",
+  "market_startDate": null,
+  "market_endDate": "2022-07-05T00:00:00Z",
+  "market_closedTime": "2022-07-05 01:46:31+00",
+  "conditionId": "0x2d2089f654bd0e05673804897275156fca3d6c6822b1357384b5ca33f2fca383",
+  "slug": "chess-will-fabiano-caruana-win-the-2022-candidates-tournament",
+  "question": "Chess: Will Fabiano Caruana win the 2022 Candidates Tournament?"
+}

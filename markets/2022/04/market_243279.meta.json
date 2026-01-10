@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243279",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-14T22:26:36.137000Z",
+  "market_createdAt": "2022-04-14T22:26:36.137Z",
+  "market_updatedAt": "2023-01-31T21:06:31.527Z",
+  "market_startDate": "2022-04-18T17:49:19.134Z",
+  "market_endDate": "2022-05-09T00:00:00Z",
+  "market_closedTime": "2022-05-10 06:15:40+00",
+  "conditionId": "0x9d584c17b5688279ccb944c779496b884c67c572f7e1c2328793f67eec750433",
+  "slug": "will-andy-warhols-shot-sage-blue-marilyn-sell-at-christies-for-200-million-or-more",
+  "question": "Will Andy Warhol’s 'Shot Sage Blue Marilyn' sell at Christie's for $200 million or more?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "229998",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-07T20:10:01.118000Z",
+  "market_createdAt": "2021-08-07T20:10:01.118Z",
+  "market_updatedAt": "2023-01-31T21:06:29.034Z",
+  "market_startDate": "2021-08-08T18:37:06.971Z",
+  "market_endDate": "2021-08-27T00:00:00Z",
+  "market_closedTime": "2021-08-28 17:17:34+00",
+  "conditionId": "0xca5a74737dbb557fe0eefd42c4c5f0be4148f3101910f52b27d37f1fec32f87d",
+  "slug": "what-will-the-price-of-ada-be-on-august-27-2021",
+  "question": "What will the price of $ADA be on August 27, 2021? "
+}

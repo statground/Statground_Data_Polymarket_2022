@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241107",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-27T12:32:49.958000Z",
+  "market_createdAt": "2022-01-27T12:32:49.958Z",
+  "market_updatedAt": "2024-04-26T03:57:40.667702Z",
+  "market_startDate": "2022-01-27T21:20:34.66Z",
+  "market_endDate": "2022-01-27T00:00:00Z",
+  "market_closedTime": "2022-01-31 01:05:04+00",
+  "conditionId": "0x32896fc320aeae148a44d1fffc89cfc60daa7e7512b101d5db54a094d9afbb48",
+  "slug": "nhl-will-the-penguins-beat-the-kraken-by-more-than-1p5-goals-in-their-january-27-matchup-7-pm-et",
+  "question": "NHL: Will the Penguins beat the Kraken by more than 1.5 goals in their January 27 matchup (7 pm ET)?"
+}

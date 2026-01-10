@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244924",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-17T05:53:16.565000Z",
+  "market_createdAt": "2022-05-17T05:53:16.565Z",
+  "market_updatedAt": "2023-01-31T19:58:17.975Z",
+  "market_startDate": "2022-05-17T14:00:39.805Z",
+  "market_endDate": "2022-05-17T00:00:00Z",
+  "market_closedTime": "2022-05-18 05:15:38+00",
+  "conditionId": "0x6854ca45f9bfd23460b4557acdc690f6e5f1b6e9eb9a64d2d328a571445a0e7f",
+  "slug": "nhl-who-will-win-panthers-vs-lightning-scheduled-for-may-17-700-pm-et",
+  "question": "NHL: Who will win Panthers vs. Lightning, scheduled for May 17, 7:00 PM ET?"
+}

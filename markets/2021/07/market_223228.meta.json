@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "223228",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-09T16:25:01.053000Z",
+  "market_createdAt": "2021-07-09T16:25:01.053Z",
+  "market_updatedAt": "2024-04-22T23:19:16.602104Z",
+  "market_startDate": null,
+  "market_endDate": "2022-01-08T00:00:00Z",
+  "market_closedTime": "2021-08-02 14:46:35+00",
+  "conditionId": "0x07848468caddff766947a9e3a6add06680ee68da8ac3de1650e18ab40be5553c",
+  "slug": "will-the-us-have-more-than-100000-new-daily-covid-19-cases-before-january-1",
+  "question": "Will the US have more than 100,000 new daily COVID-19 cases before January 1, 2022?"
+}

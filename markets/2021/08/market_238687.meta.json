@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238687",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-30T21:24:01.395000Z",
+  "market_createdAt": "2021-08-30T21:24:01.395Z",
+  "market_updatedAt": "2024-04-22T23:17:23.414602Z",
+  "market_startDate": "2021-08-31T02:03:46.389Z",
+  "market_endDate": "2021-09-05T00:00:00Z",
+  "market_closedTime": "2021-09-07 19:08:37+00",
+  "conditionId": "0xeb0dcbb00ae599a78f2cff5b87f6d305e55766fd175b72b512ccd5c90031be80",
+  "slug": "will-liquid-or-furia-win-their-esl-pro-league-season-14-matchup-on-september-5-2021",
+  "question": "Will Liquid or FURIA win their ESL matchup on September 5?"
+}

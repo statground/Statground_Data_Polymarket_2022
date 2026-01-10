@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "114",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-11-24T16:15:09.126000Z",
+  "market_createdAt": "2020-11-24T16:15:09.126Z",
+  "market_updatedAt": "2023-01-31T09:05:02.256Z",
+  "market_startDate": null,
+  "market_endDate": "2021-01-02T00:00:00Z",
+  "market_closedTime": "2021-01-02 21:38:00+00",
+  "conditionId": "0xe71f1c8d994dd447eba467c762f54598b0b0845ab5be4cafe9852bdb94720e57",
+  "slug": "will-coinbase-reach-1-in-i-os-app-store-finance-category-before-2021",
+  "question": "Will Coinbase reach #1 in the Finance category on the US iOS App Store before 2021?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239252",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-05T12:41:51.614000Z",
+  "market_createdAt": "2021-11-05T12:41:51.614Z",
+  "market_updatedAt": "2024-04-22T23:18:49.319974Z",
+  "market_startDate": "2021-11-05T19:52:43.366Z",
+  "market_endDate": "2021-11-05T00:00:00Z",
+  "market_closedTime": "2021-11-06 11:15:12+00",
+  "conditionId": "0x516be7dfab179a535672f0f6e336c8e70ef82eb83d1912b28f816ca556e5358d",
+  "slug": "nba-will-the-spurs-beat-the-magic-by-more-than-4pt5-points-in-their-november-5th-matchup",
+  "question": "NBA: Will the Spurs beat the Magic by more than 4.5 points in their November 5th matchup?"
+}

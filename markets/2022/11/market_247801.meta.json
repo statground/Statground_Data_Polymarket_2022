@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247801",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-02T15:42:49.951000Z",
+  "market_createdAt": "2022-11-02T15:42:49.951Z",
+  "market_updatedAt": "2023-01-31T15:40:41.999Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-03T00:00:00Z",
+  "market_closedTime": "2022-11-04 07:00:55+00",
+  "conditionId": "0x1b2c43d8f810d67bec86a0089a2793d7d9a601d5b38b6667e6687b532a570206",
+  "slug": "nfl-thursday-eagles-14pt5-v-texans-spread",
+  "question": "NFL Thursday: Eagles (-14.5) v. Texans Spread"
+}

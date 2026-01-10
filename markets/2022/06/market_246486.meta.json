@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246486",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-06T14:16:14.989000Z",
+  "market_createdAt": "2022-06-06T14:16:14.989Z",
+  "market_updatedAt": "2023-01-31T17:53:50.751Z",
+  "market_startDate": "2022-06-06T15:33:42.861Z",
+  "market_endDate": "2022-06-20T00:00:00Z",
+  "market_closedTime": "2022-06-21 10:00:36+00",
+  "conditionId": "0x4187f4476bebed05e4457a8d01a5aa0443751b3f382215f4084db933ff0d34b9",
+  "slug": "2022-french-legislative-election-will-macrons-party-win-an-outright-majority",
+  "question": "2022 French Legislative Election: Will Macron's party win an outright majority?"
+}

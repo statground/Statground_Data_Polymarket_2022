@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "101786",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-03-08T17:55:02.068000Z",
+  "market_createdAt": "2021-03-08T17:55:02.068Z",
+  "market_updatedAt": "2024-04-22T23:48:59.382332Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-01T00:00:00Z",
+  "market_closedTime": "2021-04-01 18:06:14+00",
+  "conditionId": "0x5d78c08a39933a6d6b099303b0826704975708221ac7c013e324b2120d94d340",
+  "slug": "will-bitcoin-btc-be-above-55k-on-april-1-2021",
+  "question": "Will Bitcoin ($BTC) be above $55k on April 1, 2021?"
+}

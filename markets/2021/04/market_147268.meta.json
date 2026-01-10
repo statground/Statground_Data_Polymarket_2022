@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "147268",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-22T20:30:03.341000Z",
+  "market_createdAt": "2021-04-22T20:30:03.341Z",
+  "market_updatedAt": "2024-04-25T00:14:32.293187Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-06T00:00:00Z",
+  "market_closedTime": "2021-05-06 22:09:58+00",
+  "conditionId": "0x01e7dba844a2ddbd56d2af6f88051803667629b426016eb7ed273dd39fc7478c",
+  "slug": "will-joe-biden-s-disapproval-rating-be-40-or-higher-on-may-5",
+  "question": "Will Joe Biden's disapproval rating be 40% or higher on May 5?"
+}

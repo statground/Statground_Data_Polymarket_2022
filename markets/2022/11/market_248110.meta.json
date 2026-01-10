@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248110",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-21T19:26:43.999000Z",
+  "market_createdAt": "2022-11-21T19:26:43.999Z",
+  "market_updatedAt": "2023-01-31T20:55:18.04Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-26T00:00:00Z",
+  "market_closedTime": "2022-11-27 00:15:33+00",
+  "conditionId": "0xbe462cf3374f0aaa57e49608f8fd8f4cb6e9236d3ca36f3bb38053ff21254504",
+  "slug": "world-cup-2022-saturday-will-argentina-beat-mexico",
+  "question": "World Cup: Saturday - Will Argentina beat Mexico?"
+}

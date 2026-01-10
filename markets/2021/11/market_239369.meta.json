@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239369",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-11T12:56:38.913000Z",
+  "market_createdAt": "2021-11-11T12:56:38.913Z",
+  "market_updatedAt": "2024-04-22T22:54:30.200437Z",
+  "market_startDate": "2021-11-11T18:45:12.364Z",
+  "market_endDate": "2021-11-14T00:00:00Z",
+  "market_closedTime": "2021-11-15 06:02:12+00",
+  "conditionId": "0x375dfcd96c7a19098248765b3222fe19440a3068eabdf3d89b89b67155494598",
+  "slug": "will-max-verstappen-finish-ahead-of-lewis-hamilton-in-the-brazilian-grand-prix",
+  "question": "Will Max Verstappen finish ahead of Lewis Hamilton in the Brazilian Grand Prix?"
+}

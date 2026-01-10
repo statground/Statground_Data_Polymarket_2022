@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243232",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-13T15:48:00.803000Z",
+  "market_createdAt": "2022-04-13T15:48:00.803Z",
+  "market_updatedAt": "2023-01-31T19:05:06.322Z",
+  "market_startDate": "2022-04-13T17:35:38.855Z",
+  "market_endDate": "2022-06-19T00:00:00Z",
+  "market_closedTime": "2022-06-17 07:30:36+00",
+  "conditionId": "0x4e969542d6c38fa418c89ed8411b1524277b3b5cdbbb9f0e80eeb68ce5a1aaba",
+  "slug": "2022-nba-finals-east-or-west",
+  "question": "2022 NBA Finals: East or West?"
+}

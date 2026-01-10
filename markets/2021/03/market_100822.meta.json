@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "100822",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-03-05T16:40:01.665000Z",
+  "market_createdAt": "2021-03-05T16:40:01.665Z",
+  "market_updatedAt": "2024-04-22T22:30:49.881206Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-31T00:00:00Z",
+  "market_closedTime": "2021-05-31 19:28:38+00",
+  "conditionId": "0x6e0163823763315f2d81054de3beefdfd81b6601a0963a9f5b0d26cdcf420bb9",
+  "slug": "will-donald-trump-be-president-of-the-usa-on-may-31-2021",
+  "question": "Will Donald Trump be President of the USA on May 31, 2021?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "196448",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-13T21:05:02.624000Z",
+  "market_createdAt": "2021-05-13T21:05:02.624Z",
+  "market_updatedAt": "2024-04-22T22:58:35.577153Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-13T00:00:00Z",
+  "market_closedTime": "2021-05-14 16:35:46+00",
+  "conditionId": "0x3f7d5cf9d32c29072e936e8636a297c57acc8b04001b03daad42e62bd789e173",
+  "slug": "will-piet-mondrians-composition-no-ii-sell-for-more-than-30-million-at-christies",
+  "question": "Will Piet Mondrian’s “Composition: No. II” sell for more than $30 million at Christie’s?"
+}

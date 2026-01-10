@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242451",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-24T19:08:50.461000Z",
+  "market_createdAt": "2022-03-24T19:08:50.461Z",
+  "market_updatedAt": "2024-04-22T23:40:35.779743Z",
+  "market_startDate": "2022-03-24T19:48:12.313Z",
+  "market_endDate": "2022-04-11T00:00:00Z",
+  "market_closedTime": "2022-04-11 03:00:34+00",
+  "conditionId": "0xd14cd6b4789e6a59dfb7202200564939f63089691a5cabb3a299015ee0315a65",
+  "slug": "golf-will-jordan-spieth-win-the-2022-masters-tournament",
+  "question": "Golf: Will Jordan Spieth win the 2022 Masters Tournament?"
+}

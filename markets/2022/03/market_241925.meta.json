@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241925",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-06T15:57:54.656000Z",
+  "market_createdAt": "2022-03-06T15:57:54.656Z",
+  "market_updatedAt": "2024-04-25T00:01:47.189512Z",
+  "market_startDate": "2022-03-06T17:00:28.694Z",
+  "market_endDate": "2022-03-06T00:00:00Z",
+  "market_closedTime": "2022-03-07 12:21:14+00",
+  "conditionId": "0x7a8f226a86b4a7aef4f9f57374405af737221878429ec4c5ae8ef6660f99bfaa",
+  "slug": "nba-who-will-win-the-celtics-vspt-nets-scheduled-for-march-6-1-pm-et",
+  "question": "NBA: Who will win the Celtics vs. Nets, scheduled for March 6 (1 PM ET)?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "228208",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-03T01:05:02.590000Z",
+  "market_createdAt": "2021-08-03T01:05:02.59Z",
+  "market_updatedAt": "2024-04-23T00:10:39.208646Z",
+  "market_startDate": "2021-08-03T01:20:44.75Z",
+  "market_endDate": "2021-08-06T00:00:00Z",
+  "market_closedTime": "2021-08-06 19:32:32+00",
+  "conditionId": "0xb2898324ee802360416d6b98238edf9587754a2b3ea5e731bba50a91358e63a5",
+  "slug": "will-the-boeing-starliner-spacecraft-successfully-dock-with-the-iss-before-august-6",
+  "question": "Will the Boeing CST-100 Starliner Spacecraft successfully dock with the ISS before August 6?"
+}

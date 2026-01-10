@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240886",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-19T22:01:35.417000Z",
+  "market_createdAt": "2022-01-19T22:01:35.417Z",
+  "market_updatedAt": "2023-01-31T14:37:30.346Z",
+  "market_startDate": "2022-01-20T20:06:43.031Z",
+  "market_endDate": "2022-01-22T00:00:00Z",
+  "market_closedTime": "2022-01-24 22:03:08+00",
+  "conditionId": "0x7eadff52e8fb85649efb755ab7369c0a531c455ce7f1427396bb81c2b7685065",
+  "slug": "ufc-270-who-will-win-vieira-vs-turman",
+  "question": "UFC 270: Who will win Vieira vs. Turman?"
+}

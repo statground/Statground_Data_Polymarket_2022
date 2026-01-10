@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "90602",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-17T21:20:04.386000Z",
+  "market_createdAt": "2021-02-17T21:20:04.386Z",
+  "market_updatedAt": "2024-04-22T23:54:22.472828Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-17T00:00:00Z",
+  "market_closedTime": "2021-02-18 19:08:33+00",
+  "conditionId": "0x6325c9ebcbb55175708f2738c2e1c778d3ad4d955e4005f754b985eeb827b7aa",
+  "slug": "will-the-hawks-or-the-celtics-win-their-february-17-2021-matchup",
+  "question": "Will the Hawks or the Celtics win their February 17, 2021 matchup?"
+}

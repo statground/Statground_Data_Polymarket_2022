@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239492",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-17T14:45:32.747000Z",
+  "market_createdAt": "2021-11-17T14:45:32.747Z",
+  "market_updatedAt": "2024-04-22T23:48:04.93933Z",
+  "market_startDate": "2021-11-17T19:31:37.795Z",
+  "market_endDate": "2021-11-24T00:00:00Z",
+  "market_closedTime": "2021-11-25 20:50:26+00",
+  "conditionId": "0x4caaed76387bae883e41760cf89f6f3f0207964233f164bf673b0295430072f4",
+  "slug": "will-matic-polygon-be-above-1pt60-on-november-24",
+  "question": "Will $MATIC (Polygon) be above $1.60 on November 24?"
+}

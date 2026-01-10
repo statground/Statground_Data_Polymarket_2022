@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238696",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-01T18:06:01.324000Z",
+  "market_createdAt": "2021-09-01T18:06:01.324Z",
+  "market_updatedAt": "2024-04-22T22:52:26.0485Z",
+  "market_startDate": "2021-09-01T20:44:22.959Z",
+  "market_endDate": "2021-09-13T00:00:00Z",
+  "market_closedTime": "2021-09-12 23:50:01+00",
+  "conditionId": "0x4fb87c3ccb5576fb835ca2c02bce0eff094f0ad92d11f014015ccfadaea1fb35",
+  "slug": "will-a-non-korean-player-win-the-dreamhack-fall-starcraft-2-masters-tournament",
+  "question": "Will a non-Korean player win the DreamHack Fall StarCraft 2 Masters tournament?"
+}

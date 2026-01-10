@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239723",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-01T10:11:31.839000Z",
+  "market_createdAt": "2021-12-01T10:11:31.839Z",
+  "market_updatedAt": "2024-04-22T23:41:47.07661Z",
+  "market_startDate": "2021-12-01T20:15:18.562Z",
+  "market_endDate": "2021-12-04T00:00:00Z",
+  "market_closedTime": "2021-12-06 19:35:01+00",
+  "conditionId": "0xac7aaca0d09db685ba43886d25ff21aef07b752993051a297e0b4ed6c673450d",
+  "slug": "serie-a-will-the-goal-difference-in-roma-v-inter-be-more-or-less-than-1",
+  "question": "Serie A: Will the goal difference in Roma v. Inter Milan be more or less than 1?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241345",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-06T09:16:34.510000Z",
+  "market_createdAt": "2022-02-06T09:16:34.51Z",
+  "market_updatedAt": "2024-04-22T23:53:33.222794Z",
+  "market_startDate": "2022-02-06T19:53:17.293Z",
+  "market_endDate": "2022-02-06T00:00:00Z",
+  "market_closedTime": "2022-02-08 23:38:01+00",
+  "conditionId": "0x5580b8e21713f76195e2a015b4129cc5b93ad9259b9bc2eddfc90e12115b2ca1",
+  "slug": "nba-who-will-win-the-nuggets-vs-nets-scheduled-for-february-6-330-pm-et",
+  "question": "NBA: Who will win the Nuggets vs. Nets, scheduled for February 6 (3.30 PM ET)?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244015",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-02T14:08:47.979000Z",
+  "market_createdAt": "2022-05-02T14:08:47.979Z",
+  "market_updatedAt": "2023-01-31T09:24:56.741Z",
+  "market_startDate": "2022-05-02T15:30:02.414Z",
+  "market_endDate": "2022-05-15T00:00:00Z",
+  "market_closedTime": "2022-05-16 09:09:42+00",
+  "conditionId": "0x8316d5912bc6c765a28994da0ab6aef67b700e42c014dee17c8bd6c748814d8c",
+  "slug": "2022-nhl-stanley-cup-playoffs-round-1-who-will-win-wild-vs-blues",
+  "question": "2022 NHL Stanley Cup Playoffs, Round 1: Who will win Wild vs. Blues?"
+}

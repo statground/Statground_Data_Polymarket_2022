@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247764",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-25T19:56:26.134000Z",
+  "market_createdAt": "2022-10-25T19:56:26.134Z",
+  "market_updatedAt": "2023-01-31T03:49:15.669Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-30T00:00:00Z",
+  "market_closedTime": "2022-10-30 20:15:34+00",
+  "conditionId": "0xb64c420502a79c955573f66ad12919e9738b3e0d2f85952c1e2abbfbec9d0fa9",
+  "slug": "nfl-sunday-broncos-vs-jaguars",
+  "question": "NFL Sunday: Broncos vs. Jaguars"
+}

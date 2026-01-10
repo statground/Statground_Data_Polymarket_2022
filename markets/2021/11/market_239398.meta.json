@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239398",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-12T22:21:06.055000Z",
+  "market_createdAt": "2021-11-12T22:21:06.055Z",
+  "market_updatedAt": "2024-04-25T00:04:43.539526Z",
+  "market_startDate": "2021-11-14T05:01:35.865Z",
+  "market_endDate": "2021-11-14T00:00:00Z",
+  "market_closedTime": "2021-11-16 01:47:23+00",
+  "conditionId": "0xb97ffc489488c28066c7d96719f75f25b216c752b31651e601c3cd679bbc2ce5",
+  "slug": "nfl-will-the-packers-beat-the-seahawks-by-more-than-3pt5-points-in-their-november-14th-matchup",
+  "question": "NFL: Will the Packers beat the Seahawks by more than 3.5 points in their November 14th matchup?"
+}

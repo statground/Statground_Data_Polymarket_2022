@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241940",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-07T09:41:02.921000Z",
+  "market_createdAt": "2022-03-07T09:41:02.921Z",
+  "market_updatedAt": "2024-04-22T23:38:22.603813Z",
+  "market_startDate": "2022-03-07T15:27:52.046Z",
+  "market_endDate": "2022-03-07T00:00:00Z",
+  "market_closedTime": "2022-03-08 19:01:50+00",
+  "conditionId": "0xaf9fc97fcd0f62b07235f8a2d213774fda55d988e6834ea2543af3029521a157",
+  "slug": "nba-will-the-76ers-beat-the-bulls-by-more-than-6pt5-points-in-their-march-7-7-pm-et-matchup",
+  "question": "NBA: Will the 76ers beat the Bulls by more than 6.5 points in their March 7 (7 PM ET) matchup?"
+}

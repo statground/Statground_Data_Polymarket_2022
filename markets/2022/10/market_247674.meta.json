@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247674",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-17T17:42:08.477000Z",
+  "market_createdAt": "2022-10-17T17:42:08.477Z",
+  "market_updatedAt": "2023-01-31T17:38:44.904Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-18T00:00:00Z",
+  "market_closedTime": "2022-10-19 09:00:51+00",
+  "conditionId": "0xad7e6f940aab2c01cb5cc25c52bb999809c42e338b74f96c9a7b10d6f9095b70",
+  "slug": "nba-who-will-win-the-lakers-vs-warriors-scheduled-for-october-18-1000-pm-et",
+  "question": "NBA: Who will win Lakers vs. Warriors, scheduled for October 18 (10:00 PM ET)?"
+}

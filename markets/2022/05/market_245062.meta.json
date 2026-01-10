@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "245062",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-19T16:59:00.901000Z",
+  "market_createdAt": "2022-05-19T16:59:00.901Z",
+  "market_updatedAt": "2023-01-31T20:55:51.751Z",
+  "market_startDate": null,
+  "market_endDate": "2022-05-22T00:00:00Z",
+  "market_closedTime": "2022-05-22 19:30:35+00",
+  "conditionId": "0x191c9e5f87b4efe7f44910ed8f57300eb0ad48f48d96652156521e18c02d15f9",
+  "slug": "formula-1-who-will-finish-ahead-at-the-2022-spanish-grand-prix-max-verstappen-or-charles-leclerc",
+  "question": "Formula 1: Who will finish ahead at the 2022 Spanish Grand Prix, Max Verstappen or Charles Leclerc?"
+}

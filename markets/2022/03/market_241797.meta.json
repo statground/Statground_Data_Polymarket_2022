@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241797",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-01T11:19:56.965000Z",
+  "market_createdAt": "2022-03-01T11:19:56.965Z",
+  "market_updatedAt": "2024-04-22T22:33:48.717057Z",
+  "market_startDate": "2022-03-01T17:57:52.434Z",
+  "market_endDate": "2022-03-01T00:00:00Z",
+  "market_closedTime": "2022-03-03 17:45:30+00",
+  "conditionId": "0x743593d436991dd7c0832d3f40c6fdd9b3f9a533b3a3bcc4ae4322bd024d9c42",
+  "slug": "nba-will-the-wizards-beat-the-pistons-by-more-than-4p5-points-in-their-march-1-7-pm-et-matchup",
+  "question": "NBA: Will the Wizards beat the Pistons by more than 4.5 points in their March 1 (7 PM ET) matchup?"
+}

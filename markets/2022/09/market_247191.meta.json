@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247191",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-07T15:51:47.227000Z",
+  "market_createdAt": "2022-09-07T15:51:47.227Z",
+  "market_updatedAt": "2023-01-31T11:52:43.669Z",
+  "market_startDate": "2022-09-07T16:15:21.06Z",
+  "market_endDate": "2022-09-07T00:00:00Z",
+  "market_closedTime": "2022-09-08 01:15:39+00",
+  "conditionId": "0x3a830f6869bfd655c69d48235c85139b59b99dac7e03ba00e3d5e84e002f7b11",
+  "slug": "champions-league-who-will-win-the-inter-vs-bayern-game-on-september-7",
+  "question": "Champions League: Who will win the Inter vs. Bayern game on September 7?"
+}

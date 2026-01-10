@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244609",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-10T08:08:48.233000Z",
+  "market_createdAt": "2022-05-10T08:08:48.233Z",
+  "market_updatedAt": "2023-01-30T15:40:29.902Z",
+  "market_startDate": null,
+  "market_endDate": "2022-05-10T00:00:00Z",
+  "market_closedTime": "2022-05-11 08:01:15+00",
+  "conditionId": "0xafc3fc9cf7d2bfa494c30d0cc8a942c45d78d2bca036fc26ebee90bf2e282753",
+  "slug": "nba-will-the-heat-beat-the-76ers-by-more-than-3pt5-points-in-their-may-10-730-pm-et-matchup",
+  "question": "NBA: Will the Heat beat the 76ers by more than 3.5 points in their May 10, 7:30 PM ET matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240885",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-19T21:59:11.200000Z",
+  "market_createdAt": "2022-01-19T21:59:11.2Z",
+  "market_updatedAt": "2023-01-31T20:21:33.252Z",
+  "market_startDate": "2022-01-20T20:06:35.275Z",
+  "market_endDate": "2022-01-22T00:00:00Z",
+  "market_closedTime": "2022-01-25 00:05:45+00",
+  "conditionId": "0x01da04fd1a0898311aa06ed309489f41644341f8474ca897b88b6d6ab9dd124a",
+  "slug": "ufc-270-who-will-win-stamann-vs-nurmagomedov",
+  "question": "UFC 270: Who will win Stamann vs. Nurmagomedov?"
+}

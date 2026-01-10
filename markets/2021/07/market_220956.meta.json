@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "220956",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-01T20:50:01.010000Z",
+  "market_createdAt": "2021-07-01T20:50:01.01Z",
+  "market_updatedAt": "2024-04-22T23:42:10.376908Z",
+  "market_startDate": null,
+  "market_endDate": "2021-08-31T00:00:00Z",
+  "market_closedTime": "2021-09-02 17:36:19+00",
+  "conditionId": "0x73e47bf3d7cf8af67a157453fafb3253e0f1b857ba442dcbf14b4f96cec6e90c",
+  "slug": "will-declan-rice-sign-for-chelsea-on-or-before-august-31-2021",
+  "question": "Will Declan Rice sign for Chelsea on or before August 31, 2021?"
+}

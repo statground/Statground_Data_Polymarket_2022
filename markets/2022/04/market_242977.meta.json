@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242977",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-06T20:10:28.750000Z",
+  "market_createdAt": "2022-04-06T20:10:28.75Z",
+  "market_updatedAt": "2024-04-24T23:35:59.172692Z",
+  "market_startDate": "2022-04-06T21:57:44.487Z",
+  "market_endDate": "2022-04-11T00:00:00Z",
+  "market_closedTime": "2022-04-12 07:31:11+00",
+  "conditionId": "0xa0196d523bfd43681f9b813bfe2d03ca37c7661dcfdb1b93f3adb6d4e3c4badd",
+  "slug": "will-sonic-the-hedgehog-2-gross-50-million-or-more-on-opening-weekend-in-the-usa",
+  "question": "Will 'Sonic the Hedgehog 2' gross $50 million or more on opening weekend in the USA?"
+}

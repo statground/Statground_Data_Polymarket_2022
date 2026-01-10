@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242832",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-04T23:28:17.725000Z",
+  "market_createdAt": "2022-04-04T23:28:17.725Z",
+  "market_updatedAt": "2024-04-22T23:42:42.744582Z",
+  "market_startDate": "2022-04-04T23:40:46.63Z",
+  "market_endDate": "2022-04-19T00:00:00Z",
+  "market_closedTime": "2022-04-20 07:33:12+00",
+  "conditionId": "0xecb52ff09aafe7fcb44236de9cdb70faaf938afcc8c041f2bd7e5d268bad96bc",
+  "slug": "will-the-floor-price-of-azuki-be-30-eth-or-more-on-april-19",
+  "question": "Will the floor price of Azuki be 30 ETH or more on April 19?"
+}

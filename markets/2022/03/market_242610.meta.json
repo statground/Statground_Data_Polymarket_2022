@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242610",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-29T14:37:29.162000Z",
+  "market_createdAt": "2022-03-29T14:37:29.162Z",
+  "market_updatedAt": "2024-04-23T00:20:56.877984Z",
+  "market_startDate": "2022-03-29T15:51:18.325Z",
+  "market_endDate": "2022-03-29T00:00:00Z",
+  "market_closedTime": "2022-03-30 07:45:39+00",
+  "conditionId": "0x341aa9da7752c03ccd66a24360c66dafbae4cd0a1574378f90c2ade9fbe29aa6",
+  "slug": "nba-will-the-bulls-beat-the-wizards-by-more-than-3pt5-points-in-their-march-29-7-pm-et-matchup",
+  "question": "NBA: Will the Bulls beat the Wizards by more than 3.5 points in their March 29 (7 PM ET) matchup?"
+}

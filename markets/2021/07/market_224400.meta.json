@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "224400",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-13T17:40:01.465000Z",
+  "market_createdAt": "2021-07-13T17:40:01.465Z",
+  "market_updatedAt": "2024-04-22T23:22:48.899095Z",
+  "market_startDate": null,
+  "market_endDate": "2021-08-11T00:00:00Z",
+  "market_closedTime": "2021-08-12 17:10:01+00",
+  "conditionId": "0x29e4a465ee7224dd5323f537af016b94e576bf8554b1af3f213abd67897f989c",
+  "slug": "will-inflation-be-06-or-more-from-june-to-july",
+  "question": "Will inflation be 0.6% or more from June to July?"
+}

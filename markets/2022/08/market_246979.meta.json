@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246979",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-12T16:16:27.888000Z",
+  "market_createdAt": "2022-08-12T16:16:27.888Z",
+  "market_updatedAt": "2023-01-31T20:25:17.209Z",
+  "market_startDate": "2022-08-12T17:10:59.778Z",
+  "market_endDate": "2022-11-08T00:00:00Z",
+  "market_closedTime": "2022-11-13 19:00:33+00",
+  "conditionId": "0xf4690f72280806e3d608f898536bda128c8e814214e11843f851d9a1ad7aedec",
+  "slug": "democratic-house-and-republican-senate-after-us-2022-midterms",
+  "question": "Democratic House and Republican Senate after U.S. 2022 Midterms?"
+}

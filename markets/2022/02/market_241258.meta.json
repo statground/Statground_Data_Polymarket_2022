@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241258",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-02T12:46:01.053000Z",
+  "market_createdAt": "2022-02-02T12:46:01.053Z",
+  "market_updatedAt": "2024-04-24T23:46:34.320724Z",
+  "market_startDate": "2022-02-02T17:34:54.921Z",
+  "market_endDate": "2022-02-02T00:00:00Z",
+  "market_closedTime": "2022-02-04 21:09:32+00",
+  "conditionId": "0xe20a24745ea48de20cf01757b061cc30dc1d9b228b2c77daa3a6c4d44d74f6a2",
+  "slug": "nba-who-will-win-the-nets-vs-kings-scheduled-for-february-2-10-pm-et",
+  "question": "NBA: Who will win the Nets vs. Kings, scheduled for February 2 (10 PM ET)?"
+}

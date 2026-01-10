@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247041",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-22T15:00:19.317000Z",
+  "market_createdAt": "2022-08-22T15:00:19.317Z",
+  "market_updatedAt": "2023-01-30T05:11:12.941Z",
+  "market_startDate": "2022-08-23T17:33:23.313Z",
+  "market_endDate": "2022-08-31T00:00:00Z",
+  "market_closedTime": "2022-09-01 18:30:39+00",
+  "conditionId": "0x87d07f5cbeb14e25836cded98eb9887cb99c912967ae41220a90c44e6fdba46b",
+  "slug": "will-joe-bidens-fivethirtyeight-approval-rating-be-41pt0-or-higher-on-august-31",
+  "question": "Will Joe Biden's FiveThirtyEight approval rating be 41.0% or higher on August 31?"
+}

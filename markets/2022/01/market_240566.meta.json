@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240566",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T19:12:28.357000Z",
+  "market_createdAt": "2022-01-11T19:12:28.357Z",
+  "market_updatedAt": "2024-04-22T23:15:52.957487Z",
+  "market_startDate": "2022-01-12T21:18:20.275Z",
+  "market_endDate": "2022-05-01T00:00:00Z",
+  "market_closedTime": "2022-05-02 22:16:22+00",
+  "conditionId": "0xd2190ff960cc4cbd8032704e0802c31583f922288c6536695767a0854a738191",
+  "slug": "will-zksync-have-a-token-by-may-1st-2022",
+  "question": "Will zkSync have a token by May 1st, 2022?"
+}

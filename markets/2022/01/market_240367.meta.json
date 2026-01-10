@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240367",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T01:35:45.375000Z",
+  "market_createdAt": "2022-01-11T01:35:45.375Z",
+  "market_updatedAt": "2024-04-24T23:31:38.524024Z",
+  "market_startDate": "2022-01-12T20:54:04.768Z",
+  "market_endDate": "2022-06-20T00:00:00Z",
+  "market_closedTime": "2022-05-16 20:00:43+00",
+  "conditionId": "0x9461c379222d6429632013aa2c2c80de1021b185523bb996714ed2b9de2d2413",
+  "slug": "will-the-toronto-maple-leafs-win-the-nhl-2021-22-stanley-cup",
+  "question": "Will the Toronto Maple Leafs win the NHL 2021-22 Stanley Cup?"
+}

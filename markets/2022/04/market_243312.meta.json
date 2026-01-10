@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243312",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-15T21:29:03.052000Z",
+  "market_createdAt": "2022-04-15T21:29:03.052Z",
+  "market_updatedAt": "2023-01-31T19:15:06.024Z",
+  "market_startDate": "2022-04-15T21:55:57.355Z",
+  "market_endDate": "2022-06-30T00:00:00Z",
+  "market_closedTime": "2022-07-01 18:31:37+00",
+  "conditionId": "0x4b16997b73ac80731aa5e186ad92fc8b4013236f7bff44b89470c675050392da",
+  "slug": "will-parag-agrawal-remain-ceo-of-twitter-through-june-30",
+  "question": "Will Parag Agrawal remain CEO of Twitter through June 30?"
+}

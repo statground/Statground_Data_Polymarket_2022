@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239393",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-12T22:10:13.114000Z",
+  "market_createdAt": "2021-11-12T22:10:13.114Z",
+  "market_updatedAt": "2024-04-25T00:11:08.016088Z",
+  "market_startDate": "2021-11-14T05:00:44.015Z",
+  "market_endDate": "2021-11-14T00:00:00Z",
+  "market_closedTime": "2021-11-16 01:47:09+00",
+  "conditionId": "0xa6583b13cb8da6f3bf25a81e3432cba9a3a4049f363e4b9e37f733df56f529f0",
+  "slug": "nfl-will-the-buccaneers-beat-the-washington-by-more-than-8pt5-points-in-their-november-14th-matchup",
+  "question": "NFL: Will the Buccaneers beat the Washington by more than 8.5 points in their November 14th matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "85120",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-12T23:15:04.313000Z",
+  "market_createdAt": "2021-02-12T23:15:04.313Z",
+  "market_updatedAt": "2024-04-23T00:13:29.471006Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-13T00:00:00Z",
+  "market_closedTime": "2021-02-14 22:04:34+00",
+  "conditionId": "0x39120815a43ab9c445666dff24294780fe104fdbb0e14b030fd307fef52d2d81",
+  "slug": "will-the-nets-or-the-warriors-win-their-february-13th-matchup",
+  "question": "Will the Nets or the Warriors win their February 13th matchup?"
+}

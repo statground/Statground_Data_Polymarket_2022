@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239450",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-16T10:23:35.163000Z",
+  "market_createdAt": "2021-11-16T10:23:35.163Z",
+  "market_updatedAt": "2024-04-24T23:45:39.635216Z",
+  "market_startDate": "2021-11-16T17:30:12.903Z",
+  "market_endDate": "2021-11-16T00:00:00Z",
+  "market_closedTime": "2021-11-18 00:44:40+00",
+  "conditionId": "0x7821a5cb05bcfdc42f0ce42b8de542d774e33e14592df931167671b4ff57cea4",
+  "slug": "nba-will-the-nets-beat-the-warriors-by-more-than-2pt5-points-in-their-november-16th-matchup",
+  "question": "NBA: Will the Nets beat the Warriors by more than 2.5 points in their November 16th matchup?"
+}

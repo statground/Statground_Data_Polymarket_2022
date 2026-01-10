@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239143",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-30T12:28:18.113000Z",
+  "market_createdAt": "2021-10-30T12:28:18.113Z",
+  "market_updatedAt": "2024-04-22T23:39:59.41432Z",
+  "market_startDate": "2021-10-30T19:39:39.502Z",
+  "market_endDate": "2021-10-30T00:00:00Z",
+  "market_closedTime": "2021-10-31 16:56:11+00",
+  "conditionId": "0x11a412bbe00963cbac41ee9f195c1deb038e7310a43f43593aee5144876b0cce",
+  "slug": "who-will-win-ufc-267-makhachev-vs-hooker",
+  "question": "Who will win UFC 267: Makhachev vs Hooker?"
+}

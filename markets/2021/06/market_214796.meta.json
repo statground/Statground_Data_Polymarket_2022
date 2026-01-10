@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "214796",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-09T19:15:01.047000Z",
+  "market_createdAt": "2021-06-09T19:15:01.047Z",
+  "market_updatedAt": "2024-04-23T00:34:18.075404Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-12T00:00:00Z",
+  "market_closedTime": "2021-06-13 17:52:11+00",
+  "conditionId": "0xc130f30a7ad8bd93d3dc522004d9deab451acc4216a11649638d838d0c29b4b7",
+  "slug": "will-ryland-storms-ko-tko-or-retire-tanner-fox",
+  "question": "Will Ryland Storms KO, TKO, or retire Tanner Fox?"
+}

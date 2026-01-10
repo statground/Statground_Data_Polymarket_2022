@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "77",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-11-06T23:05:12.952000Z",
+  "market_createdAt": "2020-11-06T23:05:12.952Z",
+  "market_updatedAt": "2024-04-23T00:09:50.081331Z",
+  "market_startDate": null,
+  "market_endDate": "2020-12-01T00:00:00Z",
+  "market_closedTime": "2020-12-01 15:52:19+00",
+  "conditionId": "0xa23e60a31b36c537605edf9eebb3e2be252046f1ffb19ade09f97d47429b5470",
+  "slug": "will-donald-trump-formally-concede-the-2020-us-election-before-december-1st-2020",
+  "question": "Will Donald Trump formally concede the 2020 US Election before December 1st, 2020?"
+}

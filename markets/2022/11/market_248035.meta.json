@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248035",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T20:42:52.495000Z",
+  "market_createdAt": "2022-11-18T20:42:52.495Z",
+  "market_updatedAt": "2023-01-31T19:47:00.809Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-06T00:00:00Z",
+  "market_closedTime": "2022-12-02 19:20:48+00",
+  "conditionId": "0xfe052e7b3715c0db0bacc97c26d3d09450ef0cab73ca1e986ebf4cc13fb808b0",
+  "slug": "will-morocco-qualify-from-group-f",
+  "question": "Will Morocco qualify from Group F?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "217649",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-14T17:35:01.083000Z",
+  "market_createdAt": "2021-06-14T17:35:01.083Z",
+  "market_updatedAt": "2024-04-22T22:52:47.794596Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-16T00:00:00Z",
+  "market_closedTime": "2021-06-17 15:20:52+00",
+  "conditionId": "0xedfdfe9838e1ba0afb18fec336a85e4596079f2563b1eb90228081b6cb23c45d",
+  "slug": "will-finland-or-russia-win-their-euro-2020-match",
+  "question": "Will Finland or Russia win their Euro 2020 match?"
+}

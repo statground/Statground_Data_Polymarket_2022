@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "42",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-10-12T22:00:05.783000Z",
+  "market_createdAt": "2020-10-12T22:00:05.783Z",
+  "market_updatedAt": "2024-04-22T23:51:23.169526Z",
+  "market_startDate": null,
+  "market_endDate": "2020-11-04T00:00:00Z",
+  "market_closedTime": "2020-11-02 16:33:23+00",
+  "conditionId": "0xfa8cc293e14872fca0c7e8b240360683e392e1d7a4b5ac7616b1f7e50c454ad2",
+  "slug": "will-there-be-an-emergency-use-authorization-granted-for-a-covid-19-vaccine-prior-to-nov-3",
+  "question": "Will there be an Emergency Use Authorization (EUA) granted for a COVID-19 vaccine prior to Nov 3 2020?"
+}

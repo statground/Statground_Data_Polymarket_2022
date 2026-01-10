@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218641",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-23T21:40:32.283000Z",
+  "market_createdAt": "2021-06-23T21:40:32.283Z",
+  "market_updatedAt": "2024-04-22T23:23:58.909082Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-23T00:00:00Z",
+  "market_closedTime": "2021-06-24 17:55:32+00",
+  "conditionId": "0x78fbafe5dca8a90ae469ee826e5bf13937475f91ee79f2909284cc00e30b363a",
+  "slug": "what-will-the-last-digit-of-total-points-scored-be-in-bucks-v-hawks-eastern-conference-finals-game-1",
+  "question": "What will the last digit of total points scored be in Bucks v. Hawks: Eastern Conference Finals Game 1?"
+}

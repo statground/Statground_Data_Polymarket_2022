@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240603",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-12T00:08:42.505000Z",
+  "market_createdAt": "2022-01-12T00:08:42.505Z",
+  "market_updatedAt": "2024-04-23T00:32:19.003785Z",
+  "market_startDate": "2022-01-12T21:08:27.893Z",
+  "market_endDate": "2022-11-15T00:00:00Z",
+  "market_closedTime": "2022-11-09 15:33:19+00",
+  "conditionId": "0x32e83a13e773d4ac93bf859beef0ffdaa246e505cbf73dc6bf4686d6976dec2a",
+  "slug": "2022-us-gubernatorial-elections-will-a-democrat-or-republican-win-in-michigan",
+  "question": "Governor: Will a Democrat (Whitmer) or Republican (Dixon) win in Michigan?"
+}

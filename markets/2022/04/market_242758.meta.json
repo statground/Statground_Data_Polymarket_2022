@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242758",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-02T09:11:24.212000Z",
+  "market_createdAt": "2022-04-02T09:11:24.212Z",
+  "market_updatedAt": "2024-04-24T23:31:41.152868Z",
+  "market_startDate": "2022-04-02T16:37:02.428Z",
+  "market_endDate": "2022-04-02T00:00:00Z",
+  "market_closedTime": "2022-04-03 07:00:41+00",
+  "conditionId": "0x5b0df474595b2acd3aefc2f211a4f8e1db2532873b6bfe75ef9fcc0e844173a7",
+  "slug": "nba-who-will-win-heat-vs-bulls-scheduled-for-april-2-800-pm-et",
+  "question": "NBA: Who will win Heat vs. Bulls, scheduled for April 2, 8:00 PM ET?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246818",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-25T16:42:52.794000Z",
+  "market_createdAt": "2022-07-25T16:42:52.794Z",
+  "market_updatedAt": "2023-01-31T20:40:15.92Z",
+  "market_startDate": "2022-07-26T16:06:58.833Z",
+  "market_endDate": "2022-09-01T00:00:00Z",
+  "market_closedTime": "2022-08-02 17:46:14+00",
+  "conditionId": "0x694a042b69298ed6f57afea11ee0155e5a5bfe6170ea077731e084c24dc562e3",
+  "slug": "will-nancy-pelosi-visit-taiwan-before-september-2022",
+  "question": "Will Nancy Pelosi visit Taiwan before September 2022?"
+}

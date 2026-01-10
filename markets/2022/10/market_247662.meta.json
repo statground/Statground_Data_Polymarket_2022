@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247662",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-14T15:19:29.232000Z",
+  "market_createdAt": "2022-10-14T15:19:29.232Z",
+  "market_updatedAt": "2023-01-31T09:49:29.13Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-31T00:00:00Z",
+  "market_closedTime": "2022-10-25 19:30:44+00",
+  "conditionId": "0xb7f8f6cd9fe1f55135abb1fed78297cb19ccfb2a4f5f1e796605e5efd5137ca7",
+  "slug": "will-liz-truss-remain-prime-minister-of-the-united-kingdom-through-2022",
+  "question": "Will Liz Truss remain Prime Minister of the United Kingdom through 2022?"
+}

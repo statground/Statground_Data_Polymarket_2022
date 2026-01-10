@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239606",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-25T10:27:12.766000Z",
+  "market_createdAt": "2021-11-25T10:27:12.766Z",
+  "market_updatedAt": "2024-04-25T00:08:06.007055Z",
+  "market_startDate": "2021-11-25T16:51:09.686Z",
+  "market_endDate": "2021-11-25T00:00:00Z",
+  "market_closedTime": "2021-11-26 15:57:03+00",
+  "conditionId": "0x2c134cb47c89634d6cd8b5d15277c392d1a35fe55e67c00277c9dfcb9f195d6f",
+  "slug": "nfl-will-the-bills-beat-the-saints-by-more-than-6pt5-points-in-their-november-25th-matchup",
+  "question": "NFL: Will the Bills beat the Saints by more than 6.5 points in their November 25th matchup?"
+}

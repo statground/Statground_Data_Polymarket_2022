@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "30941",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-01-07T16:35:01.564000Z",
+  "market_createdAt": "2021-01-07T16:35:01.564Z",
+  "market_updatedAt": "2024-04-23T00:20:49.122174Z",
+  "market_startDate": null,
+  "market_endDate": "2021-03-02T00:00:00Z",
+  "market_closedTime": "2021-03-01 18:44:56+00",
+  "conditionId": "0x510eac74d6a9b9c2eb2958677d145851e1648a9e020d9b03a1466e500d9c2e5b",
+  "slug": "will-joe-biden-be-president-of-the-usa-on-march-1-2021",
+  "question": "Will Joe Biden be President of the USA on March 1, 2021?"
+}

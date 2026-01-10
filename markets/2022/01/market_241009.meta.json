@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241009",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-25T07:59:09.510000Z",
+  "market_createdAt": "2022-01-25T07:59:09.51Z",
+  "market_updatedAt": "2024-04-22T23:52:39.787408Z",
+  "market_startDate": null,
+  "market_endDate": "2022-02-02T00:00:00Z",
+  "market_closedTime": "2022-02-04 23:40:10+00",
+  "conditionId": "0xb565ae2e0ffd6efc5fd6ee3abcf45d5fdbd567ee4b11f145b831ccbbbbfb01e9",
+  "slug": "will-ozark-season-4-be-the-1-netflix-show-worldwide-on-the-week-ending-january-30",
+  "question": "Will 'Ozark: Season 4' be the #1 Netflix show worldwide on the week ending January 30?"
+}

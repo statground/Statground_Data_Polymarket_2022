@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "101835",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-03-08T21:15:01.904000Z",
+  "market_createdAt": "2021-03-08T21:15:01.904Z",
+  "market_updatedAt": "2024-04-22T23:39:49.642531Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-01T00:00:00Z",
+  "market_closedTime": "2021-03-11 17:43:33+00",
+  "conditionId": "0x491af977a2d69275f7aa59a969abfdf5cf15882e3756674b526f774abbce268a",
+  "slug": "how-many-yea-votes-in-the-house-for-the-american-rescue-plan",
+  "question": "How many Yea votes in the House for the American Rescue Plan?"
+}

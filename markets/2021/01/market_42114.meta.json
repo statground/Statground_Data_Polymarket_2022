@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "42114",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-01-15T15:15:04.145000Z",
+  "market_createdAt": "2021-01-15T15:15:04.145Z",
+  "market_updatedAt": "2023-01-31T21:09:58.487Z",
+  "market_startDate": null,
+  "market_endDate": "2021-01-17T00:00:00Z",
+  "market_closedTime": "2021-01-17 02:21:03+00",
+  "conditionId": "0x6f0fcc08b5867d44dd7237eb6a53d399f7cf422796378acf1f5b4e41421af1d5",
+  "slug": "will-the-rams-or-the-packers-win-their-jan-16th-matchup",
+  "question": "Will the Rams or the Packers win their Jan 16th matchup?"
+}

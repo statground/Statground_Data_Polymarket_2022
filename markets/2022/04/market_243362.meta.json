@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243362",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-17T13:28:58.124000Z",
+  "market_createdAt": "2022-04-17T13:28:58.124Z",
+  "market_updatedAt": "2023-01-31T13:21:37.053Z",
+  "market_startDate": "2022-04-17T14:06:18.828Z",
+  "market_endDate": "2022-04-17T00:00:00Z",
+  "market_closedTime": "2022-04-18 06:31:26+00",
+  "conditionId": "0x31bf0651eef2292c56f92364579868f4760e68467f84bacb87bbdb30f00dedc3",
+  "slug": "nba-will-the-celtics-beat-the-nets-by-more-than-3pt5-points-in-their-april-17-330-pm-et-matchup",
+  "question": "NBA: Will the Celtics beat the Nets by more than 3.5 points in their April 17 (3:30 PM ET) matchup?"
+}

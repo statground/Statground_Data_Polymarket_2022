@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247694",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-18T20:25:06.203000Z",
+  "market_createdAt": "2022-10-18T20:25:06.203Z",
+  "market_updatedAt": "2023-01-31T10:39:59.762Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-23T00:00:00Z",
+  "market_closedTime": "2022-10-23 23:45:29+00",
+  "conditionId": "0x0f702384ecaaf0e5dbd24c9ab16a16486815c843a49d7a3760b237b37435d6e7",
+  "slug": "nfl-sunday-browns-vs-ravens",
+  "question": "NFL Sunday: Browns vs. Ravens"
+}

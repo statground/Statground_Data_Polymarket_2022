@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240478",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T16:46:04.273000Z",
+  "market_createdAt": "2022-01-11T16:46:04.273Z",
+  "market_updatedAt": "2024-04-24T23:43:15.105928Z",
+  "market_startDate": "2022-01-12T20:59:25.579Z",
+  "market_endDate": "2022-03-01T00:00:00Z",
+  "market_closedTime": "2022-03-03 16:15:30+00",
+  "conditionId": "0xd758a6ecf3eba025e4b678e800d1f4a96fe4fc91c2e9105022c2d19ef6a44b08",
+  "slug": "will-there-be-more-than-211-million-fully-vaccinated-people-in-the-usa-on-march-1-2022",
+  "question": "Will there be more than 211 million fully vaccinated people in the USA on March 1, 2022?"
+}

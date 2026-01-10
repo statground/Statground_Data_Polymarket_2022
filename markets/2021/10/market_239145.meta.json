@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239145",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-30T12:39:06.324000Z",
+  "market_createdAt": "2021-10-30T12:39:06.324Z",
+  "market_updatedAt": "2024-04-26T02:49:23.586168Z",
+  "market_startDate": "2021-10-31T09:10:17.61Z",
+  "market_endDate": "2021-11-06T00:00:00Z",
+  "market_closedTime": "2021-11-08 21:10:35+00",
+  "conditionId": "0xe8a5a5416411e63e18e313754fb94435242872c32d6eb84268d5d36c0a2452da",
+  "slug": "who-will-win-ufc-268-covington-vs-usman",
+  "question": "Who will win UFC 268: Covington vs Usman?"
+}

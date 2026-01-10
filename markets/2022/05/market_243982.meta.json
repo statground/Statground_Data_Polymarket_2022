@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243982",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-01T06:43:31.360000Z",
+  "market_createdAt": "2022-05-01T06:43:31.36Z",
+  "market_updatedAt": "2023-01-31T20:46:10.704Z",
+  "market_startDate": "2022-05-01T13:58:04.788Z",
+  "market_endDate": "2022-05-01T00:00:00Z",
+  "market_closedTime": "2022-05-02 07:01:22+00",
+  "conditionId": "0xd40f049458a0a8b9c346f72cbda2bf3367753885cdbd46df454d1814fa07082a",
+  "slug": "mlb-who-will-win-san-francisco-giants-vs-washington-nationals-scheduled-for-may-1-406-pm-et",
+  "question": "MLB: Who will win San Francisco Giants vs. Washington Nationals, scheduled for May 1, 4:06 PM ET?"
+}

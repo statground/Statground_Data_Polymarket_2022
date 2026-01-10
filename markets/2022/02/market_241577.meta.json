@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241577",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-17T16:13:04.987000Z",
+  "market_createdAt": "2022-02-17T16:13:04.987Z",
+  "market_updatedAt": "2024-04-25T00:00:33.763713Z",
+  "market_startDate": "2022-02-17T18:15:11.585Z",
+  "market_endDate": "2022-02-17T00:00:00Z",
+  "market_closedTime": "2022-02-18 20:32:45+00",
+  "conditionId": "0xc35189c2f19b694db6e08ea3045474e2ea535496e0e49d05ed1c3fe8b676e99f",
+  "slug": "nba-who-will-win-the-nets-vs-wizards-scheduled-for-february-17-730pm-et",
+  "question": "NBA: Who will win the Nets vs. Wizards, scheduled for February 17 (7.30PM ET)?"
+}

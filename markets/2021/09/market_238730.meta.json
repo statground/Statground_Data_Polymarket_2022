@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238730",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-09T18:30:01.658000Z",
+  "market_createdAt": "2021-09-09T18:30:01.658Z",
+  "market_updatedAt": "2024-04-22T23:56:04.848817Z",
+  "market_startDate": "2021-09-09T22:51:19.108Z",
+  "market_endDate": "2021-09-12T00:00:00Z",
+  "market_closedTime": "2021-09-12 21:42:40+00",
+  "conditionId": "0x0db72d52d75f2f3635c22d73f75fd3b97a81609874bbbfebfac12254d6f3dcb2",
+  "slug": "vikings-3-v-bengals-spread",
+  "question": "Vikings (-3) v. Bengals Spread"
+}

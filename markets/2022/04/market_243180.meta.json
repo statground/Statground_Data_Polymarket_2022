@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243180",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-12T13:25:43.290000Z",
+  "market_createdAt": "2022-04-12T13:25:43.29Z",
+  "market_updatedAt": "2023-01-31T08:20:50.989Z",
+  "market_startDate": null,
+  "market_endDate": "2022-04-21T00:00:00Z",
+  "market_closedTime": "2022-04-22 07:17:57+00",
+  "conditionId": "0xf0405a93cf890fd8629967dc81dee0552f8dd4c58f297c87e93020c056926fd1",
+  "slug": "will-the-floor-price-of-cryptopunks-be-below-65-eth-on-april-21",
+  "question": "Will the floor price of CryptoPunks be below 65 ETH on April 21?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246571",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-20T14:16:21.645000Z",
+  "market_createdAt": "2022-06-20T14:16:21.645Z",
+  "market_updatedAt": "2023-01-31T19:47:17.33Z",
+  "market_startDate": "2022-06-20T14:31:10.837Z",
+  "market_endDate": "2022-07-30T00:00:00Z",
+  "market_closedTime": "2022-07-31 07:48:23+00",
+  "conditionId": "0x04ae994d2017bc8b1f83f99862cafb80c52ba8d6b0be53bbd1ee5d1bf10223f4",
+  "slug": "will-usdd-fall-below-85-cents-by-july-30",
+  "question": "Will $USDD fall below 85 cents by July 30?"
+}

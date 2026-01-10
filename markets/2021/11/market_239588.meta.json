@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239588",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-24T12:32:34.081000Z",
+  "market_createdAt": "2021-11-24T12:32:34.081Z",
+  "market_updatedAt": "2024-04-26T02:47:32.158705Z",
+  "market_startDate": "2021-11-24T19:08:27.706Z",
+  "market_endDate": "2021-11-24T00:00:00Z",
+  "market_closedTime": "2021-11-25 20:51:40+00",
+  "conditionId": "0x4fd01706caafb04801f6eb117f23df1b81a76873672dd3b7e22e5a3241be4836",
+  "slug": "nba-will-the-bucks-beat-the-pistons-by-more-than-14pt5-points-in-their-24th-november-matchup",
+  "question": "NBA: Will the Bucks beat the Pistons by more than 14.5 points in their 24th November matchup?"
+}

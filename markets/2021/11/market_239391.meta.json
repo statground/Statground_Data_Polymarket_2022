@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239391",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-12T21:53:28.615000Z",
+  "market_createdAt": "2021-11-12T21:53:28.615Z",
+  "market_updatedAt": "2024-04-23T00:26:16.281457Z",
+  "market_startDate": "2021-11-12T22:23:29.694Z",
+  "market_endDate": "2021-11-19T00:00:00Z",
+  "market_closedTime": "2021-11-20 18:23:14+00",
+  "conditionId": "0x71b3ce0164915bfa975460af2e7af8691f96c0c99c382f93d3f78bc985629ae6",
+  "slug": "will-gm-be-above-0pt000216-on-november-19-2021",
+  "question": "Will $GM be above $.000216 on November 19, 2021 (11:30 PM ET)?"
+}

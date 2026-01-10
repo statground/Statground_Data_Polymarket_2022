@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241044",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-26T12:30:05.223000Z",
+  "market_createdAt": "2022-01-26T12:30:05.223Z",
+  "market_updatedAt": "2024-04-22T22:23:39.934288Z",
+  "market_startDate": "2022-01-26T18:59:43.59Z",
+  "market_endDate": "2022-01-26T00:00:00Z",
+  "market_closedTime": "2022-01-27 23:48:43+00",
+  "conditionId": "0x1175421c1b1447cf569533907b52207098c84b5435961898c5d663febce6cd4f",
+  "slug": "nhl-will-the-red-wings-beat-the-blackhawks-by-more-than-1p5-goals-in-their-january-26-matchup-730-pm-et",
+  "question": "NHL: Will the Red Wings beat the Blackhawks by more than 1.5 goals in their January 26 matchup? (7.30 PM ET)?"
+}

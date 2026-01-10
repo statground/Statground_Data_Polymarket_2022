@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239350",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-10T19:13:17.498000Z",
+  "market_createdAt": "2021-11-10T19:13:17.498Z",
+  "market_updatedAt": "2024-04-22T23:00:52.642359Z",
+  "market_startDate": "2021-11-10T20:20:31.575Z",
+  "market_endDate": "2021-11-11T00:00:00Z",
+  "market_closedTime": "2021-11-12 19:48:21+00",
+  "conditionId": "0x143957e05b2f38bae54120fb663bac82b89834e0694e47bb91c77661fb9941c2",
+  "slug": "will-vincent-van-goghs-meules-de-bl-lot-8c-sell-for-more-than-30m-at-christies-on-november-11",
+  "question": "Will Vincent van Gogh's “Meules de blé” (Lot 8C) sell for more than $30m at Christie’s on November 11?"
+}

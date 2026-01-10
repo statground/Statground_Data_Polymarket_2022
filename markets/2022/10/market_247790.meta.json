@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247790",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-27T17:59:42.468000Z",
+  "market_createdAt": "2022-10-27T17:59:42.468Z",
+  "market_updatedAt": "2023-01-31T09:33:45.275Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-08T00:00:00Z",
+  "market_closedTime": "2022-11-09 19:00:26+00",
+  "conditionId": "0x3a68e9788c6ca80e5fcb0e366728e8299019f9e95b561079a5298c5cdbcf95ef",
+  "slug": "will-usd-be-worth-more-than-eur-on-november-8",
+  "question": "Will USD be worth more than EUR on November 8?"
+}

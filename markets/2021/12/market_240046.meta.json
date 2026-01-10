@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240046",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-15T09:57:49.247000Z",
+  "market_createdAt": "2021-12-15T09:57:49.247Z",
+  "market_updatedAt": "2024-04-23T00:22:04.744055Z",
+  "market_startDate": "2021-12-15T21:38:38.588Z",
+  "market_endDate": "2021-12-15T00:00:00Z",
+  "market_closedTime": "2021-12-16 17:28:38+00",
+  "conditionId": "0x69ab832603f3f311e4dca1c2761b5b54647eaf4a6d8a4d0a67921d5175cd3302",
+  "slug": "nba-will-the-jazz-beat-the-clippers-by-more-than-9pt5-points-in-their-december-15-matchup",
+  "question": "NBA: Will the Jazz beat the Clippers by more than 9.5 points in their December 15 matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240612",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-12T00:21:15.498000Z",
+  "market_createdAt": "2022-01-12T00:21:15.498Z",
+  "market_updatedAt": "2024-04-23T00:56:40.129618Z",
+  "market_startDate": "2022-01-12T21:08:50.647Z",
+  "market_endDate": "2022-11-15T00:00:00Z",
+  "market_closedTime": "2022-11-09 15:11:59+00",
+  "conditionId": "0xe009237ab25735619eea83716050b21502aac9233c4145a24e05bfa80c69d5cc",
+  "slug": "2022-us-gubernatorial-elections-will-a-democrat-or-republican-win-in-new-mexico",
+  "question": "Governor: Will a Democrat (Grisham) or Republican (Ronchetti) win in New Mexico?"
+}

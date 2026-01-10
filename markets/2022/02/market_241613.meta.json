@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241613",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-19T12:05:25.150000Z",
+  "market_createdAt": "2022-02-19T12:05:25.15Z",
+  "market_updatedAt": "2024-04-25T00:11:22.4856Z",
+  "market_startDate": "2022-02-19T17:09:52.317Z",
+  "market_endDate": "2022-02-19T00:00:00Z",
+  "market_closedTime": "2022-02-20 19:00:27+00",
+  "conditionId": "0x220fa681a1a10dee8df13640dae1d3277d94216e8334988fe0b91ace22d5efa5",
+  "slug": "nhl-will-the-oilers-beat-the-jets-by-more-than-1p5-goals-in-their-february-19-matchup-4-pm-et",
+  "question": "NHL: Will the Oilers beat the Jets by more than 1.5 goals in their February 19 matchup (4 PM ET)?"
+}

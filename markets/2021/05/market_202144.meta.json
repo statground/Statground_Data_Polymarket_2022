@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "202144",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-25T21:10:06.307000Z",
+  "market_createdAt": "2021-05-25T21:10:06.307Z",
+  "market_updatedAt": "2024-04-23T00:23:43.857788Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-27T00:00:00Z",
+  "market_closedTime": "2021-05-27 19:15:31+00",
+  "conditionId": "0x40dce03bace290b4265b143fdeac5c55abcd10a67a0620b6be11bea960ce7b22",
+  "slug": "will-hikaru-nakamura-or-magnus-carlsen-win-their-quarterfinals-series-of-the-ftx-crypto-cup",
+  "question": "Will Hikaru Nakamura or Magnus Carlsen win their Quarterfinals Series of the FTX Crypto Cup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242552",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-27T09:05:55.098000Z",
+  "market_createdAt": "2022-03-27T09:05:55.098Z",
+  "market_updatedAt": "2024-04-23T00:14:06.366973Z",
+  "market_startDate": "2022-03-27T17:13:40.072Z",
+  "market_endDate": "2022-03-27T00:00:00Z",
+  "market_closedTime": "2022-03-28 09:31:37+00",
+  "conditionId": "0xc8b13c5b39236fe1f0694f81a9afb42b9f9547ca9dbec14b2f4c22ad22cb7406",
+  "slug": "nhl-will-the-jets-beat-the-coyotes-by-more-than-1pt5-goals-in-their-march-27-700-pm-et-matchup",
+  "question": "NHL: Will the Jets beat the Coyotes by more than 1.5 goals in their March 27, 7:00 PM ET matchup?"
+}

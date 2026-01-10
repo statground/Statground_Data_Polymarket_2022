@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239935",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-09T11:04:09.866000Z",
+  "market_createdAt": "2021-12-09T11:04:09.866Z",
+  "market_updatedAt": "2024-04-22T23:53:29.332955Z",
+  "market_startDate": "2021-12-09T18:28:45.338Z",
+  "market_endDate": "2021-12-09T00:00:00Z",
+  "market_closedTime": "2021-12-10 13:05:49+00",
+  "conditionId": "0x23852e62473fb7dfcb6e39553f0c6a14e87bec3006148812970a2661d9ec96cc",
+  "slug": "nba-will-the-jazz-beat-the-76ers-by-more-than-3pt5-points-in-their-december-9-matchup",
+  "question": "NBA: Will the Jazz beat the 76ers by more than 3.5 points in their December 9 matchup?"
+}

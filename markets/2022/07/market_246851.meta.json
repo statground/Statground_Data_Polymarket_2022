@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246851",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-27T23:25:50.673000Z",
+  "market_createdAt": "2022-07-27T23:25:50.673Z",
+  "market_updatedAt": "2023-01-30T05:11:13.043Z",
+  "market_startDate": "2022-07-28T00:03:39.705Z",
+  "market_endDate": "2022-09-21T00:00:00Z",
+  "market_closedTime": "2022-09-21 20:30:48+00",
+  "conditionId": "0x6bcfad376b0836cdeea187c8578328e17511dd0295f1b6afa0b2fed368a29839",
+  "slug": "will-the-fed-increase-interest-rates-by-100-bps-after-their-september-meeting",
+  "question": "Will the Fed increase interest rates by 100 bps after their September meeting?"
+}

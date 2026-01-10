@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241981",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-08T23:55:41.846000Z",
+  "market_createdAt": "2022-03-08T23:55:41.846Z",
+  "market_updatedAt": "2024-04-23T00:53:39.463968Z",
+  "market_startDate": "2022-03-09T00:25:31.299Z",
+  "market_endDate": "2022-03-15T00:00:00Z",
+  "market_closedTime": "2022-03-15 18:45:27+00",
+  "conditionId": "0x6230d888bad9a9cd082d789c7f12529e5f64aee6f89f7a081b8e1f3fe45428d7",
+  "slug": "will-the-price-of-eth-be-above-2600-on-march-15-2022",
+  "question": "Will the price of $ETH be above $2,600 on March 15, 2022?"
+}

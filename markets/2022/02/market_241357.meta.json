@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241357",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-07T11:10:20.089000Z",
+  "market_createdAt": "2022-02-07T11:10:20.089Z",
+  "market_updatedAt": "2024-04-23T00:24:22.247921Z",
+  "market_startDate": "2022-02-07T17:43:39.51Z",
+  "market_endDate": "2022-02-07T00:00:00Z",
+  "market_closedTime": "2022-02-10 15:10:38+00",
+  "conditionId": "0x8032d14904e67f998f1bf40c644b78bf25e9866a8c0fefdc890d766f3de88555",
+  "slug": "nba-who-will-win-the-heat-vs-wizards-scheduled-for-february-7-7-pm-et",
+  "question": "NBA: Who will win the Heat vs. Wizards, scheduled for February 7 (7 PM ET)?"
+}

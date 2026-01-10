@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241321",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-04T15:12:54.540000Z",
+  "market_createdAt": "2022-02-04T15:12:54.54Z",
+  "market_updatedAt": "2024-04-23T00:07:43.711425Z",
+  "market_startDate": "2022-02-04T17:49:04.462Z",
+  "market_endDate": "2022-02-04T00:00:00Z",
+  "market_closedTime": "2022-02-07 02:54:48+00",
+  "conditionId": "0xe1ca2cb65ab624fd6a0cf9e6ab9be774ad0c8fab4834b2d55c633be6dc8cab24",
+  "slug": "nba-who-will-win-the-raptors-vs-hawks-scheduled-for-february-4-730-pm-et",
+  "question": "NBA: Who will win the Raptors vs. Hawks, scheduled for February 4 (7.30 PM ET)?"
+}

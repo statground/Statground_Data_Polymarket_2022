@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241766",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-28T13:17:32.973000Z",
+  "market_createdAt": "2022-02-28T13:17:32.973Z",
+  "market_updatedAt": "2024-04-23T00:14:34.398815Z",
+  "market_startDate": "2022-02-28T15:04:29.752Z",
+  "market_endDate": "2022-02-28T00:00:00Z",
+  "market_closedTime": "2022-03-01 23:34:07+00",
+  "conditionId": "0x7d2915c83960e953ed515295a7d9b2651e44328b4491daf13cd1f5547a17db12",
+  "slug": "nhl-will-the-bruins-beat-the-kings-by-more-than-1p5-goals-in-their-february-28-matchup-1030-pm-et",
+  "question": "NHL: Will the Bruins beat the Kings by more than 1.5 goals in their February 28 matchup (10.30 PM ET)?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247259",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-12T22:03:28.719000Z",
+  "market_createdAt": "2022-09-12T22:03:28.719Z",
+  "market_updatedAt": "2023-01-31T20:55:51.708Z",
+  "market_startDate": "2022-09-12T22:24:10.36Z",
+  "market_endDate": "2022-09-30T00:00:00Z",
+  "market_closedTime": "2022-09-30 21:13:52+00",
+  "conditionId": "0x10659fee24e8b0b6cdf7538ee0c65e7c6268b00ad90ef9d3c301afa110f8df71",
+  "slug": "will-there-be-a-new-1073rd-nfl-scorigami-in-september-2022",
+  "question": "Will there be a new (1,073rd) NFL Scorigami in September 2022?"
+}

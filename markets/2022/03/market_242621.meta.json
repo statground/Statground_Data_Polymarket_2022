@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242621",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-29T23:01:39.866000Z",
+  "market_createdAt": "2022-03-29T23:01:39.866Z",
+  "market_updatedAt": "2024-04-23T00:12:13.050619Z",
+  "market_startDate": "2022-03-29T23:11:56.696Z",
+  "market_endDate": "2022-05-01T00:00:00Z",
+  "market_closedTime": "2022-04-04 07:16:04+00",
+  "conditionId": "0x294283131144d0b2314464e10062481afbaff11384bc18d10268ca9e089281ec",
+  "slug": "grammys-2022-will-sour-by-olivia-rodrigo-win-album-of-the-year",
+  "question": "GRAMMYs 2022: Will \"Sour\" by Olivia Rodrigo win Album of the Year?"
+}

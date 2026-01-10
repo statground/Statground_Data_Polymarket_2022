@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239093",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-26T18:59:44.184000Z",
+  "market_createdAt": "2021-10-26T18:59:44.184Z",
+  "market_updatedAt": "2024-04-22T23:10:20.762423Z",
+  "market_startDate": "2021-10-26T19:35:17.529Z",
+  "market_endDate": "2021-10-26T00:00:00Z",
+  "market_closedTime": "2021-10-27 04:54:22+00",
+  "conditionId": "0x7508dde220dc6f91a0b2e18e4f8da8fdfe772ebfe92aa96463487fce63787dd3",
+  "slug": "who-will-win-the-braves-v-astros-game-on-october-26th",
+  "question": "Who will win the Braves v. Astros game on October 26th?"
+}

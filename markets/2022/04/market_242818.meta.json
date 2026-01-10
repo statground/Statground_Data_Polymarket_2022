@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242818",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-04T09:02:42.501000Z",
+  "market_createdAt": "2022-04-04T09:02:42.501Z",
+  "market_updatedAt": "2024-04-22T23:17:35.586585Z",
+  "market_startDate": "2022-04-04T16:16:26.779Z",
+  "market_endDate": "2022-04-04T00:00:00Z",
+  "market_closedTime": "2022-04-05 06:47:03+00",
+  "conditionId": "0x26e32dc63e420a13b55770dd3f05c60041c4610258b3ed4c7cecae3aa7332235",
+  "slug": "nhl-will-the-blues-beat-the-coyotes-by-more-than-2pt5-goals-in-their-april-4-800-pm-et-matchup",
+  "question": "NHL: Will the Blues beat the Coyotes by more than 2.5 goals in their April 4, 8:00 PM ET matchup?"
+}

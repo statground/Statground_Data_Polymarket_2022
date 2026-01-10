@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239919",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-08T10:03:41.012000Z",
+  "market_createdAt": "2021-12-08T10:03:41.012Z",
+  "market_updatedAt": "2024-04-22T22:41:50.058501Z",
+  "market_startDate": "2021-12-08T20:56:30.897Z",
+  "market_endDate": "2021-12-08T00:00:00Z",
+  "market_closedTime": "2021-12-09 18:51:24+00",
+  "conditionId": "0x3f93093a6384692eec20da0e6e37135cd4415ad39552f6cd0002323db81dbaef",
+  "slug": "nba-will-the-wizards-beat-the-pistons-by-more-than-5pt5-points-in-their-december-8-matchup",
+  "question": "NBA: Will the Wizards beat the Pistons by more than 5.5 points in their December 8 matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240877",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-19T21:02:32.227000Z",
+  "market_createdAt": "2022-01-19T21:02:32.227Z",
+  "market_updatedAt": "2024-04-24T23:58:01.66644Z",
+  "market_startDate": "2022-01-20T20:14:16.437Z",
+  "market_endDate": "2022-01-22T00:00:00Z",
+  "market_closedTime": "2022-01-24 16:41:11+00",
+  "conditionId": "0x12a6046aa2ee80ab41763999549eb35fe0cf2787213f458cfb10b846a706c090",
+  "slug": "nfl-will-the-buccaneers-beat-the-rams-by-more-than-2p5-points-in-their-january-22-matchup",
+  "question": "NFL: Will the Buccaneers beat the Rams by more than 2.5 points in their January 22 matchup?"
+}

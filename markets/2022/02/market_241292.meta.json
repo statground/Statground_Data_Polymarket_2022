@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241292",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-03T10:07:09.569000Z",
+  "market_createdAt": "2022-02-03T10:07:09.569Z",
+  "market_updatedAt": "2024-04-24T23:26:15.131072Z",
+  "market_startDate": "2022-02-03T16:19:59.782Z",
+  "market_endDate": "2022-02-03T00:00:00Z",
+  "market_closedTime": "2022-02-05 22:06:51+00",
+  "conditionId": "0x3c77a5c28608984ae764667b7d345df139ecdca5013a4f35d7097a708f50644d",
+  "slug": "nba-will-the-timberwolves-beat-the-pistons-by-more-than-6p5-points-in-their-february-3-7-pm-et-matchup",
+  "question": "NBA: Will the Timberwolves beat the Pistons by more than 6.5 points in their February 3 (7 PM ET) matchup?"
+}

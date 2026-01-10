@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244383",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-07T17:09:41.083000Z",
+  "market_createdAt": "2022-05-07T17:09:41.083Z",
+  "market_updatedAt": "2023-01-31T16:32:34.206Z",
+  "market_startDate": null,
+  "market_endDate": "2022-05-07T00:00:00Z",
+  "market_closedTime": "2022-05-08 07:47:50+00",
+  "conditionId": "0x45c462ce77fa0b6191cfc5d4f2da30ffd5c964d88745045bb2e4562d46c4cc14",
+  "slug": "nba-will-the-warriors-beat-the-grizzlies-by-more-than-7pt5-points-in-their-may-7-835-pm-et-matchup",
+  "question": "NBA: Will the Warriors beat the Grizzlies by more than 7.5 points in their May 7, 8:35 PM ET matchup?"
+}

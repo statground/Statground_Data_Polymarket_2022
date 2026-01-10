@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241659",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-23T18:30:03.670000Z",
+  "market_createdAt": "2022-02-23T18:30:03.67Z",
+  "market_updatedAt": "2024-04-24T23:16:20.024683Z",
+  "market_startDate": "2022-02-23T19:15:38.277Z",
+  "market_endDate": "2022-03-15T00:00:00Z",
+  "market_closedTime": "2022-03-16 11:27:25+00",
+  "conditionId": "0x8fef0c06a20ceba6914f8673f52aa8809c6a54c9c5d1e04cfed678a2bcd32204",
+  "slug": "uefa-champions-league-will-manchester-utd-or-atletico-qualify-to-the-quarterfinals",
+  "question": "UEFA Champions League: Will Manchester Utd or Atletico qualify to the quarterfinals?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242184",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-17T21:20:40.490000Z",
+  "market_createdAt": "2022-03-17T21:20:40.49Z",
+  "market_updatedAt": "2024-04-23T00:27:52.561618Z",
+  "market_startDate": "2022-03-17T23:20:44.898Z",
+  "market_endDate": "2022-04-04T00:00:00Z",
+  "market_closedTime": "2022-04-04 21:16:21+00",
+  "conditionId": "0xb26716c21cb0e39df4bb277faafd96bdda2275e6d09f369d4c6ccbafbdcd1915",
+  "slug": "will-morbius-get-85-or-higher-tomatometer-score",
+  "question": "Will 'Morbius' get a 85% or higher Tomatometer Score?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239356",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-10T20:32:09.554000Z",
+  "market_createdAt": "2021-11-10T20:32:09.554Z",
+  "market_updatedAt": "2024-04-24T23:15:12.371193Z",
+  "market_startDate": "2021-11-10T22:28:46.483Z",
+  "market_endDate": "2021-11-11T00:00:00Z",
+  "market_closedTime": "2021-11-12 19:53:59+00",
+  "conditionId": "0xe65e3ceb6fccd5c42d5a6f8196089c55350ea6d510d75c1259b35af9a5033c5d",
+  "slug": "will-pablo-picassos-femme-accroupie-en-costume-turc-ii-jacqueline-lot-44c-sell-for-more-than-30m-at-christies-on-november-11",
+  "question": "Will Pablo Picasso's “Femme accroupie en costume turc II (Jacqueline)” (Lot 44C) sell for more than $30m at Christie’s on November 11?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243314",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-16T07:44:46.609000Z",
+  "market_createdAt": "2022-04-16T07:44:46.609Z",
+  "market_updatedAt": "2023-01-31T21:22:55.264Z",
+  "market_startDate": "2022-04-16T15:27:06.57Z",
+  "market_endDate": "2022-04-16T00:00:00Z",
+  "market_closedTime": "2022-04-17 01:00:45+00",
+  "conditionId": "0xcb4c3f0c5ebd4d0e29ff80412d0f826d0ad896b9923b896199a136e3fa20ee50",
+  "slug": "nhl-will-the-oilers-beat-the-knights-by-more-than-1pt5-goals-in-their-april-16-400-pm-et-matchup",
+  "question": "NHL: Will the Oilers beat the Knights by more than 1.5 goals in their April 16, 4:00 PM ET matchup?"
+}

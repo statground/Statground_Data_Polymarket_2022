@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240080",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-17T16:00:44.048000Z",
+  "market_createdAt": "2021-12-17T16:00:44.048Z",
+  "market_updatedAt": "2024-04-26T02:45:46.468529Z",
+  "market_startDate": "2021-12-17T22:34:05.527Z",
+  "market_endDate": "2021-12-17T00:00:00Z",
+  "market_closedTime": "2021-12-18 18:12:37+00",
+  "conditionId": "0xafe6545d91a5b3d50462f0758c666df8ba0a1f30813631f06db72379c468bd4b",
+  "slug": "nba-will-the-heat-beat-the-magic-by-more-than-4pt5-points-in-their-december-17-matchup",
+  "question": "NBA: Will the Heat beat the Magic by more than 4.5 points in their December 17 matchup?"
+}

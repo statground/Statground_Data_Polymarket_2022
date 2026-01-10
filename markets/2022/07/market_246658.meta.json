@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246658",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-05T21:09:55.316000Z",
+  "market_createdAt": "2022-07-05T21:09:55.316Z",
+  "market_updatedAt": "2023-01-31T09:33:10.639Z",
+  "market_startDate": "2022-07-05T21:20:08.149Z",
+  "market_endDate": "2022-07-15T00:00:00Z",
+  "market_closedTime": "2022-07-14 01:45:37+00",
+  "conditionId": "0xc4b778f4b2aeb816ee2c0c9daca116354fa50ae6b94ca372b850948c97358737",
+  "slug": "will-the-euro-be-worth-less-than-the-us-dollar-by-july-15",
+  "question": "Will the euro be worth less than the U.S. dollar by July 15?"
+}

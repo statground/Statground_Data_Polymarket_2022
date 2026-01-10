@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "142019",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-20T17:20:03.297000Z",
+  "market_createdAt": "2021-04-20T17:20:03.297Z",
+  "market_updatedAt": "2024-04-23T00:47:55.874251Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-31T00:00:00Z",
+  "market_closedTime": "2021-04-23 16:37:02+00",
+  "conditionId": "0x570b0181898bf3562b72915a272d081b799eb19bef569d56c2d63d2e7c7af4a2",
+  "slug": "will-caitlyn-jenner-announce-she-is-running-for-ca-governor-by-may-31-2021",
+  "question": "Will Caitlyn Jenner announce she is running for CA Governor by May 31, 2021?"
+}

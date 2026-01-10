@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241126",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-27T20:02:54.349000Z",
+  "market_createdAt": "2022-01-27T20:02:54.349Z",
+  "market_updatedAt": "2024-04-22T22:44:12.231534Z",
+  "market_startDate": "2022-01-27T23:29:05.219Z",
+  "market_endDate": "2022-02-15T00:00:00Z",
+  "market_closedTime": "2022-02-11 18:16:49+00",
+  "conditionId": "0x266c282a1ca5f24e370abeaa08b6658f009aa64c7c5bcf15ff792e9de8dd8959",
+  "slug": "will-frog-nation-dao-vote-to-remove-sifu-as-wonderlands-treasury-manager",
+  "question": "Will Frog Nation DAO vote to remove Sifu as Wonderland’s treasury manager?"
+}

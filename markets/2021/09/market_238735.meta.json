@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238735",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-09T18:36:01.754000Z",
+  "market_createdAt": "2021-09-09T18:36:01.754Z",
+  "market_updatedAt": "2024-04-23T00:56:13.675051Z",
+  "market_startDate": "2021-09-09T22:51:58.205Z",
+  "market_endDate": "2021-09-12T00:00:00Z",
+  "market_closedTime": "2021-09-12 21:42:40+00",
+  "conditionId": "0x5c9e062ee1cf4bc1f0aa15794b88b3b66e265fdffb01713b20aab8a37fb46c8a",
+  "slug": "bills-6pt5-v-steelers-spread",
+  "question": "Bills (-6.5) v. Steelers Spread"
+}

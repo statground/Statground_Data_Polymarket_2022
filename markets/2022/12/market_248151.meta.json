@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248151",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-01T15:40:44.413000Z",
+  "market_createdAt": "2022-12-01T15:40:44.413Z",
+  "market_updatedAt": "2023-01-31T12:07:12.39Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-01T00:00:00Z",
+  "market_closedTime": "2022-12-02 22:16:22+00",
+  "conditionId": "0x34e3ecdd6ee91688b348660ded7ad0300c1a5b29eb8da2e3ad367f9e2b978e87",
+  "slug": "nfl-thursday-bills-vs-patriots",
+  "question": "NFL Thursday: Bills vs. Patriots"
+}

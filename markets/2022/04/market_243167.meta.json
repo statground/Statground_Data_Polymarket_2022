@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243167",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-12T08:30:58.599000Z",
+  "market_createdAt": "2022-04-12T08:30:58.599Z",
+  "market_updatedAt": "2023-01-31T19:32:27.331Z",
+  "market_startDate": "2022-04-12T14:22:55.431Z",
+  "market_endDate": "2022-04-12T00:00:00Z",
+  "market_closedTime": "2022-04-13 06:46:18+00",
+  "conditionId": "0x98439f95db91a39a3fc055240f4a78642919bff447e69cd15fe2188b7f1fba95",
+  "slug": "mlb-who-will-win-texas-rangers-vs-colorado-rockies-scheduled-for-april-12-806-pm-et",
+  "question": "MLB: Who will win Texas Rangers vs. Colorado Rockies, scheduled for April 12, 8:06 PM ET?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247357",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-23T18:37:45.418000Z",
+  "market_createdAt": "2022-09-23T18:37:45.418Z",
+  "market_updatedAt": "2023-01-31T18:46:10.685Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-08T00:00:00Z",
+  "market_closedTime": "2022-11-09 20:15:34+00",
+  "conditionId": "0xd7f02b6e6bffa9c2a5280b1dacd5196af4f0784fc0f1332ff635447df311731f",
+  "slug": "will-kalshi-get-approval-for-midterm-markets",
+  "question": "Will Kalshi get approval for midterm markets?"
+}

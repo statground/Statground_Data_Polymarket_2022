@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "81081",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-09T18:30:02.268000Z",
+  "market_createdAt": "2021-02-09T18:30:02.268Z",
+  "market_updatedAt": "2024-04-22T22:54:19.173226Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-09T00:00:00Z",
+  "market_closedTime": "2021-02-10 17:31:26+00",
+  "conditionId": "0xc61a1154991f8ce0ee0620ea7dd32d990c240dbad5196e76f805cf5d7d2071d2",
+  "slug": "will-the-celtics-or-the-jazz-win-their-february-9th-matchup",
+  "question": "Will the Celtics or the Jazz win their February 9th matchup?"
+}

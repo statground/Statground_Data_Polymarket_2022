@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243951",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-29T18:17:16.126000Z",
+  "market_createdAt": "2022-04-29T18:17:16.126Z",
+  "market_updatedAt": "2023-01-31T16:32:36.617Z",
+  "market_startDate": "2022-04-29T19:10:00.306Z",
+  "market_endDate": "2022-05-07T00:00:00Z",
+  "market_closedTime": "2022-05-07 20:15:33+00",
+  "conditionId": "0xbc6808b96591135d97f29bcc87a69b3281b4750336ccae09fbbdcf9c9189f3df",
+  "slug": "will-eth-be-above-2900-on-may-7-2022",
+  "question": "Will $ETH be above $2,900 on May 7, 2022?"
+}

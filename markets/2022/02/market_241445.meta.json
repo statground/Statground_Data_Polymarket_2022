@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241445",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-12T11:19:15.279000Z",
+  "market_createdAt": "2022-02-12T11:19:15.279Z",
+  "market_updatedAt": "2024-04-23T00:53:18.32096Z",
+  "market_startDate": "2022-02-12T16:27:12.855Z",
+  "market_endDate": "2022-02-12T00:00:00Z",
+  "market_closedTime": "2022-02-13 12:09:40+00",
+  "conditionId": "0x3073100d0fdb361f895fdc6fab769db2f97c5541ab6e78e99c8196676cd09b8a",
+  "slug": "nhl-will-the-hurricanes-beat-the-wild-by-more-than-1p5-goals-in-their-february-12-matchup-8-pm-et",
+  "question": "NHL: Will the Hurricanes beat the Wild by more than 1.5 goals in their February 12 matchup (8 PM ET)?"
+}

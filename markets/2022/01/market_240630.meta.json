@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240630",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-12T16:34:48.775000Z",
+  "market_createdAt": "2022-01-12T16:34:48.775Z",
+  "market_updatedAt": "2024-04-23T00:37:28.821481Z",
+  "market_startDate": "2022-01-12T21:06:45.821Z",
+  "market_endDate": "2022-01-12T00:00:00Z",
+  "market_closedTime": "2022-01-14 06:36:08+00",
+  "conditionId": "0x73e7b112fb4b82d85d9635d95476016672ec65f84e73d1988ba89fece478d26d",
+  "slug": "nba-will-the-wizards-beat-the-magic-by-more-than-6pt5-points-in-their-january-12-matchup",
+  "question": "NBA: Will the Wizards beat the Magic by more than 6.5 points in their January 12 matchup?"
+}

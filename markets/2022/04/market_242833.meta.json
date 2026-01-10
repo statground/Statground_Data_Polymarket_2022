@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242833",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-04T23:30:40.004000Z",
+  "market_createdAt": "2022-04-04T23:30:40.004Z",
+  "market_updatedAt": "2023-01-31T21:06:30.306Z",
+  "market_startDate": "2022-04-04T23:47:10.652Z",
+  "market_endDate": "2022-04-17T00:00:00Z",
+  "market_closedTime": "2022-04-17 22:15:36+00",
+  "conditionId": "0x56959265b9bcf87b4f8d547e498d020d7e8e13a4ffc923018807506e6e44dd26",
+  "slug": "will-the-floor-price-of-doodles-be-17-eth-or-more-on-april-17",
+  "question": "Will the floor price of Doodles be 17 ETH or more on April 17?"
+}

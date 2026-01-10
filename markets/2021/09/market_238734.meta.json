@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238734",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-09T18:34:01.455000Z",
+  "market_createdAt": "2021-09-09T18:34:01.455Z",
+  "market_updatedAt": "2024-04-22T22:46:24.194599Z",
+  "market_startDate": "2021-09-09T22:51:51.468Z",
+  "market_endDate": "2021-09-12T00:00:00Z",
+  "market_closedTime": "2021-09-12 21:42:40+00",
+  "conditionId": "0x0b67104823c52f64b55bfe8965e4fb3f1af2f493b4c4c3d16322d79564489f34",
+  "slug": "football-team-1-v-chargers-spread",
+  "question": "Football Team (-1) v. Chargers Spread"
+}

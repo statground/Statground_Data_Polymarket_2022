@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "147257",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-22T20:25:02.887000Z",
+  "market_createdAt": "2021-04-22T20:25:02.887Z",
+  "market_updatedAt": "2024-04-22T23:29:26.410181Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-29T00:00:00Z",
+  "market_closedTime": "2021-05-03 13:55:09+00",
+  "conditionId": "0xc6fc6194740ffa109c6ea5cf0bb6c58ae502e096ff104fef1d5dc59349899295",
+  "slug": "will-there-be-more-than-500k-covid-19-cases-in-india-on-any-day-on-or-before-april-29",
+  "question": "Will there be more than 475K COVID-19 cases in India on any day on or before April 29?"
+}

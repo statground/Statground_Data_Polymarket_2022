@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241495",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-15T08:14:47.550000Z",
+  "market_createdAt": "2022-02-15T08:14:47.55Z",
+  "market_updatedAt": "2024-04-24T23:49:35.841973Z",
+  "market_startDate": "2022-02-15T17:35:44.682Z",
+  "market_endDate": "2022-02-15T00:00:00Z",
+  "market_closedTime": "2022-02-16 20:07:51+00",
+  "conditionId": "0xf4a423eb150c1c33f0b8caaebcff18591d311f882abcb92b4d2e91043a185f1d",
+  "slug": "nba-who-will-win-the-grizzlies-vs-pelicans-scheduled-for-february-15-8-pm-et",
+  "question": "NBA: Who will win the Grizzlies vs. Pelicans, scheduled for February 15 (8 PM ET)?"
+}

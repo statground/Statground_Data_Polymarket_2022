@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243357",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-17T10:57:34.656000Z",
+  "market_createdAt": "2022-04-17T10:57:34.656Z",
+  "market_updatedAt": "2023-01-31T16:58:06.157Z",
+  "market_startDate": "2022-04-17T15:01:34.338Z",
+  "market_endDate": "2022-04-17T00:00:00Z",
+  "market_closedTime": "2022-04-18 06:30:32+00",
+  "conditionId": "0x28717fe34b1b4cb5982803a418539aceecc28b8b3fb54ea74f33e833f33b3b18",
+  "slug": "mlb-who-will-win-astros-vs-mariners-game-on-april-17",
+  "question": "MLB: Who will win Astros vs. Mariners game on April 17?"
+}

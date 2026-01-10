@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241045",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-26T12:32:05.033000Z",
+  "market_createdAt": "2022-01-26T12:32:05.033Z",
+  "market_updatedAt": "2024-04-24T23:57:00.112391Z",
+  "market_startDate": "2022-01-26T18:59:50.223Z",
+  "market_endDate": "2022-01-26T00:00:00Z",
+  "market_closedTime": "2022-01-28 15:29:39+00",
+  "conditionId": "0xb426fda4225ecda69884ae2546d41c6dd39f5d0f39364760af0d8973a7805729",
+  "slug": "nhl-will-the-avalanche-beat-the-bruins-by-more-than-1p5-goals-in-their-january-26-matchup-10-pm-et",
+  "question": "NHL: Will the Avalanche beat the Bruins by more than 1.5 goals in their January 26 matchup? (10 PM ET)?"
+}

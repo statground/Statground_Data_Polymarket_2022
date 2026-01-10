@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "226406",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-27T20:10:02.736000Z",
+  "market_createdAt": "2021-07-27T20:10:02.736Z",
+  "market_updatedAt": "2024-04-22T23:42:54.467894Z",
+  "market_startDate": "2021-07-28T19:03:25.901Z",
+  "market_endDate": "2021-08-04T00:00:00Z",
+  "market_closedTime": "2021-08-05 02:05:55+00",
+  "conditionId": "0xb63e0b80cc10be5735d71d04e94e3f4628d437473dc99c8b2fc5fa4472445be0",
+  "slug": "will-daily-atmospheric-co2-be-above-4162-ppm-on-august-3-2021",
+  "question": "Will daily atmospheric CO2 be above 416.2 ppm on August 3, 2021?"
+}

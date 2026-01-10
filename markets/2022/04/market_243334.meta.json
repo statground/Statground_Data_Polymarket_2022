@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243334",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-16T08:30:15.801000Z",
+  "market_createdAt": "2022-04-16T08:30:15.801Z",
+  "market_updatedAt": "2023-01-31T17:22:23.685Z",
+  "market_startDate": null,
+  "market_endDate": "2022-04-16T00:00:00Z",
+  "market_closedTime": "2022-04-17 07:31:04+00",
+  "conditionId": "0x082e6e5ac9e1a56bc569b293976c30d6c3f7280132f0f89d1860ff30576111de",
+  "slug": "mlb-who-will-win-houston-astros-vs-seattle-mariners-scheduled-for-april-16-911-pm-et",
+  "question": "MLB: Who will win Houston Astros vs. Seattle Mariners, scheduled for April 16, 9:11 PM ET?"
+}

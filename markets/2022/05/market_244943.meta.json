@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244943",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-17T19:31:14.956000Z",
+  "market_createdAt": "2022-05-17T19:31:14.956Z",
+  "market_updatedAt": "2023-01-31T20:10:18.237Z",
+  "market_startDate": "2022-05-17T19:52:55.899Z",
+  "market_endDate": "2022-05-23T00:00:00Z",
+  "market_closedTime": "2022-05-23 19:15:39+00",
+  "conditionId": "0x7070f5a35de941df6c03aa728c2014e58af048bef433fb0d4ea3011304fbd351",
+  "slug": "will-ust-be-above-0pt10-on-may-23-2022",
+  "question": "Will $UST be above $0.10 on May 23, 2022?"
+}

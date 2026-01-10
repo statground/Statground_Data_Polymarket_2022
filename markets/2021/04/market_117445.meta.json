@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "117445",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-06T20:15:02.967000Z",
+  "market_createdAt": "2021-04-06T20:15:02.967Z",
+  "market_updatedAt": "2024-04-24T23:15:54.95686Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-15T00:00:00Z",
+  "market_closedTime": "2021-04-16 14:37:53+00",
+  "conditionId": "0x8c53bc6fa81743b03fc76e6be53a0da7d005e1e44ac328c2455917e719d3fdb1",
+  "slug": "will-130-million-people-have-received-a-dose-of-an-approved-covid-19-vaccine-in-the-us-by-april-15-2021",
+  "question": "Will 130 million people have received a dose of an approved COVID-19 vaccine in the US by April 15, 2021?"
+}

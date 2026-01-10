@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239883",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-07T11:30:30.216000Z",
+  "market_createdAt": "2021-12-07T11:30:30.216Z",
+  "market_updatedAt": "2024-04-24T23:59:05.895861Z",
+  "market_startDate": "2021-12-07T18:47:23.694Z",
+  "market_endDate": "2021-12-07T00:00:00Z",
+  "market_closedTime": "2021-12-08 19:02:59+00",
+  "conditionId": "0xf5974d74d2454a5f9add2d4ee4ddf48f86d91043497ea7b797009b2a600eef27",
+  "slug": "uefa-champions-league-which-group-b-team-will-qualify-to-the-knockout-phase",
+  "question": "UEFA Champions League: Which group B team will qualify to the knockout phase?"
+}

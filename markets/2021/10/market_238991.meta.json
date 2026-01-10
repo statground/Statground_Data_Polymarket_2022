@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238991",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-13T22:32:52.031000Z",
+  "market_createdAt": "2021-10-13T22:32:52.031Z",
+  "market_updatedAt": "2024-04-26T02:51:15.640783Z",
+  "market_startDate": "2021-10-14T16:38:05.81Z",
+  "market_endDate": "2021-10-17T00:00:00Z",
+  "market_closedTime": "2021-10-18 02:30:27+00",
+  "conditionId": "0x68dd29bb5cfc30ee7fe40674f68f1e1c60c3ce17cd9a350b054cdfd4673d5745",
+  "slug": "will-the-broncos-beat-the-raiders-by-more-than-3pt5-points-in-their-week-six-matchup",
+  "question": "Will the Broncos beat the Raiders by more than 3.5 points in their week six matchup?"
+}

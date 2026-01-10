@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218637",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-23T20:45:22.878000Z",
+  "market_createdAt": "2021-06-23T20:45:22.878Z",
+  "market_updatedAt": "2024-04-23T00:47:31.04358Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-16T00:00:00Z",
+  "market_closedTime": "2021-07-17 03:42:10+00",
+  "conditionId": "0x0e3f9231bb8de24588713297f419b84f95e8cb22547bd5391f12926a7c2ad19a",
+  "slug": "will-joe-bidens-disapproval-rating-be-42-or-higher-on-july-15",
+  "question": "Will Joe Biden's disapproval rating be 42% or higher on July 15?"
+}

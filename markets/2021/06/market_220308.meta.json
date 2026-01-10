@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "220308",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-29T17:00:01.416000Z",
+  "market_createdAt": "2021-06-29T17:00:01.416Z",
+  "market_updatedAt": "2024-04-22T23:39:20.241476Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-01T00:00:00Z",
+  "market_closedTime": "2021-07-02 14:59:23+00",
+  "conditionId": "0xa0865dee37975c0a938b8f8a72fe527d62cb58df38ba4a7df80910ec9a9c236c",
+  "slug": "who-will-win-bucks-v-hawks-eastern-conference-finals-game-5",
+  "question": "Who will win Bucks v. Hawks: Eastern Conference Finals Game 5?"
+}

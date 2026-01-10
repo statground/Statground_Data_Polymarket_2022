@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247517",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-12T18:13:27.825000Z",
+  "market_createdAt": "2022-10-12T18:13:27.825Z",
+  "market_updatedAt": "2023-01-31T05:16:14.564Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-13T00:00:00Z",
+  "market_closedTime": "2022-10-14 20:01:34+00",
+  "conditionId": "0x9d85dca2cd7937069392c2430a20311369b822cf4df2d41d89e01d42e2096be0",
+  "slug": "nfl-thursday-commanders-vs-bears",
+  "question": "NFL Thursday: Commanders vs. Bears"
+}

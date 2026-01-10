@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247214",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-09T16:34:23.456000Z",
+  "market_createdAt": "2022-09-09T16:34:23.456Z",
+  "market_updatedAt": "2023-01-31T20:06:46.588Z",
+  "market_startDate": "2022-09-09T18:11:23.887Z",
+  "market_endDate": "2022-09-11T00:00:00Z",
+  "market_closedTime": "2022-09-11 22:30:56+00",
+  "conditionId": "0xe643e50bc9cad998a5a8ef4e7886c02f92dc81789bf8653632091621aa11f9cc",
+  "slug": "formula-1-will-max-verstappen-win-the-2022-italian-grand-prix",
+  "question": "Formula 1: Will Max Verstappen win the 2022 Italian Grand Prix?"
+}

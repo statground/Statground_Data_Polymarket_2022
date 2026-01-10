@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244919",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-16T11:04:31.381000Z",
+  "market_createdAt": "2022-05-16T11:04:31.381Z",
+  "market_updatedAt": "2023-01-31T17:33:06.521Z",
+  "market_startDate": null,
+  "market_endDate": "2022-06-01T00:00:00Z",
+  "market_closedTime": "2022-06-01 18:56:04+00",
+  "conditionId": "0x30e6fe70bae6ae0c524a5954fa1e0172a66a70c24aa305de3429f85d03ba8a7a",
+  "slug": "will-top-gun-maverick-get-a-95-or-higher-tomatometer-score",
+  "question": "Will 'Top Gun: Maverick' get a 95% or higher Tomatometer Score?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246730",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-18T16:03:16.086000Z",
+  "market_createdAt": "2022-07-18T16:03:16.086Z",
+  "market_updatedAt": "2023-02-01T04:12:27.984Z",
+  "market_startDate": "2022-07-23T18:02:36.224Z",
+  "market_endDate": "2022-07-22T00:00:00Z",
+  "market_closedTime": "2022-07-23 17:30:53+00",
+  "conditionId": "0x6507e330b9094f9893423cab7a8d60dab4cf0e7802d5d887895daf4728b0ff66",
+  "slug": "mlb-who-will-win-san-francisco-giants-v-los-angeles-dodgers-scheduled-for-july-22-1010-pm-et",
+  "question": "MLB: Who will win San Francisco Giants v. Los Angeles Dodgers, scheduled for July 22, 10:10 PM ET?"
+}

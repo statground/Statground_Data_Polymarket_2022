@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239936",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-09T11:08:13.956000Z",
+  "market_createdAt": "2021-12-09T11:08:13.956Z",
+  "market_updatedAt": "2024-04-24T23:23:27.632496Z",
+  "market_startDate": "2021-12-09T18:29:21.138Z",
+  "market_endDate": "2021-12-09T00:00:00Z",
+  "market_closedTime": "2021-12-10 13:07:51+00",
+  "conditionId": "0xbc411ffbe99e4204ac8845635d3957f99edc59be8c70023779dee3e424f4197a",
+  "slug": "nba-will-the-lakers-beat-the-grizzlies-by-more-than-2pt5-points-in-their-december-9-matchup",
+  "question": "NBA: Will the Lakers beat the Grizzlies by more than 2.5 points in their December 9 matchup?"
+}

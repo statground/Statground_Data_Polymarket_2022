@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243365",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-17T13:35:31.547000Z",
+  "market_createdAt": "2022-04-17T13:35:31.547Z",
+  "market_updatedAt": "2023-01-31T11:02:35.388Z",
+  "market_startDate": "2022-04-17T15:03:38.451Z",
+  "market_endDate": "2022-04-17T00:00:00Z",
+  "market_closedTime": "2022-04-18 06:31:12+00",
+  "conditionId": "0x553f14b22cb8cb2f46801355ff01d87f1511400e9470a54fabedef84a542458c",
+  "slug": "nba-who-will-win-celtics-vs-nets-scheduled-for-april-17-330-pm-et",
+  "question": "NBA: Who will win Celtics vs. Nets, scheduled for April 17 (3:30 PM ET)?"
+}

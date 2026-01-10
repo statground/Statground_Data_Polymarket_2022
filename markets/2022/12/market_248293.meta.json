@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248293",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-27T15:19:43.251000Z",
+  "market_createdAt": "2022-12-27T15:19:43.251Z",
+  "market_updatedAt": "2023-02-10T01:03:37.406Z",
+  "market_startDate": null,
+  "market_endDate": "2023-01-01T00:00:00Z",
+  "market_closedTime": "2023-01-02 02:45:25+00",
+  "conditionId": "0x9a7209897461d86a93aec03b1f731c338b43ef3a8306f2b8a2b1f295e04f193f",
+  "slug": "nfl-sunday-vikings-vs-packers",
+  "question": "NFL Sunday: Vikings vs. Packers"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247074",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-22T17:39:39.822000Z",
+  "market_createdAt": "2022-08-22T17:39:39.822Z",
+  "market_updatedAt": "2023-01-31T09:33:43.456Z",
+  "market_startDate": "2022-08-23T17:39:27.172Z",
+  "market_endDate": "2022-08-29T00:00:00Z",
+  "market_closedTime": "2022-08-30 08:30:37+00",
+  "conditionId": "0x770fc6e80e1043c7d003227a897dd5c5e012b9c85f16a3d632fb4b8e6b832393",
+  "slug": "will-the-price-of-natural-gas-be-10-or-more-on-august-29-2022-oct-2022-future",
+  "question": "Will the price of natural gas be $10 or more on August 29, 2022? (OCT 2022 Future)"
+}

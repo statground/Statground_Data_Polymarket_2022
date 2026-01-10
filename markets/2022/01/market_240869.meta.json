@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240869",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-19T20:46:23.446000Z",
+  "market_createdAt": "2022-01-19T20:46:23.446Z",
+  "market_updatedAt": "2024-04-24T23:50:46.960503Z",
+  "market_startDate": "2022-01-20T20:09:38.379Z",
+  "market_endDate": "2022-03-07T00:00:00Z",
+  "market_closedTime": "2022-03-08 19:15:22+00",
+  "conditionId": "0x73d6e2c5173fef73322a7cd6dc0204f961848b2cfd3d9d02e3d48890f718356b",
+  "slug": "will-the-batman-gross-120-million-or-less-on-the-opening-weekend-in-the-usa",
+  "question": "Will 'The Batman' gross $120 million or less on the opening weekend in the USA?"
+}

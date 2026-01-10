@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239294",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-08T10:25:01.546000Z",
+  "market_createdAt": "2021-11-08T10:25:01.546Z",
+  "market_updatedAt": "2024-04-24T23:27:47.833784Z",
+  "market_startDate": "2021-11-08T20:12:52.224Z",
+  "market_endDate": "2021-11-08T00:00:00Z",
+  "market_closedTime": "2021-11-09 16:58:29+00",
+  "conditionId": "0x4c5ab6a68bc6771a577edce131cd20f5631743c31b622007c30c68e682f81152",
+  "slug": "nba-will-the-76ers-beat-the-knicks-by-more-than-4pt5-points-in-their-november-8th-matchup",
+  "question": "NBA: Will the 76ers beat the Knicks by more than 4.5 points in their November 8th matchup?"
+}

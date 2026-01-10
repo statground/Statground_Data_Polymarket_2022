@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240021",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-13T22:22:37.539000Z",
+  "market_createdAt": "2021-12-13T22:22:37.539Z",
+  "market_updatedAt": "2024-04-26T02:49:51.615491Z",
+  "market_startDate": "2021-12-14T17:48:53.334Z",
+  "market_endDate": "2021-12-20T00:00:00Z",
+  "market_closedTime": "2021-12-21 00:18:49+00",
+  "conditionId": "0x856cb1b505e4c40ad250f4c1285ddcdb27d19cd7a767026d45472e51af9d397b",
+  "slug": "will-spider-man-no-way-home-get-90-or-higher-tomatometer-sco",
+  "question": "Will 'Spider-Man: No Way Home' get a 90% or higher Critic Tomatometer Score?"
+}

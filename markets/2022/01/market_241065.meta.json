@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241065",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-26T21:11:02.940000Z",
+  "market_createdAt": "2022-01-26T21:11:02.94Z",
+  "market_updatedAt": "2024-04-24T23:30:11.930435Z",
+  "market_startDate": "2022-02-11T17:47:30.422Z",
+  "market_endDate": "2022-05-03T00:00:00Z",
+  "market_closedTime": "2022-05-04 06:48:10+00",
+  "conditionId": "0xc8d286b094c2fed3ebb22e82ffd07a3ec9d7ab170dc04d99642ed3e11b51c820",
+  "slug": "will-josh-mandel-win-the-republican-nomination-for-the-2022-united-states-senate-election-in-ohio",
+  "question": "Will Josh Mandel win the Republican nomination for the 2022 United States Senate election in Ohio?"
+}

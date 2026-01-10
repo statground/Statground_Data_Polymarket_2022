@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239640",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-28T16:01:38.240000Z",
+  "market_createdAt": "2021-11-28T16:01:38.24Z",
+  "market_updatedAt": "2024-04-22T23:41:11.282519Z",
+  "market_startDate": "2021-11-28T16:47:56.069Z",
+  "market_endDate": "2021-11-28T00:00:00Z",
+  "market_closedTime": "2021-11-29 14:15:14+00",
+  "conditionId": "0x298ef9377642e016e4f4afd6996d550568a52462d99d1ddfbb596ef8b1aa1650",
+  "slug": "nfl-will-the-texans-beat-the-jets-by-more-than-4pt5-points-in-their-november-28th-matchup",
+  "question": "NFL: Will the Texans beat the Jets by more than 4.5 points in their November 28th matchup?"
+}

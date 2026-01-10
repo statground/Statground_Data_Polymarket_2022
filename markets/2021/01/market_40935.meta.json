@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "40935",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-01-14T21:15:05.352000Z",
+  "market_createdAt": "2021-01-14T21:15:05.352Z",
+  "market_updatedAt": "2024-04-23T00:22:30.416236Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-21T00:00:00Z",
+  "market_closedTime": "2021-02-22 16:02:08+00",
+  "conditionId": "0xbd3e2bb197d4dcce400db04bfe7e8b43ec8b1d906ca0a9e10e81f4ee0f680166",
+  "slug": "donald-trump-federally-charged-by-february-20th",
+  "question": "Donald Trump federally charged by February 20th?"
+}

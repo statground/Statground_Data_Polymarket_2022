@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247707",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-20T15:07:35.366000Z",
+  "market_createdAt": "2022-10-20T15:07:35.366Z",
+  "market_updatedAt": "2023-01-31T19:20:08.491Z",
+  "market_startDate": null,
+  "market_endDate": "2023-12-31T00:00:00Z",
+  "market_closedTime": "2022-10-25 19:15:48+00",
+  "conditionId": "0x6e6e46e9921c2c18a57cb4abd018fb890c07bdcf0ae16fe54dd3ceb3bb5997cb",
+  "slug": "will-rishi-sunak-be-the-next-uk-prime-minister",
+  "question": "Will Rishi Sunak be the next UK Prime Minister?"
+}

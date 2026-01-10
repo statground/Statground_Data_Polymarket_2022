@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241588",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-17T16:47:34.920000Z",
+  "market_createdAt": "2022-02-17T16:47:34.92Z",
+  "market_updatedAt": "2024-04-24T23:38:09.405155Z",
+  "market_startDate": "2022-02-17T18:14:38.854Z",
+  "market_endDate": "2022-02-17T00:00:00Z",
+  "market_closedTime": "2022-02-18 20:33:05+00",
+  "conditionId": "0xad4055b7d6fc85b2a8c6e918098632225269d3df23d24d0ed9329a8c100926ec",
+  "slug": "nba-will-the-bucks-beat-the-76ers-by-more-than-6p5-points-in-their-february-17-830-pm-et-matchup",
+  "question": "NBA: Will the Bucks beat the 76ers by more than 6.5 points in their February 17 (8.30 PM ET) matchup?"
+}

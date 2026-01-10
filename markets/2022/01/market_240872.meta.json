@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240872",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-19T20:51:31.468000Z",
+  "market_createdAt": "2022-01-19T20:51:31.468Z",
+  "market_updatedAt": "2024-04-25T00:02:33.907367Z",
+  "market_startDate": "2022-01-20T20:12:07.637Z",
+  "market_endDate": "2022-02-06T00:00:00Z",
+  "market_closedTime": "2022-01-29 19:36:41+00",
+  "conditionId": "0x7d662f4996582429a15bf2c6ca5e013e19587ca895d5113c14d007a470a5caf1",
+  "slug": "africa-cup-of-nations-will-nigeria-win-the-tournament",
+  "question": "Africa Cup of Nations: Will Nigeria win the tournament?"
+}

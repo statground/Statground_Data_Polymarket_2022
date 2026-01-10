@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242668",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-31T09:05:33.448000Z",
+  "market_createdAt": "2022-03-31T09:05:33.448Z",
+  "market_updatedAt": "2024-04-22T23:03:22.209048Z",
+  "market_startDate": "2022-03-31T16:31:17.382Z",
+  "market_endDate": "2022-03-31T00:00:00Z",
+  "market_closedTime": "2022-04-01 06:45:58+00",
+  "conditionId": "0xf27d684d62bac708b44e43f24a57c434ffee6ce3d322089b867b16c2e2d4d934",
+  "slug": "nba-who-will-win-nets-vs-bucks-scheduled-for-march-31-730-pm-et",
+  "question": "NBA: Who will win Nets vs. Bucks, scheduled for March 31, 7:30 PM ET?"
+}

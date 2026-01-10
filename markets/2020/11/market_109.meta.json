@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "109",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-11-23T17:25:07.518000Z",
+  "market_createdAt": "2020-11-23T17:25:07.518Z",
+  "market_updatedAt": "2024-04-23T00:01:34.850641Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-16T00:00:00Z",
+  "market_closedTime": "2021-01-20 17:32:04+00",
+  "conditionId": "0xfd2cee9fee9a5d171aa909dd6a17dba52488dda7754f9791d29d14711583f34e",
+  "slug": "will-trump-pardon-himself-in-his-first-term",
+  "question": "Will Trump Pardon Himself in His First Term?"
+}

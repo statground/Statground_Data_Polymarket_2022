@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "231441",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-09T20:08:01.187000Z",
+  "market_createdAt": "2021-08-09T20:08:01.187Z",
+  "market_updatedAt": "2024-04-24T23:16:54.318897Z",
+  "market_startDate": "2021-08-09T20:32:57.489Z",
+  "market_endDate": "2021-09-05T00:00:00Z",
+  "market_closedTime": "2021-09-07 19:10:09+00",
+  "conditionId": "0x7dccb39b73e286b828755e9ee98aa47b4505060187af76514c5efaffab836bf1",
+  "slug": "how-much-eth-will-be-burned-one-month-after-eip-1559-was-implemented",
+  "question": "How much ETH will be burned one month after EIP-1559 was implemented?"
+}

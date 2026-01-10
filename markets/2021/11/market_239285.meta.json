@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239285",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-07T13:45:22.044000Z",
+  "market_createdAt": "2021-11-07T13:45:22.044Z",
+  "market_updatedAt": "2024-04-22T22:29:55.288603Z",
+  "market_startDate": "2021-11-07T21:14:25.065Z",
+  "market_endDate": "2021-11-07T00:00:00Z",
+  "market_closedTime": "2021-11-08 13:31:34+00",
+  "conditionId": "0x2f24a77f41af1e13b137b1ef6f1d05a84b89b9918f0fe07af0badf405f4e7d6d",
+  "slug": "nba-will-the-knicks-beat-the-cavaliers-by-more-than-75-points-in-their-november-7th-matchup",
+  "question": "NBA: Will the Knicks beat the Cavaliers by more than 7.5 points in their November 7th matchup?"
+}

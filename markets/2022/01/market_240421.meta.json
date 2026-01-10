@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240421",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T14:46:16.361000Z",
+  "market_createdAt": "2022-01-11T14:46:16.361Z",
+  "market_updatedAt": "2024-04-23T00:23:07.655613Z",
+  "market_startDate": "2022-01-12T21:34:53.072Z",
+  "market_endDate": "2022-12-31T00:00:00Z",
+  "market_closedTime": "2022-04-07 20:48:16+00",
+  "conditionId": "0x83bcbcd7d597f67127749dbcad4e2eacfbfb333b7cd799f1b7d8f2b67b59b51c",
+  "slug": "will-a-new-us-supreme-court-justice-be-confirmed-in-2022",
+  "question": "Will a new U.S. Supreme Court justice be confirmed in 2022?"
+}

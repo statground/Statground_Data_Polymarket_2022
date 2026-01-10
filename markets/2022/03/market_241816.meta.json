@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241816",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-02T14:06:36.331000Z",
+  "market_createdAt": "2022-03-02T14:06:36.331Z",
+  "market_updatedAt": "2024-04-22T23:35:17.676454Z",
+  "market_startDate": null,
+  "market_endDate": "2022-03-02T00:00:00Z",
+  "market_closedTime": "2022-03-04 01:30:22+00",
+  "conditionId": "0x7847b6eccfec66448f971230029395c0952dcde91e9ebf5a3e5d48b2f40f1c08",
+  "slug": "nba-who-will-win-the-bucks-vspt-heat-scheduled-for-march-2-8-pm-et",
+  "question": "NBA: Who will win the Bucks vs. Heat, scheduled for March 2 (8 PM ET)?"
+}

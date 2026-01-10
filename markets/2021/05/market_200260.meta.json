@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "200260",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-17T19:10:03.986000Z",
+  "market_createdAt": "2021-05-17T19:10:03.986Z",
+  "market_updatedAt": "2024-04-22T23:32:30.563876Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-19T00:00:00Z",
+  "market_closedTime": "2021-05-20 14:53:39+00",
+  "conditionId": "0x9b58c12655870339257b971f2363d96a7a4f6ce079836c2864938aa29b9b0fe0",
+  "slug": "will-the-warriors-or-the-lakers-win-their-nba-play-in-tournament-matchup",
+  "question": "Will the Warriors or the Lakers win their NBA play-in tournament matchup?"
+}

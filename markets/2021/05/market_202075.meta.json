@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "202075",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-23T21:50:04.306000Z",
+  "market_createdAt": "2021-05-23T21:50:04.306Z",
+  "market_updatedAt": "2023-01-31T19:12:13.155Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-24T00:00:00Z",
+  "market_closedTime": "2021-05-24 16:52:16+00",
+  "conditionId": "0x2bcce5b4237a83f30b6418a832abab20c33b4a87b6f9c749099b4fff5030cb78",
+  "slug": "will-the-ftx-crypto-cup-preliminary-game-between-anish-giri-and-hikaru-nakamura-end-in-a-draw",
+  "question": "Will the FTX Crypto Cup preliminary game between Anish Giri and Hikaru Nakamura end in a draw?"
+}

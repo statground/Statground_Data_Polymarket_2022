@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241299",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-03T16:43:49.355000Z",
+  "market_createdAt": "2022-02-03T16:43:49.355Z",
+  "market_updatedAt": "2024-04-23T00:39:31.651623Z",
+  "market_startDate": "2022-02-04T14:33:31.917Z",
+  "market_endDate": "2022-02-17T00:00:00Z",
+  "market_closedTime": "2022-02-12 01:15:49+00",
+  "conditionId": "0x9665c3246c8f64f4343a50ce6c851b416e70f398e9d190da1cb421952fdd5e21",
+  "slug": "fide-world-chess-grand-prix-2022-will-wesley-so-win-pool-d",
+  "question": "FIDE World Chess Grand Prix 2022: Will Wesley So win Pool D?"
+}

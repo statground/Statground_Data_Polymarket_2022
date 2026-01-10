@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239276",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-06T19:30:42.919000Z",
+  "market_createdAt": "2021-11-06T19:30:42.919Z",
+  "market_updatedAt": "2024-04-26T02:46:01.433553Z",
+  "market_startDate": "2021-11-07T01:02:16.306Z",
+  "market_endDate": "2021-11-07T00:00:00Z",
+  "market_closedTime": "2021-11-08 13:34:53+00",
+  "conditionId": "0x0e013163da41090df8fe3b6b3eacc0604bafae6e8ba46572c2b54ec01c6c11fe",
+  "slug": "nfl-will-the-raiders-beat-the-giants-by-more-than-2pt5-points-in-their-november-7th-matchup",
+  "question": "NFL: Will the Raiders beat the Giants by more than 2.5 points in their November 7th matchup?"
+}

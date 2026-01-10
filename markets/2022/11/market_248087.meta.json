@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248087",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-19T00:05:58.826000Z",
+  "market_createdAt": "2022-11-19T00:05:58.826Z",
+  "market_updatedAt": "2023-11-25T14:09:07.607Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-21T00:00:00Z",
+  "market_closedTime": "2022-11-21 22:15:35+00",
+  "conditionId": "0xdb1f84d8cb40e9c13e9d2ee4a1809bc0519c2d94723a7d55dcf2bce3151527f7",
+  "slug": "world-cup-2022-monday-will-netherlands-beat-senegal",
+  "question": "World Cup 2022: Monday - Will Netherlands beat Senegal?"
+}

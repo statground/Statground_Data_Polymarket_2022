@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244363",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-06T16:15:09.816000Z",
+  "market_createdAt": "2022-05-06T16:15:09.816Z",
+  "market_updatedAt": "2023-01-31T20:10:18.208Z",
+  "market_startDate": "2022-05-06T19:17:57.368Z",
+  "market_endDate": "2022-05-10T00:00:00Z",
+  "market_closedTime": "2022-05-11 17:15:59+00",
+  "conditionId": "0x13b5425c64608941268024268b0542fca2a7f5130e6a4a3ea2f4a07bce7b9d9f",
+  "slug": "will-charles-herbster-win-the-republican-gubernatorial-nomination-in-the-2022-nebraska-election-on-may-10",
+  "question": "Will Charles Herbster win the Republican gubernatorial nomination in the 2022 Nebraska election on May 10?"
+}

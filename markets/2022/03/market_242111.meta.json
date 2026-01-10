@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242111",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-15T18:52:11.193000Z",
+  "market_createdAt": "2022-03-15T18:52:11.193Z",
+  "market_updatedAt": "2024-04-24T23:51:19.762817Z",
+  "market_startDate": "2022-03-15T19:05:41.078Z",
+  "market_endDate": "2022-03-15T00:00:00Z",
+  "market_closedTime": "2022-03-16 12:48:41+00",
+  "conditionId": "0x45edc7c3bcc522a578a2928645dcb5f33bdc21864846b48e2ce283a5f1174bf1",
+  "slug": "ncaa-march-madness-who-will-win-the-texas-am-corpus-christi-vspt-texas-southern-scheduled-for-march-15-6pt40-pm-et",
+  "question": "NCAA March Madness: Who will win the Texas A&M Corpus-Christi vs. Texas Southern match, scheduled for March 15 (6.40 PM ET)?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240143",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-22T22:38:29.383000Z",
+  "market_createdAt": "2021-12-22T22:38:29.383Z",
+  "market_updatedAt": "2024-04-26T02:51:04.85228Z",
+  "market_startDate": "2021-12-23T16:57:17.59Z",
+  "market_endDate": "2021-12-30T00:00:00Z",
+  "market_closedTime": "2021-12-30 22:09:25+00",
+  "conditionId": "0xa8c15a8cff2f0a6ab1079e267ad3325ee1f0091e34559cef96c0dc2203739391",
+  "slug": "chess-will-the-van-t-kruijs-opening-1-e3-be-played-at-2021-fide-world-blitz-championship-open",
+  "question": "Chess: Will the Van't Kruijs Opening (1. e3) be played at 2021 FIDE World Blitz Championship Open?"
+}

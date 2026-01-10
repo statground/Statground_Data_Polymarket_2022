@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243067",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-10T16:16:22.795000Z",
+  "market_createdAt": "2022-04-10T16:16:22.795Z",
+  "market_updatedAt": "2023-01-31T09:58:21.995Z",
+  "market_startDate": "2022-04-10T16:39:39.353Z",
+  "market_endDate": "2022-04-10T00:00:00Z",
+  "market_closedTime": "2022-04-11 09:15:55+00",
+  "conditionId": "0x624ef93b61fa25e3d8e5f5645fdd3bc6e1856a23debb034e34b2649dfe333118",
+  "slug": "nba-will-the-jazz-beat-the-trail-blazers-by-more-than-17pt5-points-in-their-april-10-930-pm-et-matchup",
+  "question": "NBA: Will the Jazz beat the Trail Blazers by more than 17.5 points in their April 10 (9:30 PM ET) matchup?"
+}

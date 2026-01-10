@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240783",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-17T09:46:49.660000Z",
+  "market_createdAt": "2022-01-17T09:46:49.66Z",
+  "market_updatedAt": "2024-04-23T00:09:39.937442Z",
+  "market_startDate": "2022-01-17T17:23:43.041Z",
+  "market_endDate": "2022-01-17T00:00:00Z",
+  "market_closedTime": "2022-01-19 14:01:33+00",
+  "conditionId": "0xfdd9b0a49acd9b2cbf0e77e4cbffd8779b08b3a450710e85d19f8699a93e7697",
+  "slug": "nba-will-the-knicks-beat-the-hornets-by-more-than-2p5-points-in-their-january-17-matchup",
+  "question": "NBA: Will the Knicks beat the Hornets by more than 2.5 points in their January 17 matchup?"
+}

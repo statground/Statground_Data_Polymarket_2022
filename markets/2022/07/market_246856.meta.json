@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246856",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-28T18:26:21.702000Z",
+  "market_createdAt": "2022-07-28T18:26:21.702Z",
+  "market_updatedAt": "2023-01-31T21:06:36.316Z",
+  "market_startDate": "2022-07-29T17:15:14.722Z",
+  "market_endDate": "2022-07-31T00:00:00Z",
+  "market_closedTime": "2022-08-01 03:00:40+00",
+  "conditionId": "0x9894dd757351fa40b6970d3bf4e2f17c41d5741b3521de4a74e2f96c6a67ea3a",
+  "slug": "formula-1-who-will-finish-ahead-at-the-2022-hungarian-grand-prix-max-verstappen-or-charles-leclerc",
+  "question": "Formula 1: Who will finish ahead at the 2022 Hungarian Grand Prix, Max Verstappen or Charles Leclerc?"
+}

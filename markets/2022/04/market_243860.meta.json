@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243860",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-27T19:43:45.486000Z",
+  "market_createdAt": "2022-04-27T19:43:45.486Z",
+  "market_updatedAt": "2023-01-31T21:15:18.686Z",
+  "market_startDate": "2022-04-27T21:07:17.421Z",
+  "market_endDate": "2022-05-10T00:00:00Z",
+  "market_closedTime": "2022-05-04 22:15:59+00",
+  "conditionId": "0xadd182478e670c39b066b550040786f628cd8feaed67f2501bfb3899c74c102b",
+  "slug": "will-taiwan-report-20000-or-more-daily-covid-19-cases-by-may-10",
+  "question": "Will Taiwan report 20,000 or more daily COVID-19 cases by May 10?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240334",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T00:36:42.535000Z",
+  "market_createdAt": "2022-01-11T00:36:42.535Z",
+  "market_updatedAt": "2024-04-24T23:37:46.111022Z",
+  "market_startDate": "2022-01-12T20:41:51.478Z",
+  "market_endDate": "2022-06-19T00:00:00Z",
+  "market_closedTime": "2022-06-17 06:15:37+00",
+  "conditionId": "0x23317a92c906a0aff194e35e057c5bd2f94e7fd684bd479379d4489d31caf429",
+  "slug": "will-the-golden-state-warriors-win-the-nba-21-22-champsionship",
+  "question": "Will the Golden State Warriors win the NBA ‘21-’22 Champsionship?"
+}

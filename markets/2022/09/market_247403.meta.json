@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247403",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-30T14:26:35.966000Z",
+  "market_createdAt": "2022-09-30T14:26:35.966Z",
+  "market_updatedAt": "2023-01-31T19:08:48.691Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-08T00:00:00Z",
+  "market_closedTime": "2022-11-10 09:15:40+00",
+  "conditionId": "0x4bf8c5a9e5cc2aa49f5f391159cb804a2efd27ed04287128cba4d88045f2e4bb",
+  "slug": "2022-us-oh-09-house-election-will-a-democrat-or-republican-win",
+  "question": "OH-09 House: Will a Democrat (Kaptur) or Republican (Majewski) win?"
+}

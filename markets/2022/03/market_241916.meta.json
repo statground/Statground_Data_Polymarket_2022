@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241916",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-05T12:10:09.127000Z",
+  "market_createdAt": "2022-03-05T12:10:09.127Z",
+  "market_updatedAt": "2024-04-22T23:09:47.244961Z",
+  "market_startDate": "2022-03-05T15:19:43.375Z",
+  "market_endDate": "2022-03-05T00:00:00Z",
+  "market_closedTime": "2022-03-06 18:15:24+00",
+  "conditionId": "0x37af227a6362f8ffede84c6ab055121e5945ad7414a419b7bb1eb2e700d203ed",
+  "slug": "nba-who-will-win-the-heat-vspt-76ers-scheduled-for-march-5-7pt30-pm-et",
+  "question": "NBA: Who will win the Heat vs. 76ers, scheduled for March 5 (7.30 PM ET)?"
+}

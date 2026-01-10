@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242847",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-05T10:53:50.713000Z",
+  "market_createdAt": "2022-04-05T10:53:50.713Z",
+  "market_updatedAt": "2024-04-22T22:51:18.353908Z",
+  "market_startDate": "2022-04-05T15:00:09.247Z",
+  "market_endDate": "2022-04-05T00:00:00Z",
+  "market_closedTime": "2022-04-06 06:48:02+00",
+  "conditionId": "0xbb7d1c8bee66088b489289f6be38dfb43a60da9a1b57aef718620b807f91c0a4",
+  "slug": "nhl-will-the-penguins-beat-the-avalanche-by-more-than-1pt5-goals-in-their-april-5-matchup-7-pm-et",
+  "question": "NHL: Will the Penguins beat the Avalanche by more than 1.5 goals in their April 5 matchup (7 PM ET)?"
+}

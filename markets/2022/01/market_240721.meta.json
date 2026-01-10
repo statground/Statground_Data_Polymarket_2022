@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240721",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-13T23:38:16.419000Z",
+  "market_createdAt": "2022-01-13T23:38:16.419Z",
+  "market_updatedAt": "2024-04-23T00:27:49.069837Z",
+  "market_startDate": "2022-01-14T00:02:35.549Z",
+  "market_endDate": "2022-01-13T00:00:00Z",
+  "market_closedTime": "2022-01-15 00:31:02+00",
+  "conditionId": "0x79bd166c946d37eb2097fa12741d9804f3e259ffd07dd820b409cb58b35eca78",
+  "slug": "nhl-will-the-jets-beat-the-red-wings-by-more-than-15-goals-in-their-january-13-matchup",
+  "question": "NHL: Will the Jets beat the Red Wings by more than 1.5 goals in their January 13 matchup?"
+}

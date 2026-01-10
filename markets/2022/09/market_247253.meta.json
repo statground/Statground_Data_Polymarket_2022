@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247253",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-12T20:00:33.960000Z",
+  "market_createdAt": "2022-09-12T20:00:33.96Z",
+  "market_updatedAt": "2023-01-31T19:34:09.885Z",
+  "market_startDate": "2022-09-12T20:19:44.899Z",
+  "market_endDate": "2022-09-19T00:00:00Z",
+  "market_closedTime": "2022-09-20 10:00:44+00",
+  "conditionId": "0x0590878dd5b0a8c089e503f3bf79daf7ee456afaf50b47ee0f092763f4a92f9c",
+  "slug": "will-the-price-of-a-barrel-of-crude-oil-be-87pt50-or-more-on-september-19-2022-oct-2022-future",
+  "question": "Will the price of a barrel of crude oil be $87.50 or more on September 19, 2022? (OCT 2022 Future)"
+}

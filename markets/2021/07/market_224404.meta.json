@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "224404",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-14T16:30:01.736000Z",
+  "market_createdAt": "2021-07-14T16:30:01.736Z",
+  "market_updatedAt": "2024-04-23T00:42:31.298463Z",
+  "market_startDate": null,
+  "market_endDate": "2021-10-01T00:00:00Z",
+  "market_closedTime": "2021-09-13 02:35:59+00",
+  "conditionId": "0x969cd20c0ed0655fcc77a0b66d44b37a1786ad1da0366c04645ca9ab7d5e8db9",
+  "slug": "will-cardano-support-smart-contracts-on-mainnet-by-october-1st-2021",
+  "question": "Will Cardano support smart contracts on Mainnet by October 1st, 2021?"
+}

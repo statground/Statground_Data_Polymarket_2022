@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244026",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-03T08:00:20.501000Z",
+  "market_createdAt": "2022-05-03T08:00:20.501Z",
+  "market_updatedAt": "2023-01-31T18:01:57.915Z",
+  "market_startDate": "2022-05-03T16:57:56.454Z",
+  "market_endDate": "2022-05-03T00:00:00Z",
+  "market_closedTime": "2022-05-04 18:30:35+00",
+  "conditionId": "0xc621398343f03fb9c55d739bdbded283b49391dd59dc902b8162ca023ebaa859",
+  "slug": "nhl-will-the-rangers-beat-the-penguins-by-more-than-1pt5-goals-in-their-may-3-700-pm-et-matchup",
+  "question": "NHL: Will the Rangers beat the Penguins by more than 1.5 goals in their May 3, 7:00 PM ET matchup?"
+}

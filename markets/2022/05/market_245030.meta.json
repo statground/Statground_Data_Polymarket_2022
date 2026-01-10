@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "245030",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-19T08:21:02.407000Z",
+  "market_createdAt": "2022-05-19T08:21:02.407Z",
+  "market_updatedAt": "2023-01-31T21:16:50.374Z",
+  "market_startDate": "2022-05-19T14:45:41.819Z",
+  "market_endDate": "2022-05-19T00:00:00Z",
+  "market_closedTime": "2022-05-20 05:30:43+00",
+  "conditionId": "0xdbe00c02603b6dd30b1dccbfc43323e901dc0fa6baf32c55b7a91deb49a5a7df",
+  "slug": "mlb-who-will-win-boston-red-sox-vs-seattle-mariners-scheduled-for-may-19-710-pm-et",
+  "question": "MLB: Who will win Boston Red Sox vs. Seattle Mariners, scheduled for May 19, 7:10 PM ET?"
+}

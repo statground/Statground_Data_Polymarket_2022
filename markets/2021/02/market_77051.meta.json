@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "77051",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-06T23:30:01.621000Z",
+  "market_createdAt": "2021-02-06T23:30:01.621Z",
+  "market_updatedAt": "2023-01-31T11:14:28.948Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-25T00:00:00Z",
+  "market_closedTime": "2021-02-25 22:01:45+00",
+  "conditionId": "0x9e45166c6ca1f5555f1e7f56e30a0c5075838c55a6e2987f991696f7a13e2bc7",
+  "slug": "will-hashmasks-be-the-highest-volume-nft-category-by-7-day-volume-on-february-25-2021",
+  "question": "Will Hashmasks be the highest volume NFT category by 7-day volume on February 25, 2021?"
+}

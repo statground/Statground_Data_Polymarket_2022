@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241346",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-06T09:27:06.632000Z",
+  "market_createdAt": "2022-02-06T09:27:06.632Z",
+  "market_updatedAt": "2024-04-22T23:54:06.65991Z",
+  "market_startDate": null,
+  "market_endDate": "2022-02-06T00:00:00Z",
+  "market_closedTime": "2022-02-07 18:22:54+00",
+  "conditionId": "0xe6bfa411395ab2f67e214d4401d0e766ffd2c2d1826ff841d19b172db6781073",
+  "slug": "nba-who-will-win-the-mavericks-vs-hawks-scheduled-for-february-6-6-pm-et",
+  "question": "NBA: Who will win the Mavericks vs. Hawks, scheduled for February 6 (6 PM ET)?"
+}

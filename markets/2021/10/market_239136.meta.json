@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239136",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-29T12:53:10.226000Z",
+  "market_createdAt": "2021-10-29T12:53:10.226Z",
+  "market_updatedAt": "2024-04-22T23:30:00.297732Z",
+  "market_startDate": "2021-10-29T18:52:32.367Z",
+  "market_endDate": "2021-11-17T00:00:00Z",
+  "market_closedTime": "2021-11-17 19:53:48+00",
+  "conditionId": "0xe4c414aa90622017d9c69113a8d636f4d5603fce55fc06d45498a82c70bf4083",
+  "slug": "will-year-to-year-inflation-in-the-european-union-be-4pt3-or-more-in-october",
+  "question": "Will year-to-year inflation in the European Union be 4.3% or more in October?"
+}

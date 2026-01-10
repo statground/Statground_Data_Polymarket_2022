@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "225259",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-23T20:40:01.239000Z",
+  "market_createdAt": "2021-07-23T20:40:01.239Z",
+  "market_updatedAt": "2024-04-25T00:00:32.255836Z",
+  "market_startDate": "2021-07-23T22:57:35.961Z",
+  "market_endDate": "2021-07-31T00:00:00Z",
+  "market_closedTime": "2021-08-02 14:43:17+00",
+  "conditionId": "0xc6c89997e8911e3933ce382c8dfcf8e8022464086f9b0c18f7b114bed84a1a7c",
+  "slug": "will-novak-djokovic-win-a-gold-medal-at-the-2020-olympics",
+  "question": "Will Novak Djokovic win a gold medal at the 2020 Olympics?"
+}

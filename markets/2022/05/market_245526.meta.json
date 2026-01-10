@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "245526",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-25T19:55:38.844000Z",
+  "market_createdAt": "2022-05-25T19:55:38.844Z",
+  "market_updatedAt": "2023-01-31T21:06:41.716Z",
+  "market_startDate": "2022-05-25T20:06:07.571Z",
+  "market_endDate": "2022-06-15T00:00:00Z",
+  "market_closedTime": "2022-06-11 17:00:37+00",
+  "conditionId": "0xded446b9b143f9d5d2887a9e8a33255ed300d5563505bb4cc325cea3e00015a4",
+  "slug": "will-daily-volume-on-opensea-drop-below-20m-by-june-15",
+  "question": "Will daily volume on Opensea drop below $20M by June 15?"
+}

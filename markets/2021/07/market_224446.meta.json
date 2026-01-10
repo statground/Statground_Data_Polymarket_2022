@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "224446",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-15T07:10:02.478000Z",
+  "market_createdAt": "2021-07-15T07:10:02.478Z",
+  "market_updatedAt": "2024-04-24T23:22:23.681566Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-26T00:00:00Z",
+  "market_closedTime": "2021-07-27 03:01:42+00",
+  "conditionId": "0x67a0cce00585d84d7f6f34a23af51aad741182406cc547d8c16730088b353a22",
+  "slug": "how-many-new-us-residential-sales-will-the-u-s-census-bureau-report-for-june-1",
+  "question": "How many new US residential sales will the U.S. Census Bureau report for June?"
+}

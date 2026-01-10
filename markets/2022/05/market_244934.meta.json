@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244934",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-17T06:16:18.337000Z",
+  "market_createdAt": "2022-05-17T06:16:18.337Z",
+  "market_updatedAt": "2023-01-31T19:26:38.927Z",
+  "market_startDate": "2022-05-17T14:12:00.632Z",
+  "market_endDate": "2022-05-17T00:00:00Z",
+  "market_closedTime": "2022-05-18 05:30:31+00",
+  "conditionId": "0x835e5e47409749c12bfed2ad0b7e93fa32c6754d0df936e445af2b4a9eb206ff",
+  "slug": "mlb-who-will-win-houston-astros-vs-boston-red-sox-scheduled-for-may-17-710-pm-et",
+  "question": "MLB: Who will win Houston Astros vs. Boston Red Sox, scheduled for May 17, 7:10 PM ET?"
+}

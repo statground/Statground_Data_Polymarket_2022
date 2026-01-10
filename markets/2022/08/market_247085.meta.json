@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247085",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-23T14:34:35.842000Z",
+  "market_createdAt": "2022-08-23T14:34:35.842Z",
+  "market_updatedAt": "2023-01-31T17:22:24.165Z",
+  "market_startDate": "2022-08-23T17:44:35.022Z",
+  "market_endDate": "2023-01-01T00:00:00Z",
+  "market_closedTime": "2022-09-23 10:15:40+00",
+  "conditionId": "0x8176cc345ed71dd1b780cb40c9ae5b0377b640327ac0e8a00306de9977a0e082",
+  "slug": "will-the-price-of-eth-be-higher-or-lower-1-week-post-merge",
+  "question": "Will the price of $ETH be higher or lower 1 week post-merge?"
+}

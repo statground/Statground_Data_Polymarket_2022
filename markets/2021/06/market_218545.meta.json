@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218545",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-17T05:40:02.439000Z",
+  "market_createdAt": "2021-06-17T05:40:02.439Z",
+  "market_updatedAt": "2024-04-24T23:29:16.52503Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-17T00:00:00Z",
+  "market_closedTime": "2021-06-18 15:09:46+00",
+  "conditionId": "0x1671f84151d8886b7b1812cd4c5d3ee9faf1c80066a8a42694195f634be3dd3d",
+  "slug": "will-denmark-or-belgium-win-their-euro-2020-match",
+  "question": "Will Denmark or Belgium win their Euro 2020 match?"
+}

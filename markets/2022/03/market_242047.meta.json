@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242047",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-13T13:15:30.987000Z",
+  "market_createdAt": "2022-03-13T13:15:30.987Z",
+  "market_updatedAt": "2024-04-22T23:26:41.440621Z",
+  "market_startDate": "2022-03-13T17:58:35.607Z",
+  "market_endDate": "2022-03-13T00:00:00Z",
+  "market_closedTime": "2022-03-14 10:45:24+00",
+  "conditionId": "0xc071041c5ef0593ed800b809200e3d3f44a9ea3ad49f4a9ba0fb31f144dcd1a4",
+  "slug": "nba-will-the-pelicans-beat-the-rockets-by-more-than-5pt5-points-in-their-march-13-7-pm-et-matchup",
+  "question": "NBA: Will the Pelicans beat the Rockets by more than 5.5 points in their March 13 (7 PM ET) matchup?"
+}

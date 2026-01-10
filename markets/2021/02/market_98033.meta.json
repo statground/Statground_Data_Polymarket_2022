@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "98033",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-25T18:35:05.071000Z",
+  "market_createdAt": "2021-02-25T18:35:05.071Z",
+  "market_updatedAt": "2024-04-24T23:44:20.011831Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-01T00:00:00Z",
+  "market_closedTime": "2021-04-01 18:04:26+00",
+  "conditionId": "0x88a614a924dab3ef8357f263ff8efce0a717b3cecd42229482c63175c31361ea",
+  "slug": "will-eth-be-above-2000-on-april-1st-2021",
+  "question": "Will ETH be above $2000 on April 1st, 2021?"
+}

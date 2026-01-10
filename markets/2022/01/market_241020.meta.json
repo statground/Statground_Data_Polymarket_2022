@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241020",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-25T09:36:10.139000Z",
+  "market_createdAt": "2022-01-25T09:36:10.139Z",
+  "market_updatedAt": "2024-04-22T22:29:04.778498Z",
+  "market_startDate": "2022-01-25T18:35:11.503Z",
+  "market_endDate": "2022-01-25T00:00:00Z",
+  "market_closedTime": "2022-01-27 01:28:01+00",
+  "conditionId": "0x66489f41f4cb0376f0912a5a7183c79533bd74e68f0be468c8bd31b5342c9a79",
+  "slug": "nba-who-will-win-the-warriors-vs-mavericks-scheduled-for-january-25-10-pm-et",
+  "question": "NBA: Who will win the Warriors vs. Mavericks, scheduled for January 25 (10 PM ET)?"
+}

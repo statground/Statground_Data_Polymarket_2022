@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242340",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-20T09:13:48.216000Z",
+  "market_createdAt": "2022-03-20T09:13:48.216Z",
+  "market_updatedAt": "2024-04-22T23:54:48.294482Z",
+  "market_startDate": "2022-03-20T18:19:21.913Z",
+  "market_endDate": "2022-03-20T00:00:00Z",
+  "market_closedTime": "2022-03-22 06:31:44+00",
+  "conditionId": "0x7a7f936445694565c6f42ee808323df992034404e8261d6d1ddf374d60768da3",
+  "slug": "ncaab-will-the-texas-tech-red-raiders-beat-the-notre-dame-fighting-irish-by-more-than-7pt5-points-in-their-march-20-710-pm-et-matchup",
+  "question": "NCAAB: Will the Texas Tech Red Raiders beat the Notre Dame Fighting Irish by more than 7.5 points in their March 20, 7:10 PM ET matchup?"
+}

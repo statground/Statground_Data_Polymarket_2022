@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242786",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-03T09:06:31.822000Z",
+  "market_createdAt": "2022-04-03T09:06:31.822Z",
+  "market_updatedAt": "2024-04-24T23:36:28.686266Z",
+  "market_startDate": "2022-04-03T16:43:23.632Z",
+  "market_endDate": "2022-04-03T00:00:00Z",
+  "market_closedTime": "2022-04-04 07:30:40+00",
+  "conditionId": "0x700ad7c3c0eb8ea303ae6b9add16eeb17f8d66711058c7a1c583e7ae2ba9f6c6",
+  "slug": "nhl-will-the-oilers-beat-the-ducks-by-more-than-1pt5-goals-in-their-april-3-800-pm-et-matchup",
+  "question": "NHL: Will the Oilers beat the Ducks by more than 1.5 goals in their April 3, 8:00 PM ET matchup?"
+}

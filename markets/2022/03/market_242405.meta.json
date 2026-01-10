@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242405",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-23T18:03:58.169000Z",
+  "market_createdAt": "2022-03-23T18:03:58.169Z",
+  "market_updatedAt": "2024-04-22T23:19:08.469749Z",
+  "market_startDate": "2022-03-23T18:18:33.067Z",
+  "market_endDate": "2022-04-30T00:00:00Z",
+  "market_closedTime": "2022-05-01 07:04:00+00",
+  "conditionId": "0xc678e3bf331d6fd6bc2412ac03f5af4fcc213ce5c829eb19a45f1300606de052",
+  "slug": "will-zelenskyy-and-biden-meet-in-person-by-april-30",
+  "question": "Will Zelenskyy and Biden meet in person by April 30?"
+}

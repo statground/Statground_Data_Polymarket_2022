@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242846",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-05T10:46:53.319000Z",
+  "market_createdAt": "2022-04-05T10:46:53.319Z",
+  "market_updatedAt": "2024-04-22T23:41:27.7168Z",
+  "market_startDate": null,
+  "market_endDate": "2022-04-05T00:00:00Z",
+  "market_closedTime": "2022-04-06 07:01:48+00",
+  "conditionId": "0x925dfc0038516ac17c19c24b3cdb75b7eb219ceff3596bbbfc7c444e60db5e47",
+  "slug": "nba-will-the-suns-beat-the-lakers-by-more-than-11pt5-points-in-their-april-5-pm-et-matchup",
+  "question": "NBA: Will the Suns beat the Lakers by more than 11.5 points in their April 5 (10:30 PM ET) matchup?"
+}

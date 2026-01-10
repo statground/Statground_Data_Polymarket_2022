@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241972",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-08T13:16:25.876000Z",
+  "market_createdAt": "2022-03-08T13:16:25.876Z",
+  "market_updatedAt": "2024-04-24T23:52:58.986497Z",
+  "market_startDate": "2022-03-08T18:32:23.198Z",
+  "market_endDate": "2022-03-08T00:00:00Z",
+  "market_closedTime": "2022-03-09 19:30:40+00",
+  "conditionId": "0x88cbc0ed04bcc33202b36a322c090aa86a24146e92d13db6c5994fdce762678c",
+  "slug": "nhl-will-the-maple-leafs-beat-the-kraken-by-more-than-1pt5-goals-in-their-march-8-matchup-7pt30-pm-et",
+  "question": "NHL: Will the Maple Leafs beat the Kraken by more than 1.5 goals in their March 8 matchup (7.30 PM ET)?"
+}

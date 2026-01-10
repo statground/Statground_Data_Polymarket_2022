@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238998",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-13T23:06:02.066000Z",
+  "market_createdAt": "2021-10-13T23:06:02.066Z",
+  "market_updatedAt": "2024-04-24T23:23:31.936088Z",
+  "market_startDate": "2021-10-14T16:47:51.61Z",
+  "market_endDate": "2021-10-14T00:00:00Z",
+  "market_closedTime": "2021-10-15 03:31:02+00",
+  "conditionId": "0xdd9c170b502ca870821d207e7d61a4750851620fdacd8c76d5ca1014be6a34b2",
+  "slug": "will-the-buccaneers-beat-the-eagles-by-more-than-7pt5-points-in-their-week-six-matchup",
+  "question": "Will the Buccaneers beat the Eagles by more than 7.5 points in their week six matchup?"
+}

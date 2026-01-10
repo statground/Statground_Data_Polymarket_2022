@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239510",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-19T15:20:40.958000Z",
+  "market_createdAt": "2021-11-19T15:20:40.958Z",
+  "market_updatedAt": "2024-04-23T00:32:56.60845Z",
+  "market_startDate": "2021-11-19T19:43:01.432Z",
+  "market_endDate": "2021-11-19T00:00:00Z",
+  "market_closedTime": "2021-11-20 18:16:22+00",
+  "conditionId": "0x286a878deefc8779c57df40641e8e6a64f070bf9dc86be630c5eff03a711fd99",
+  "slug": "nba-will-the-kings-beat-the-raptors-by-more-than-3pt5-points-in-their-november-19th-matchup",
+  "question": "NBA: Will the Kings beat the Raptors by more than 3.5 points in their November 19th matchup?"
+}

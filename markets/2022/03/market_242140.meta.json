@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242140",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-17T01:10:29.181000Z",
+  "market_createdAt": "2022-03-17T01:10:29.181Z",
+  "market_updatedAt": "2023-08-24T16:35:28.734Z",
+  "market_startDate": "2023-08-24T16:35:26.289Z",
+  "market_endDate": "2022-05-14T00:00:00Z",
+  "market_closedTime": "2022-05-15 07:00:37+00",
+  "conditionId": "0xcf4ef0578e847409c954a6ca9b94f429b6f6be722dd83377c6a82580f6592637",
+  "slug": "will-ukraine-win-eurovision-song-contest-2022",
+  "question": "Will Ukraine win the 2022 Eurovision Song Contest?"
+}

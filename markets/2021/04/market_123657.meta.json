@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "123657",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-12T19:55:01.897000Z",
+  "market_createdAt": "2021-04-12T19:55:01.897Z",
+  "market_updatedAt": "2024-04-22T23:35:09.724228Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-13T00:00:00Z",
+  "market_closedTime": "2021-04-13 21:37:09+00",
+  "conditionId": "0xee84a0d9b0281fe6acc1182062317e911aa56a1b5932c90c9bfecc24ccb7a4aa",
+  "slug": "will-psg-or-bayern-win-the-second-leg-of-their-champions-league-quarter-final-draw-1",
+  "question": "Will PSG or Bayern win the second leg of their Champions League quarter-final draw?"
+}

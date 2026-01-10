@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241931",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-06T16:17:35.426000Z",
+  "market_createdAt": "2022-03-06T16:17:35.426Z",
+  "market_updatedAt": "2024-04-22T23:47:10.618743Z",
+  "market_startDate": "2022-03-06T17:02:34.381Z",
+  "market_endDate": "2022-03-06T00:00:00Z",
+  "market_closedTime": "2022-03-07 12:30:38+00",
+  "conditionId": "0xfc12003a33e80b1c4e21cfa8d1e9b9c04715827a02f953af452ce97645620924",
+  "slug": "nba-will-the-cavaliers-beat-the-raptors-by-more-than-4pt5-points-in-their-march-6-7pt30-pm-et-matchup",
+  "question": "NBA: Will the Cavaliers beat the Raptors by more than 4.5 points in their March 6 (7.30 PM ET) matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241444",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-12T11:17:59.335000Z",
+  "market_createdAt": "2022-02-12T11:17:59.335Z",
+  "market_updatedAt": "2024-04-23T00:28:33.664206Z",
+  "market_startDate": "2022-02-12T16:27:07.729Z",
+  "market_endDate": "2022-02-12T00:00:00Z",
+  "market_closedTime": "2022-02-13 11:11:57+00",
+  "conditionId": "0xe207eedb0a73f98183bfeac5b08ee79383440f1aaee5adfc3d91a08d01f0b293",
+  "slug": "nhl-will-the-predators-beat-the-jets-by-more-than-1p5-goals-in-their-february-12-matchup-7-pm-et",
+  "question": "NHL: Will the Predators beat the Jets by more than 1.5 goals in their February 12 matchup (7 PM ET)?"
+}

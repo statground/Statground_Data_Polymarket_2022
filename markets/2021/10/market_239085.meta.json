@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239085",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-25T08:20:26.931000Z",
+  "market_createdAt": "2021-10-25T08:20:26.931Z",
+  "market_updatedAt": "2024-04-26T02:47:57.381919Z",
+  "market_startDate": "2021-10-25T09:42:56.838Z",
+  "market_endDate": "2021-10-28T00:00:00Z",
+  "market_closedTime": "2021-10-29 16:59:37+00",
+  "conditionId": "0xb2dc49f9e1b82da710bc7e448c22bd8e467462452cc0b49b2a99a54c60bd922d",
+  "slug": "will-the-cardinals-beat-the-packers-by-more-than-3pt5-points-in-their-october-28th-matchup",
+  "question": "Will the Cardinals beat the Packers by more than 3.5 points in their October 28th matchup?"
+}

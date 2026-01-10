@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240159",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-23T19:17:56.860000Z",
+  "market_createdAt": "2021-12-23T19:17:56.86Z",
+  "market_updatedAt": "2024-04-23T00:08:55.662405Z",
+  "market_startDate": "2021-12-25T07:21:29.098Z",
+  "market_endDate": "2021-12-25T00:00:00Z",
+  "market_closedTime": "2021-12-26 14:34:17+00",
+  "conditionId": "0x978a2b783865c0c8c38103ecfca92c22eb10fe6df75a6ee6675f7e34f6d475d3",
+  "slug": "nfl-will-the-packers-beat-the-browns-by-more-than-6pt5-points-in-their-december-25-matchup",
+  "question": "NFL: Will the Packers beat the Browns by more than 6.5 points in their December 25 matchup?"
+}

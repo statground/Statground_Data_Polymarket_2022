@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "204405",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-29T19:00:03.413000Z",
+  "market_createdAt": "2021-05-29T19:00:03.413Z",
+  "market_updatedAt": "2024-04-22T23:39:27.699323Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-31T00:00:00Z",
+  "market_closedTime": "2021-06-01 16:22:44+00",
+  "conditionId": "0x37f70fc43a8167a91e8619feee3b89ec4ed2cb5e7004855d3cf0886ec94b0805",
+  "slug": "will-1-or-more-games-of-the-ftx-crypto-cup-finals-between-magnus-carlsen-and-wesley-so-begin-with-a-knight-move",
+  "question": "Will 1 or more games of the FTX Crypto Cup Finals between Magnus Carlsen and Wesley So begin with a knight move?"
+}

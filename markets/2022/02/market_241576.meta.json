@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241576",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-17T16:11:28.882000Z",
+  "market_createdAt": "2022-02-17T16:11:28.882Z",
+  "market_updatedAt": "2024-04-23T00:32:47.327228Z",
+  "market_startDate": null,
+  "market_endDate": "2022-02-17T00:00:00Z",
+  "market_closedTime": "2022-02-18 20:31:57+00",
+  "conditionId": "0x241edee3197f9347a397b627e34c5bb33297ae1f1ba375575e5c5ea9a4f844b9",
+  "slug": "nhl-will-the-rangers-beat-the-red-wings-by-more-than-1p5-goals-in-their-february-17-matchup-7-pm-et",
+  "question": "NHL: Will the Rangers beat the Red Wings by more than 1.5 goals in their February 17 matchup (7 PM ET)?"
+}

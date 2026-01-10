@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240882",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-19T21:52:02.784000Z",
+  "market_createdAt": "2022-01-19T21:52:02.784Z",
+  "market_updatedAt": "2023-01-31T08:21:54.313Z",
+  "market_startDate": "2022-01-20T20:06:08.739Z",
+  "market_endDate": "2022-01-22T00:00:00Z",
+  "market_closedTime": "2022-01-24 22:02:18+00",
+  "conditionId": "0xbf3ce9ff8137ef03d18df73b9f6a0a96eb82b8fde67ab07337ffd0d6a744503f",
+  "slug": "ufc-270-who-will-win-moreno-vs-figueiredo",
+  "question": "UFC 270: Who will win Moreno vs. Figueiredo?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240442",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T16:13:33.810000Z",
+  "market_createdAt": "2022-01-11T16:13:33.81Z",
+  "market_updatedAt": "2024-04-23T00:38:24.147011Z",
+  "market_startDate": "2022-01-12T20:54:49.286Z",
+  "market_endDate": "2022-08-01T00:00:00Z",
+  "market_closedTime": "2022-08-03 00:30:42+00",
+  "conditionId": "0xd7aaaaeba7a1874048fff51cfd9893c6fca0cb0852b6c2ca6f09f0373aa92a00",
+  "slug": "will-the-cdc-declare-a-variant-of-high-consequence-by-august-1-2022",
+  "question": "Will the CDC declare a variant of high consequence by August 1, 2022?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244655",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-12T08:17:29.563000Z",
+  "market_createdAt": "2022-05-12T08:17:29.563Z",
+  "market_updatedAt": "2023-01-31T15:30:20.976Z",
+  "market_startDate": "2022-05-12T15:01:37.239Z",
+  "market_endDate": "2022-05-12T00:00:00Z",
+  "market_closedTime": "2022-05-13 07:45:46+00",
+  "conditionId": "0xa3c3dfb2a44741cff0e8aca687df96917003a6fd5309b1a0831c105d3ea1b8fb",
+  "slug": "nhl-who-will-win-lightning-vs-leafs-scheduled-for-may-12-730-pm-et",
+  "question": "NHL: Who will win Lightning vs. Leafs, scheduled for May 12, 7:30 PM ET?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241717",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-25T12:09:59.057000Z",
+  "market_createdAt": "2022-02-25T12:09:59.057Z",
+  "market_updatedAt": "2024-04-24T23:27:22.437062Z",
+  "market_startDate": "2022-02-25T16:14:54.905Z",
+  "market_endDate": "2022-02-25T00:00:00Z",
+  "market_closedTime": "2022-02-26 19:33:15+00",
+  "conditionId": "0xb0543d121d64d1f67d564735a0df03dbf2f97b58671119bde7f039c538014232",
+  "slug": "nba-will-the-lakers-beat-the-clippers-by-more-than-1p5-points-in-their-february-25-10-pm-et-matchup",
+  "question": "NBA: Will the Lakers beat the Clippers by more than 1.5 points in their February 25 (10 PM ET) matchup?"
+}

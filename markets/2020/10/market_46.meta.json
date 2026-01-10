@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "46",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-10-12T22:00:05.798000Z",
+  "market_createdAt": "2020-10-12T22:00:05.798Z",
+  "market_updatedAt": "2024-04-22T22:25:31.27433Z",
+  "market_startDate": null,
+  "market_endDate": "2021-01-02T00:00:00Z",
+  "market_closedTime": "2021-01-02 21:14:20+00",
+  "conditionId": "0x3afe074f2b831c7a4b6817a2a0121e143db78b59f18c1e5ae5957ba53899c1aa",
+  "slug": "will-drake-release-a-new-studio-album-before-the-end-of-2020",
+  "question": "Will Drake release a new studio album before the end of 2020?"
+}

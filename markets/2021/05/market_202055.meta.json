@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "202055",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-21T19:00:04.125000Z",
+  "market_createdAt": "2021-05-21T19:00:04.125Z",
+  "market_updatedAt": "2024-04-22T23:33:26.13208Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-25T00:00:00Z",
+  "market_closedTime": "2021-05-26 16:11:38+00",
+  "conditionId": "0xe81c5d28f555c002f7f46bfeb296f4d8d9423b4a6de8fdfc33830fd88da09cbd",
+  "slug": "will-the-suns-or-the-lakers-win-their-game-2-nba-playoff-matchup",
+  "question": "Who will win Suns vs. Lakers: Game 2?"
+}

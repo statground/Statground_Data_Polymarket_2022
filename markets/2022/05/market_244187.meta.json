@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244187",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-04T08:39:15.402000Z",
+  "market_createdAt": "2022-05-04T08:39:15.402Z",
+  "market_updatedAt": "2023-01-31T20:10:18.3Z",
+  "market_startDate": "2022-05-04T14:28:05.701Z",
+  "market_endDate": "2022-05-04T00:00:00Z",
+  "market_closedTime": "2022-05-05 06:45:37+00",
+  "conditionId": "0xee3401513e9ea1f92f602601ce8205c04b27c541de62a72484bb66a95841d211",
+  "slug": "mlb-who-will-win-chicago-cubs-vs-chicago-white-sox-scheduled-for-may-4-741-pm-et",
+  "question": "MLB: Who will win Chicago Cubs vs. Chicago White Sox, scheduled for May 4, 7:41 PM ET?"
+}

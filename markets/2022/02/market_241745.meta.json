@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241745",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-27T14:34:42.544000Z",
+  "market_createdAt": "2022-02-27T14:34:42.544Z",
+  "market_updatedAt": "2024-04-23T00:48:16.2539Z",
+  "market_startDate": "2022-02-27T16:51:28.692Z",
+  "market_endDate": "2022-02-27T00:00:00Z",
+  "market_closedTime": "2022-02-28 15:22:22+00",
+  "conditionId": "0x05f1b7e72e3f2a4330144d4a1532a15a26aa2a815e4fd79624815b610e835279",
+  "slug": "nba-will-the-warriors-beat-the-mavericks-by-more-than-4p5-points-in-their-february-27-730-pm-et-matchup",
+  "question": "NBA: Will the Warriors beat the Mavericks by more than 4.5 points in their February 27 (7.30 PM ET) matchup?"
+}

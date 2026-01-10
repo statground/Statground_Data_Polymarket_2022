@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248082",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T23:17:08.019000Z",
+  "market_createdAt": "2022-11-18T23:17:08.019Z",
+  "market_updatedAt": "2023-11-25T14:09:06.495Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-18T00:00:00Z",
+  "market_closedTime": "2022-12-19 17:01:08+00",
+  "conditionId": "0x0e78dc07b7805178fb80906ac414bba454e8819524cede5d5d062caa19c7ab11",
+  "slug": "will-harry-kane-be-the-top-goalscorer-in-the-2022-world-cup",
+  "question": "Will Harry Kane be the top goalscorer in the 2022 World Cup?"
+}

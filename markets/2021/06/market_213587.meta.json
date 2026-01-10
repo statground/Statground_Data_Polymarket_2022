@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "213587",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-08T18:25:01.032000Z",
+  "market_createdAt": "2021-06-08T18:25:01.032Z",
+  "market_updatedAt": "2024-04-24T23:49:44.025739Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-11T00:00:00Z",
+  "market_closedTime": "2021-06-11 21:25:17+00",
+  "conditionId": "0x5f071d36275ee75b2e984bf03036c5ff11e4899c3d4f0db67fc2ae8586a8669c",
+  "slug": "will-turkey-or-italy-win-their-euro-2020-match",
+  "question": "Will Turkey or Italy win their Euro 2020 match?"
+}

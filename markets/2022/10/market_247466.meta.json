@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247466",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-11T16:28:13.044000Z",
+  "market_createdAt": "2022-10-11T16:28:13.044Z",
+  "market_updatedAt": "2023-01-31T20:14:17.116Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-17T00:00:00Z",
+  "market_closedTime": "2022-10-16 18:15:35+00",
+  "conditionId": "0xebd245cde12762c66e606217677221fbd6d947a5393434d962c46b5c927342bd",
+  "slug": "nl-division-series-phillies-vs-braves",
+  "question": "NL Division Series: Phillies vs. Braves"
+}

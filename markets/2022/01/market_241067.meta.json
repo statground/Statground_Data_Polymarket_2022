@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241067",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-26T21:24:35.276000Z",
+  "market_createdAt": "2022-01-26T21:24:35.276Z",
+  "market_updatedAt": "2024-04-22T23:00:04.337266Z",
+  "market_startDate": "2022-02-11T17:47:43.054Z",
+  "market_endDate": "2022-05-03T00:00:00Z",
+  "market_closedTime": "2022-05-04 06:48:44+00",
+  "conditionId": "0xac99e3791bc68150e574262e1d84da97c9d8fc61abf495079a9dd8734a9eff0e",
+  "slug": "will-mike-gibbons-win-the-republican-nomination-for-the-2022-united-states-senate-election-in-ohio",
+  "question": "Will Mike Gibbons win the Republican nomination for the 2022 United States Senate election in Ohio?"
+}

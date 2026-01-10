@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242612",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-29T14:50:17.487000Z",
+  "market_createdAt": "2022-03-29T14:50:17.487Z",
+  "market_updatedAt": "2024-04-23T00:38:10.4592Z",
+  "market_startDate": "2022-03-29T15:51:29.839Z",
+  "market_endDate": "2022-03-29T00:00:00Z",
+  "market_closedTime": "2022-03-30 08:15:37+00",
+  "conditionId": "0x10b722fa9710d944289b139451eb8851e4f89650b1af44a0c6375b0615a9261b",
+  "slug": "nba-will-the-nets-beat-the-pistons-by-more-than-13pt5-points-in-their-march-29-7pt30-pm-et-matchup",
+  "question": "NBA: Will the Nets beat the Pistons by more than 13.5 points in their March 29 (7.30 PM ET) matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241173",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-29T10:02:16.740000Z",
+  "market_createdAt": "2022-01-29T10:02:16.74Z",
+  "market_updatedAt": "2024-04-22T22:40:47.6738Z",
+  "market_startDate": "2022-01-29T18:02:53.047Z",
+  "market_endDate": "2022-01-29T00:00:00Z",
+  "market_closedTime": "2022-01-31 01:14:36+00",
+  "conditionId": "0xef2814665cce50de73bc91666f4044bd101b5a547bdea5a38f7f865cdb10d900",
+  "slug": "nba-will-the-76ers-beat-the-kings-by-more-than-105-points-in-their-january-29-730-pm-et-matchup",
+  "question": "NBA: Will the 76ers beat the Kings by more than 10.5 points in their January 29 (7.30 PM ET) matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243557",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-22T07:10:02.011000Z",
+  "market_createdAt": "2022-04-22T07:10:02.011Z",
+  "market_updatedAt": "2023-01-31T11:51:56.239Z",
+  "market_startDate": "2022-04-22T14:41:55.41Z",
+  "market_endDate": "2022-04-22T00:00:00Z",
+  "market_closedTime": "2022-04-23 07:18:48+00",
+  "conditionId": "0x416ecac59ad77690f719819b0022043e6c03cdb3f00b16b1b8302a0422091a60",
+  "slug": "nhl-will-the-capitals-beat-the-coyotes-by-more-than-2pt5-goals-in-their-april-22-1030-pm-et-matchup",
+  "question": "NHL: Will the Capitals beat the Coyotes by more than 2.5 goals in their April 22, 10:30 PM ET matchup?"
+}

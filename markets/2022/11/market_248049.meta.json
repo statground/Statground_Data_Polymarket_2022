@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248049",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T21:46:55.426000Z",
+  "market_createdAt": "2022-11-18T21:46:55.426Z",
+  "market_updatedAt": "2023-10-18T17:41:12.605Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-18T00:00:00Z",
+  "market_closedTime": "2022-12-18 22:30:59+00",
+  "conditionId": "0xd425eb1d83aef0500596c46254b199a4fa44247da2d61b0a359f81c6e8211e4f",
+  "slug": "will-france-win-the-2022-world-cup",
+  "question": "Will France win the 2022 World Cup?"
+}

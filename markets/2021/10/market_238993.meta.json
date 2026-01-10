@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238993",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-13T22:35:38.822000Z",
+  "market_createdAt": "2021-10-13T22:35:38.822Z",
+  "market_updatedAt": "2024-04-25T00:14:19.768409Z",
+  "market_startDate": "2021-10-14T16:42:21.881Z",
+  "market_endDate": "2021-10-17T00:00:00Z",
+  "market_closedTime": "2021-10-18 04:48:31+00",
+  "conditionId": "0x9102ec9098bf71632bc2a6f52c7e3508d0b7de2e4a5507e00ee614e87d96f1da",
+  "slug": "will-the-steelers-beat-the-seahawks-by-more-than-4pt5-points-in-their-week-six-matchup",
+  "question": "Will the Steelers beat the Seahawks by more than 4.5 points in their week six matchup?"
+}

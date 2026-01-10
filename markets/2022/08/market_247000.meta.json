@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247000",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-16T14:23:09.870000Z",
+  "market_createdAt": "2022-08-16T14:23:09.87Z",
+  "market_updatedAt": "2023-01-31T08:21:59.646Z",
+  "market_startDate": "2022-08-16T17:02:34.988Z",
+  "market_endDate": "2022-08-21T00:00:00Z",
+  "market_closedTime": "2022-08-24 16:30:50+00",
+  "conditionId": "0xe3dd4b7f1078f64e58365f6dd4feb28c917ddf212013a88efe74e4b61679e9ff",
+  "slug": "will-beast-or-dragon-ball-super-super-hero-gross-more-on-opening-weekend",
+  "question": "Will Beast or Dragon Ball Super: Super Hero gross more on opening weekend?"
+}

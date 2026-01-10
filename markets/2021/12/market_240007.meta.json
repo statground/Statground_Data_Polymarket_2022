@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240007",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-12T13:52:22.801000Z",
+  "market_createdAt": "2021-12-12T13:52:22.801Z",
+  "market_updatedAt": "2024-04-26T02:48:57.66657Z",
+  "market_startDate": "2021-12-12T19:55:19.261Z",
+  "market_endDate": "2021-12-25T00:00:00Z",
+  "market_closedTime": "2021-12-26 01:36:43+00",
+  "conditionId": "0x25b72a6694bcc629ceae1626847e3cab87c1ef5c825717f63264e6a108780545",
+  "slug": "will-the-polygon-matic-market-cap-be-above-15-billion-on-december-25",
+  "question": "Will the Polygon ($MATIC) Market Cap be above $15 billion on December 25?"
+}

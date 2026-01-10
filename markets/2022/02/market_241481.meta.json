@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241481",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-14T11:13:40.818000Z",
+  "market_createdAt": "2022-02-14T11:13:40.818Z",
+  "market_updatedAt": "2024-04-23T00:41:37.830346Z",
+  "market_startDate": "2022-02-14T14:48:39.722Z",
+  "market_endDate": "2022-02-18T00:00:00Z",
+  "market_closedTime": "2022-02-19 03:00:25+00",
+  "conditionId": "0x8a24fa40eb0ccaab65e589201f9e092afc9b88dee75b6dd18bd1d5ef6ac64faf",
+  "slug": "will-the-top-song-on-spotify-charts-hit-32m-global-streams-for-the-week-ending-on-february-17",
+  "question": "Will the top song on Spotify Charts hit 32M global streams for the week ending on February 17?"
+}

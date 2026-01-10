@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239174",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-31T08:11:23.342000Z",
+  "market_createdAt": "2021-10-31T08:11:23.342Z",
+  "market_updatedAt": "2024-04-23T00:35:12.961033Z",
+  "market_startDate": "2021-10-31T09:19:12.947Z",
+  "market_endDate": "2021-10-31T00:00:00Z",
+  "market_closedTime": "2021-11-01 10:28:33+00",
+  "conditionId": "0x416712a2bf6343a843f18713992fc535071fdf2d736c5e92fad2dad1dc3ec41c",
+  "slug": "nfl-will-the-broncos-beat-the-washington-by-more-than-3pt5-points-in-their-october-31st-matchup",
+  "question": "NFL: Will the Broncos beat the Washington by more than 3.5 points in their October 31st matchup?"
+}

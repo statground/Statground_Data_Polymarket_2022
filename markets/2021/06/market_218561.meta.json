@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218561",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-17T18:05:01.927000Z",
+  "market_createdAt": "2021-06-17T18:05:01.927Z",
+  "market_updatedAt": "2024-04-22T22:42:12.107091Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-20T00:00:00Z",
+  "market_closedTime": "2021-06-20 21:01:28+00",
+  "conditionId": "0xf2be6bb5cfb4ad52c13d174d51b292f2ac69f677785d64b27452081c9086c6e2",
+  "slug": "will-lewis-hamilton-finish-ahead-of-max-verstappen-in-the-french-grand-prix",
+  "question": "Will Lewis Hamilton finish ahead of Max Verstappen in the French Grand Prix? "
+}

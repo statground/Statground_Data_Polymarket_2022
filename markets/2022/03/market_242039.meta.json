@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242039",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-12T20:22:51.278000Z",
+  "market_createdAt": "2022-03-12T20:22:51.278Z",
+  "market_updatedAt": "2024-04-23T00:07:07.287837Z",
+  "market_startDate": "2022-03-12T21:38:26.547Z",
+  "market_endDate": "2022-03-12T00:00:00Z",
+  "market_closedTime": "2022-03-13 11:49:30+00",
+  "conditionId": "0xc2b2b47897ae9ebaeb62fbb1558bb9d702887e144de94428bf181e022767fea4",
+  "slug": "nhl-will-the-stars-beat-the-rangers-by-more-than-1pt5-goals-in-their-march-12-matchup-8-pm-et",
+  "question": "NHL: Will the Stars beat the Rangers by more than 1.5 goals in their March 12 matchup (8 PM ET)?"
+}

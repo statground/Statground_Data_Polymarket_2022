@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240066",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-16T22:34:47.321000Z",
+  "market_createdAt": "2021-12-16T22:34:47.321Z",
+  "market_updatedAt": "2024-04-22T23:54:09.812957Z",
+  "market_startDate": "2021-12-17T20:55:47.024Z",
+  "market_endDate": "2021-12-19T00:00:00Z",
+  "market_closedTime": "2021-12-20 14:06:00+00",
+  "conditionId": "0x772b21037f514ef996126e1cd7652b4ae7ffd520a40d6266bf1c8190946d40d7",
+  "slug": "nfl-will-the-bills-beat-the-panthers-by-more-than-10pt5-points-in-their-december-19-matchup",
+  "question": "NFL: Will the Bills beat the Panthers by more than 10.5 points in their December 19 matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239551",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-21T19:52:55.201000Z",
+  "market_createdAt": "2021-11-21T19:52:55.201Z",
+  "market_updatedAt": "2024-04-22T23:02:50.069454Z",
+  "market_startDate": "2021-11-21T20:17:33.497Z",
+  "market_endDate": "2021-11-21T00:00:00Z",
+  "market_closedTime": "2021-11-22 17:26:22+00",
+  "conditionId": "0x052d7008562ec27ec1e9adec043124712ed43e7a871584dcb2de78cf3ee236cb",
+  "slug": "nfl-will-the-chargers-beat-the-steelers-by-more-than-8pt5-points-in-their-november-21-matchup",
+  "question": "NFL: Will the Chargers beat the Steelers by more than 8.5 points in their November 21 matchup?"
+}

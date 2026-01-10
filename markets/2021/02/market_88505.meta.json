@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "88505",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-15T16:05:02.651000Z",
+  "market_createdAt": "2021-02-15T16:05:02.651Z",
+  "market_updatedAt": "2024-04-23T00:14:51.535891Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-15T00:00:00Z",
+  "market_closedTime": "2021-02-16 16:28:02+00",
+  "conditionId": "0x120e014084c16218be2d8671043832c0c036f065f5601559d85c1d6661823b90",
+  "slug": "will-the-rockets-or-the-wizards-win-their-february-15th-matchup",
+  "question": "Will the Rockets or the Wizards win their February 15th matchup?"
+}

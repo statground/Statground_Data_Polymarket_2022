@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240010",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-13T10:13:33.312000Z",
+  "market_createdAt": "2021-12-13T10:13:33.312Z",
+  "market_updatedAt": "2024-04-25T00:02:50.571215Z",
+  "market_startDate": "2021-12-13T19:12:01.281Z",
+  "market_endDate": "2021-12-13T00:00:00Z",
+  "market_closedTime": "2021-12-14 15:26:39+00",
+  "conditionId": "0x56225a8ae9f91e6688778132ba190839b5e55b34b7087c8f6449b40ed24882cc",
+  "slug": "nba-will-the-raptors-beat-the-kings-by-more-than-4pt5-points-in-their-december-13-matchup",
+  "question": "NBA: Will the Raptors beat the Kings by more than 4.5 points in their December 13 matchup?"
+}

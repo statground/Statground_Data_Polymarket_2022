@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240456",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T16:25:30.650000Z",
+  "market_createdAt": "2022-01-11T16:25:30.65Z",
+  "market_updatedAt": "2024-04-22T22:54:12.280864Z",
+  "market_startDate": "2022-01-12T21:00:02.508Z",
+  "market_endDate": "2022-02-01T00:00:00Z",
+  "market_closedTime": "2022-02-02 16:50:25+00",
+  "conditionId": "0xd015c865945aeb47535ffd1a650cd4d4832791f33dc550e70caf5b17d5569e75",
+  "slug": "will-the-floor-price-of-cryptopunks-be-above-70-eth-on-february-1st-2022",
+  "question": "Will the floor price of CryptoPunks be above 70 ETH on February 1st, 2022?"
+}

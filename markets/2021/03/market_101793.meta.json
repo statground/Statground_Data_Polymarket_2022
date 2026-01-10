@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "101793",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-03-08T18:15:02.026000Z",
+  "market_createdAt": "2021-03-08T18:15:02.026Z",
+  "market_updatedAt": "2023-01-31T12:01:52.028Z",
+  "market_startDate": null,
+  "market_endDate": "2021-03-22T00:00:00Z",
+  "market_closedTime": "2021-03-22 23:12:25+00",
+  "conditionId": "0x83eacb4c835ca48c20a12115268bbd7525e2d922d1b72d09bdf3324ba251423e",
+  "slug": "will-eth-be-above-1750-on-march-22nd-2021-1",
+  "question": "Will ETH be above $1750 on March 22nd, 2021?"
+}

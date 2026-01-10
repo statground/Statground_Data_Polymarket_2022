@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241628",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-20T16:44:59.927000Z",
+  "market_createdAt": "2022-02-20T16:44:59.927Z",
+  "market_updatedAt": "2024-04-22T22:24:54.412115Z",
+  "market_startDate": "2022-02-20T17:20:15.037Z",
+  "market_endDate": "2022-02-20T00:00:00Z",
+  "market_closedTime": "2022-02-21 16:34:12+00",
+  "conditionId": "0x30b3607ba47e7d24712cf8c04d906c1512fdcb074399e9db2d1ab5723cece040",
+  "slug": "nhl-will-the-blue-jackets-beat-the-sabres-by-more-than-1p5-goals-in-their-february-20-matchup-6-pm-et",
+  "question": "NHL: Will the Blue Jackets beat the Sabres by more than 1.5 goals in their February 20 matchup (6 PM ET)?"
+}

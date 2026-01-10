@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "202067",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-21T19:20:03.341000Z",
+  "market_createdAt": "2021-05-21T19:20:03.341Z",
+  "market_updatedAt": "2024-04-24T23:22:36.499832Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-05T00:00:00Z",
+  "market_closedTime": "2021-06-04 16:04:36+00",
+  "conditionId": "0x3d33408707cd96cf2a13aba132196a334c132c1d324529b994dae1785bbe2614",
+  "slug": "will-the-suns-or-the-lakers-win-their-round-1-nba-playoff-series",
+  "question": "Will the Suns or the Lakers win their Round 1 NBA Playoff Series?"
+}

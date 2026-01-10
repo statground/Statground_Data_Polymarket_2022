@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241895",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-04T16:54:35.280000Z",
+  "market_createdAt": "2022-03-04T16:54:35.28Z",
+  "market_updatedAt": "2024-04-22T23:28:46.458475Z",
+  "market_startDate": "2022-03-04T17:43:28.593Z",
+  "market_endDate": "2022-03-04T00:00:00Z",
+  "market_closedTime": "2022-03-05 14:32:08+00",
+  "conditionId": "0x35293e8a386c8b3d7935c6a51be7d1a04cc2a6de6541cf7daf04e13f8ffac9ff",
+  "slug": "nhl-will-the-wild-beat-the-sabres-by-more-than-1pt5-goals-in-their-march-4-matchup-7-pm-et",
+  "question": "NHL: Will the Wild beat the Sabres by more than 1.5 goals in their March 4 matchup (7 PM ET)?"
+}

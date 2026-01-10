@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244942",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-17T16:04:34.947000Z",
+  "market_createdAt": "2022-05-17T16:04:34.947Z",
+  "market_updatedAt": "2023-01-31T15:40:41.837Z",
+  "market_startDate": "2022-05-17T17:53:47.271Z",
+  "market_endDate": "2022-10-01T00:00:00Z",
+  "market_closedTime": "2022-10-02 06:15:53+00",
+  "conditionId": "0xd4635d47ff12077daa50b01da83ea180880f29bc79fcf6aab3740cc231036e58",
+  "slug": "will-russia-expand-its-number-of-federal-subjects-by-october-1-2022",
+  "question": "Will Russia expand its number of federal subjects by October 1, 2022?"
+}

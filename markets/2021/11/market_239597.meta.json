@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239597",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-24T18:16:57.868000Z",
+  "market_createdAt": "2021-11-24T18:16:57.868Z",
+  "market_updatedAt": "2024-04-22T22:52:32.888722Z",
+  "market_startDate": "2021-11-24T19:13:03.245Z",
+  "market_endDate": "2021-12-01T00:00:00Z",
+  "market_closedTime": "2021-12-02 06:42:24+00",
+  "conditionId": "0xa93577a4a638df6a4a6fbaddd85807358af39667acda23cb6b0a2ef7273ea38d",
+  "slug": "will-cro-cryptocom-coin-be-above-1-on-december-1",
+  "question": "Will $CRO (Crypto.com Coin) be above $1 on December 1?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240281",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-02T16:49:54.768000Z",
+  "market_createdAt": "2022-01-02T16:49:54.768Z",
+  "market_updatedAt": "2024-04-22T23:11:46.772295Z",
+  "market_startDate": "2022-01-02T18:51:10.303Z",
+  "market_endDate": "2022-01-02T00:00:00Z",
+  "market_closedTime": "2022-01-03 15:15:31+00",
+  "conditionId": "0xc1947b2fe16b302e0e7781bb3c97fe1615ffb9b9780978563b3b4af7c95f36c2",
+  "slug": "nba-will-the-cavaliers-beat-the-pacers-by-more-than-2pt5-points-in-their-january-2-matchup",
+  "question": "NBA: Will the Cavaliers beat the Pacers by more than 2.5 points in their January 2 matchup?"
+}

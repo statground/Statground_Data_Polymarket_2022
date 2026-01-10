@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240954",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-22T19:43:11.720000Z",
+  "market_createdAt": "2022-01-22T19:43:11.72Z",
+  "market_updatedAt": "2024-04-22T22:45:37.882715Z",
+  "market_startDate": "2022-01-22T19:56:30.331Z",
+  "market_endDate": "2022-01-22T00:00:00Z",
+  "market_closedTime": "2022-01-23 23:08:12+00",
+  "conditionId": "0xcc4a3885aee3ad32f8232e3777a63b146fbfd9f76e19907c697a73b3d5fdd600",
+  "slug": "nfl-who-will-win-titans-v-bengals",
+  "question": "NFL: Who will win Titans v. Bengals?"
+}

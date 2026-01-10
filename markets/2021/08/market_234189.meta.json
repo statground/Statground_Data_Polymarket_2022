@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "234189",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-12T17:06:01.455000Z",
+  "market_createdAt": "2021-08-12T17:06:01.455Z",
+  "market_updatedAt": "2024-04-24T23:41:40.048247Z",
+  "market_startDate": null,
+  "market_endDate": "2021-09-01T00:00:00Z",
+  "market_closedTime": "2021-09-02 16:38:31+00",
+  "conditionId": "0x12eaeca1e6d1a2538780e79a8fe9bcc91be57dbb030d624ea042b0d7a1f3468a",
+  "slug": "will-fully-vaccinated-non-essential-canadian-travelers-be-permitted-to-cross-into-the-us-through-the-land-borders-by-september-1-2021",
+  "question": "Will fully vaccinated non-essential Canadian travelers be permitted to cross into the US through the land borders by September 1, 2021?"
+}

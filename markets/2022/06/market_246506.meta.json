@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246506",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-09T11:36:57.305000Z",
+  "market_createdAt": "2022-06-09T11:36:57.305Z",
+  "market_updatedAt": "2023-01-31T17:38:44.934Z",
+  "market_startDate": "2022-06-09T14:30:20.537Z",
+  "market_endDate": "2022-06-13T00:00:00Z",
+  "market_closedTime": "2022-06-14 18:31:04+00",
+  "conditionId": "0x2da94785f90a5505459e525adb8ffabbf32f6c0816bfe01df87e285f6bbf649e",
+  "slug": "will-jurassic-world-dominion-gross-more-than-150-million-domestically-in-its-opening-weekend",
+  "question": "Will ‘Jurassic World Dominion’ gross more than $150 million domestically in its opening weekend?"
+}

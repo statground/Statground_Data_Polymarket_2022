@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243214",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-13T06:49:31.537000Z",
+  "market_createdAt": "2022-04-13T06:49:31.537Z",
+  "market_updatedAt": "2023-01-31T19:58:12.241Z",
+  "market_startDate": "2022-04-13T14:40:32.4Z",
+  "market_endDate": "2022-05-31T00:00:00Z",
+  "market_closedTime": "2022-05-31 09:45:38+00",
+  "conditionId": "0xc32386923df286cd2fa71b6e3df9509ffd2b0ca4f2ba8a2a24703416d0a2895f",
+  "slug": "2022-nba-playoffs-will-the-miami-heat-win-the-eastern-conference",
+  "question": "2022 NBA Playoffs: Will the Miami Heat win the Eastern Conference?"
+}

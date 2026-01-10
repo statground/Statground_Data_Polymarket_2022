@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242494",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-25T19:50:34.980000Z",
+  "market_createdAt": "2022-03-25T19:50:34.98Z",
+  "market_updatedAt": "2023-01-31T17:22:18.267Z",
+  "market_startDate": "2022-03-25T21:10:19.906Z",
+  "market_endDate": "2022-03-26T00:00:00Z",
+  "market_closedTime": "2022-03-31 03:20:56+00",
+  "conditionId": "0xa3db4d46cd37c1527ab56a627de39f024b57e4234734df621d316f6e40e8fb36",
+  "slug": "cricket-who-will-win-nepal-vs-papua-new-guinea-2nd-odi",
+  "question": "Cricket: Who will win Nepal vs. Papua New Guinea, 2nd ODI?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239222",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-03T15:23:15.952000Z",
+  "market_createdAt": "2021-11-03T15:23:15.952Z",
+  "market_updatedAt": "2024-04-22T22:46:46.826169Z",
+  "market_startDate": "2021-11-03T16:46:53.84Z",
+  "market_endDate": "2021-11-03T00:00:00Z",
+  "market_closedTime": "2021-11-04 16:58:31+00",
+  "conditionId": "0x3e71c3f0f1830afaee733458b12aaca3e9eca9f77f282e7a7aa0f14ef6ca6cf5",
+  "slug": "nba-will-the-wizards-beat-the-raptors-by-more-than-3pt5-points-in-their-november-3rd-matchup",
+  "question": "NBA: Will the Wizards beat the Raptors by more than 3.5 points in their November 3rd matchup?"
+}

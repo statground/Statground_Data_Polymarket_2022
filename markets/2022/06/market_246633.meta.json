@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246633",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-30T18:10:50.633000Z",
+  "market_createdAt": "2022-06-30T18:10:50.633Z",
+  "market_updatedAt": "2023-01-31T21:10:03.845Z",
+  "market_startDate": null,
+  "market_endDate": "2022-07-02T00:00:00Z",
+  "market_closedTime": "2022-07-03 08:16:17+00",
+  "conditionId": "0x73d35afb2638c4b60aee41fc47bc789dc60ff996dfa25c1b3f1260f81b46c8f8",
+  "slug": "ufc-276-will-adesanya-kotko-cannonier",
+  "question": "UFC 276: Will Adesanya KO/TKO Cannonier?"
+}

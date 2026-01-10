@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218552",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-17T05:45:02.858000Z",
+  "market_createdAt": "2021-06-17T05:45:02.858Z",
+  "market_updatedAt": "2024-04-22T23:33:37.964375Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-18T00:00:00Z",
+  "market_closedTime": "2021-06-20 21:12:12+00",
+  "conditionId": "0xb54e226a2d5408b80ca48b6cbd48a494c1c87351510f9deb48f4fe79b80e535d",
+  "slug": "will-england-or-scotland-win-their-euro-2020-match",
+  "question": "Will England or Scotland win their Euro 2020 match?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243835",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-27T08:07:13.897000Z",
+  "market_createdAt": "2022-04-27T08:07:13.897Z",
+  "market_updatedAt": "2023-01-31T02:45:00.432Z",
+  "market_startDate": "2022-04-27T15:44:44.756Z",
+  "market_endDate": "2022-04-27T00:00:00Z",
+  "market_closedTime": "2022-04-28 07:03:09+00",
+  "conditionId": "0x4e4a553a08c42214c25d57706faa537b73353af20d5386448e7510bcbb1ef3e4",
+  "slug": "nhl-will-the-stars-beat-the-coyotes-by-more-than-2pt5-goals-in-their-april-27-830-pm-et-matchup",
+  "question": "NHL: Will the Stars beat the Coyotes by more than 2.5 goals in their April 27, 8:30 PM ET matchup?"
+}

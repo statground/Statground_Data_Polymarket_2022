@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247820",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-08T16:52:22.512000Z",
+  "market_createdAt": "2022-11-08T16:52:22.512Z",
+  "market_updatedAt": "2023-01-31T20:21:33.33Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-15T00:00:00Z",
+  "market_closedTime": "2022-11-16 07:15:37+00",
+  "conditionId": "0x4e8d7b33787278a7f7d4f4e5ce12811823dc4cf01a6abd9ff25a356ed6dc534f",
+  "slug": "will-kyrie-irving-play-any-games-by-november-15",
+  "question": "Will Kyrie Irving play any games by November 15?"
+}

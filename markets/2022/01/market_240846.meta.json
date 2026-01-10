@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240846",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-19T11:24:25.630000Z",
+  "market_createdAt": "2022-01-19T11:24:25.63Z",
+  "market_updatedAt": "2024-04-22T23:23:10.755127Z",
+  "market_startDate": "2022-01-19T19:58:57.844Z",
+  "market_endDate": "2022-01-19T00:00:00Z",
+  "market_closedTime": "2022-01-21 13:22:01+00",
+  "conditionId": "0x5a96a6bc5f0c9aef6e81d678222cee5ec719902a21ec238a72729f96c09fac9c",
+  "slug": "nba-will-the-heat-beat-the-trail-blazers-by-more-than-8p5-points-in-their-january-19-matchup",
+  "question": "NBA: Will the Heat beat the Trail Blazers by more than 8.5 points in their January 19 matchup?"
+}

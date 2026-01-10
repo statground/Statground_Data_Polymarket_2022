@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240858",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-19T18:33:48.255000Z",
+  "market_createdAt": "2022-01-19T18:33:48.255Z",
+  "market_updatedAt": "2024-04-23T00:11:22.452389Z",
+  "market_startDate": "2022-01-19T19:36:38.451Z",
+  "market_endDate": "2022-01-19T00:00:00Z",
+  "market_closedTime": "2022-01-21 13:16:05+00",
+  "conditionId": "0x29eb47bfaf70409d45c29082e72ce43d8e09194f83a797d52ce214aefb45e3fc",
+  "slug": "will-president-biden-mention-anti-vaxxers-in-his-press-conference-on-january-19",
+  "question": "Will President Biden mention \"anti-vaxxers\" in his press conference on January 19?"
+}

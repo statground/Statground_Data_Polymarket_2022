@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244945",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-18T06:41:23.388000Z",
+  "market_createdAt": "2022-05-18T06:41:23.388Z",
+  "market_updatedAt": "2023-01-31T06:34:09.016Z",
+  "market_startDate": "2022-05-18T18:24:30.521Z",
+  "market_endDate": "2022-05-18T00:00:00Z",
+  "market_closedTime": "2022-05-19 08:00:39+00",
+  "conditionId": "0x8d785f1e63149f26b45cca48afec287687ec8374dcc3a214cda48c74dbeb19e9",
+  "slug": "nhl-who-will-win-flames-vs-oilers-scheduled-for-may-18-930-pm-et",
+  "question": "NHL: Who will win Flames vs. Oilers, scheduled for May 18, 9:30 PM ET?"
+}

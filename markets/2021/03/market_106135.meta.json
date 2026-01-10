@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "106135",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-03-19T19:00:03.672000Z",
+  "market_createdAt": "2021-03-19T19:00:03.672Z",
+  "market_updatedAt": "2024-04-22T22:31:11.874059Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-14T00:00:00Z",
+  "market_closedTime": "2021-05-04 14:48:26+00",
+  "conditionId": "0xc1d90ddbd0a9f7389fe3ebcb5defc02da97c3c79767127a8340ac000edf1312b",
+  "slug": "will-american-mask-usage-be-75-or-higher-on-april-14th-2021",
+  "question": "Will American mask usage be 75% or higher on April 14th, 2021?"
+}

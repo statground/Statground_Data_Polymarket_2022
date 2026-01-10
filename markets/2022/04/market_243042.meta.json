@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243042",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-08T15:24:34.699000Z",
+  "market_createdAt": "2022-04-08T15:24:34.699Z",
+  "market_updatedAt": "2023-01-31T21:18:02.681Z",
+  "market_startDate": null,
+  "market_endDate": "2022-04-08T00:00:00Z",
+  "market_closedTime": "2022-04-09 06:47:26+00",
+  "conditionId": "0xe5223b61231505f664db9b370a220ea372b9880221da1632f987ae56e6753fea",
+  "slug": "nba-will-the-bucks-beat-the-pistons-by-more-than-6pt5-points-in-their-april-8-7-pm-et-matchup",
+  "question": "NBA: Will the Bucks beat the Pistons by more than 6.5 points in their April 8 (7 PM ET) matchup?"
+}

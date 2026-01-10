@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "201722",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-20T17:00:02.080000Z",
+  "market_createdAt": "2021-05-20T17:00:02.08Z",
+  "market_updatedAt": "2024-04-25T00:01:07.258258Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-22T00:00:00Z",
+  "market_closedTime": "2021-05-23 00:43:29+00",
+  "conditionId": "0xb046e08556c3c41c3ffbee0510289fbdee936a8857334ff19ca5dbce16a97bb1",
+  "slug": "will-the-clippers-or-the-mavericks-win-their-game-1-nba-playoff-matchup",
+  "question": "Will the Clippers or the Mavericks win their Game 1 NBA Playoff matchup?"
+}

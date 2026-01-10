@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239067",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-21T18:19:41.954000Z",
+  "market_createdAt": "2021-10-21T18:19:41.954Z",
+  "market_updatedAt": "2024-04-22T22:57:38.427263Z",
+  "market_startDate": "2021-10-21T20:35:24.574Z",
+  "market_endDate": "2021-10-23T00:00:00Z",
+  "market_closedTime": "2021-10-23 15:47:29+00",
+  "conditionId": "0x22c4690b8010f4b35d241e0c6b3b007c83a5ff704e7b4bd5369d34f5e58e8867",
+  "slug": "will-more-than-2pt05-million-people-travel-through-a-tsa-checkpoint-on-friday-october-22nd",
+  "question": "Will more than 2.05 million people travel through a TSA checkpoint on Friday, October 22nd?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241793",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-01T11:05:00.117000Z",
+  "market_createdAt": "2022-03-01T11:05:00.117Z",
+  "market_updatedAt": "2024-04-23T00:27:09.854792Z",
+  "market_startDate": "2022-03-01T17:56:46.566Z",
+  "market_endDate": "2022-03-01T00:00:00Z",
+  "market_closedTime": "2022-03-03 01:15:25+00",
+  "conditionId": "0x27beaa0f9cb7dfc19446bc78945ad3148d205685bfa9cb98f875d293e9047e1c",
+  "slug": "nba-who-will-win-the-celtics-vs-hawks-scheduled-for-march-1-730-pm-et",
+  "question": "NBA: Who will win the Celtics vs. Hawks, scheduled for March 1 (7.30 PM ET)?"
+}

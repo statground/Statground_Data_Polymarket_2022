@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247244",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-12T17:56:37.510000Z",
+  "market_createdAt": "2022-09-12T17:56:37.51Z",
+  "market_updatedAt": "2023-01-31T19:34:54.616Z",
+  "market_startDate": "2022-09-13T16:45:01.164Z",
+  "market_endDate": "2022-09-19T00:00:00Z",
+  "market_closedTime": "2022-09-20 18:45:44+00",
+  "conditionId": "0xde9382e84bcf012dd21d824c68ce048fe53f988f55bf217c6f5c31d1a2d4ad89",
+  "slug": "nfl-monday-vikings-vs-eagles",
+  "question": "NFL Monday: Vikings vs. Eagles"
+}

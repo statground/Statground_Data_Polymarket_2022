@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248191",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-07T16:11:07.457000Z",
+  "market_createdAt": "2022-12-07T16:11:07.457Z",
+  "market_updatedAt": "2023-01-31T09:44:02.547Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-10T00:00:00Z",
+  "market_closedTime": "2022-12-11 07:30:38+00",
+  "conditionId": "0xd1470b82093bb21dec22fa9b4ed632ef58e7e3b4dff42cadf05a54f1faba6e36",
+  "slug": "ufc-282-who-will-win-pimblett-vs-gordon",
+  "question": "UFC 282: Who will win - Pimblett vs. Gordon"
+}

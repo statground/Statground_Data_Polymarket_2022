@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240690",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-13T18:38:12.528000Z",
+  "market_createdAt": "2022-01-13T18:38:12.528Z",
+  "market_updatedAt": "2024-04-23T00:13:26.601434Z",
+  "market_startDate": "2022-01-13T20:57:57.69Z",
+  "market_endDate": "2022-01-13T00:00:00Z",
+  "market_closedTime": "2022-01-15 23:27:52+00",
+  "conditionId": "0x6a5b9fb22cbccdfda286013d538a5a08281d8c44bf4927c497f14c4b7a91532b",
+  "slug": "nba-will-the-pelicans-beat-the-clippers-by-more-than-3p5-points-in-their-january-13-matchup",
+  "question": "NBA: Will the Pelicans beat the Clippers by more than 3.5 points in their January 13 matchup?"
+}

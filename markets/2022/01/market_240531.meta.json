@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240531",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T18:36:02.409000Z",
+  "market_createdAt": "2022-01-11T18:36:02.409Z",
+  "market_updatedAt": "2024-04-23T00:51:40.677097Z",
+  "market_startDate": "2022-01-12T21:05:24.037Z",
+  "market_endDate": "2022-03-31T00:00:00Z",
+  "market_closedTime": "2022-04-01 22:45:32+00",
+  "conditionId": "0xf2b331458cfb66eebb4f8a0303070c08345cf7f14349b68015bab9cbb065d418",
+  "slug": "will-metamask-airdrop-a-native-token-by-march-31st-2022",
+  "question": "Will MetaMask airdrop a native token by March 31st, 2022?"
+}

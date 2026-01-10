@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "232124",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-10T18:46:01.444000Z",
+  "market_createdAt": "2021-08-10T18:46:01.444Z",
+  "market_updatedAt": "2023-01-31T11:08:29.212Z",
+  "market_startDate": "2021-08-10T19:40:42.089Z",
+  "market_endDate": "2022-01-01T00:00:00Z",
+  "market_closedTime": "2021-09-13 21:42:43+00",
+  "conditionId": "0x2ed8ff37f2a5b3d8beecb0fe273a8b91d3f666293122f838bfb366898b287d64",
+  "slug": "will-princeton-university-remain-the-highest-ranking-national-university-in-the-us-according-to-the-2022-us-news-ranking",
+  "question": "Will Princeton University remain the highest ranking national university in the US according to the 2022 US News ranking?"
+}

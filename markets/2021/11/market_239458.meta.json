@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239458",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-16T12:22:08.842000Z",
+  "market_createdAt": "2021-11-16T12:22:08.842Z",
+  "market_updatedAt": "2023-01-31T21:06:41.716Z",
+  "market_startDate": "2021-11-16T17:55:39.022Z",
+  "market_endDate": "2021-11-22T00:00:00Z",
+  "market_closedTime": "2021-11-24 00:08:47+00",
+  "conditionId": "0xac4d0aa66ac9eac96af481dd1da2d211439947461bf11d89c2135535da4040bc",
+  "slug": "will-pubg-battlegrounds-be-a-top-3-game-on-steam-on-november-22-5pm-et",
+  "question": "Will PUBG: BATTLEGROUNDS be Top 3 in Peak Players on Steam on November 22, 5PM ET?"
+}

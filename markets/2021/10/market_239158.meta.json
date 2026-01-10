@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239158",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-30T13:41:45.456000Z",
+  "market_createdAt": "2021-10-30T13:41:45.456Z",
+  "market_updatedAt": "2024-04-26T02:47:45.444555Z",
+  "market_startDate": "2021-10-30T19:14:55.382Z",
+  "market_endDate": "2021-10-30T00:00:00Z",
+  "market_closedTime": "2021-10-31 16:46:45+00",
+  "conditionId": "0xd3d75c98820837a852d41dbd658394d9052201d357773dbed074cdda013e1ba0",
+  "slug": "will-the-warriors-beat-the-thunder-by-more-than-12pt5-points-in-their-october-30th-matchup",
+  "question": "Will the Warriors beat the Thunder by more than 12.5 points in their October 30th matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242285",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-19T09:09:57.931000Z",
+  "market_createdAt": "2022-03-19T09:09:57.931Z",
+  "market_updatedAt": "2023-01-31T20:21:00.05Z",
+  "market_startDate": "2022-03-19T18:42:41.709Z",
+  "market_endDate": "2022-03-19T00:00:00Z",
+  "market_closedTime": "2022-03-20 21:18:21+00",
+  "conditionId": "0xb240ea873fc3f6fcaccd15614c0e327391a425eb09f719717be5f802e4b49826",
+  "slug": "ncaab-who-will-win-ucla-bruins-vspt-saint-marys-gaels-scheduled-for-march-19-710-pm-et",
+  "question": "NCAAB: Who will win UCLA Bruins vs. Saint Mary's Gaels, scheduled for March 19, 7:10 PM ET?"
+}

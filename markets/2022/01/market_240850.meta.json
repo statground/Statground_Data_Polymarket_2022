@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240850",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-19T11:34:42.309000Z",
+  "market_createdAt": "2022-01-19T11:34:42.309Z",
+  "market_updatedAt": "2024-04-23T00:47:06.201873Z",
+  "market_startDate": "2022-01-19T20:00:56.448Z",
+  "market_endDate": "2022-01-19T00:00:00Z",
+  "market_closedTime": "2022-01-21 13:24:09+00",
+  "conditionId": "0x1971f324c25bc0c222263587caac7ff87bf4eaa2b7db28d26d7d322711664bd3",
+  "slug": "nba-will-the-mavericks-beat-the-raptors-by-more-than-4p5-points-in-their-january-19-matchup",
+  "question": "NBA: Will the Mavericks beat the Raptors by more than 4.5 points in their January 19 matchup?"
+}

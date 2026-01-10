@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238917",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-30T19:33:39.921000Z",
+  "market_createdAt": "2021-09-30T19:33:39.921Z",
+  "market_updatedAt": "2024-04-22T23:04:47.781934Z",
+  "market_startDate": "2021-10-04T21:34:48.893Z",
+  "market_endDate": "2021-11-06T00:00:00Z",
+  "market_closedTime": "2021-11-06 22:57:59+00",
+  "conditionId": "0x30e79f439aa1ace36c32a128f29694be5bb2f3cd242f2bd150aaefb53e8dc5d5",
+  "slug": "will-a-team-from-china-win-the-2021-lol-worlds",
+  "question": "Will a team from China win the 2021 LoL Worlds?"
+}

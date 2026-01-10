@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239516",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-20T15:15:26.291000Z",
+  "market_createdAt": "2021-11-20T15:15:26.291Z",
+  "market_updatedAt": "2024-04-26T02:46:15.417127Z",
+  "market_startDate": "2021-11-20T19:59:52.032Z",
+  "market_endDate": "2021-11-20T00:00:00Z",
+  "market_closedTime": "2021-11-21 15:50:09+00",
+  "conditionId": "0x7be78d4e9b26d11843e79c6570aa185b668a7e1cd92c34bf1ab31f7bc5e4c409",
+  "slug": "nba-will-the-pacers-beat-the-pelicans-by-more-than-7pt5-points-in-their-november-20th-matchup",
+  "question": "NBA: Will the Pacers beat the Pelicans by more than 7.5 points in their November 20th matchup?"
+}

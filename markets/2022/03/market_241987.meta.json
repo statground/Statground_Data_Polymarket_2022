@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241987",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-09T09:06:29.832000Z",
+  "market_createdAt": "2022-03-09T09:06:29.832Z",
+  "market_updatedAt": "2024-04-23T00:37:32.331471Z",
+  "market_startDate": "2022-03-09T17:11:39.857Z",
+  "market_endDate": "2022-03-09T00:00:00Z",
+  "market_closedTime": "2022-03-10 11:46:28+00",
+  "conditionId": "0x6df1ecdcf549f504d6753824a7bfc053fd960a3f2709e6ca38ecc4151d186ef0",
+  "slug": "nba-who-will-win-the-raptors-vspt-spurs-scheduled-for-march-9-8pt30-pm-et",
+  "question": "NBA: Who will win the Raptors vs. Spurs, scheduled for March 9 (8.30 PM ET)?"
+}

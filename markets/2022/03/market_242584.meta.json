@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242584",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-28T10:56:14.652000Z",
+  "market_createdAt": "2022-03-28T10:56:14.652Z",
+  "market_updatedAt": "2024-04-22T23:11:32.567141Z",
+  "market_startDate": "2022-03-28T16:30:14.867Z",
+  "market_endDate": "2022-03-28T00:00:00Z",
+  "market_closedTime": "2022-03-29 08:44:41+00",
+  "conditionId": "0x4b3ff1220b75ef696534dc88906114e8ab2019d228ba7e0cdc32936a71061028",
+  "slug": "nba-will-the-hawks-beat-the-pacers-by-more-than-7pt5-points-in-their-march-28-7-pm-et-matchup",
+  "question": "NBA: Will the Hawks beat the Pacers by more than 7.5 points in their March 28 (7 PM ET) matchup?"
+}

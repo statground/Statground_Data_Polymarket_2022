@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "160864",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-28T16:10:05.205000Z",
+  "market_createdAt": "2021-04-28T16:10:05.205Z",
+  "market_updatedAt": "2023-05-31T18:52:41.698Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-17T00:00:00Z",
+  "market_closedTime": "2021-05-17 20:17:50+00",
+  "conditionId": "0x609548e63cda43e00a4f717e787f6245662d46812be315ebcdb56778aedcf256",
+  "slug": "will-uni-uniswap-be-above-45-on-may-17-2021",
+  "question": "Will $UNI (Uniswap) be above $45 on May 17, 2021?"
+}

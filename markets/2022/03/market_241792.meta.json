@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241792",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-01T10:53:39.910000Z",
+  "market_createdAt": "2022-03-01T10:53:39.91Z",
+  "market_updatedAt": "2024-04-25T00:00:46.176Z",
+  "market_startDate": "2022-03-01T17:56:29.378Z",
+  "market_endDate": "2022-03-01T00:00:00Z",
+  "market_closedTime": "2022-03-02 16:26:36+00",
+  "conditionId": "0x590c30729d5a0720d968d7405c9427fbc7f247c21c646ec934f01c5cab111722",
+  "slug": "nba-who-will-win-the-wizards-vs-pistons-scheduled-for-march-1-7-pm-et",
+  "question": "NBA: Who will win the Wizards vs. Pistons, scheduled for March 1 (7 PM ET)?"
+}

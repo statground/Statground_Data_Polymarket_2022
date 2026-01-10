@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243307",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-15T08:03:19.647000Z",
+  "market_createdAt": "2022-04-15T08:03:19.647Z",
+  "market_updatedAt": "2023-01-31T16:54:58.015Z",
+  "market_startDate": "2022-04-15T16:29:05.541Z",
+  "market_endDate": "2022-04-15T00:00:00Z",
+  "market_closedTime": "2022-04-16 07:48:26+00",
+  "conditionId": "0x9264060c6455cbf03a176050542a40d15195b25c7063d63d9a5a37fb3d9c4dba",
+  "slug": "mlb-who-will-win-los-angeles-dodgers-vs-cincinnati-reds-scheduled-for-april-15-1010-pm-et",
+  "question": "MLB: Who will win Los Angeles Dodgers vs. Cincinnati Reds, scheduled for April 15, 10:10 PM ET?"
+}

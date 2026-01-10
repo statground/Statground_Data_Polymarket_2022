@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238913",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-29T17:28:00.947000Z",
+  "market_createdAt": "2021-09-29T17:28:00.947Z",
+  "market_updatedAt": "2024-04-24T23:59:43.117445Z",
+  "market_startDate": "2021-09-29T18:04:32.961Z",
+  "market_endDate": "2021-09-30T00:00:00Z",
+  "market_closedTime": "2021-10-01 03:26:47+00",
+  "conditionId": "0x04c31bd2eafdf2cd91f703864fdcadac5d0ea478a37ff03371720def1e7c1716",
+  "slug": "in-game-trading-will-the-bengals-beat-the-jaguars-by-more-than-75-points-in-their-week-three-matchup",
+  "question": "(In-game Trading) Will the Bengals beat the Jaguars by more than 7.5 points in their week three matchup?"
+}

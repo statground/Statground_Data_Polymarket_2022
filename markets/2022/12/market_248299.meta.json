@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248299",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-28T14:30:08.047000Z",
+  "market_createdAt": "2022-12-28T14:30:08.047Z",
+  "market_updatedAt": "2024-04-25T00:10:10.514596Z",
+  "market_startDate": null,
+  "market_endDate": "2023-01-06T00:00:00Z",
+  "market_closedTime": "2022-12-30 03:46:11+00",
+  "conditionId": "0x05e00f2be01c1a16678a1ef1b7a79dd42579055c4d5c1a92d746ce95edf69a18",
+  "slug": "will-twitter-report-any-outages-by-january-6-2023",
+  "question": "Will Twitter report any outages by January 6, 2023?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238639",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-21T18:22:01.084000Z",
+  "market_createdAt": "2021-08-21T18:22:01.084Z",
+  "market_updatedAt": "2024-04-23T00:09:47.448773Z",
+  "market_startDate": "2021-08-21T18:29:57.146Z",
+  "market_endDate": "2021-08-21T00:00:00Z",
+  "market_closedTime": "2021-08-23 01:18:40+00",
+  "conditionId": "0x188726a17dc21000ec73d64b3f5b3b8f242c45a3982e4d7f3ea6befca2fced01",
+  "slug": "will-team-liquid-or-100-thieves-win-their-lcs-playoffs-matchup-on-august-21-2021",
+  "question": "Will Team Liquid or 100 Thieves win their LCS Playoffs matchup on August 21, 2021?"
+}

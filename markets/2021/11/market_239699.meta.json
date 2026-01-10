@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239699",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-30T13:51:22.427000Z",
+  "market_createdAt": "2021-11-30T13:51:22.427Z",
+  "market_updatedAt": "2025-11-20T23:12:33.728902Z",
+  "market_startDate": "2025-11-20T23:12:21.084Z",
+  "market_endDate": "2022-01-01T00:00:00Z",
+  "market_closedTime": "2022-01-01 18:48:28+00",
+  "conditionId": "0x97ff49f9ad7222f4dede0476269cdadfadb4004eb4644a908bc44bc11ddf4f81",
+  "slug": "will-it-snow-in-new-yorks-central-park-on-new-years-eve-dec-31",
+  "question": "Will it snow in New York's Central Park on New Year's Eve (Dec 31)?"
+}

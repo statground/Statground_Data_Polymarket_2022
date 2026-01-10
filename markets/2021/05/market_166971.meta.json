@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "166971",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-01T00:40:02.508000Z",
+  "market_createdAt": "2021-05-01T00:40:02.508Z",
+  "market_updatedAt": "2024-04-25T00:12:13.706574Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-20T00:00:00Z",
+  "market_closedTime": "2021-05-20 16:38:31+00",
+  "conditionId": "0x9a16eded0d5880956f41220383aab8e29e7e366cded7be2aeba1e8a1c1f1160a",
+  "slug": "will-matic-polygon-be-above-1-on-may-20-2021",
+  "question": "Will $MATIC (Polygon) be above $1 on May 20, 2021?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240151",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-23T10:38:49.024000Z",
+  "market_createdAt": "2021-12-23T10:38:49.024Z",
+  "market_updatedAt": "2024-04-23T00:34:32.585915Z",
+  "market_startDate": "2021-12-23T18:00:41.859Z",
+  "market_endDate": "2021-12-23T00:00:00Z",
+  "market_closedTime": "2021-12-24 17:32:48+00",
+  "conditionId": "0xdbf35061bbce7aaa844355945a6263e2c07742c13fb8b7ff4e49b39bc1179a01",
+  "slug": "nba-will-the-lakers-beat-the-spurs-by-more-than-1pt5-points-in-their-december-23-matchup",
+  "question": "NBA: Will the Lakers beat the Spurs by more than 1.5 points in their December 23 matchup?"
+}

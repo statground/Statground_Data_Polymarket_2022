@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243204",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-13T06:12:09.585000Z",
+  "market_createdAt": "2022-04-13T06:12:09.585Z",
+  "market_updatedAt": "2023-01-31T10:21:59.899Z",
+  "market_startDate": "2022-04-13T15:15:11.518Z",
+  "market_endDate": "2022-06-19T00:00:00Z",
+  "market_closedTime": "2022-05-15 18:15:54+00",
+  "conditionId": "0xec13f7e1fab4810c8c3c542baf36083e18bb13c631cd40ef626fcf2258396235",
+  "slug": "will-the-philadelphia-76ers-win-the-nba-21-22-championship",
+  "question": "Will the Philadelphia 76ers win the NBA ‘21-’22 Championship?"
+}

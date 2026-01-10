@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246814",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-25T15:58:26.498000Z",
+  "market_createdAt": "2022-07-25T15:58:26.498Z",
+  "market_updatedAt": "2023-02-01T04:12:28.676Z",
+  "market_startDate": "2022-07-28T20:23:25.223Z",
+  "market_endDate": "2022-07-27T00:00:00Z",
+  "market_closedTime": "2022-07-28 20:18:28+00",
+  "conditionId": "0x23b56720dacd8c59907beba9b3a5e6a1db04903a9d4168c25c6c7c200e99bcb5",
+  "slug": "mlb-who-will-win-cleveland-guardians-v-boston-red-sox-scheduled-for-july-27-710-pm-et",
+  "question": "MLB: Who will win Cleveland Guardians v. Boston Red Sox, scheduled for July 27, 7:10 PM ET?"
+}

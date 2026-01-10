@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242387",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-22T09:09:30.106000Z",
+  "market_createdAt": "2022-03-22T09:09:30.106Z",
+  "market_updatedAt": "2024-04-23T00:54:22.187944Z",
+  "market_startDate": "2022-03-22T16:28:19.065Z",
+  "market_endDate": "2022-03-22T00:00:00Z",
+  "market_closedTime": "2022-03-23 17:43:44+00",
+  "conditionId": "0xea17570a440b4972131e662b0cbab837070ff5475d75f01e45bcf323df5048ac",
+  "slug": "nba-will-the-warriors-beat-the-magic-by-more-than-8pt5-points-in-their-march-22-710-pm-et-matchup",
+  "question": "NBA: Will the Warriors beat the Magic by more than 8.5 points in their March 22, 7:10 PM ET matchup?"
+}

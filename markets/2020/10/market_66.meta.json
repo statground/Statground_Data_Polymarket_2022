@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "66",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-10-27T21:40:03.746000Z",
+  "market_createdAt": "2020-10-27T21:40:03.746Z",
+  "market_updatedAt": "2024-04-23T00:41:16.671305Z",
+  "market_startDate": null,
+  "market_endDate": "2021-11-01T00:00:00Z",
+  "market_closedTime": "2020-11-01 22:20:27+00",
+  "conditionId": "0x780c0f4d66006c95e346b3fdb296707b234aba1a00e7acba6323d1c2f856b6f9",
+  "slug": "who-will-win-the-2020-league-of-legends-world-championship",
+  "question": "Who will win the 2020 League of Legends World Championship?"
+}

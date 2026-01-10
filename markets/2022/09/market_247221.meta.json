@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247221",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-09T20:51:49.589000Z",
+  "market_createdAt": "2022-09-09T20:51:49.589Z",
+  "market_updatedAt": "2023-01-31T18:22:23.555Z",
+  "market_startDate": "2022-09-09T22:03:33.571Z",
+  "market_endDate": "2022-09-17T00:00:00Z",
+  "market_closedTime": "2022-09-18 07:45:39+00",
+  "conditionId": "0xe848496a3e3dc78b8cb844d1bb80546ecc55707bb12353b0cc6762d5ae361a35",
+  "slug": "who-will-win-canelo-alvarez-vs-gennady-golovkin-3-on-september-17",
+  "question": "Who will win Canelo Alvarez vs. Gennady Golovkin 3 on September 17?"
+}

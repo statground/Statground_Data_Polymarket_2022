@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "220017",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-28T17:10:01.002000Z",
+  "market_createdAt": "2021-06-28T17:10:01.002Z",
+  "market_updatedAt": "2024-04-23T00:21:57.908876Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-03T00:00:00Z",
+  "market_closedTime": "2021-07-05 18:14:33+00",
+  "conditionId": "0xf97d09674e7a0342e6b125d25bb84c773c5c0c3e4851a2db8fae812fa5b2f6e3",
+  "slug": "will-the-czech-republic-or-denmark-qualify-for-the-euro-2020-semifinals",
+  "question": "Will the Czech Republic or Denmark qualify for the Euro 2020 Semifinals?"
+}

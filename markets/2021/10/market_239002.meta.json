@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239002",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-13T23:21:15.635000Z",
+  "market_createdAt": "2021-10-13T23:21:15.635Z",
+  "market_updatedAt": "2024-04-22T23:29:55.180539Z",
+  "market_startDate": "2021-10-14T16:49:52.214Z",
+  "market_endDate": "2021-10-23T00:00:00Z",
+  "market_closedTime": "2021-10-23 17:52:53+00",
+  "conditionId": "0xfee83b9570cd5167be0fba907f9fb89c6b039b9846de05ac816e3c4498cee087",
+  "slug": "will-the-red-sox-or-astros-win-their-alcs-matchup",
+  "question": "Will the Red Sox or Astros win their ALCS matchup?"
+}

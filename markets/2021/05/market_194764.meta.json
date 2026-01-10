@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "194764",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-12T16:50:07.423000Z",
+  "market_createdAt": "2021-05-12T16:50:07.423Z",
+  "market_updatedAt": "2024-04-23T00:11:14.83797Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-12T00:00:00Z",
+  "market_closedTime": "2021-05-13 21:18:18+00",
+  "conditionId": "0x7ad8dc194d06014e1d573ca57b5cca756dea3fed9326351bd63c7dad685f61e1",
+  "slug": "will-hockney-s-self-portrait-on-the-terrace-sell-for-more-than-12-million-at-sotheby-s",
+  "question": "Will Hockney’s “Self-Portrait on the Terrace” sell for more than $12 million at Sotheby’s?"
+}

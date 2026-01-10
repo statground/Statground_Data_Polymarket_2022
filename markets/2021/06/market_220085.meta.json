@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "220085",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-28T22:45:01.475000Z",
+  "market_createdAt": "2021-06-28T22:45:01.475Z",
+  "market_updatedAt": "2023-01-31T21:16:38.634Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-28T00:00:00Z",
+  "market_closedTime": "2021-06-29 14:59:55+00",
+  "conditionId": "0x661116107b4c88b236107855f28501304aad9edcab1d7096afd233f9f569baf7",
+  "slug": "who-will-score-more-points-in-clippers-vs-suns-game-5-paul-george-or-devin-booker",
+  "question": "Who will score more points in Clippers vs. Suns Game 5: Paul George or Devin Booker?"
+}

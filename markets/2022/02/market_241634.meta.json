@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241634",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-21T13:31:28.695000Z",
+  "market_createdAt": "2022-02-21T13:31:28.695Z",
+  "market_updatedAt": "2024-04-25T00:03:44.20471Z",
+  "market_startDate": "2022-02-21T18:24:56.897Z",
+  "market_endDate": "2022-02-21T00:00:00Z",
+  "market_closedTime": "2022-02-22 21:00:31+00",
+  "conditionId": "0x7ba01589e57ffbb2e0f18969ec41c7a4683d9ff74d6274ccf799c6035673a1fa",
+  "slug": "nhl-will-the-canucks-beat-the-kraken-by-more-than-1p5-goals-in-their-february-21-matchup-10-pm-et",
+  "question": "NHL: Will the Canucks beat the Kraken by more than 1.5 goals in their February 21 matchup (10 PM ET)?"
+}

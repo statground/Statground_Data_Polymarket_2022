@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239814",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-03T20:09:11.979000Z",
+  "market_createdAt": "2021-12-03T20:09:11.979Z",
+  "market_updatedAt": "2024-04-24T23:36:08.855022Z",
+  "market_startDate": "2021-12-04T19:45:04.758Z",
+  "market_endDate": "2021-12-05T00:00:00Z",
+  "market_closedTime": "2021-12-06 17:22:34+00",
+  "conditionId": "0x081d863610761753d256c7aaa6540a3c8f88c21f493cc2870889a153261c7ed0",
+  "slug": "nfl-will-the-eagles-beat-the-jets-by-more-than-6pt5-points-in-their-december-5-matchup",
+  "question": "NFL: Will the Eagles beat the Jets by more than 6.5 points in their December 5 matchup?"
+}

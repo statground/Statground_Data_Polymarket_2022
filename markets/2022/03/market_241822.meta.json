@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241822",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-02T14:45:19.841000Z",
+  "market_createdAt": "2022-03-02T14:45:19.841Z",
+  "market_updatedAt": "2024-04-22T22:52:52.056313Z",
+  "market_startDate": "2022-03-02T15:56:28.748Z",
+  "market_endDate": "2022-03-02T00:00:00Z",
+  "market_closedTime": "2022-03-03 18:19:02+00",
+  "conditionId": "0xfa7a1f30aff721b9a2ca722b36c7ebe01361963240c1792257fb62f63164d5d1",
+  "slug": "nhl-will-the-maple-leafs-beat-the-sabres-by-more-than-1pt5-goals-in-their-march-2-matchup-7pt30-pm-et",
+  "question": "NHL: Will the Maple Leafs beat the Sabres by more than 1.5 goals in their March 2 matchup (7.30 PM ET)?"
+}

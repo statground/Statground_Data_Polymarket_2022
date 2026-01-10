@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246723",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-14T16:50:19.834000Z",
+  "market_createdAt": "2022-07-14T16:50:19.834Z",
+  "market_updatedAt": "2023-01-31T16:58:49.02Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-31T00:00:00Z",
+  "market_closedTime": "2022-10-25 20:30:59+00",
+  "conditionId": "0xff2c0e23fbd8b58a318891e3a787f4e3cd09c65f1e3c9b802dde5de7e737a379",
+  "slug": "will-donovan-mitchell-get-traded-to-the-knicks",
+  "question": "Will Donovan Mitchell get traded to the Knicks? "
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243543",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-21T18:16:43.576000Z",
+  "market_createdAt": "2022-04-21T18:16:43.576Z",
+  "market_updatedAt": "2023-01-31T20:25:16.969Z",
+  "market_startDate": "2022-04-21T18:35:18.247Z",
+  "market_endDate": "2022-05-05T00:00:00Z",
+  "market_closedTime": "2022-04-30 07:30:47+00",
+  "conditionId": "0x23ac43aa7e9163691d0a98c9e02b08aff9cfe81cbbc2f58a927e83d40a468332",
+  "slug": "will-elonmusks-tweet-count-be-over-17600-on-may-5-12-pm-et",
+  "question": "Will @elonmusk's tweet count be over 17,600 on May 5 (12 PM ET)?"
+}

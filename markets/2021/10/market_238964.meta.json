@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238964",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-07T17:19:58.529000Z",
+  "market_createdAt": "2021-10-07T17:19:58.529Z",
+  "market_updatedAt": "2024-04-24T23:51:00.217072Z",
+  "market_startDate": "2021-10-07T17:57:52.715Z",
+  "market_endDate": "2021-10-14T00:00:00Z",
+  "market_closedTime": "2021-10-13 01:12:43+00",
+  "conditionId": "0x59f3ebb9528a0f966fa6a0b9ce1f1a5559cb7b61ace67d7cb47b1592af955095",
+  "slug": "in-game-trading-will-the-brewers-or-braves-win-their-nlds-matchup",
+  "question": "(In-game Trading) Will the Brewers or Braves win their NLDS matchup?"
+}

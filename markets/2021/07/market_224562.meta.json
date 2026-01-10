@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "224562",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-15T16:45:01.516000Z",
+  "market_createdAt": "2021-07-15T16:45:01.516Z",
+  "market_updatedAt": "2024-04-23T00:56:01.361649Z",
+  "market_startDate": null,
+  "market_endDate": "2021-08-06T00:00:00Z",
+  "market_closedTime": "2021-08-06 18:17:38+00",
+  "conditionId": "0xc8f5d6a43f961ca7c9cbfc2d82cdcf2be89270aa5ba90cc90fcc36097ef53d0a",
+  "slug": "what-will-the-manheim-used-vehicle-value-index-be-for-july-2021",
+  "question": "What will the Manheim Used Vehicle Value Index be for July 2021?"
+}

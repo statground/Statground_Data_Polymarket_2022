@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243633",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-24T07:22:48.779000Z",
+  "market_createdAt": "2022-04-24T07:22:48.779Z",
+  "market_updatedAt": "2023-01-31T19:20:00.003Z",
+  "market_startDate": "2022-04-24T15:29:02.811Z",
+  "market_endDate": "2022-04-24T00:00:00Z",
+  "market_closedTime": "2022-04-25 16:30:09+00",
+  "conditionId": "0x2323c89215b24698aafa68aaff8817cc782ea870ef55cd2661568886d05cd903",
+  "slug": "nhl-will-the-panthers-beat-the-lightning-by-more-than-1pt5-goals-in-their-april-24-700-pm-et-matchup",
+  "question": "NHL: Will the Panthers beat the Lightning by more than 1.5 goals in their April 24, 7:00 PM ET matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243064",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-10T16:09:26.792000Z",
+  "market_createdAt": "2022-04-10T16:09:26.792Z",
+  "market_updatedAt": "2023-01-31T21:05:57.599Z",
+  "market_startDate": "2022-04-10T16:38:34.114Z",
+  "market_endDate": "2022-04-10T00:00:00Z",
+  "market_closedTime": "2022-04-11 09:16:15+00",
+  "conditionId": "0xadf9bea0864ce9cd66e7de8561fd589ee4c6b51195e8b4a075119278714cf805",
+  "slug": "nba-will-the-raptors-beat-the-knicks-by-more-than-5pt5-points-in-their-april-10-7-pm-et-matchup",
+  "question": "NBA: Will the Raptors beat the Knicks by more than 5.5 points in their April 10 (7 PM ET) matchup?"
+}

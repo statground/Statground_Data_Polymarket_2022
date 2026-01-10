@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243540",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-21T08:22:10.070000Z",
+  "market_createdAt": "2022-04-21T08:22:10.07Z",
+  "market_updatedAt": "2023-01-31T10:16:14.182Z",
+  "market_startDate": "2022-04-21T14:14:13.931Z",
+  "market_endDate": "2022-04-21T00:00:00Z",
+  "market_closedTime": "2022-04-22 08:00:36+00",
+  "conditionId": "0xe0de82352f5452145b09e836604b46999449a99a5e12ca2d8e40822256029c63",
+  "slug": "mlb-who-will-win-seattle-mariners-vs-texas-rangers-scheduled-for-april-21-940-pm-et",
+  "question": "MLB: Who will win Seattle Mariners vs. Texas Rangers, scheduled for April 21, 9:40 PM ET?"
+}

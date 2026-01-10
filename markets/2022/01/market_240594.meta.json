@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240594",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T23:54:33.662000Z",
+  "market_createdAt": "2022-01-11T23:54:33.662Z",
+  "market_updatedAt": "2024-04-22T23:39:15.871679Z",
+  "market_startDate": "2022-01-12T21:10:46.774Z",
+  "market_endDate": "2022-11-15T00:00:00Z",
+  "market_closedTime": "2022-11-09 16:18:53+00",
+  "conditionId": "0x3840ed32ab3562a2e70d7d1b64769f57a3b74678b45cfd7e6116f8d4b4b00a2f",
+  "slug": "2022-us-senate-elections-will-a-democrat-or-republican-win-in-vermont",
+  "question": "Senate: Will a Democrat (Welch) or Republican (Malloy) win in Vermont?"
+}

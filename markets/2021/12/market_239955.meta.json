@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239955",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-10T17:04:05.317000Z",
+  "market_createdAt": "2021-12-10T17:04:05.317Z",
+  "market_updatedAt": "2024-04-22T22:30:32.887792Z",
+  "market_startDate": null,
+  "market_endDate": "2021-12-10T00:00:00Z",
+  "market_closedTime": "2021-12-11 18:09:11+00",
+  "conditionId": "0x2113a41d5638f6d9a2d3c8330df39f3cfeb02499856a7fbc1dcd3cd9b4ccb3bf",
+  "slug": "nba-will-the-sum-of-points-in-hawks-v-nets-be-greater-than-222pt5",
+  "question": "NBA: Will the sum of points in Hawks v. Nets be greater than 222.5?"
+}

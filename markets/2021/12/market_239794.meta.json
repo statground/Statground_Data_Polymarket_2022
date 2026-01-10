@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239794",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-03T17:05:28.792000Z",
+  "market_createdAt": "2021-12-03T17:05:28.792Z",
+  "market_updatedAt": "2024-04-26T02:45:40.197971Z",
+  "market_startDate": "2021-12-03T19:55:54.769Z",
+  "market_endDate": "2021-12-05T00:00:00Z",
+  "market_closedTime": "2021-12-06 20:34:16+00",
+  "conditionId": "0x44cb2496e26c35d3333172a702978c377d009be10876aa03885c8f90903e4b14",
+  "slug": "will-lewis-hamilton-finish-ahead-of-max-verstappen-in-the-saudi-arabian-gran-prix",
+  "question": "Will Lewis Hamilton finish ahead of Max Verstappen in the Saudi Arabian Gran Prix?"
+}

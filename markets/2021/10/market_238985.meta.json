@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238985",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-13T21:54:58.399000Z",
+  "market_createdAt": "2021-10-13T21:54:58.399Z",
+  "market_updatedAt": "2024-04-24T23:58:24.654122Z",
+  "market_startDate": "2021-10-14T16:32:21.562Z",
+  "market_endDate": "2021-10-31T00:00:00Z",
+  "market_closedTime": "2021-11-01 19:49:56+00",
+  "conditionId": "0x6a06d82d4420586739ac8a93787c75a412c7bf3423ff8a75d27d2e6bcf7ee57c",
+  "slug": "will-kyrie-irving-play-in-an-nba-game-by-october-31",
+  "question": "Will Kyrie Irving play in an NBA game by October 31?"
+}

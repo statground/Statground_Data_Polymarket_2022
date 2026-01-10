@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "104027",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-03-15T20:05:04.121000Z",
+  "market_createdAt": "2021-03-15T20:05:04.121Z",
+  "market_updatedAt": "2024-04-22T23:03:42.683828Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-07T00:00:00Z",
+  "market_closedTime": "2021-04-08 20:20:16+00",
+  "conditionId": "0x3e932e52cd1a56baa49f67da3e6fd8fc82b95a5024684609eec26bc5882a3cb1",
+  "slug": "will-the-us-have-fewer-than-35000-new-covid-19-cases-on-any-day-before-april-7-2021",
+  "question": "Will the US have fewer than 35,000 new COVID-19 cases on any day before April 7, 2021?"
+}

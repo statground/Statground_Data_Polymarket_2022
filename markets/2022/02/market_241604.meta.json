@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241604",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-18T16:10:21.383000Z",
+  "market_createdAt": "2022-02-18T16:10:21.383Z",
+  "market_updatedAt": "2024-04-22T22:44:49.23457Z",
+  "market_startDate": "2022-02-18T20:13:12.034Z",
+  "market_endDate": "2022-02-18T00:00:00Z",
+  "market_closedTime": "2022-02-19 18:31:38+00",
+  "conditionId": "0xd2a0a62c7d55817bba43959316d93d6b21ed9f9e48ae9a9719d988af1a266d77",
+  "slug": "nhl-will-the-golden-knights-beat-the-kings-by-more-than-1p5-goals-in-their-february-18-matchup-10-pm-et",
+  "question": "NHL: Will the Golden Knights beat the Kings by more than 1.5 goals in their February 18 matchup (10 PM ET)?"
+}

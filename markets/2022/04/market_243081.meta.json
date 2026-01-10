@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243081",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-11T11:35:57.607000Z",
+  "market_createdAt": "2022-04-11T11:35:57.607Z",
+  "market_updatedAt": "2023-01-31T21:16:35.916Z",
+  "market_startDate": null,
+  "market_endDate": "2022-04-11T00:00:00Z",
+  "market_closedTime": "2022-04-12 07:31:21+00",
+  "conditionId": "0x1f9f7f0cabe3ba73bf08f7f12fd8295c4743fd0887f6c82ee1e70f2fd580a348",
+  "slug": "mlb-who-will-win-padres-vs-giants-game-on-april-11",
+  "question": "MLB: Who will win Padres vs. Giants game on April 11?"
+}

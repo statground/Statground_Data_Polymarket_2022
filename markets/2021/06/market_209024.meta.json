@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "209024",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-04T19:50:01.217000Z",
+  "market_createdAt": "2021-06-04T19:50:01.217Z",
+  "market_updatedAt": "2024-04-22T22:54:37.575665Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-06T00:00:00Z",
+  "market_closedTime": "2021-06-06 19:55:50+00",
+  "conditionId": "0xd689a22f07164aadf774053a585c71c08f08035384175a95cf834e722acec596",
+  "slug": "who-will-win-76ers-v-hawks-game-1",
+  "question": "Who will win 76ers v. Hawks: Game 1?"
+}

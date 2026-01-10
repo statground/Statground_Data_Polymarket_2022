@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239016",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-16T18:14:48.501000Z",
+  "market_createdAt": "2021-10-16T18:14:48.501Z",
+  "market_updatedAt": "2024-04-22T23:34:16.619261Z",
+  "market_startDate": "2021-10-16T19:48:50.507Z",
+  "market_endDate": "2021-10-24T00:00:00Z",
+  "market_closedTime": "2021-10-25 02:34:21+00",
+  "conditionId": "0x5677defcb5b754296f69270f7af29bcb92a4b7f252b988411e28a5ba466a4437",
+  "slug": "will-the-braves-or-dodgers-win-their-nlcs-matchup",
+  "question": "Will the Braves or Dodgers win their NLCS matchup?"
+}

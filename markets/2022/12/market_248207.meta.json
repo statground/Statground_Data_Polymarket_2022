@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248207",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-14T23:23:56.982000Z",
+  "market_createdAt": "2022-12-14T23:23:56.982Z",
+  "market_updatedAt": "2023-03-14T22:51:05.426Z",
+  "market_startDate": null,
+  "market_endDate": "2023-02-01T00:00:00Z",
+  "market_closedTime": "2023-02-01 21:02:06+00",
+  "conditionId": "0x5ef7d98e2b55953be12acc6aa5c13129bfef55a0e48b14ac0f479e08981f9bd1",
+  "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-its-february-meeting",
+  "question": "Will the Fed increase interest rates by 25 bps after its February meeting?"
+}

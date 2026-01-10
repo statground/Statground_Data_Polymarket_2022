@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "98626",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-26T16:15:02.460000Z",
+  "market_createdAt": "2021-02-26T16:15:02.46Z",
+  "market_updatedAt": "2024-04-22T22:24:50.801752Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-01T00:00:00Z",
+  "market_closedTime": "2021-03-23 19:38:51+00",
+  "conditionId": "0x7182bf5ac048a4738c3d35a8ede0ffab10f31aa4d3262e58c45974b9e9fcfad8",
+  "slug": "will-there-be-more-than-120-million-confirmed-covid-19-cases-globally-by-april-1-2021",
+  "question": "Will there be more than 120 million confirmed COVID-19 cases globally by April 1, 2021?"
+}

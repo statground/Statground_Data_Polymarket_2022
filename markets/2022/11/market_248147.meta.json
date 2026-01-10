@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248147",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-28T16:53:39.620000Z",
+  "market_createdAt": "2022-11-28T16:53:39.62Z",
+  "market_updatedAt": "2023-01-31T19:08:48.336Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-02T00:00:00Z",
+  "market_closedTime": "2022-12-03 00:16:00+00",
+  "conditionId": "0x6572aa87176e86c8c8d559fd97c5bba3d3da4cd5ee36e8a7f707b39e1da3d7cd",
+  "slug": "world-cup-friday-will-switzerland-beat-serbia",
+  "question": "World Cup: Friday - Will Switzerland beat Serbia?"
+}

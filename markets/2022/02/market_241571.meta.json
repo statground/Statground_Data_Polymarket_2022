@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241571",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-16T19:39:42.369000Z",
+  "market_createdAt": "2022-02-16T19:39:42.369Z",
+  "market_updatedAt": "2024-04-23T00:08:42.167737Z",
+  "market_startDate": "2022-02-22T15:46:31.236Z",
+  "market_endDate": "2022-03-14T00:00:00Z",
+  "market_closedTime": "2022-03-08 20:01:42+00",
+  "conditionId": "0xc64418568350bb9f5d731391a809f59e493c9db75146f762c75b1df079aa45f3",
+  "slug": "fide-world-chess-grand-prix-2022-leg-2-will-shakhriyar-mamedyarov-win-pool-d",
+  "question": "FIDE World Chess Grand Prix 2022 Leg #2: Will Shakhriyar Mamedyarov win Pool D?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241085",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-27T00:27:08.390000Z",
+  "market_createdAt": "2022-01-27T00:27:08.39Z",
+  "market_updatedAt": "2024-04-23T00:38:32.008353Z",
+  "market_startDate": null,
+  "market_endDate": "2022-03-31T00:00:00Z",
+  "market_closedTime": "2022-04-02 07:46:17+00",
+  "conditionId": "0x29817c6fc72781fd95c9a4cb4642c6d2e5340e23f62546b0791aef867814210f",
+  "slug": "will-compound-suffer-an-exploit-by-march-31st-2022",
+  "question": "Will Compound suffer an exploit by March 31st, 2022?"
+}

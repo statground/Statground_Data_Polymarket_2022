@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "224938",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-22T18:15:01.192000Z",
+  "market_createdAt": "2021-07-22T18:15:01.192Z",
+  "market_updatedAt": "2024-04-23T00:41:42.582762Z",
+  "market_startDate": "2021-07-22T22:52:21.917Z",
+  "market_endDate": "2021-08-08T00:00:00Z",
+  "market_closedTime": "2021-08-08 18:06:45+00",
+  "conditionId": "0x018cd02202d6f5b3a25431fdc5b4c5acbd94dab5a88e5e78b430e74b8a3faf62",
+  "slug": "will-the-united-states-win-44-or-more-gold-medals-at-the-2020-olympics",
+  "question": "Will the United States win 44 or more Gold Medals at the 2020 Olympics?"
+}

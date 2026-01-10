@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "81091",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-09T18:40:02.497000Z",
+  "market_createdAt": "2021-02-09T18:40:02.497Z",
+  "market_updatedAt": "2024-04-22T23:55:57.857779Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-10T00:00:00Z",
+  "market_closedTime": "2021-02-11 15:36:22+00",
+  "conditionId": "0xf3a21d41c233195a7c60328468057620a9ff0fa932b0f8d89826feb5b853b685",
+  "slug": "will-the-bucks-or-the-suns-win-their-february-10th-matchup",
+  "question": "Will the Bucks or the Suns win their February 10th matchup?"
+}

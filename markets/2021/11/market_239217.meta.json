@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239217",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-03T12:52:15.971000Z",
+  "market_createdAt": "2021-11-03T12:52:15.971Z",
+  "market_updatedAt": "2024-04-23T00:39:29.886165Z",
+  "market_startDate": "2021-11-03T16:29:47.431Z",
+  "market_endDate": "2021-11-17T00:00:00Z",
+  "market_closedTime": "2021-11-18 13:41:44+00",
+  "conditionId": "0x9172688431a698d8307068f10cf8b4e583e4ba5987b3dcc2a5a981f80e196da7",
+  "slug": "will-ethereum-reach-5000-by-november-17th",
+  "question": "Will Ethereum reach $5000 by November 17th?"
+}

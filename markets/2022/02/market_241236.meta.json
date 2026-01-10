@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241236",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-01T13:02:36.065000Z",
+  "market_createdAt": "2022-02-01T13:02:36.065Z",
+  "market_updatedAt": "2024-04-23T00:16:24.183232Z",
+  "market_startDate": "2022-02-01T23:24:07.817Z",
+  "market_endDate": "2022-02-01T00:00:00Z",
+  "market_closedTime": "2022-02-03 00:10:09+00",
+  "conditionId": "0x9305a12b6458d880e3d4b5cf0af8a6254e37d653eacc3d6edada5597cafb141b",
+  "slug": "nhl-will-the-panthers-beat-the-rangers-by-more-than-15-goals-in-their-february-1-matchup-7-pm-et",
+  "question": "NHL: Will the Panthers beat the Rangers by more than 1.5 goals in their February 1 matchup (7 PM ET)?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "231358",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-09T17:26:01.670000Z",
+  "market_createdAt": "2021-08-09T17:26:01.67Z",
+  "market_updatedAt": "2024-04-22T23:03:31.137241Z",
+  "market_startDate": "2021-08-09T17:48:45.638Z",
+  "market_endDate": "2021-08-13T00:00:00Z",
+  "market_closedTime": "2021-08-13 16:36:30+00",
+  "conditionId": "0x21553a6826b04bd9c73dec69f5e78a395d0f5c6ed9e06703d8ed717638c655e3",
+  "slug": "will-kanye-wests-album-donda-be-released-by-midnight-et-august-13-2021",
+  "question": "Will Kanye West’s album DONDA be released by midnight ET, August 13, 2021?"
+}

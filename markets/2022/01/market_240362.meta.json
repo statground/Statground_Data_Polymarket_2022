@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240362",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T01:27:16.998000Z",
+  "market_createdAt": "2022-01-11T01:27:16.998Z",
+  "market_updatedAt": "2024-04-24T23:46:47.16801Z",
+  "market_startDate": "2022-01-12T20:52:02.606Z",
+  "market_endDate": "2022-05-22T00:00:00Z",
+  "market_closedTime": "2022-05-06 18:30:56+00",
+  "conditionId": "0xf271a05ddea1e4d5ecdb38f043ad44265151446f2393c872d6f28f07066e0f17",
+  "slug": "will-sevilla-win-2021-22-la-liga",
+  "question": "Will Sevilla win 2021-22 La Liga?"
+}

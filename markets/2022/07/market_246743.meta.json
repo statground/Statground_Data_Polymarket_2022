@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246743",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-18T17:25:03.826000Z",
+  "market_createdAt": "2022-07-18T17:25:03.826Z",
+  "market_updatedAt": "2023-01-31T21:06:28.718Z",
+  "market_startDate": "2022-07-18T18:07:19.2Z",
+  "market_endDate": "2022-07-22T00:00:00Z",
+  "market_closedTime": "2022-07-23 08:30:44+00",
+  "conditionId": "0x00a364d6fed70db0a8ddd0a839a67df534bc2d9172a4a0e2dd43fa188ff86608",
+  "slug": "will-natural-gas-close-above-7-on-july-22-2022",
+  "question": "Will natural gas close above $7 on July 22, 2022?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239683",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-29T12:35:16.144000Z",
+  "market_createdAt": "2021-11-29T12:35:16.144Z",
+  "market_updatedAt": "2024-04-25T00:03:16.187634Z",
+  "market_startDate": "2021-11-29T17:49:13.945Z",
+  "market_endDate": "2021-12-09T00:00:00Z",
+  "market_closedTime": "2021-12-10 19:12:18+00",
+  "conditionId": "0xed0546f8e9855a975e521c88e426f8c8654debbba441804b793554554a8e5b7d",
+  "slug": "which-cryptocurrency-will-have-higher-market-cap-on-december-9th-cardano-ada-or-solana-sol",
+  "question": "Which cryptocurrency will have higher market cap on December 9th: Cardano ($ADA) or Solana ($SOL)?"
+}

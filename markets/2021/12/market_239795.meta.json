@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239795",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-03T17:13:25.136000Z",
+  "market_createdAt": "2021-12-03T17:13:25.136Z",
+  "market_updatedAt": "2024-04-26T02:51:28.988609Z",
+  "market_startDate": "2023-08-24T16:35:28.311Z",
+  "market_endDate": "2021-12-05T00:00:00Z",
+  "market_closedTime": "2021-12-06 20:37:40+00",
+  "conditionId": "0xd471eb76743253cadf77406d605725b3f3f033d9b10a1693fbf6f909124467e3",
+  "slug": "will-valtteri-bottas-finish-ahead-of-sergio-perez-in-the-saudi-arabian-gran-prix",
+  "question": "Will Valtteri Bottas finish ahead of Sergio Perez in the Saudi Arabian Gran Prix?"
+}

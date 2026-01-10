@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241149",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-28T13:08:27.413000Z",
+  "market_createdAt": "2022-01-28T13:08:27.413Z",
+  "market_updatedAt": "2024-04-23T00:11:48.405194Z",
+  "market_startDate": "2022-01-28T20:33:56.836Z",
+  "market_endDate": "2022-01-28T00:00:00Z",
+  "market_closedTime": "2022-01-30 19:39:30+00",
+  "conditionId": "0xf008abb252c81d4368bc2602e083fa96ac94cdf00080b051c5c095e7a2d8b4d0",
+  "slug": "nhl-will-the-wild-beat-the-rangers-by-more-than-1p5-goals-in-their-january-28-matchup-8-pm-et",
+  "question": "NHL: Will the Wild beat the Rangers by more than 1.5 goals in their January 28 matchup (8 PM ET)?"
+}

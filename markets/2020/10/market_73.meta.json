@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "73",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-10-30T15:45:08.932000Z",
+  "market_createdAt": "2020-10-30T15:45:08.932Z",
+  "market_updatedAt": "2024-04-22T22:57:34.16222Z",
+  "market_startDate": null,
+  "market_endDate": "2020-11-05T00:00:00Z",
+  "market_closedTime": "2020-11-05 16:12:41+00",
+  "conditionId": "0x47f9555fa286a9cabb9de41d66ae5220a194a49dcc1084ded95af63c809f4c0b",
+  "slug": "will-donald-trump-tweet-announcing-that-he-won-the-election-before-november-5th-2020",
+  "question": "Will Donald Trump tweet announcing that he won the election before November 5th 2020?"
+}

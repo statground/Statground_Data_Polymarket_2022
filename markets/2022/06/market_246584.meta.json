@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246584",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-23T19:05:44.115000Z",
+  "market_createdAt": "2022-06-23T19:05:44.115Z",
+  "market_updatedAt": "2023-01-31T16:32:36.657Z",
+  "market_startDate": "2022-06-23T19:12:40.608Z",
+  "market_endDate": "2022-08-15T00:00:00Z",
+  "market_closedTime": "2022-08-09 02:45:53+00",
+  "conditionId": "0x0040d53c15888638cbca0aa48be7dee84a17a3aeee73a8c0f4afc35ab18384f7",
+  "slug": "will-the-us-senate-pass-a-reconciliation-bill-by-august-15",
+  "question": "Will the U.S. Senate pass a Reconciliation Bill by August 15?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240168",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-23T19:35:53.858000Z",
+  "market_createdAt": "2021-12-23T19:35:53.858Z",
+  "market_updatedAt": "2024-04-22T22:35:56.252131Z",
+  "market_startDate": "2021-12-26T08:52:32.116Z",
+  "market_endDate": "2021-12-26T00:00:00Z",
+  "market_closedTime": "2021-12-27 14:24:34+00",
+  "conditionId": "0xd3800c90af56a1936053cc9aab45868f530beef8f793f88803f9fcca4c370ce8",
+  "slug": "nfl-will-the-patriots-beat-the-bills-by-more-than-2pt5-points-in-their-december-26-matchup",
+  "question": "NFL: Will the Patriots beat the Bills by more than 2.5 points in their December 26 matchup?"
+}

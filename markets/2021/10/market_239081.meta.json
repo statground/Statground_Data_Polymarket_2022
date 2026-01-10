@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239081",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-25T08:05:09.748000Z",
+  "market_createdAt": "2021-10-25T08:05:09.748Z",
+  "market_updatedAt": "2024-04-23T00:38:30.084784Z",
+  "market_startDate": "2021-10-25T09:40:39.172Z",
+  "market_endDate": "2021-10-25T00:00:00Z",
+  "market_closedTime": "2021-10-26 09:53:36+00",
+  "conditionId": "0xcd5e412e989904dbd3fb973673968d455586bab23e2924ab0a0a9f6e642076d8",
+  "slug": "will-the-heat-beat-the-magic-by-more-than-13pt5-points-in-their-october-25th-matchup",
+  "question": "(In-Game Trading)Will the Heat beat the Magic by more than 13.5 points in their October 25th matchup?"
+}

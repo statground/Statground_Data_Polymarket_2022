@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241128",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-27T20:11:42.489000Z",
+  "market_createdAt": "2022-01-27T20:11:42.489Z",
+  "market_updatedAt": "2023-01-31T17:22:23.298Z",
+  "market_startDate": "2022-01-27T22:18:38.725Z",
+  "market_endDate": "2022-12-31T00:00:00Z",
+  "market_closedTime": "2022-02-25 21:04:39+00",
+  "conditionId": "0x3dc41e15ab0b1dd0499e89b4e63f743db5164dc431b28bd70b4164d58d9c2196",
+  "slug": "will-leondra-kruger-be-the-next-nominee-for-supreme-court-justice",
+  "question": "Will Leondra Kruger be the next nominee for Supreme Court Justice?"
+}

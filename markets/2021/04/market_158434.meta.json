@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "158434",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-27T17:05:08.543000Z",
+  "market_createdAt": "2021-04-27T17:05:08.543Z",
+  "market_updatedAt": "2024-04-25T00:15:10.094267Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-11T00:00:00Z",
+  "market_closedTime": "2021-05-06 22:08:34+00",
+  "conditionId": "0x08b270e7dac0999851a04a74c7f0db64ea367019897ab8496cdc535e6e60a87b",
+  "slug": "will-spacex-successfully-launch-and-land-starship-sn15-by-may-11-2021",
+  "question": "Will SpaceX successfully launch and land Starship SN15 by May 11, 2021?"
+}

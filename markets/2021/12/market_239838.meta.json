@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239838",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-05T17:08:05.006000Z",
+  "market_createdAt": "2021-12-05T17:08:05.006Z",
+  "market_updatedAt": "2024-04-24T23:36:15.51858Z",
+  "market_startDate": "2021-12-05T20:35:00.012Z",
+  "market_endDate": "2021-12-05T00:00:00Z",
+  "market_closedTime": "2021-12-06 20:28:42+00",
+  "conditionId": "0x6c1632301590165804e28fb81427870eb6e8b1c4a8147cd9107d49ec9e9be52a",
+  "slug": "nba-will-the-hawks-beat-the-hornets-by-more-than-6pt5-points-in-their-december-5-matchup",
+  "question": "NBA: Will the Hawks beat the Hornets by more than 6.5 points in their December 5 matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218636",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-23T20:25:23.521000Z",
+  "market_createdAt": "2021-06-23T20:25:23.521Z",
+  "market_updatedAt": "2024-04-24T23:52:56.734871Z",
+  "market_startDate": null,
+  "market_endDate": "2021-12-31T00:00:00Z",
+  "market_closedTime": "2021-11-17 19:45:34+00",
+  "conditionId": "0xbe60d36e2a0867fc82b90b82f72569444f7675ddb52551b6c24e8e3b0b554e9b",
+  "slug": "will-kamala-harris-cast-13-or-more-tie-votes-in-2021-1",
+  "question": "Will Kamala Harris cast 13 or more tie-breaking votes in 2021?"
+}

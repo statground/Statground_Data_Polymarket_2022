@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "194701",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-12T15:50:17.578000Z",
+  "market_createdAt": "2021-05-12T15:50:17.578Z",
+  "market_updatedAt": "2024-04-23T00:39:56.173522Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-12T00:00:00Z",
+  "market_closedTime": "2021-05-13 14:42:20+00",
+  "conditionId": "0xe54af197c5de165e8e9d419882827a333681fac4f14133c14fa25827b9297b93",
+  "slug": "will-cy-twombly-s-untitled-rome-sell-for-more-than-45-million-at-sotheby-s",
+  "question": "Will Cy Twombly’s “Untitled (Rome)” sell for more than $45 million at Sotheby’s?"
+}

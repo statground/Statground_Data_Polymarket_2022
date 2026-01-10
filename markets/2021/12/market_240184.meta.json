@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240184",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-26T18:01:07.303000Z",
+  "market_createdAt": "2021-12-26T18:01:07.303Z",
+  "market_updatedAt": "2024-04-22T23:58:39.405627Z",
+  "market_startDate": "2021-12-26T21:06:31.187Z",
+  "market_endDate": "2021-12-26T00:00:00Z",
+  "market_closedTime": "2021-12-27 14:21:24+00",
+  "conditionId": "0x83d6873939deb508f1319b6a2d54bf4f47bd461964e7b05d918e4bae308d7615",
+  "slug": "nba-will-the-pelicans-beat-the-thunder-by-more-than-1pt5-points-in-their-december-26-matchup",
+  "question": "NBA: Will the Pelicans beat the Thunder by more than 1.5 points in their December 26 matchup?"
+}

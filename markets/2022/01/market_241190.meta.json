@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241190",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-29T18:45:36.804000Z",
+  "market_createdAt": "2022-01-29T18:45:36.804Z",
+  "market_updatedAt": "2024-04-22T23:38:28.528358Z",
+  "market_startDate": "2022-01-29T21:38:42.142Z",
+  "market_endDate": "2022-02-06T00:00:00Z",
+  "market_closedTime": "2022-01-31 22:35:12+00",
+  "conditionId": "0xce89b82137c93c6643b2e3769e6ebebc390f0aa68bdc63c3a7739e2c869697fc",
+  "slug": "nfl-will-the-chiefs-beat-the-bengals-by-more-than-75-points-in-their-january-30-matchup",
+  "question": "NFL: Will the Chiefs beat the Bengals by more than 7.5 points in their January 30 matchup?"
+}

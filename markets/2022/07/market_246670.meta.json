@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246670",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-08T17:06:00.731000Z",
+  "market_createdAt": "2022-07-08T17:06:00.731Z",
+  "market_updatedAt": "2023-01-31T20:03:23.917Z",
+  "market_startDate": "2022-07-08T19:18:22.58Z",
+  "market_endDate": "2022-07-10T00:00:00Z",
+  "market_closedTime": "2022-07-10 18:45:43+00",
+  "conditionId": "0x6818e44fa2ca69a779b690b980e0bbcce3009fb9348219e46a7f04436ed59814",
+  "slug": "formula-1-which-team-will-collect-more-points-at-the-2022-austrian-gp-red-bull-or-ferrari",
+  "question": "Formula 1: Which team will collect more points at the 2022 Austrian GP, Red Bull or Ferrari?"
+}

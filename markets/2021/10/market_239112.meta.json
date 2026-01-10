@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239112",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-28T08:59:22.457000Z",
+  "market_createdAt": "2021-10-28T08:59:22.457Z",
+  "market_updatedAt": "2024-04-22T23:39:04.565137Z",
+  "market_startDate": "2021-10-28T17:20:01.778Z",
+  "market_endDate": "2021-10-31T00:00:00Z",
+  "market_closedTime": "2021-11-01 16:53:53+00",
+  "conditionId": "0x21c5a74c1c897adbb0e5a2f5e934692bdf9641872f304b872720cab36d30da16",
+  "slug": "will-matic-polygon-be-above-2-on-halloween",
+  "question": "Will $MATIC (Polygon) be above $2 on Halloween?"
+}

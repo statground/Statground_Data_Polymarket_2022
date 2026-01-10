@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239019",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-18T16:36:18.555000Z",
+  "market_createdAt": "2021-10-18T16:36:18.555Z",
+  "market_updatedAt": "2024-04-24T23:42:19.45135Z",
+  "market_startDate": "2021-10-18T16:48:22.657Z",
+  "market_endDate": "2021-10-26T00:00:00Z",
+  "market_closedTime": "2021-10-26 18:20:31+00",
+  "conditionId": "0x5d5dfc1fb1707104f04d49f03b71105ae8009a89993c230ca16ecd7fc7643819",
+  "slug": "will-the-indexed-finance-hacker-return-90-or-more-of-the-exploited-funds-by-october-26th",
+  "question": "Will the Indexed Finance hacker return 90% or more of the exploited funds by October 26th?"
+}

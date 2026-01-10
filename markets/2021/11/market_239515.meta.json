@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239515",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-20T15:08:41.973000Z",
+  "market_createdAt": "2021-11-20T15:08:41.973Z",
+  "market_updatedAt": "2024-04-23T00:07:21.677513Z",
+  "market_startDate": "2021-11-20T19:57:41.131Z",
+  "market_endDate": "2021-11-20T00:00:00Z",
+  "market_closedTime": "2021-11-21 15:54:53+00",
+  "conditionId": "0x85f39f360ec7bcf1ceaa03050a9e62809e82d5004d8f08815d98046d1261ddb3",
+  "slug": "nba-will-the-heat-beat-the-wizards-by-more-than-1pt5-points-in-their-november-20th-matchup",
+  "question": "NBA: Will the Heat beat the Wizards by more than 1.5 points in their November 20th matchup?"
+}

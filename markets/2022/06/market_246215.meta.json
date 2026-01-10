@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246215",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-03T15:00:25.950000Z",
+  "market_createdAt": "2022-06-03T15:00:25.95Z",
+  "market_updatedAt": "2023-01-31T19:12:11.338Z",
+  "market_startDate": "2022-06-03T15:16:17.296Z",
+  "market_endDate": "2022-06-10T00:00:00Z",
+  "market_closedTime": "2022-06-10 19:45:31+00",
+  "conditionId": "0xd6f80826015cc70cfbc0bcdba73afb29d2505f71a7d0f71ae73fcca004f3f3bb",
+  "slug": "will-eth-be-above-1800-on-june-10",
+  "question": "Will $ETH be above $1,800 on June 10?"
+}

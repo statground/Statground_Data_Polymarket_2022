@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242602",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-29T12:21:29.123000Z",
+  "market_createdAt": "2022-03-29T12:21:29.123Z",
+  "market_updatedAt": "2024-04-24T23:26:38.296717Z",
+  "market_startDate": "2022-03-29T15:57:44.695Z",
+  "market_endDate": "2022-06-01T00:00:00Z",
+  "market_closedTime": "2022-06-01 14:15:52+00",
+  "conditionId": "0x37279c1118877debca62de742f685e5be31df1b355c10a4f6884130dc6b9ba46",
+  "slug": "will-more-than-2-million-people-travel-through-a-tsa-checkpoint-on-7-consecutive-days-before-june-1-2022",
+  "question": "Will more than 2 million people travel through a TSA checkpoint on 7 consecutive days before June 1, 2022?"
+}

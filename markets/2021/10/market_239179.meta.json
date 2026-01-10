@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239179",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-31T08:31:16.743000Z",
+  "market_createdAt": "2021-10-31T08:31:16.743Z",
+  "market_updatedAt": "2024-04-22T22:25:19.235371Z",
+  "market_startDate": "2021-10-31T09:20:40.586Z",
+  "market_endDate": "2021-10-31T00:00:00Z",
+  "market_closedTime": "2021-11-01 10:27:21+00",
+  "conditionId": "0x3c5db793b82216bffa9dc720695e5524e3d91e271c96e07d214542681c5f9f29",
+  "slug": "nba-who-will-win-the-jazz-v-bucks-game-on-october-31st",
+  "question": "NBA: Who will win the Jazz v. Bucks game on October 31st?"
+}

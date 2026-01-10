@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240450",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T16:21:42.516000Z",
+  "market_createdAt": "2022-01-11T16:21:42.516Z",
+  "market_updatedAt": "2024-04-25T00:02:55.142836Z",
+  "market_startDate": "2022-01-12T20:41:27.986Z",
+  "market_endDate": "2022-02-08T00:00:00Z",
+  "market_closedTime": "2022-02-10 21:54:50+00",
+  "conditionId": "0xd22a2b5b2d38dd28c2dc0ec124814edd1eb50ebb75760b887a82449ed0526c5a",
+  "slug": "will-the-7-day-covid-19-case-average-in-the-usa-be-above-200000-on-february-1-2022",
+  "question": "Will the 7-day COVID-19 Case average in the USA be above 200,000 on February 1, 2022?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240913",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-21T11:12:23.883000Z",
+  "market_createdAt": "2022-01-21T11:12:23.883Z",
+  "market_updatedAt": "2024-04-25T00:04:17.325203Z",
+  "market_startDate": "2022-01-21T21:48:13.724Z",
+  "market_endDate": "2022-01-21T00:00:00Z",
+  "market_closedTime": "2022-01-24 21:59:18+00",
+  "conditionId": "0x5b4b88d0deb5ea5a7a2cde2fd50d774b632e5bee7762ebf8edadabca4dc833e0",
+  "slug": "nhl-will-the-islanders-beat-the-coyotes-by-more-than-1p5-points-in-their-january-21-matchup",
+  "question": "NHL: Will the Islanders beat the Coyotes by more than 1.5 points in their January 21 matchup?"
+}

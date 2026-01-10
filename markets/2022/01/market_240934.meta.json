@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240934",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-21T19:08:31.351000Z",
+  "market_createdAt": "2022-01-21T19:08:31.351Z",
+  "market_updatedAt": "2024-04-22T23:02:47.219176Z",
+  "market_startDate": "2022-01-26T19:17:48.096Z",
+  "market_endDate": "2022-02-08T00:00:00Z",
+  "market_closedTime": "2022-02-10 21:21:16+00",
+  "conditionId": "0x34003009980afa93cc3e394ae820827f9d429a133faf9e5ea563418daf3d284a",
+  "slug": "which-country-will-report-a-higher-7-day-covid-19-case-average-per-capita-on-february-8-denmark-or-france",
+  "question": "Which country will report a higher 7-day COVID-19 case average per capita on February 8: Denmark or France?"
+}

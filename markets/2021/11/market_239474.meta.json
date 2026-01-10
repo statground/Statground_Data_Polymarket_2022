@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239474",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-17T13:14:35.956000Z",
+  "market_createdAt": "2021-11-17T13:14:35.956Z",
+  "market_updatedAt": "2024-04-22T22:47:36.467811Z",
+  "market_startDate": "2021-11-17T19:18:20.803Z",
+  "market_endDate": "2021-11-17T00:00:00Z",
+  "market_closedTime": "2021-11-19 01:58:57+00",
+  "conditionId": "0xa017da65e00c3f1e62fee23e152ace70da6c22a4ff587e75317595c10f7d3d80",
+  "slug": "nba-will-the-timberwolves-beat-the-kings-by-more-than-2pt5-points-in-their-november-17th-matchup",
+  "question": "NBA: Will the Timberwolves beat the Kings by more than 2.5 points in their November 17th matchup?"
+}

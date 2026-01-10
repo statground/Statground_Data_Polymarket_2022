@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244796",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-13T15:31:44.400000Z",
+  "market_createdAt": "2022-05-13T15:31:44.4Z",
+  "market_updatedAt": "2023-01-31T20:01:16.293Z",
+  "market_startDate": "2022-05-13T17:17:55.178Z",
+  "market_endDate": "2022-05-25T00:00:00Z",
+  "market_closedTime": "2022-05-26 06:00:33+00",
+  "conditionId": "0x2221d023e8703701c6e7ee23de228ae0a798c9ed65a4ec7cd00d9cc3586f8930",
+  "slug": "poker-will-any-player-win-more-than-1-event-at-triton-series-madrid-2022",
+  "question": "Poker: Will any player win more than 1 event at Triton Series Madrid 2022?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242277",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-19T09:08:06.089000Z",
+  "market_createdAt": "2022-03-19T09:08:06.089Z",
+  "market_updatedAt": "2024-04-23T00:25:00.308774Z",
+  "market_startDate": "2022-03-19T17:15:16.744Z",
+  "market_endDate": "2022-03-19T00:00:00Z",
+  "market_closedTime": "2022-03-20 21:03:11+00",
+  "conditionId": "0x26de9c11a9854b62a7dcd9243a71f6d23f09345f790ad447cc6083662ac2e68b",
+  "slug": "nba-will-the-bucks-beat-the-timberwolves-by-more-than-3pt5-points-in-their-march-19-510-pm-et-matchup",
+  "question": "NBA: Will the Bucks beat the Timberwolves by more than 3.5 points in their March 19, 5:10 PM ET matchup?"
+}

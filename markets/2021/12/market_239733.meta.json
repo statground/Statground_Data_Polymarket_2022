@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239733",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-01T13:08:30.840000Z",
+  "market_createdAt": "2021-12-01T13:08:30.84Z",
+  "market_updatedAt": "2024-04-26T02:51:08.915212Z",
+  "market_startDate": "2021-12-01T19:35:32.012Z",
+  "market_endDate": "2021-12-01T00:00:00Z",
+  "market_closedTime": "2021-12-02 06:57:03+00",
+  "conditionId": "0x3f7b81d05e41b6d8714c942207ed3c9d8e88b7260443eb5201b4eb74aaf6e9f4",
+  "slug": "nba-will-the-celtics-beat-the-76ers-by-more-than-2pt5-points-in-their-december-1-matchup",
+  "question": "NBA: Will the Celtics beat the 76ers by more than 2.5 points in their December 1 matchup?"
+}

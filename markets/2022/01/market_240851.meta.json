@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240851",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-19T11:35:46.184000Z",
+  "market_createdAt": "2022-01-19T11:35:46.184Z",
+  "market_updatedAt": "2024-04-22T23:40:03.687299Z",
+  "market_startDate": "2022-01-19T20:02:18.583Z",
+  "market_endDate": "2022-01-19T00:00:00Z",
+  "market_closedTime": "2022-01-21 13:24:41+00",
+  "conditionId": "0xf1991fbc82bb34a95e4d88ea1eb1a1d8612284eb40ee822e3a7174e8e595da54",
+  "slug": "nba-will-the-jazz-beat-the-rockets-by-more-than-12p5-points-in-their-january-19-matchup",
+  "question": "NBA: Will the Jazz beat the Rockets by more than 12.5 points in their January 19 matchup?"
+}

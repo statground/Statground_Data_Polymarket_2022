@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239740",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-01T13:30:00.196000Z",
+  "market_createdAt": "2021-12-01T13:30:00.196Z",
+  "market_updatedAt": "2024-04-23T00:16:07.133375Z",
+  "market_startDate": "2021-12-01T19:42:12.597Z",
+  "market_endDate": "2021-12-01T00:00:00Z",
+  "market_closedTime": "2021-12-02 07:08:33+00",
+  "conditionId": "0x29d650f305cc32e39e9e3cdebfd6d5f99c5ff0903c7dbec7291438ac78f801f4",
+  "slug": "nba-will-the-sum-of-points-in-celtics-v-76ers-be-greater-than-209pt5",
+  "question": "NBA: Will the sum of points in Celtics v 76ers be greater than 209.5?"
+}

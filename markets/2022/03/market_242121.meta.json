@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242121",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-16T08:51:01.798000Z",
+  "market_createdAt": "2022-03-16T08:51:01.798Z",
+  "market_updatedAt": "2024-04-23T00:33:08.572103Z",
+  "market_startDate": "2022-03-16T17:11:46.243Z",
+  "market_endDate": "2022-03-16T00:00:00Z",
+  "market_closedTime": "2022-03-17 13:30:52+00",
+  "conditionId": "0x96c7f2987e2e915bdb8dfe9842ef75850675bba55f2cc2de344f43216fcd7742",
+  "slug": "nhl-will-the-wild-beat-the-bruins-by-more-than-1pt5-goals-in-their-march-16-matchup-7pt30-pm-et",
+  "question": "NHL: Will the Wild beat the Bruins by more than 1.5 goals in their March 16 matchup (7.30 PM ET)?"
+}

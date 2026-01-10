@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246195",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-02T21:15:15.930000Z",
+  "market_createdAt": "2022-06-02T21:15:15.93Z",
+  "market_updatedAt": "2023-01-31T21:06:30.603Z",
+  "market_startDate": "2022-06-02T21:34:34.399Z",
+  "market_endDate": "2022-06-17T00:00:00Z",
+  "market_closedTime": "2022-06-17 07:15:32+00",
+  "conditionId": "0x710e6d3a55820a1508413acafc1f0f17dbd4ef408b2b9136fc4f2c54c56ea2a0",
+  "slug": "2022-nba-finals-will-the-series-end-on-game-6",
+  "question": "2022 NBA Finals: Will the series end on Game 6?"
+}

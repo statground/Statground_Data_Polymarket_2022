@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239210",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-02T22:03:47.244000Z",
+  "market_createdAt": "2021-11-02T22:03:47.244Z",
+  "market_updatedAt": "2024-04-23T00:47:10.526982Z",
+  "market_startDate": "2021-11-03T16:18:54.276Z",
+  "market_endDate": "2021-11-06T00:00:00Z",
+  "market_closedTime": "2021-11-08 21:08:17+00",
+  "conditionId": "0x3a9f3f2fe39dec798474fe6ba3c20f6a627de20a7ebdeefffa34dc55ee175361",
+  "slug": "will-canelo-alvarez-ko-or-tko-or-rtd-caleb-plant",
+  "question": "Will Canelo Álvarez KO/TKO/RTD Caleb Plant?"
+}

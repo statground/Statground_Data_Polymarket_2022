@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241498",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-15T08:18:43.706000Z",
+  "market_createdAt": "2022-02-15T08:18:43.706Z",
+  "market_updatedAt": "2024-04-22T22:51:11.018541Z",
+  "market_startDate": "2022-02-15T17:34:32.235Z",
+  "market_endDate": "2022-02-15T00:00:00Z",
+  "market_closedTime": "2022-02-16 20:08:21+00",
+  "conditionId": "0xf44be4dfc9aa4e7ce8aca7e63e5bc35e566a948677ca380bfd385bb8ac6618b2",
+  "slug": "nba-will-the-cavaliers-beat-the-hawks-by-more-than-1p5-points-in-their-february-15-730-pm-et-matchup",
+  "question": "NBA: Will the Cavaliers beat the Hawks by more than 1.5 points in their February 15 (7.30 PM ET) matchup?"
+}

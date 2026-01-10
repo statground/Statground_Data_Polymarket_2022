@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238947",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-05T16:58:17.792000Z",
+  "market_createdAt": "2021-10-05T16:58:17.792Z",
+  "market_updatedAt": "2024-04-24T23:59:01.092019Z",
+  "market_startDate": "2021-10-05T18:18:01.472Z",
+  "market_endDate": "2021-10-28T00:00:00Z",
+  "market_closedTime": "2021-10-29 04:13:06+00",
+  "conditionId": "0x3a2c073d20c54bfb578b0c0e86dbcfee7c4e40590a71084368ef68676baac23c",
+  "slug": "will-new-world-be-a-top-3-game-on-steam-one-month-after-release",
+  "question": "Will New World be a Top 3 game on Steam one month after release?"
+}

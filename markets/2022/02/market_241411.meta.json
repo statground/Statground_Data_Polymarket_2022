@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241411",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-10T14:10:00.141000Z",
+  "market_createdAt": "2022-02-10T14:10:00.141Z",
+  "market_updatedAt": "2024-04-22T22:44:34.517451Z",
+  "market_startDate": "2022-02-10T15:00:46.269Z",
+  "market_endDate": "2022-02-10T00:00:00Z",
+  "market_closedTime": "2022-02-11 18:23:25+00",
+  "conditionId": "0xbbd3ffd9470d47776835a412d0cd905b7b6bd52453a4dfa85040d8231ff7fa73",
+  "slug": "nhl-will-the-avalanche-beat-the-lightning-by-more-than-1p5-goals-in-their-february-10-matchup-10-pm-et",
+  "question": "NHL: Will the Avalanche beat the Lightning by more than 1.5 goals in their February 10 matchup (10 PM ET)?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239550",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-21T19:47:47.976000Z",
+  "market_createdAt": "2021-11-21T19:47:47.976Z",
+  "market_updatedAt": "2024-04-22T22:24:58.591799Z",
+  "market_startDate": "2021-11-22T17:36:57.806Z",
+  "market_endDate": "2021-12-01T00:00:00Z",
+  "market_closedTime": "2021-12-02 06:46:00+00",
+  "conditionId": "0xd2573ecead4f4aacfa806692112dce5aed91efe7e1130861ba39654e6ad765ea",
+  "slug": "will-snowden-tweet-count-be-over-6700-on-december-1",
+  "question": "Will @Snowden tweet count be over 6,700 on December 1?"
+}

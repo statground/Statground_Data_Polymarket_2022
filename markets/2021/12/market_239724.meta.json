@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239724",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-01T10:14:03.934000Z",
+  "market_createdAt": "2021-12-01T10:14:03.934Z",
+  "market_updatedAt": "2024-04-22T23:29:10.455844Z",
+  "market_startDate": "2021-12-01T20:19:15.287Z",
+  "market_endDate": "2021-12-02T00:00:00Z",
+  "market_closedTime": "2021-12-03 18:21:28+00",
+  "conditionId": "0xf7c86f0ace453bfaa5413481f6ff5e0806ae16cd9efac9544ec86820a55c3d3f",
+  "slug": "premier-league-who-will-win-the-manchester-utd-v-arsenal-fc-game-on-december-2",
+  "question": "Premier League: Who will win the Manchester Utd v. Arsenal FC game on December 2?"
+}

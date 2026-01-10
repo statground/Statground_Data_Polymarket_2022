@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239442",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-15T11:17:17.309000Z",
+  "market_createdAt": "2021-11-15T11:17:17.309Z",
+  "market_updatedAt": "2024-04-23T00:34:25.766092Z",
+  "market_startDate": "2021-11-15T18:29:05.019Z",
+  "market_endDate": "2021-11-15T00:00:00Z",
+  "market_closedTime": "2021-11-16 10:37:10+00",
+  "conditionId": "0xd1d06802e8d77d75277f2cdd98fcdda43febb41b52a788b85251481d54b9e8aa",
+  "slug": "nba-who-will-win-the-lakers-v-bulls-game-on-november-15th",
+  "question": "NBA: Who will win the Lakers v. Bulls game on November 15th?"
+}

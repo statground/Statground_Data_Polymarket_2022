@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242666",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-31T09:05:01.947000Z",
+  "market_createdAt": "2022-03-31T09:05:01.947Z",
+  "market_updatedAt": "2024-04-22T23:47:19.110533Z",
+  "market_startDate": "2022-03-31T16:30:14.951Z",
+  "market_endDate": "2022-03-31T00:00:00Z",
+  "market_closedTime": "2022-04-01 17:15:34+00",
+  "conditionId": "0x0f891b3ab511fd7f48c07467a2700574578648a88fdfe89813aaf12a7c83137b",
+  "slug": "nhl-will-the-stars-beat-the-ducks-by-more-than-1pt5-goals-in-their-march-31-1000-pm-et-matchup",
+  "question": "NHL: Will the Stars beat the Ducks by more than 1.5 goals in their March 31, 10:00 PM ET matchup?"
+}

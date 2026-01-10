@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239643",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-28T16:05:38.441000Z",
+  "market_createdAt": "2021-11-28T16:05:38.441Z",
+  "market_updatedAt": "2024-04-22T23:32:06.050997Z",
+  "market_startDate": "2021-11-28T16:48:41.075Z",
+  "market_endDate": "2021-11-28T00:00:00Z",
+  "market_closedTime": "2021-11-29 14:03:30+00",
+  "conditionId": "0x6b0b60e5a5cdb2abf6492618ff3237dfbbec8b581382962396b2f961d95e7b86",
+  "slug": "nfl-will-the-buccaneers-beat-the-colts-by-more-than-2pt5-points-in-their-november-28th-matchup",
+  "question": "NFL: Will the Buccaneers beat the Colts by more than 2.5 points in their November 28th matchup?"
+}

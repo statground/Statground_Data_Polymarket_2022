@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246693",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-12T19:51:06.278000Z",
+  "market_createdAt": "2022-07-12T19:51:06.278Z",
+  "market_updatedAt": "2023-01-31T17:34:32.367Z",
+  "market_startDate": "2022-07-12T21:43:44.048Z",
+  "market_endDate": "2022-12-31T00:00:00Z",
+  "market_closedTime": "2022-07-19 17:15:45+00",
+  "conditionId": "0xd6b2d29b25e20b4d10d82820c8201d6bf82bc98633058c82b357aba8ff85dded",
+  "slug": "will-tom-tugendhat-be-the-next-uk-conservative-party-leader",
+  "question": "Will Tom Tugendhat be the next UK Conservative Party Leader?"
+}

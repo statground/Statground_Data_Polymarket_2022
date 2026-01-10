@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240985",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-24T17:26:27.473000Z",
+  "market_createdAt": "2022-01-24T17:26:27.473Z",
+  "market_updatedAt": "2024-04-23T00:23:50.701316Z",
+  "market_startDate": "2022-01-25T00:35:38.412Z",
+  "market_endDate": "2022-01-31T00:00:00Z",
+  "market_closedTime": "2022-01-31 22:52:58+00",
+  "conditionId": "0xbba7f8a09ce98ac7f6f473b2bc559dc93a02f02a7b2f4f6e8b0f21d4c7b7b23b",
+  "slug": "will-the-socialist-party-win-108-or-more-seats-in-the-january-30-2022-portuguese-legislative-election",
+  "question": "Will the Socialist Party win 108 or more seats in the January 30, 2022 Portuguese legislative election?"
+}

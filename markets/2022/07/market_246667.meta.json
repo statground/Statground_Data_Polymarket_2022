@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246667",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-08T13:53:22.486000Z",
+  "market_createdAt": "2022-07-08T13:53:22.486Z",
+  "market_updatedAt": "2024-08-08T09:12:55.271183Z",
+  "market_startDate": "2022-07-08T13:53:22.486Z",
+  "market_endDate": "2024-09-10T00:00:00Z",
+  "market_closedTime": "2024-08-07 13:51:50.562992+00",
+  "conditionId": "0x951cc014c30d4d9f18f4738905e44c8613356379da583fb76e08b60855037a03",
+  "slug": "will-gavin-newsom-win-the-us-2024-democratic-presidential-nomination",
+  "question": "[Single Market] Will Gavin Newsom win the U.S. 2024 Democratic presidential nomination?"
+}

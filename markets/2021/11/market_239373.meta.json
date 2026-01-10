@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239373",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-11T18:41:29.569000Z",
+  "market_createdAt": "2021-11-11T18:41:29.569Z",
+  "market_updatedAt": "2024-04-23T00:53:10.282867Z",
+  "market_startDate": "2021-11-11T20:53:07.943Z",
+  "market_endDate": "2021-11-16T00:00:00Z",
+  "market_closedTime": "2021-11-18 00:45:34+00",
+  "conditionId": "0x78f68c10831aad3a9f156e54d43e82afd8dd14d5f947a7e3beb620ca6dec1395",
+  "slug": "what-will-the-price-of-ethereum-name-service-ens-be-at-noon-on-november-16-2021-1",
+  "question": "What will the price of Ethereum Name Service ($ENS) be at noon on November 16, 2021?"
+}

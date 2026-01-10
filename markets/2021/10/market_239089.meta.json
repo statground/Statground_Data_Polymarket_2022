@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239089",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-25T23:14:11.157000Z",
+  "market_createdAt": "2021-10-25T23:14:11.157Z",
+  "market_updatedAt": "2024-04-23T00:32:38.673449Z",
+  "market_startDate": "2021-10-26T08:48:16.451Z",
+  "market_endDate": "2021-10-26T00:00:00Z",
+  "market_closedTime": "2021-10-27 02:22:32+00",
+  "conditionId": "0x470bb194d0a65d47c98de99ed53603f38dcc4a6d6e87ba35b2e6b929235e34fc",
+  "slug": "who-will-win-the-76ers-v-knicks-game-on-october-26th",
+  "question": "(In-Game Trading) Who will win the 76ers v. Knicks game on October 26th?"
+}

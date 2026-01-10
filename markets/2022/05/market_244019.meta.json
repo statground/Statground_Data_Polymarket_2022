@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244019",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-02T20:25:49.602000Z",
+  "market_createdAt": "2022-05-02T20:25:49.602Z",
+  "market_updatedAt": "2023-01-30T10:41:20.429Z",
+  "market_startDate": "2022-05-03T20:16:55.298Z",
+  "market_endDate": "2023-01-01T00:00:00Z",
+  "market_closedTime": "2022-06-02 19:45:53+00",
+  "conditionId": "0x7e630c56dd5b2183702f95af58006c14ae4fca0f90e541b4fdb76571787ea4d4",
+  "slug": "will-amber-heard-be-found-liable-for-defaming-johnny-depp",
+  "question": "Will Amber Heard be found liable for defaming Johnny Depp?"
+}

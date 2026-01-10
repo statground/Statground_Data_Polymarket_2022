@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242680",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-31T20:42:22.891000Z",
+  "market_createdAt": "2022-03-31T20:42:22.891Z",
+  "market_updatedAt": "2024-04-24T23:14:52.113441Z",
+  "market_startDate": "2022-03-31T22:00:24.402Z",
+  "market_endDate": "2022-04-10T00:00:00Z",
+  "market_closedTime": "2022-04-08 06:47:01+00",
+  "conditionId": "0x6493782dff605d8431b2fa601f7972ed51ff24f9670517b37b81421d119fceb4",
+  "slug": "will-tiger-woods-play-in-the-2022-us-masters-tournament",
+  "question": "Will Tiger Woods play in the 2022 US Masters Tournament?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241776",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-28T17:41:10.371000Z",
+  "market_createdAt": "2022-02-28T17:41:10.371Z",
+  "market_updatedAt": "2024-04-24T23:41:31.443559Z",
+  "market_startDate": "2022-02-28T17:49:23.855Z",
+  "market_endDate": "2022-06-30T00:00:00Z",
+  "market_closedTime": "2022-07-05 03:00:40+00",
+  "conditionId": "0x1fa9c89af043eb799ab0c6abc52625f02b146b6294d57e82aa8c800d06049a02",
+  "slug": "will-coinbase-support-polygon-usdc-deposits-withdrawals-by-june-30-2022",
+  "question": "Will Coinbase support Polygon USDC deposits & withdrawals by June 30, 2022?"
+}

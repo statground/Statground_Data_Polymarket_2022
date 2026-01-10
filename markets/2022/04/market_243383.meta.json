@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243383",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-18T07:25:16.291000Z",
+  "market_createdAt": "2022-04-18T07:25:16.291Z",
+  "market_updatedAt": "2023-01-31T19:35:06.903Z",
+  "market_startDate": "2022-04-18T13:49:18.366Z",
+  "market_endDate": "2022-05-01T00:00:00Z",
+  "market_closedTime": "2022-04-28 07:04:09+00",
+  "conditionId": "0x67277b199819f410c3bba018c8e14016af3219d527eef7e1dba3318b6edaaa5e",
+  "slug": "2022-nba-playoffs-1st-round-who-will-win-bucks-vs-bulls",
+  "question": "2022 NBA Playoffs, 1st Round: Who will win Bucks vs. Bulls?"
+}

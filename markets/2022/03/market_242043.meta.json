@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242043",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-13T13:06:02.078000Z",
+  "market_createdAt": "2022-03-13T13:06:02.078Z",
+  "market_updatedAt": "2024-04-22T22:46:17.469404Z",
+  "market_startDate": "2022-03-13T17:55:43.899Z",
+  "market_endDate": "2022-03-13T00:00:00Z",
+  "market_closedTime": "2022-03-14 10:00:28+00",
+  "conditionId": "0x4f32a85007a3930f3666ffc4b82008635a528e236f26e1a9ed6af2ffe522a4d0",
+  "slug": "nba-who-will-win-the-pelicans-vspt-rockets-scheduled-for-march-13-7-pm-et",
+  "question": "NBA: Who will win the Pelicans vs. Rockets, scheduled for March 13 (7 PM ET)?"
+}

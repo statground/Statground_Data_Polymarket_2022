@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242195",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-18T12:02:12.182000Z",
+  "market_createdAt": "2022-03-18T12:02:12.182Z",
+  "market_updatedAt": "2024-04-23T00:49:11.220025Z",
+  "market_startDate": "2022-03-18T16:16:31.96Z",
+  "market_endDate": "2022-03-18T00:00:00Z",
+  "market_closedTime": "2022-03-19 14:00:29+00",
+  "conditionId": "0xb15ca17611d3e078df0513804489c9f11721aa9747cf62a79c6ca5c7fbb0a8ad",
+  "slug": "nhl-will-the-hurricanes-beat-the-capitals-by-more-than-1pt5-goals-in-their-march-18-700-pm-et-matchup",
+  "question": "NHL: Will the Hurricanes beat the Capitals by more than 1.5 goals in their March 18, 7:00 PM ET matchup?"
+}

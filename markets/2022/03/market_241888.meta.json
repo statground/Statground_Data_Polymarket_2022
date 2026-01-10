@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241888",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-04T15:31:22.620000Z",
+  "market_createdAt": "2022-03-04T15:31:22.62Z",
+  "market_updatedAt": "2024-04-22T22:44:25.660335Z",
+  "market_startDate": "2022-03-04T17:34:23.743Z",
+  "market_endDate": "2022-03-04T00:00:00Z",
+  "market_closedTime": "2022-03-05 14:16:34+00",
+  "conditionId": "0xc09a2db2789f83d6f79fce6f4550b2b3e494f7bc607155b1e71cb5453323b3fc",
+  "slug": "nba-who-will-win-the-suns-vspt-knicks-scheduled-for-march-4-10-pm-et",
+  "question": "NBA: Who will win the Suns vs. Knicks, scheduled for March 4 (10 PM ET)?"
+}

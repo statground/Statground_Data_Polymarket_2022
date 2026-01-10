@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248029",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T20:32:59.723000Z",
+  "market_createdAt": "2022-11-18T20:32:59.723Z",
+  "market_updatedAt": "2023-01-31T19:27:31.999Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-06T00:00:00Z",
+  "market_closedTime": "2022-12-02 19:19:14+00",
+  "conditionId": "0x9e134e2fd684f1994f9114789bdf97d0fd22c4695cb3cea6cf2f16e5be811b8c",
+  "slug": "will-spain-qualify-from-group-e",
+  "question": "Will Spain qualify from Group E?"
+}

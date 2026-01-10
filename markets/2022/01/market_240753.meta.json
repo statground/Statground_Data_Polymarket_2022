@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240753",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-15T17:55:48.861000Z",
+  "market_createdAt": "2022-01-15T17:55:48.861Z",
+  "market_updatedAt": "2024-04-22T22:56:32.073435Z",
+  "market_startDate": "2022-01-15T19:13:18.112Z",
+  "market_endDate": "2022-01-15T00:00:00Z",
+  "market_closedTime": "2022-01-17 16:33:14+00",
+  "conditionId": "0x4b3b923bbd7688e60a191c55acd9edeb3a9bf9776f6095aa31c37be9f54825cd",
+  "slug": "nba-will-the-wizards-beat-the-trail-blazers-by-more-than-7p5-points-in-their-january-15-matchup",
+  "question": "NBA: Will the Wizards beat the Trail Blazers by more than 7.5 points in their January 15 matchup?"
+}

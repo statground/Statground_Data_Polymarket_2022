@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242003",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-10T11:45:43.012000Z",
+  "market_createdAt": "2022-03-10T11:45:43.012Z",
+  "market_updatedAt": "2024-04-24T23:31:07.639379Z",
+  "market_startDate": "2022-03-10T17:16:30.974Z",
+  "market_endDate": "2022-03-10T00:00:00Z",
+  "market_closedTime": "2022-03-12 01:01:20+00",
+  "conditionId": "0x5b1bb0108eee31e7b833d307edb8ccd203814a39a239113aac6d0e87583a102f",
+  "slug": "nba-will-the-76ers-beat-the-nets-by-more-than-4pt5-points-in-their-march-10-7pt30-pm-et-matchup",
+  "question": "NBA: Will the 76ers beat the Nets by more than 4.5 points in their March 10 (7.30 PM ET) matchup?"
+}

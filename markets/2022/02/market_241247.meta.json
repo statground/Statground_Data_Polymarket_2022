@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241247",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-01T13:59:55.058000Z",
+  "market_createdAt": "2022-02-01T13:59:55.058Z",
+  "market_updatedAt": "2024-04-23T00:21:39.647913Z",
+  "market_startDate": "2022-02-01T23:23:17.185Z",
+  "market_endDate": "2022-02-01T00:00:00Z",
+  "market_closedTime": "2022-02-02 23:55:33+00",
+  "conditionId": "0x2ef2296f87ea0dc1831e77e7912eaf4b104f7eaa9536359e416833f84d854fe2",
+  "slug": "nba-will-the-raptors-beat-the-heat-by-more-than-2p5-points-in-their-february-1-730-pm-et-matchup",
+  "question": "NBA: Will the Raptors beat the Heat by more than 2.5 points in their February 1 (7.30 PM ET) matchup?"
+}

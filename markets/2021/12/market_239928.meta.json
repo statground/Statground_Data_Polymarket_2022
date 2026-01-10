@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239928",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-08T10:24:05.972000Z",
+  "market_createdAt": "2021-12-08T10:24:05.972Z",
+  "market_updatedAt": "2024-04-22T23:49:49.080778Z",
+  "market_startDate": "2021-12-08T21:20:42.834Z",
+  "market_endDate": "2021-12-08T00:00:00Z",
+  "market_closedTime": "2021-12-09 18:57:44+00",
+  "conditionId": "0x4e98fdbb48337d038e0136d5235df513d288e26afbaaf6870cf342c8e1f6c6f5",
+  "slug": "nba-will-the-nets-beat-the-rockets-by-more-than-6pt5-points-in-their-december-8-matchup",
+  "question": "NBA: Will the Nets beat the Rockets by more than 6.5 points in their December 8 matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "231420",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-09T19:30:01.232000Z",
+  "market_createdAt": "2021-08-09T19:30:01.232Z",
+  "market_updatedAt": "2024-04-22T23:52:21.717559Z",
+  "market_startDate": "2021-08-11T16:51:54.517Z",
+  "market_endDate": "2022-01-01T00:00:00Z",
+  "market_closedTime": "2021-08-16 21:33:24+00",
+  "conditionId": "0x0b857e0fc895670fd64bf1b34e9717df55fa1939d86a59fd9753aaa10ef0a923",
+  "slug": "will-canada-hold-a-federal-election-in-2021",
+  "question": "Will Canada hold a federal election in 2021?"
+}

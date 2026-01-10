@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "233051",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-11T22:14:01.379000Z",
+  "market_createdAt": "2021-08-11T22:14:01.379Z",
+  "market_updatedAt": "2024-04-22T23:46:14.387042Z",
+  "market_startDate": null,
+  "market_endDate": "2022-01-01T00:00:00Z",
+  "market_closedTime": "2021-09-02 19:52:06+00",
+  "conditionId": "0xb35bb72b3acaa5e94a3315a661757d470f5b803e9e41864e8c3eb89ca6fdf80c",
+  "slug": "will-cardano-ada-break-3-dollars-before-january-1-2022",
+  "question": "Will Cardano ($ADA) break $3 before January 1, 2022?"
+}

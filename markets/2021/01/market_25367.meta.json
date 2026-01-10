@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "25367",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-01-04T17:20:08.085000Z",
+  "market_createdAt": "2021-01-04T17:20:08.085Z",
+  "market_updatedAt": "2024-04-22T23:27:37.186193Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-01T00:00:00Z",
+  "market_closedTime": "2021-02-16 21:29:32+00",
+  "conditionId": "0xe97a28fbd11bc755d4dff8a710d64b1a9ffd10324adbdcf391da64da60a96e2e",
+  "slug": "will-btc-break-50k-before-april-1st-2021",
+  "question": "Will $BTC break $50k before April 1st, 2021?"
+}

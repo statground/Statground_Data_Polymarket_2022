@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239732",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-01T13:04:22.783000Z",
+  "market_createdAt": "2021-12-01T13:04:22.783Z",
+  "market_updatedAt": "2024-04-25T00:05:09.428428Z",
+  "market_startDate": "2021-12-01T19:34:56.068Z",
+  "market_endDate": "2021-12-01T00:00:00Z",
+  "market_closedTime": "2021-12-02 06:57:35+00",
+  "conditionId": "0x6f14fe8cbe2f82d05e8f4aeb3d8872148cb626ae1c4eafbe254b1f516af49df0",
+  "slug": "nba-will-the-heat-beat-the-cavaliers-by-more-than-7pt5-points-in-their-december-1-matchup",
+  "question": "NBA: Will the Heat beat the Cavaliers by more than 7.5 points in their December 1 matchup?"
+}

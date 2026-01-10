@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240266",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-01T20:50:50.949000Z",
+  "market_createdAt": "2022-01-01T20:50:50.949Z",
+  "market_updatedAt": "2024-04-22T23:01:18.360944Z",
+  "market_startDate": "2022-01-01T21:33:58.241Z",
+  "market_endDate": "2022-01-01T00:00:00Z",
+  "market_closedTime": "2022-01-03 15:12:21+00",
+  "conditionId": "0x3f3e2e2c6be3b0cfbd627c673c28f5a0894a9f7e44ad8ae9fe6c54bf6a4a7392",
+  "slug": "nba-will-the-bucks-beat-the-pelicans-by-more-than-10pt5-points-in-their-january-1-matchup",
+  "question": "NBA: Will the Bucks beat the Pelicans by more than 10.5 points in their January 1 matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "196281",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-13T18:10:02.837000Z",
+  "market_createdAt": "2021-05-13T18:10:02.837Z",
+  "market_updatedAt": "2024-04-22T23:15:24.401143Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-13T00:00:00Z",
+  "market_closedTime": "2021-05-14 16:24:40+00",
+  "conditionId": "0x8bb636b5207edeb75dce8ed62bb89c9170fef42be36dfa1ab66835e7dbd63502",
+  "slug": "will-joan-mitchells-untitled-sell-for-more-than-15-million-at-christies",
+  "question": "Will Joan Mitchell's \"Untitled\" sell for more than $15 million at Christie’s?"
+}

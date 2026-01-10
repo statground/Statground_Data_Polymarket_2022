@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243989",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-01T10:07:34.709000Z",
+  "market_createdAt": "2022-05-01T10:07:34.709Z",
+  "market_updatedAt": "2023-01-31T21:18:01.618Z",
+  "market_startDate": "2022-05-01T14:08:40.975Z",
+  "market_endDate": "2022-05-16T00:00:00Z",
+  "market_closedTime": "2022-05-16 18:01:06+00",
+  "conditionId": "0xae60cab0a17d0b9be93c552be7f694e61da8bd4d0e65dc79db8ea867e1be9f22",
+  "slug": "2022-nba-playoffs-round-2-who-will-win-suns-vs-mavericks",
+  "question": "2022 NBA Playoffs, Round 2: Who will win Suns vs. Mavericks?"
+}

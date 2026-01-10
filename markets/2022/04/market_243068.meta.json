@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243068",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-10T16:19:19.227000Z",
+  "market_createdAt": "2022-04-10T16:19:19.227Z",
+  "market_updatedAt": "2023-01-31T02:09:47.049Z",
+  "market_startDate": "2022-04-10T16:39:58.304Z",
+  "market_endDate": "2022-04-10T00:00:00Z",
+  "market_closedTime": "2022-04-11 09:16:03+00",
+  "conditionId": "0x773ad2fe0c569ef2999a54b3dfde73af0e285560a2c2f8d5bb89eaae05cd1847",
+  "slug": "nba-will-the-nets-beat-the-pacers-by-more-than-12pt5-points-in-their-april-10-330pm-et-matchup",
+  "question": "NBA: Will the Nets beat the Pacers by more than 12.5 points in their April 10 (3:30PM ET) matchup?"
+}

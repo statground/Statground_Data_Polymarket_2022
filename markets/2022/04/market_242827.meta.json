@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242827",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-04T18:54:27.717000Z",
+  "market_createdAt": "2022-04-04T18:54:27.717Z",
+  "market_updatedAt": "2024-04-24T23:36:59.36663Z",
+  "market_startDate": "2022-04-04T20:05:04.167Z",
+  "market_endDate": "2022-04-09T00:00:00Z",
+  "market_closedTime": "2022-04-10 06:48:33+00",
+  "conditionId": "0x62bc879c743ef37c3fc66eda56f884acc6d10c60f3c12c512090f01885e24ecb",
+  "slug": "ufc-273-who-will-win-gilbert-burns-or-khamzat-chimaev",
+  "question": "UFC 273: Who will win — Gilbert Burns or Khamzat Chimaev?"
+}

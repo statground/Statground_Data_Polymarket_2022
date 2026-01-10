@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247206",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-08T16:20:23.924000Z",
+  "market_createdAt": "2022-09-08T16:20:23.924Z",
+  "market_updatedAt": "2023-01-31T20:21:33.229Z",
+  "market_startDate": "2022-09-08T16:26:11.52Z",
+  "market_endDate": "2022-09-09T00:00:00Z",
+  "market_closedTime": "2022-09-09 10:15:46+00",
+  "conditionId": "0x819703c9e6cd0054f94869c7c2f26a5f02290c5279d15dd661f847ec9b576082",
+  "slug": "nfl-thursday-bills-vs-rams",
+  "question": "NFL Thursday: Bills vs. Rams"
+}

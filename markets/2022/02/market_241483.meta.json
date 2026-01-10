@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241483",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-14T19:13:58.055000Z",
+  "market_createdAt": "2022-02-14T19:13:58.055Z",
+  "market_updatedAt": "2024-04-26T02:46:25.597199Z",
+  "market_startDate": "2022-02-14T19:24:56.088Z",
+  "market_endDate": "2022-02-21T00:00:00Z",
+  "market_closedTime": "2022-02-22 19:00:00+00",
+  "conditionId": "0x8cb59c153ad2bc9e6ec5f507f7453b68eced8685f79b3f86de45f4a6008e61c7",
+  "slug": "will-ottawa-cease-to-be-in-a-state-of-emergency-before-february-22-2022",
+  "question": "Will Ottawa cease to be in a state of emergency before February 22, 2022?"
+}

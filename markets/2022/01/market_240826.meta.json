@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240826",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-18T16:09:04.635000Z",
+  "market_createdAt": "2022-01-18T16:09:04.635Z",
+  "market_updatedAt": "2024-04-23T00:36:59.847748Z",
+  "market_startDate": "2022-01-18T21:28:14.789Z",
+  "market_endDate": "2022-01-18T00:00:00Z",
+  "market_closedTime": "2022-01-21 13:32:19+00",
+  "conditionId": "0x1ea0f8438376c26fa77c5c2630bf76cfaeeab67d20020f44ba894429d4e2e0a6",
+  "slug": "nhl-will-the-stars-beat-the-canadiens-by-more-than-1p5-goals-in-their-january-18-matchup",
+  "question": "NHL: Will the Stars beat the Canadiens by more than 1.5 goals in their January 18 matchup?"
+}

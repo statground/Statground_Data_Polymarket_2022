@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "228235",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-03T03:10:01.463000Z",
+  "market_createdAt": "2021-08-03T03:10:01.463Z",
+  "market_updatedAt": "2024-04-25T00:04:06.880687Z",
+  "market_startDate": "2021-08-03T17:36:52.169Z",
+  "market_endDate": "2021-08-06T00:00:00Z",
+  "market_closedTime": "2021-08-06 18:12:46+00",
+  "conditionId": "0x82a66d82cc59e0ee40ca5115faad32b0b600cc5af7b0809f87e82edf1b60bd3d",
+  "slug": "will-allyson-felix-win-a-medal-in-the-womens-400m",
+  "question": "Will Allyson Felix win a medal in the Women’s 400M?"
+}

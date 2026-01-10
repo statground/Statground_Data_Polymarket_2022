@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "245180",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-22T17:34:09.975000Z",
+  "market_createdAt": "2022-05-22T17:34:09.975Z",
+  "market_updatedAt": "2023-01-31T15:40:40.981Z",
+  "market_startDate": "2022-05-23T05:30:09.86Z",
+  "market_endDate": "2022-05-29T00:00:00Z",
+  "market_closedTime": "2022-06-21 21:30:40+00",
+  "conditionId": "0x4c1f91c2fd8bc7cb6066cb342b77fe089e0d3e7a74cba08677adef926ac3798f",
+  "slug": "will-rodolfo-hernndez-win-the-2022-colombian-presidential-election",
+  "question": "Will Rodolfo Hernández win the 2022 Colombian presidential election?"
+}

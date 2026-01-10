@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "102455",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-03-10T20:05:01.952000Z",
+  "market_createdAt": "2021-03-10T20:05:01.952Z",
+  "market_updatedAt": "2024-04-22T23:57:04.367659Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-25T00:00:00Z",
+  "market_closedTime": "2021-04-25 20:43:09+00",
+  "conditionId": "0x88b185df906846af7ff8265696be5a6ed070623c1b3fe715e5840fbd1a56e96c",
+  "slug": "will-jeff-bezos-or-elon-musk-have-a-higher-net-worth-on-april-25-2021-1",
+  "question": "Will Jeff Bezos or Elon Musk have a higher net worth on April 25, 2021?"
+}

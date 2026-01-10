@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "142184",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-20T19:00:04.429000Z",
+  "market_createdAt": "2021-04-20T19:00:04.429Z",
+  "market_updatedAt": "2024-04-26T02:47:41.33708Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-12T00:00:00Z",
+  "market_closedTime": "2021-05-12 17:44:57+00",
+  "conditionId": "0x4f0e0b50786da277f1fc461d0f2e03446d540740a47f332bd9aabcbba1c72b81",
+  "slug": "will-inflation-be-02-or-more-from-march-to-april",
+  "question": "Will inflation be 0.2% or more from March to April?"
+}

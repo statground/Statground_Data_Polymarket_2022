@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243293",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-15T07:24:20.245000Z",
+  "market_createdAt": "2022-04-15T07:24:20.245Z",
+  "market_updatedAt": "2023-01-31T14:03:46.958Z",
+  "market_startDate": "2022-04-15T15:40:14.271Z",
+  "market_endDate": "2022-04-15T00:00:00Z",
+  "market_closedTime": "2022-04-16 07:47:54+00",
+  "conditionId": "0xdde142419cfcacfda37fa3d127f317317008b5c34b7e0243720ee57313a28160",
+  "slug": "nhl-will-the-panthers-beat-the-jets-by-more-than-1pt5-goals-in-their-april-15-700-pm-et-matchup",
+  "question": "NHL: Will the Panthers beat the Jets by more than 1.5 goals in their April 15, 7:00 PM ET matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241011",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-25T08:21:18.417000Z",
+  "market_createdAt": "2022-01-25T08:21:18.417Z",
+  "market_updatedAt": "2024-04-26T03:12:07.377263Z",
+  "market_startDate": "2022-01-25T18:59:12.52Z",
+  "market_endDate": "2022-01-31T00:00:00Z",
+  "market_closedTime": "2022-02-01 19:31:18+00",
+  "conditionId": "0x3f871cff2df0ab2189a9745912f8906ac9111b71351638061de388e685ddccd9",
+  "slug": "will-whale_alert-tweet-count-be-over-61300-on-january-31-10-am-et",
+  "question": "Will @Whale_Alert tweet count be over 61,300 on January 31 (10 AM ET)?"
+}

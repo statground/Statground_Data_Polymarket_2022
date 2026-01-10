@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246513",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-09T20:11:02.119000Z",
+  "market_createdAt": "2022-06-09T20:11:02.119Z",
+  "market_updatedAt": "2023-01-31T20:55:51.708Z",
+  "market_startDate": "2022-06-09T20:41:47.671Z",
+  "market_endDate": "2022-06-16T00:00:00Z",
+  "market_closedTime": "2022-06-16 18:45:35+00",
+  "conditionId": "0x9ba8c0f47be31a6f0b160206a006ba53d7178ab2cfc270bc4ea18324d6ae65e9",
+  "slug": "will-hop-token-be-above-0pt25-on-june-16-2022",
+  "question": "Will HOP token be above $0.25 on June 16, 2022?"
+}

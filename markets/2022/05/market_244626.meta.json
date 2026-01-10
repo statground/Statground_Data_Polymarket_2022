@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244626",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-11T00:07:35.503000Z",
+  "market_createdAt": "2022-05-11T00:07:35.503Z",
+  "market_updatedAt": "2023-01-31T19:27:31.999Z",
+  "market_startDate": "2022-05-11T00:44:38.283Z",
+  "market_endDate": "2022-07-31T00:00:00Z",
+  "market_closedTime": "2022-07-31 10:03:20+00",
+  "conditionId": "0xd9ec7604125dc49861f1a61a4f3ae31bfb18813c23ceb91eeeac0ba842660e31",
+  "slug": "will-tether-usdt-fall-below-98-cents-by-july-30",
+  "question": "Will Tether (USDT) fall below 98 cents by July 30?"
+}

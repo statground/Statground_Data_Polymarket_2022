@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241899",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-04T17:19:04.811000Z",
+  "market_createdAt": "2022-03-04T17:19:04.811Z",
+  "market_updatedAt": "2023-01-31T15:35:42.113Z",
+  "market_startDate": "2022-03-04T17:47:38.292Z",
+  "market_endDate": "2022-04-30T00:00:00Z",
+  "market_closedTime": "2022-03-22 17:45:45+00",
+  "conditionId": "0x2797fccc231de0253e8053dc79b7cb583d4f7eb1153bc58daa3790e598f79b7a",
+  "slug": "will-any-belarusian-bank-be-disconnected-from-swift-by-april-30-2022",
+  "question": "Will any Belarusian bank be disconnected from SWIFT by April 30, 2022?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240890",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-20T16:29:36.716000Z",
+  "market_createdAt": "2022-01-20T16:29:36.716Z",
+  "market_updatedAt": "2024-04-22T23:51:20.929475Z",
+  "market_startDate": null,
+  "market_endDate": "2022-01-20T00:00:00Z",
+  "market_closedTime": "2022-01-24 21:54:30+00",
+  "conditionId": "0x613896e8e1ae4d5bdb0a422f82507ddc5b5dc5a6dd860229264f24716b09c61d",
+  "slug": "nhl-will-the-penguins-beat-the-senators-by-more-than-1p5-goals-in-their-january-20-matchup",
+  "question": "NHL: Will the Penguins beat the Senators by more than 1.5 goals in their January 20 matchup?"
+}

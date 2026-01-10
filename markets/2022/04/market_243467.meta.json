@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243467",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-19T08:26:29.723000Z",
+  "market_createdAt": "2022-04-19T08:26:29.723Z",
+  "market_updatedAt": "2023-01-31T20:31:17.046Z",
+  "market_startDate": "2022-04-19T15:09:16.096Z",
+  "market_endDate": "2022-04-19T00:00:00Z",
+  "market_closedTime": "2022-04-20 07:31:30+00",
+  "conditionId": "0x52237ddcd6913c144cdb268d0162db914293f2d325ba5ddeec13b0db53827bda",
+  "slug": "nba-who-will-win-grizzlies-vs-timberwolves-scheduled-for-april-19-830-pm-et",
+  "question": "NBA: Who will win Grizzlies vs. Timberwolves, scheduled for April 19, 8:30 PM ET?"
+}

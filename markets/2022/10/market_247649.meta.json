@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247649",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-13T19:57:26.720000Z",
+  "market_createdAt": "2022-10-13T19:57:26.72Z",
+  "market_updatedAt": "2023-01-31T17:46:56.762Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-22T00:00:00Z",
+  "market_closedTime": "2022-10-23 01:46:38+00",
+  "conditionId": "0xa438369df86629f6cc38a341bb9dff7f89e121590e199a02cd183682380e3aea",
+  "slug": "ufc-280-will-makhachev-kotko-oliveira",
+  "question": "UFC 280: Will Makhachev KO/TKO Oliveira?"
+}

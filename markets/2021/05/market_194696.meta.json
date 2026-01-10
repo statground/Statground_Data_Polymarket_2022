@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "194696",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-12T15:45:25.608000Z",
+  "market_createdAt": "2021-05-12T15:45:25.608Z",
+  "market_updatedAt": "2023-01-31T13:47:57.39Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-12T00:00:00Z",
+  "market_closedTime": "2021-05-13 14:42:58+00",
+  "conditionId": "0xcbc8289876497b07e9cf7ec753f471a04978fc763a9d3316045a172d214a4d63",
+  "slug": "will-keith-haring-s-untitled-sell-for-more-than-6-million-at-sotheby-s",
+  "question": "Will Keith Haring’s “Untitled” sell for more than $6 million at Sotheby’s?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "110525",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-03-26T18:50:01.864000Z",
+  "market_createdAt": "2021-03-26T18:50:01.864Z",
+  "market_updatedAt": "2024-04-24T23:39:45.12521Z",
+  "market_startDate": null,
+  "market_endDate": "2021-03-30T00:00:00Z",
+  "market_closedTime": "2021-03-29 14:43:35+00",
+  "conditionId": "0xe9eea0c4343f59ede2c3c1f1b9befb42d1ac64201f5dfedd742de9169f1afc98",
+  "slug": "will-the-ever-given-be-dislodged-from-the-suez-canal-by-march-30",
+  "question": "Will the Ever Given be dislodged from the Suez Canal by March 30?"
+}

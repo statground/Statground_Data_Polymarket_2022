@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241473",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-14T09:57:52.737000Z",
+  "market_createdAt": "2022-02-14T09:57:52.737Z",
+  "market_updatedAt": "2024-04-22T23:22:02.871147Z",
+  "market_startDate": "2022-02-14T14:49:09.346Z",
+  "market_endDate": "2022-02-14T00:00:00Z",
+  "market_closedTime": "2022-02-15 18:59:46+00",
+  "conditionId": "0x63fbdbd132ab335aaee0990e18ac2a2ed072e394078aa8d435e6627ac08f3273",
+  "slug": "nhl-will-the-jets-beat-the-blackhawks-by-more-than-1p5-goals-in-their-february-14-matchup-9-pm-et",
+  "question": "NHL: Will the Jets beat the Blackhawks by more than 1.5 goals in their February 14 matchup (9 PM ET)?"
+}

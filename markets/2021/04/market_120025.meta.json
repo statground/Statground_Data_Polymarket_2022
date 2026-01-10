@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "120025",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-09T22:20:02.969000Z",
+  "market_createdAt": "2021-04-09T22:20:02.969Z",
+  "market_updatedAt": "2024-04-22T23:58:13.31204Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-12T00:00:00Z",
+  "market_closedTime": "2021-04-13 19:51:52+00",
+  "conditionId": "0xb09089a0e1abc687c4debfac8e1768fd1840e8ea29e8022226b3978f65ebb612",
+  "slug": "will-nasa-conduct-a-sustained-flight-of-ingenuity-on-mars-by-april-12",
+  "question": "Will NASA conduct a sustained flight of Ingenuity on Mars by April 12?"
+}

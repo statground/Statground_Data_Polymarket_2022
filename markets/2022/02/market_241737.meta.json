@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241737",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-26T16:14:02.552000Z",
+  "market_createdAt": "2022-02-26T16:14:02.552Z",
+  "market_updatedAt": "2024-04-24T23:27:50.263318Z",
+  "market_startDate": "2022-02-26T18:13:01.617Z",
+  "market_endDate": "2022-02-26T00:00:00Z",
+  "market_closedTime": "2022-02-27 21:20:42+00",
+  "conditionId": "0x3c23baa7551a5a3b843abc803d4e717b10db25af58d28dc2fc9a6288b503061f",
+  "slug": "nba-who-will-win-the-nuggets-vs-kings-scheduled-for-february-26-9-pm-et",
+  "question": "NBA: Who will win the Nuggets vs. Kings, scheduled for February 26 (9 PM ET)?"
+}

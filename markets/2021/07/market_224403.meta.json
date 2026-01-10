@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "224403",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-14T16:05:02.031000Z",
+  "market_createdAt": "2021-07-14T16:05:02.031Z",
+  "market_updatedAt": "2024-04-23T00:10:36.478151Z",
+  "market_startDate": null,
+  "market_endDate": null,
+  "market_closedTime": "2021-07-22 23:19:41+00",
+  "conditionId": "0x41c512e286fa30dffba29ec13ca6ed9f029d2e40211d4d57d83dad8bcfa9be05",
+  "slug": "what-rating-will-theneedledrop-give-clairos-sling",
+  "question": "What rating will theneedledrop give Clairo's 'Sling'?"
+}

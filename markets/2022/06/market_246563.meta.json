@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246563",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-17T16:06:38.657000Z",
+  "market_createdAt": "2022-06-17T16:06:38.657Z",
+  "market_updatedAt": "2023-01-31T20:21:30.961Z",
+  "market_startDate": null,
+  "market_endDate": "2022-06-24T00:00:00Z",
+  "market_closedTime": "2022-06-24 20:00:32+00",
+  "conditionId": "0x591f7b8bef9536b1ff7efb820ad8529dd40c7111193f5d3088287f01e3aa8530",
+  "slug": "will-eth-be-above-1100-on-june-24",
+  "question": "Will $ETH be above $1,100 on June 24?"
+}

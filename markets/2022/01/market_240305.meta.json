@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240305",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-05T23:25:24.434000Z",
+  "market_createdAt": "2022-01-05T23:25:24.434Z",
+  "market_updatedAt": "2024-04-24T23:49:38.093958Z",
+  "market_startDate": "2022-01-05T23:32:09.415Z",
+  "market_endDate": "2022-01-05T00:00:00Z",
+  "market_closedTime": "2022-01-06 13:50:58+00",
+  "conditionId": "0xf249d016d6f22650621b1f612f7cfc4bdc5803af9984082ee4231d50c03597d6",
+  "slug": "nhl-will-the-penguins-beat-the-blues-by-more-than-1pt5-goals-in-their-january-5-matchup",
+  "question": "NHL: Will the Penguins beat the Blues by more than 1.5 goals in their January 5 matchup?"
+}

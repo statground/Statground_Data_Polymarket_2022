@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243481",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-19T20:32:08.834000Z",
+  "market_createdAt": "2022-04-19T20:32:08.834Z",
+  "market_updatedAt": "2023-01-31T18:53:29.288Z",
+  "market_startDate": "2022-04-19T20:58:10.087Z",
+  "market_endDate": "2022-05-09T00:00:00Z",
+  "market_closedTime": "2022-05-10 06:15:54+00",
+  "conditionId": "0x3235b8110a2d74cd1e89b11f2a963b7cb89b7cf5882b991ee9550f58f1ba997e",
+  "slug": "will-doctor-strange-in-the-multiverse-of-madness-gross-180-million-or-less-on-its-opening-weekend-in-the-usa",
+  "question": "Will ‘Doctor Strange in the Multiverse of Madness’ gross $180 million or less on its opening weekend in the USA?"
+}

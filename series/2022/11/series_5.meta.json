@@ -1,0 +1,15 @@
+{
+  "entity": "series",
+  "series_id": "5",
+  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
+  "folder_dt_utc": "2022-11-29T05:00:04.886000Z",
+  "series_createdAt": "2022-11-29T05:00:04.886Z",
+  "series_publishedAt": "2022-11-29 08:42:53.369+00",
+  "series_updatedAt": "2026-01-06T14:40:57.569318Z",
+  "slug": "cpi",
+  "ticker": "cpi",
+  "title": "CPI",
+  "startDate": "2021-01-01T17:00:00Z",
+  "recurrence": "monthly",
+  "seriesType": "single"
+}

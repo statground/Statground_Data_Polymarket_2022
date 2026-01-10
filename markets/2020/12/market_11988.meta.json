@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "11988",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-12-21T20:20:46.212000Z",
+  "market_createdAt": "2020-12-21T20:20:46.212Z",
+  "market_updatedAt": "2024-04-23T00:09:27.534485Z",
+  "market_startDate": null,
+  "market_endDate": "2021-03-01T00:00:00Z",
+  "market_closedTime": "2021-03-01 14:30:31+00",
+  "conditionId": "0x4fe47d1e4a42e7fe7bfd5614b1814de557251747d048566c6e6c002fd00e3b77",
+  "slug": "will-bitcoin-or-tesla-have-a-higher-market-cap-on-march-1-2021",
+  "question": "Will Bitcoin or Tesla have a higher market cap on March 1, 2021?"
+}

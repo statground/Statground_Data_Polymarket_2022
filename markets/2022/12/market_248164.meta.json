@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248164",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-05T15:53:27.211000Z",
+  "market_createdAt": "2022-12-05T15:53:27.211Z",
+  "market_updatedAt": "2023-01-31T21:06:30.53Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-09T00:00:00Z",
+  "market_closedTime": "2022-12-10 00:15:44+00",
+  "conditionId": "0x0b8baab9f28f6ddebd31b6c69fb20609fa1c8966724da0c73d64d07d8a083c3a",
+  "slug": "world-cup-friday-argentina-vs-netherlands",
+  "question": "World Cup: Friday - Argentina vs. Netherlands"
+}

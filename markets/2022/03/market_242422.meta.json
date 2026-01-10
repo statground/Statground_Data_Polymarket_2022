@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242422",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-23T19:26:03.991000Z",
+  "market_createdAt": "2022-03-23T19:26:03.991Z",
+  "market_updatedAt": "2023-01-31T20:55:17.957Z",
+  "market_startDate": "2022-03-24T17:21:16.283Z",
+  "market_endDate": "2022-05-19T00:00:00Z",
+  "market_closedTime": "2022-04-19 07:31:41+00",
+  "conditionId": "0x0d7f9a5412d5d4ae85e646e4c2c65de0b1eb52e44159855b4b336c520d5fc8ec",
+  "slug": "will-fc-barcelona-win-the-2021-22-uefa-europa-league",
+  "question": "Will FC Barcelona win the 2021-22 UEFA Europa League?"
+}

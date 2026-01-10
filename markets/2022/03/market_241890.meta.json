@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241890",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-04T15:37:14.895000Z",
+  "market_createdAt": "2022-03-04T15:37:14.895Z",
+  "market_updatedAt": "2024-04-22T23:42:14.783202Z",
+  "market_startDate": "2022-03-04T17:35:21.431Z",
+  "market_endDate": "2022-03-04T00:00:00Z",
+  "market_closedTime": "2022-03-05 14:30:52+00",
+  "conditionId": "0x1f2b2ac2b1f4f13e9efeef904fafdcc548878c3cd9ca1769f195559257b8d80b",
+  "slug": "nba-will-the-pacers-beat-the-pistons-by-more-than-2pt5-points-in-their-march-4-7-pm-et-matchup",
+  "question": "NBA: Will the Pacers beat the Pistons by more than 2.5 points in their March 4 (7 PM ET) matchup?"
+}

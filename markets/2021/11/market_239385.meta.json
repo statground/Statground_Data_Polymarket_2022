@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239385",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-12T12:06:41.570000Z",
+  "market_createdAt": "2021-11-12T12:06:41.57Z",
+  "market_updatedAt": "2024-04-23T00:23:27.884146Z",
+  "market_startDate": "2021-11-12T20:20:23.463Z",
+  "market_endDate": "2021-11-14T00:00:00Z",
+  "market_closedTime": "2021-11-16 01:53:07+00",
+  "conditionId": "0x39010785cfbf318045d7140d4da5af63a4dc38f3dbd3dc5d0ea8e040f59f5d96",
+  "slug": "nfl-will-the-cowboys-beat-the-falcons-by-more-than-9pt5-points-in-their-november-14th-matchup",
+  "question": "NFL: Will the Cowboys beat the Falcons by more than 9.5 points in their November 14th matchup?"
+}

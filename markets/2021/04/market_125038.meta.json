@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "125038",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-13T17:10:03.080000Z",
+  "market_createdAt": "2021-04-13T17:10:03.08Z",
+  "market_updatedAt": "2024-04-25T00:14:26.723921Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-01T00:00:00Z",
+  "market_closedTime": "2021-06-13 17:50:07+00",
+  "conditionId": "0x24a302a8a4a31b55d4b2a2e846111794d791474ba537bde163212fdee0600287",
+  "slug": "will-binance-coin-bnb-have-a-higher-market-cap-than-ethereum-eth-at-any-time-before-july-1-2021",
+  "question": "Will Binance Coin (BNB) have a higher market cap than Ethereum (ETH) at any time before July 1, 2021?"
+}

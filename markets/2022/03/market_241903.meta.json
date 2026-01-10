@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241903",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-04T18:01:58.655000Z",
+  "market_createdAt": "2022-03-04T18:01:58.655Z",
+  "market_updatedAt": "2024-04-23T00:25:45.246855Z",
+  "market_startDate": null,
+  "market_endDate": "2022-04-30T00:00:00Z",
+  "market_closedTime": "2022-05-01 07:02:58+00",
+  "conditionId": "0x49d1800722b9794f31f55fba537ae71bc51a06e109637fa69e50916754bb9915",
+  "slug": "will-russia-have-its-unsc-permanent-member-status-stripped-by-april-30-2022",
+  "question": "Will Russia have its UNSC permanent member status stripped by April 30, 2022?"
+}

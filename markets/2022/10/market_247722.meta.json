@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247722",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-21T15:53:11.204000Z",
+  "market_createdAt": "2022-10-21T15:53:11.204Z",
+  "market_updatedAt": "2023-01-31T15:40:41.925Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-30T00:00:00Z",
+  "market_closedTime": "2022-10-30 20:15:48+00",
+  "conditionId": "0x7d1508637bea5ef649e10dbab5464e4182252f598557ce7ffab8ae3bcafb3324",
+  "slug": "will-magnus-carlsen-win-the-2022-world-fischer-random-chess-championship",
+  "question": "Will Magnus Carlsen win the 2022 World Fischer Random Chess Championship?"
+}

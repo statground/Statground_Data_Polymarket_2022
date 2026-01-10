@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247174",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-30T18:12:49.224000Z",
+  "market_createdAt": "2022-08-30T18:12:49.224Z",
+  "market_updatedAt": "2024-04-24T23:56:27.571878Z",
+  "market_startDate": "2022-08-31T17:36:09.225Z",
+  "market_endDate": "2022-09-11T00:00:00Z",
+  "market_closedTime": "2022-09-04 23:46:03+00",
+  "conditionId": "0xf0069ddc95f0b8f44d89113e00256d596a2adddd5d32b26aef4221cb44b64e96",
+  "slug": "ufc-fight-night-paris-whittaker-vs-vettori",
+  "question": "UFC Fight Night Paris: Whittaker vs. Vettori"
+}

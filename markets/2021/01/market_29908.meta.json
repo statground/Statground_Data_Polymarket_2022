@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "29908",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-01-06T20:45:03.610000Z",
+  "market_createdAt": "2021-01-06T20:45:03.61Z",
+  "market_updatedAt": "2024-04-22T23:22:34.237683Z",
+  "market_startDate": null,
+  "market_endDate": "2021-01-11T00:00:00Z",
+  "market_closedTime": "2021-01-10 21:18:45+00",
+  "conditionId": "0x765953d81258da919d339eb84bcafdba4be42c9e37103a3d78e9c0e36ea83444",
+  "slug": "will-the-titans-or-the-ravens-win-their-january-10th-nfl-wild-card-matchup",
+  "question": "Will the Titans or the Ravens win their January 10th NFL Wild Card matchup?"
+}

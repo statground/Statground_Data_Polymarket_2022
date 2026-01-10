@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "236511",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-16T20:54:01.623000Z",
+  "market_createdAt": "2021-08-16T20:54:01.623Z",
+  "market_updatedAt": "2024-04-22T22:42:28.753906Z",
+  "market_startDate": "2021-08-18T00:22:28.457Z",
+  "market_endDate": "2021-08-19T00:00:00Z",
+  "market_closedTime": "2021-08-20 18:53:07+00",
+  "conditionId": "0xc399e6eb0d5dc4121e1ae79cb3024e53b4de32abb516e9e5ad8cf7f826f093d3",
+  "slug": "will-evil-geniuses-or-cloud-9-win-their-lcs-playoffs-matchup-on-august-19-2021",
+  "question": "Will Evil Geniuses or Cloud 9 win their LCS Playoffs matchup on August 19, 2021? "
+}

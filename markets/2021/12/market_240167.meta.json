@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240167",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-23T19:34:42.011000Z",
+  "market_createdAt": "2021-12-23T19:34:42.011Z",
+  "market_updatedAt": "2024-04-22T23:59:36.304186Z",
+  "market_startDate": "2021-12-26T08:52:05.997Z",
+  "market_endDate": "2021-12-26T00:00:00Z",
+  "market_closedTime": "2021-12-27 14:24:02+00",
+  "conditionId": "0x297b2d986761091f5423463e8101e96b59b30431b67e270b754e0a6edbffeb15",
+  "slug": "nfl-will-the-jets-beat-the-jaguars-by-more-than-1pt5-points-in-their-december-26-matchup",
+  "question": "NFL: Will the Jets beat the Jaguars by more than 1.5 points in their December 26 matchup?"
+}

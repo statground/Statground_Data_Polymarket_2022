@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240118",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-21T14:34:04.033000Z",
+  "market_createdAt": "2021-12-21T14:34:04.033Z",
+  "market_updatedAt": "2024-04-22T22:53:01.336035Z",
+  "market_startDate": "2021-12-21T18:05:16.32Z",
+  "market_endDate": "2021-12-21T00:00:00Z",
+  "market_closedTime": "2021-12-22 18:38:29+00",
+  "conditionId": "0x75a58a06e0b32bc168a32bca234b5c8f0035d1d4b4570ddaa6f9b226ee960398",
+  "slug": "nba-will-the-knicks-beat-the-pistons-by-more-than-9pt5-points-in-their-december-21-matchup",
+  "question": "NBA: Will the Knicks beat the Pistons by more than 9.5 points in their December 21 matchup?"
+}

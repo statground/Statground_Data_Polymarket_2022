@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238885",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-26T06:07:50.181000Z",
+  "market_createdAt": "2021-09-26T06:07:50.181Z",
+  "market_updatedAt": "2024-04-22T22:55:26.51376Z",
+  "market_startDate": "2021-09-26T06:27:40.671Z",
+  "market_endDate": "2021-09-26T00:00:00Z",
+  "market_closedTime": "2021-09-27 16:44:25+00",
+  "conditionId": "0x6c11c9bd1f87bde6bf11c380b63298a57d682ae7902b3d0d94656dd9ff0b483e",
+  "slug": "in-game-trading-will-the-49ers-beat-the-packers-by-more-than-3pt5-points-in-their-week-three-matchup",
+  "question": "(In-Game Trading) Will the 49ers beat the Packers by more than 3.5 points in their week three matchup?"
+}

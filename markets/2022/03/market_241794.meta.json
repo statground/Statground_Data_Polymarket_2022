@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241794",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-01T11:11:00.549000Z",
+  "market_createdAt": "2022-03-01T11:11:00.549Z",
+  "market_updatedAt": "2024-04-23T00:57:42.804052Z",
+  "market_startDate": "2022-03-01T17:57:17.004Z",
+  "market_endDate": "2022-03-01T00:00:00Z",
+  "market_closedTime": "2022-03-02 17:46:27+00",
+  "conditionId": "0x9ac6bf128145d554d5c1e3ea95d2d5d992c77a41280ca8883f3c1b9c6c6cb68b",
+  "slug": "nba-who-will-win-the-raptors-vs-nets-scheduled-for-march-1-730-pm-et",
+  "question": "NBA: Who will win the Raptors vs. Nets, scheduled for March 1 (7.30 PM ET)?"
+}

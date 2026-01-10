@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239360",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-10T21:08:07.148000Z",
+  "market_createdAt": "2021-11-10T21:08:07.148Z",
+  "market_updatedAt": "2024-04-23T00:48:20.192974Z",
+  "market_startDate": "2021-11-10T22:29:30.336Z",
+  "market_endDate": "2021-11-11T00:00:00Z",
+  "market_closedTime": "2021-11-12 19:24:57+00",
+  "conditionId": "0xc39329f90610c12a16489d2ff70db0702c40e13c53f45d401e7a6eda940ed0f7",
+  "slug": "will-edward-hoppers-two-puritans-lot-39c-sell-for-more-than-15m-at-christies-on-november-11",
+  "question": "Will Edward Hopper's “Two Puritans” (Lot 39C) sell for more than $15m at Christie’s on November 11?"
+}

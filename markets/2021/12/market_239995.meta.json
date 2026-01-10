@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239995",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-12T13:31:49.648000Z",
+  "market_createdAt": "2021-12-12T13:31:49.648Z",
+  "market_updatedAt": "2024-04-22T23:50:16.947458Z",
+  "market_startDate": "2021-12-12T18:06:35.712Z",
+  "market_endDate": "2021-12-12T00:00:00Z",
+  "market_closedTime": "2021-12-13 17:28:15+00",
+  "conditionId": "0x7228cb05de3d9f7e03bf91cbb833d8a60952e2b78f2e1b7ab69e2288cbd3a384",
+  "slug": "nfl-will-the-saints-beat-the-jets-by-more-than-5pt5-points-in-their-december-12-matchup",
+  "question": "NFL: Will the Saints beat the Jets by more than 5.5 points in their December 12 matchup?"
+}

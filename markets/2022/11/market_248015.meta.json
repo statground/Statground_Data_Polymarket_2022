@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248015",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T20:04:34.933000Z",
+  "market_createdAt": "2022-11-18T20:04:34.933Z",
+  "market_updatedAt": "2023-01-31T19:34:54.442Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-06T00:00:00Z",
+  "market_closedTime": "2022-11-30 01:31:02+00",
+  "conditionId": "0x33e8f2ebf72a74f53e7e786018cbc9139e60f5da0eeffc16427990e048e77ea2",
+  "slug": "will-senegal-qualify-from-group-a",
+  "question": "Will Senegal qualify from Group A?"
+}

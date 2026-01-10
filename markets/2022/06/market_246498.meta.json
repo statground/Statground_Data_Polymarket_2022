@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246498",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-07T12:11:17.978000Z",
+  "market_createdAt": "2022-06-07T12:11:17.978Z",
+  "market_updatedAt": "2023-01-31T13:53:28.341Z",
+  "market_startDate": "2022-06-07T18:42:00.615Z",
+  "market_endDate": "2022-06-17T00:00:00Z",
+  "market_closedTime": "2022-06-17 19:30:40+00",
+  "conditionId": "0x2a0e0a0a0e0c7de19bdba581ec8f8ad63f73501c3959a6325d01e52d43bd8bdb",
+  "slug": "will-annual-inflation-in-the-european-union-be-8pt8-or-more-in-may",
+  "question": "Will annual inflation in the European Union be 8.8% or more in May?"
+}

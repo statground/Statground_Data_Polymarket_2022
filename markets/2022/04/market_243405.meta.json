@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243405",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-18T08:37:06.335000Z",
+  "market_createdAt": "2022-04-18T08:37:06.335Z",
+  "market_updatedAt": "2023-01-31T18:41:17.593Z",
+  "market_startDate": "2022-04-18T14:01:06.437Z",
+  "market_endDate": "2022-04-18T00:00:00Z",
+  "market_closedTime": "2022-04-19 07:15:56+00",
+  "conditionId": "0xf8c554b07e97ed25de823718138838add0332188dba85e213be9421c9b46df6b",
+  "slug": "mlb-who-will-win-milwaukee-brewers-vs-pittsburgh-pirates-scheduled-for-april-18-741-pm-et",
+  "question": "MLB: Who will win Milwaukee Brewers vs. Pittsburgh Pirates, scheduled for April 18, 7:41 PM ET?"
+}

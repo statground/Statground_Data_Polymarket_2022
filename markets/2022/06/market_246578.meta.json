@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246578",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-22T18:02:25.719000Z",
+  "market_createdAt": "2022-06-22T18:02:25.719Z",
+  "market_updatedAt": "2023-01-31T18:55:58.03Z",
+  "market_startDate": "2022-06-22T18:15:22.101Z",
+  "market_endDate": "2022-06-25T00:00:00Z",
+  "market_closedTime": "2022-06-27 22:30:40+00",
+  "conditionId": "0x5a48e9ac62c8d5bdb6113a13ac42554e60bf3b048799d5b694e6485b74336896",
+  "slug": "cricket-who-will-win-england-vs-new-zealand-3rd-test-wtc-starting-on-june-23",
+  "question": "Cricket: Who will win England vs. New Zealand, 3rd Test WTC, starting on June 23?"
+}

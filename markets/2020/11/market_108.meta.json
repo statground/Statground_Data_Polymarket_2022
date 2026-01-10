@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "108",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-11-23T17:25:07.518000Z",
+  "market_createdAt": "2020-11-23T17:25:07.518Z",
+  "market_updatedAt": "2023-01-31T12:15:22.831Z",
+  "market_startDate": null,
+  "market_endDate": "2020-12-26T00:00:00Z",
+  "market_closedTime": "2020-12-26 04:18:17+00",
+  "conditionId": "0x84eb28ffdc52f4d4b89c6721f22b05fb77592d85a9f5d4b587ffe3f47c672a0e",
+  "slug": "what-will-the-average-sale-price-of-the-jordan-1-mocha-on-stock-x-be-on-christmas-day",
+  "question": "What will the average sale price of the Jordan 1 Mocha on StockX be on Christmas Day?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241926",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-06T16:02:15.815000Z",
+  "market_createdAt": "2022-03-06T16:02:15.815Z",
+  "market_updatedAt": "2024-04-24T23:28:04.174759Z",
+  "market_startDate": "2022-03-06T17:01:09.062Z",
+  "market_endDate": "2022-03-06T00:00:00Z",
+  "market_closedTime": "2022-03-07 12:20:30+00",
+  "conditionId": "0x1e10c0b2ed3f6b47bee8fc60fb55d17a913bc5b634e906f88cabf9273aad9012",
+  "slug": "nba-who-will-win-the-bucks-vspt-suns-scheduled-for-march-6-3pt30-pm-et",
+  "question": "NBA: Who will win the Bucks vs. Suns, scheduled for March 6 (3.30 PM ET)?"
+}

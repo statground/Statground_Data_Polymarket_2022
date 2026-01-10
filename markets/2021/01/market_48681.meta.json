@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "48681",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-01-21T18:45:06.823000Z",
+  "market_createdAt": "2021-01-21T18:45:06.823Z",
+  "market_updatedAt": "2023-01-31T20:25:17.089Z",
+  "market_startDate": null,
+  "market_endDate": "2021-01-25T00:00:00Z",
+  "market_closedTime": "2021-01-25 03:31:43+00",
+  "conditionId": "0x5e933fe041011c8f8b2f776998bb76bc254deaea4fb04f796002443029a9d0e0",
+  "slug": "will-the-buffalo-bills-or-the-kansas-city-chiefs-win-the-afc-championship",
+  "question": "Will the Buffalo Bills or the Kansas City Chiefs win the AFC Championship?"
+}

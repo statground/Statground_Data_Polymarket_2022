@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241949",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-07T17:22:22.853000Z",
+  "market_createdAt": "2022-03-07T17:22:22.853Z",
+  "market_updatedAt": "2024-04-22T23:56:12.35715Z",
+  "market_startDate": "2022-03-07T17:58:25.518Z",
+  "market_endDate": "2022-03-25T00:00:00Z",
+  "market_closedTime": "2022-03-26 16:20:39+00",
+  "conditionId": "0xd99e7a06da08ca6420ad12d989b88f403d379c23dfaf02f4aa006e6933cb9429",
+  "slug": "will-the-aaa-average-us-gas-price-still-be-above-4-on-march-25-2022",
+  "question": "Will the AAA average US gas price still be above $4 on March 25, 2022?"
+}

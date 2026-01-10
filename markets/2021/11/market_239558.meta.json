@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239558",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-22T15:55:54.512000Z",
+  "market_createdAt": "2021-11-22T15:55:54.512Z",
+  "market_updatedAt": "2024-04-22T22:52:10.699803Z",
+  "market_startDate": "2021-11-22T19:26:20.848Z",
+  "market_endDate": "2021-11-23T00:00:00Z",
+  "market_closedTime": "2021-11-24 21:54:53+00",
+  "conditionId": "0x90028a13aad19dccffd965ecf9b9656714d2a3cab6542bb5c827e3a15647006b",
+  "slug": "uefa-champions-league-will-the-sum-of-goals-in-chelsea-v-juventus-be-3-or-more",
+  "question": "UEFA Champions League: Will the sum of goals in Chelsea v. Juventus be 3 or more?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248107",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-21T19:15:27.024000Z",
+  "market_createdAt": "2022-11-21T19:15:27.024Z",
+  "market_updatedAt": "2023-01-31T21:06:41.736Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-26T00:00:00Z",
+  "market_closedTime": "2022-11-26 16:00:36+00",
+  "conditionId": "0x94c3bf5c71c8b6541b7ff1d6ae3367d222da2e2d9d1e8413340f786bfbee3dae",
+  "slug": "world-cup-2022-saturday-will-australia-beat-tunisia",
+  "question": "World Cup: Saturday - Will Australia beat Tunisia?"
+}

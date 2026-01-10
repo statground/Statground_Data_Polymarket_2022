@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242754",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-02T09:09:44.699000Z",
+  "market_createdAt": "2022-04-02T09:09:44.699Z",
+  "market_updatedAt": "2024-04-22T23:25:49.242844Z",
+  "market_startDate": "2022-04-02T16:34:32.531Z",
+  "market_endDate": "2022-04-02T00:00:00Z",
+  "market_closedTime": "2022-04-03 18:50:21+00",
+  "conditionId": "0x0be81e20c5f4cd3acce9f15941a272da8ded5d80a8bbd3c3255d4f865928e85c",
+  "slug": "nhl-will-the-stars-beat-the-sharks-by-more-than-1pt5-goals-in-their-april-2-1030-pm-et-matchup",
+  "question": "NHL: Will the Stars beat the Sharks by more than 1.5 goals in their April 2, 10:30 PM ET matchup?"
+}

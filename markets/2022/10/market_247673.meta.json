@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247673",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-17T17:39:41.364000Z",
+  "market_createdAt": "2022-10-17T17:39:41.364Z",
+  "market_updatedAt": "2023-01-31T13:24:55.753Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-18T00:00:00Z",
+  "market_closedTime": "2022-10-19 06:15:42+00",
+  "conditionId": "0x81abc5e282c9b61f0c52e658ebc04a149c8dad281f40ea3c8d6211ae01978848",
+  "slug": "nba-who-will-win-the-76ers-vs-celtics-scheduled-for-october-18-730-pm-et",
+  "question": "NBA: Who will win 76ers vs. Celtics, scheduled for October 18 (7:30 PM ET)?"
+}

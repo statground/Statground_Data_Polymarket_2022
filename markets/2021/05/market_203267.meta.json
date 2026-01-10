@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "203267",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-27T20:05:06.759000Z",
+  "market_createdAt": "2021-05-27T20:05:06.759Z",
+  "market_updatedAt": "2024-04-23T00:09:07.044712Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-29T00:00:00Z",
+  "market_closedTime": "2021-05-29 18:23:19+00",
+  "conditionId": "0x894f00a08e4b98efee91e3ce7a36ee831670bede8331fe0e790f0a3fef618337",
+  "slug": "will-magnus-carlsen-or-teimour-radjabov-win-their-semifinals-series-of-the-ftx-crypto-cup",
+  "question": "Will Magnus Carlsen or Teimour Radjabov win their Semifinals Series of the FTX Crypto Cup?"
+}

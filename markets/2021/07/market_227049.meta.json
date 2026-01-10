@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "227049",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-30T00:45:01.970000Z",
+  "market_createdAt": "2021-07-30T00:45:01.97Z",
+  "market_updatedAt": "2024-04-24T23:52:51.031584Z",
+  "market_startDate": "2021-07-30T04:57:35.005Z",
+  "market_endDate": "2021-08-03T00:00:00Z",
+  "market_closedTime": "2021-08-03 20:45:35+00",
+  "conditionId": "0x074e9b93d52b9900b99eaecc3b9b9b75d45d7dc88fbc3b09cc049f6e9aa93465",
+  "slug": "will-jungle-cruise-gross-more-than-30m-domestically-on-opening-weekend",
+  "question": "Will Jungle Cruise gross more than $30M domestically on opening weekend?"
+}

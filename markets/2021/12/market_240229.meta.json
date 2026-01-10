@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240229",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-28T18:29:17.764000Z",
+  "market_createdAt": "2021-12-28T18:29:17.764Z",
+  "market_updatedAt": "2024-04-22T23:47:56.148951Z",
+  "market_startDate": "2021-12-28T20:28:54.61Z",
+  "market_endDate": "2021-12-28T00:00:00Z",
+  "market_closedTime": "2021-12-29 16:18:28+00",
+  "conditionId": "0x643e13347a2206027f2381db550451e75219fbbe072e02f627445236b2cca0b6",
+  "slug": "nba-will-the-heat-beat-the-wizards-by-more-than-6pt5-points-in-their-december-28-matchup",
+  "question": "NBA: Will the Heat beat the Wizards by more than 6.5 points in their December 28 matchup?"
+}

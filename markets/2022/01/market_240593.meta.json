@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240593",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T23:53:29.555000Z",
+  "market_createdAt": "2022-01-11T23:53:29.555Z",
+  "market_updatedAt": "2024-04-22T23:58:03.627244Z",
+  "market_startDate": "2022-01-12T21:11:18.365Z",
+  "market_endDate": "2022-11-15T00:00:00Z",
+  "market_closedTime": "2022-11-13 03:48:01+00",
+  "conditionId": "0x4444cb404701c302cf388a7d6413457332ea03e9030ce8700a29774e27bf8c45",
+  "slug": "2022-us-senate-elections-will-a-democrat-or-republican-win-in-new-hampshire",
+  "question": "Senate: Will a Democrat (Hassan) or Republican (Bolduc) win in New Hampshire?"
+}

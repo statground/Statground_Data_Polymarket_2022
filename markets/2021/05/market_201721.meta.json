@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "201721",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-20T17:00:02.067000Z",
+  "market_createdAt": "2021-05-20T17:00:02.067Z",
+  "market_updatedAt": "2024-04-23T00:34:58.299018Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-21T00:00:00Z",
+  "market_closedTime": "2021-05-24 14:38:20+00",
+  "conditionId": "0xeed7a6b6733f5aaa93577f7054e389f754d5919c858f87f045d0468b94ac50cd",
+  "slug": "will-the-warriors-or-the-grizzlies-win-their-nba-play-in-tournament-matchup",
+  "question": "Will the Warriors or the Grizzlies win their NBA play-in tournament matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239134",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-29T12:16:08.044000Z",
+  "market_createdAt": "2021-10-29T12:16:08.044Z",
+  "market_updatedAt": "2024-04-23T00:28:28.657013Z",
+  "market_startDate": "2021-10-29T19:07:00.247Z",
+  "market_endDate": "2021-10-29T00:00:00Z",
+  "market_closedTime": "2021-10-30 17:13:29+00",
+  "conditionId": "0xbbb36d682cfbedbb6d9732df47b3d900e1f9a0654d126aeaef8cc138005a29c0",
+  "slug": "who-will-win-the-mavericks-v-nuggets-game-on-october-29th",
+  "question": "Who will win the Mavericks v. Nuggets game on October 29th?"
+}

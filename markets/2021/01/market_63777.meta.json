@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "63777",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-01-28T16:45:02.868000Z",
+  "market_createdAt": "2021-01-28T16:45:02.868Z",
+  "market_updatedAt": "2023-01-31T13:05:26.081Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-02T00:00:00Z",
+  "market_closedTime": "2021-02-02 18:51:38+00",
+  "conditionId": "0xefa25aca096ff7db283e22c236367baa23e7a5eeeb5b571ea97f0e4d926e1443",
+  "slug": "will-robinhood-allow-buying-of-gme-on-february-2nd",
+  "question": "Will Robinhood allow buying of $GME on February 2nd?"
+}

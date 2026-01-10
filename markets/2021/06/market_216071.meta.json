@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "216071",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-12T00:15:01.006000Z",
+  "market_createdAt": "2021-06-12T00:15:01.006Z",
+  "market_updatedAt": "2024-04-22T23:15:49.971098Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-13T00:00:00Z",
+  "market_closedTime": "2021-06-13 17:15:45+00",
+  "conditionId": "0x02da0f6c0fc1e6a94372a15c5d71c59a3e3711bc06c86e2de6b79f81db362504",
+  "slug": "will-robert-leshner-or-anthony-pompliano-win-in-their-cryptochamps-chess-match",
+  "question": "Will Robert Leshner or Anthony Pompliano win in their CryptoChamps chess match?"
+}

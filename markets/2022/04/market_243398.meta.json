@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243398",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-18T08:20:47.574000Z",
+  "market_createdAt": "2022-04-18T08:20:47.574Z",
+  "market_updatedAt": "2023-01-31T19:58:12.353Z",
+  "market_startDate": "2022-04-18T14:06:10.327Z",
+  "market_endDate": "2022-04-18T00:00:00Z",
+  "market_closedTime": "2022-04-19 07:30:45+00",
+  "conditionId": "0xfc692df0f77dc1ab0ec41eed9e066ed7cd8f9c7fed4a7b719baa75dc621d08eb",
+  "slug": "nba-will-the-76ers-beat-the-raptors-by-more-than-7pt5-points-in-their-april-18-730-pm-et-matchup",
+  "question": "NBA: Will the 76ers beat the Raptors by more than 7.5 points in their April 18, 7:30 PM ET matchup?"
+}

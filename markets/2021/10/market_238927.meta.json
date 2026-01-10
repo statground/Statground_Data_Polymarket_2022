@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238927",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-01T18:58:28.936000Z",
+  "market_createdAt": "2021-10-01T18:58:28.936Z",
+  "market_updatedAt": "2024-04-24T23:40:10.915783Z",
+  "market_startDate": "2021-10-01T21:49:09.806Z",
+  "market_endDate": "2021-10-15T00:00:00Z",
+  "market_closedTime": "2021-10-15 16:37:54+00",
+  "conditionId": "0x9e9d335e5ef53a4f15a81330c213a822cd4400804f50ba65b4a10a85ec5aa383",
+  "slug": "will-the-floor-price-of-cryptopunks-be-above-120-eth-on-october-15",
+  "question": "Will the floor price of CryptoPunks be above 120 ETH on October 15?"
+}

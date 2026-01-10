@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243954",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-30T06:01:37.794000Z",
+  "market_createdAt": "2022-04-30T06:01:37.794Z",
+  "market_updatedAt": "2023-01-31T09:49:29.156Z",
+  "market_startDate": "2022-04-30T19:44:55.001Z",
+  "market_endDate": "2022-04-30T00:00:00Z",
+  "market_closedTime": "2022-05-01 07:01:58+00",
+  "conditionId": "0x87e47567de00d4b8a391edeb4c077d8834035b3745f14d82045671b0ff6c193e",
+  "slug": "mlb-who-will-win-los-angeles-angels-vs-chicago-white-sox-scheduled-for-april-30-406-pm-et",
+  "question": "MLB: Who will win Los Angeles Angels vs. Chicago White Sox, scheduled for April 30, 4:06 PM ET?"
+}

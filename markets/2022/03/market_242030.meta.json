@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242030",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-12T19:46:57.568000Z",
+  "market_createdAt": "2022-03-12T19:46:57.568Z",
+  "market_updatedAt": "2024-04-23T00:59:04.312373Z",
+  "market_startDate": "2022-03-12T21:32:44.968Z",
+  "market_endDate": "2022-03-12T00:00:00Z",
+  "market_closedTime": "2022-03-13 11:46:16+00",
+  "conditionId": "0xc599641d44f4c84f686453f9e895262332ee39cb5896b520185945f6697b58db",
+  "slug": "nba-who-will-win-the-spurs-vspt-pacers-scheduled-for-march-12-8-pm-et",
+  "question": "NBA: Who will win the Spurs vs. Pacers, scheduled for March 12 (8 PM ET)?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239351",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-10T19:16:46.120000Z",
+  "market_createdAt": "2021-11-10T19:16:46.12Z",
+  "market_updatedAt": "2024-04-22T22:41:28.687607Z",
+  "market_startDate": null,
+  "market_endDate": "2021-11-11T00:00:00Z",
+  "market_closedTime": "2021-11-12 19:54:33+00",
+  "conditionId": "0x64c480de663a4bb6f40bad72a6e32987686d8c043a54632c85bd2c29b3c1ac12",
+  "slug": "will-vincent-van-goghs-jeune-homme-au-bleuet-lot-20c-sell-for-more-than-7m-at-christies-on-november-11",
+  "question": "Will Vincent van Gogh's “Jeune homme au bleuet” (Lot 20C) sell for more than $7m at Christie’s on November 11?"
+}

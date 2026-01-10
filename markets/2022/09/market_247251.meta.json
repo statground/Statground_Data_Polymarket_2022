@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247251",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-12T19:17:33.737000Z",
+  "market_createdAt": "2022-09-12T19:17:33.737Z",
+  "market_updatedAt": "2023-01-31T20:55:51.887Z",
+  "market_startDate": "2022-09-13T16:03:45.325Z",
+  "market_endDate": "2022-09-18T00:00:00Z",
+  "market_closedTime": "2022-09-19 06:00:45+00",
+  "conditionId": "0x46b4aedb43fbe0a34da94b291fff0e932e5ce0aa2f4763db4bfbd9d7ad3c51b5",
+  "slug": "mlb-who-will-win-los-angeles-dodgers-v-san-francisco-giants-scheduled-for-september-18-708-pm-et",
+  "question": "MLB: Who will win Los Angeles Dodgers v. San Francisco Giants, scheduled for September 18, 7:08 PM ET?"
+}

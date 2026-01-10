@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242826",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-04T18:50:15.915000Z",
+  "market_createdAt": "2022-04-04T18:50:15.915Z",
+  "market_updatedAt": "2024-04-24T23:15:34.920417Z",
+  "market_startDate": "2022-04-04T20:04:29.729Z",
+  "market_endDate": "2022-04-09T00:00:00Z",
+  "market_closedTime": "2022-04-11 02:15:37+00",
+  "conditionId": "0x92e5c8ba457485e2dfdaa399d51cd63a45c94f911bbbdcc5342c75638f84e962",
+  "slug": "ufc-273-who-will-win-aljamain-sterling-or-petr-yan",
+  "question": "UFC 273: Who will win — Aljamain Sterling or Petr Yan?"
+}

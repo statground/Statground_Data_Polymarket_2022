@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243550",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-21T19:18:58.357000Z",
+  "market_createdAt": "2022-04-21T19:18:58.357Z",
+  "market_updatedAt": "2023-01-31T16:12:43.035Z",
+  "market_startDate": "2022-04-21T20:37:26.481Z",
+  "market_endDate": "2022-05-21T00:00:00Z",
+  "market_closedTime": "2022-05-22 03:15:59+00",
+  "conditionId": "0x80364349b3dd5ec53e0c9c6e1e021492e16fd003e1e22f36c8e71ad564b8f113",
+  "slug": "will-labor-win-more-seats-than-the-liberal-nationals-in-the-2022-australian-federal-election",
+  "question": "Will Labor win more seats than the Liberal-Nationals in the 2022 Australian Federal Election?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240434",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T15:44:00.145000Z",
+  "market_createdAt": "2022-01-11T15:44:00.145Z",
+  "market_updatedAt": "2023-01-31T16:54:56.029Z",
+  "market_startDate": "2022-01-12T20:50:30.413Z",
+  "market_endDate": "2022-02-01T00:00:00Z",
+  "market_closedTime": "2022-02-03 01:27:01+00",
+  "conditionId": "0x10ff9f5e1b80c093282020b3a1756056b29ba61d2fe3b54521a7549beb9e93af",
+  "slug": "will-bored-apes-or-cryptopunks-have-a-higher-floor-price-on-february-1st-2022",
+  "question": "Will Bored Apes or CryptoPunks have a higher floor price on February 1st, 2022?"
+}

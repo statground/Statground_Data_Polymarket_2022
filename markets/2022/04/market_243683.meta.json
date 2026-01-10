@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243683",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-26T07:37:13.221000Z",
+  "market_createdAt": "2022-04-26T07:37:13.221Z",
+  "market_updatedAt": "2023-01-31T20:31:46.761Z",
+  "market_startDate": "2022-04-26T15:17:01.624Z",
+  "market_endDate": "2022-04-26T00:00:00Z",
+  "market_closedTime": "2022-04-27 06:48:15+00",
+  "conditionId": "0x12898e7b4d6ccc432a6c5d4f0bcb214dceb28a7095ccda67f7a5b57bf427512c",
+  "slug": "nhl-will-the-penguins-beat-the-oilers-by-more-than-1pt5-goals-in-their-april-26-700-pm-et-matchup",
+  "question": "NHL: Will the Penguins beat the Oilers by more than 1.5 goals in their April 26, 7:00 PM ET matchup?"
+}

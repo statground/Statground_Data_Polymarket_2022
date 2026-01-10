@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239286",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-07T13:48:39.198000Z",
+  "market_createdAt": "2021-11-07T13:48:39.198Z",
+  "market_updatedAt": "2024-04-23T00:49:54.185687Z",
+  "market_startDate": "2021-11-07T21:14:32.866Z",
+  "market_endDate": "2021-11-07T00:00:00Z",
+  "market_closedTime": "2021-11-08 13:25:04+00",
+  "conditionId": "0x779ef733b6f83d86161cb133b2b43d13c7d9e46374456f96ca119a0e370cf482",
+  "slug": "nba-will-the-jazz-beat-the-magic-by-more-than-11pt5-points-in-their-november-7th-matchup",
+  "question": "NBA: Will the Jazz beat the Magic by more than 11.5 points in their November 7th matchup?"
+}

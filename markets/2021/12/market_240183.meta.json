@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240183",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-26T17:59:54.683000Z",
+  "market_createdAt": "2021-12-26T17:59:54.683Z",
+  "market_updatedAt": "2024-04-23T00:58:06.481917Z",
+  "market_startDate": "2021-12-26T21:05:20.49Z",
+  "market_endDate": "2021-12-26T00:00:00Z",
+  "market_closedTime": "2021-12-27 14:19:04+00",
+  "conditionId": "0xf793844569d413874270b6471b4506304a11632d6af0b062174b8da1504a540a",
+  "slug": "nba-will-the-spurs-beat-the-pistons-by-more-than-11pt5-points-in-their-december-26-matchup",
+  "question": "NBA: Will the Spurs beat the Pistons by more than 11.5 points in their December 26 matchup?"
+}

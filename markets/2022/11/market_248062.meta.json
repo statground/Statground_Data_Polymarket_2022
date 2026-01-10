@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248062",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T22:16:20.615000Z",
+  "market_createdAt": "2022-11-18T22:16:20.615Z",
+  "market_updatedAt": "2023-01-31T19:22:08.298Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-18T00:00:00Z",
+  "market_closedTime": "2022-12-05 17:45:43+00",
+  "conditionId": "0xcb3b1bcf7b207b99a572373abf4f79132edc1264cf762b772e6ae377a944c0f0",
+  "slug": "will-mexico-win-the-2022-world-cup",
+  "question": "Will Mexico win the 2022 World Cup?"
+}

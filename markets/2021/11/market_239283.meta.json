@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239283",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-07T12:58:04.515000Z",
+  "market_createdAt": "2021-11-07T12:58:04.515Z",
+  "market_updatedAt": "2024-04-24T23:21:25.266923Z",
+  "market_startDate": "2021-11-08T22:42:03.718Z",
+  "market_endDate": "2021-11-19T00:00:00Z",
+  "market_closedTime": "2021-11-20 18:03:18+00",
+  "conditionId": "0x5f804dd18051aaebbdb091f1a274957b537003a803d80fcc6c9f4fc6b92b1fec",
+  "slug": "will-germany-or-poland-report-a-higher-7-day-covid-19-case-average-per-capita-on-november-18",
+  "question": "Will Germany or Poland report a higher 7-day COVID-19 case average per capita on November 18?"
+}

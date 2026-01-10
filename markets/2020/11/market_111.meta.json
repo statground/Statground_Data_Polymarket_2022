@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "111",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-11-23T19:00:09.756000Z",
+  "market_createdAt": "2020-11-23T19:00:09.756Z",
+  "market_updatedAt": "2024-04-22T23:02:27.642573Z",
+  "market_startDate": null,
+  "market_endDate": null,
+  "market_closedTime": "2021-01-08 17:20:58+00",
+  "conditionId": "0x829b85b2ad61476ce1a92364f1c1c61ad53487b9476d13397ef346beebda1200",
+  "slug": "which-party-will-win-the-u-s-senate-special-election-in-georgia-loeffler-r-vs-warnock-d",
+  "question": "Which party will win the U.S. Senate special election in Georgia? (Loeffler - R vs Warnock - D)"
+}

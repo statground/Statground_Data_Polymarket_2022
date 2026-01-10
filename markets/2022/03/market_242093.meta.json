@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242093",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-15T15:07:21.866000Z",
+  "market_createdAt": "2022-03-15T15:07:21.866Z",
+  "market_updatedAt": "2024-04-24T23:43:34.535769Z",
+  "market_startDate": "2022-03-15T17:54:22.95Z",
+  "market_endDate": "2022-03-15T00:00:00Z",
+  "market_closedTime": "2022-03-16 10:30:41+00",
+  "conditionId": "0x0631643b6000dc4f526a9b49d109a30843e3aae14efde0f331061194e004ac8d",
+  "slug": "nba-who-will-win-the-heat-vspt-pistons-scheduled-for-march-15-7pt30-pm-et",
+  "question": "NBA: Who will win the Heat vs. Pistons, scheduled for March 15 (7.30 PM ET)?"
+}

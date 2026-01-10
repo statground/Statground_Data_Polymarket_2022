@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "202143",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-25T21:10:06.306000Z",
+  "market_createdAt": "2021-05-25T21:10:06.306Z",
+  "market_updatedAt": "2024-04-22T23:55:26.382662Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-27T00:00:00Z",
+  "market_closedTime": "2021-05-27 19:13:49+00",
+  "conditionId": "0x358f5c8d0d49f9136227ecfff470225392e5ccca5b5821d2de75b61909b7c575",
+  "slug": "will-anish-giri-or-teimour-radjabov-win-their-quarterfinals-series-of-the-ftx-crypto-cup",
+  "question": "Will Anish Giri or Teimour Radjabov win their Quarterfinals Series of the FTX Crypto Cup?"
+}

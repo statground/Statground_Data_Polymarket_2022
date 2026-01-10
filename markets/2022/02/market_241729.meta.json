@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241729",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-26T00:09:56.781000Z",
+  "market_createdAt": "2022-02-26T00:09:56.781Z",
+  "market_updatedAt": "2024-04-22T23:53:06.573031Z",
+  "market_startDate": null,
+  "market_endDate": "2022-03-01T00:00:00Z",
+  "market_closedTime": "2022-03-02 17:30:31+00",
+  "conditionId": "0xbbbe004692a8808595e4d7725cdfa427b54df34db590d6b5aa3c7196350b0534",
+  "slug": "will-president-biden-mention-trump-in-the-2022-state-of-the-union-address",
+  "question": "Will President Biden mention Trump in the 2022 State of the Union Address?"
+}

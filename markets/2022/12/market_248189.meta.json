@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248189",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-06T22:27:52.513000Z",
+  "market_createdAt": "2022-12-06T22:27:52.513Z",
+  "market_updatedAt": "2023-02-10T01:03:40.669Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-10T00:00:00Z",
+  "market_closedTime": "2022-12-10 19:00:37+00",
+  "conditionId": "0x1444aa19610940c750a2fb4ac6c26bccbc0080a8b2f93e715b69d443e0cc7b18",
+  "slug": "world-cup-saturday-portugal-vs-morocco",
+  "question": "World Cup: Saturday - Portugal vs. Morocco"
+}

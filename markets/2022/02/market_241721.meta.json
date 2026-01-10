@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241721",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-25T16:29:00.949000Z",
+  "market_createdAt": "2022-02-25T16:29:00.949Z",
+  "market_updatedAt": "2024-04-26T02:47:26.426682Z",
+  "market_startDate": "2022-02-25T19:27:07.827Z",
+  "market_endDate": "2022-03-15T00:00:00Z",
+  "market_closedTime": "2022-02-28 17:20:35+00",
+  "conditionId": "0x429bf4482c4b258bb1a1856430ae7d41203d5ddd6ed854942ec167e8a4823f19",
+  "slug": "will-the-russian-ruble-rub-fall-below-0p01-by-march-15",
+  "question": "Will the Russian Ruble (RUB) fall below $0.01 by March 15?"
+}

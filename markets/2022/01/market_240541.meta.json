@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240541",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T18:47:01.509000Z",
+  "market_createdAt": "2022-01-11T18:47:01.509Z",
+  "market_updatedAt": "2024-04-22T22:30:46.430531Z",
+  "market_startDate": "2022-01-12T21:15:26.852Z",
+  "market_endDate": "2022-03-31T00:00:00Z",
+  "market_closedTime": "2022-04-02 03:00:44+00",
+  "conditionId": "0x9f68e503f110a4866c8183372a2768ac6c5fe7cbddf10129e8f3922d31ae504a",
+  "slug": "will-showtime-airdrop-a-native-token-by-march-31st-2022",
+  "question": "Will Showtime airdrop a native token by March 31st, 2022?"
+}

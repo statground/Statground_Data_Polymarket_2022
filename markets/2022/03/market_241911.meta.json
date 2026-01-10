@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241911",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-04T23:20:05.300000Z",
+  "market_createdAt": "2022-03-04T23:20:05.3Z",
+  "market_updatedAt": "2024-04-22T23:56:37.268792Z",
+  "market_startDate": "2022-03-05T00:30:58.709Z",
+  "market_endDate": "2022-03-05T00:00:00Z",
+  "market_closedTime": "2022-03-06 19:15:24+00",
+  "conditionId": "0x93e5215b23313d9247b01de4a658a0ebf72e538f28e45c63e594fc2e7c02fa39",
+  "slug": "ufc-272-who-will-win-rafael-dos-anjos-or-renato-moicano",
+  "question": "UFC 272: Who will win - Rafael dos Anjos or Renato Moicano?"
+}

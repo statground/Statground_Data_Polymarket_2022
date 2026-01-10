@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "95136",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-22T16:50:02.462000Z",
+  "market_createdAt": "2021-02-22T16:50:02.462Z",
+  "market_updatedAt": "2024-04-24T23:29:10.521833Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-22T00:00:00Z",
+  "market_closedTime": "2021-02-23 21:33:45+00",
+  "conditionId": "0xeadf7c5447d6917e2821e0967844107a653e29250f18354b09520beab1c5c278",
+  "slug": "will-the-bulls-or-the-rockets-win-their-february-22nd-matchup",
+  "question": "Will the Bulls or the Rockets win their February 22nd matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247465",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-11T16:18:12.720000Z",
+  "market_createdAt": "2022-10-11T16:18:12.72Z",
+  "market_updatedAt": "2023-01-31T18:22:18.132Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-17T00:00:00Z",
+  "market_closedTime": "2022-10-19 23:00:40+00",
+  "conditionId": "0x867893dad1a5081ba61f5f0221ca6a8d8945ab01bbac57c05bf8b82ccea76ee3",
+  "slug": "al-division-series-guardians-vs-yankees",
+  "question": "AL Division Series: Guardians vs. Yankees"
+}

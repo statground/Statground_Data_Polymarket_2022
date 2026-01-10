@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240240",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-29T13:37:23.856000Z",
+  "market_createdAt": "2021-12-29T13:37:23.856Z",
+  "market_updatedAt": "2024-04-23T00:22:01.384154Z",
+  "market_startDate": "2021-12-29T16:47:27.313Z",
+  "market_endDate": "2021-12-29T00:00:00Z",
+  "market_closedTime": "2021-12-30 17:51:56+00",
+  "conditionId": "0xf87a3df868b640402c0b5d59f7a1bc7917a6232d2ea452fcfccbd229da60addd",
+  "slug": "nhl-will-the-devils-beat-the-sabres-by-more-than-1pt5-goals-in-their-december-29-matchup",
+  "question": "NHL: Will the Devils beat the Sabres by more than 1.5 goals in their December 29 matchup?"
+}

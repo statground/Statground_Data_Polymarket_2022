@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242388",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-22T09:09:58.882000Z",
+  "market_createdAt": "2022-03-22T09:09:58.882Z",
+  "market_updatedAt": "2024-04-22T23:38:03.576575Z",
+  "market_startDate": "2022-03-22T16:28:28.407Z",
+  "market_endDate": "2022-03-22T00:00:00Z",
+  "market_closedTime": "2022-03-23 15:16:28+00",
+  "conditionId": "0x52d46ac6ad08200b9ff7277db14db63129f74f94c0ffe4ca2ce241a028a8ab14",
+  "slug": "nba-will-the-hawks-beat-the-knicks-by-more-than-1pt5-points-in-their-march-22-730-pm-et-matchup",
+  "question": "NBA: Will the Hawks beat the Knicks by more than 1.5 points in their March 22, 7:30 PM ET matchup?"
+}

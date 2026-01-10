@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241413",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-11T09:53:25.975000Z",
+  "market_createdAt": "2022-02-11T09:53:25.975Z",
+  "market_updatedAt": "2024-04-23T00:58:55.493892Z",
+  "market_startDate": "2022-02-11T20:02:07.713Z",
+  "market_endDate": "2022-02-11T00:00:00Z",
+  "market_closedTime": "2022-02-13 05:05:24+00",
+  "conditionId": "0xcc5e1ca961628b5b5d70880ba62d03473814e454cc350e1fc333e2977d0a5e94",
+  "slug": "nba-who-will-win-the-hornets-vs-pistons-scheduled-for-february-11-7pm-et",
+  "question": "NBA: Who will win the Hornets vs. Pistons, scheduled for February 11 (7PM ET)?"
+}

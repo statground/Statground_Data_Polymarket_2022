@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239618",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-26T09:33:18.014000Z",
+  "market_createdAt": "2021-11-26T09:33:18.014Z",
+  "market_updatedAt": "2024-04-25T00:08:40.440476Z",
+  "market_startDate": "2021-11-26T19:21:28.43Z",
+  "market_endDate": "2021-11-26T00:00:00Z",
+  "market_closedTime": "2021-11-27 20:53:42+00",
+  "conditionId": "0x68777a614f7a068c7cebae6504ff1029a32101f4813e6f82eecf848c57f201d0",
+  "slug": "nba-will-the-bulls-beat-the-magic-by-more-than-8pt5-points-in-their-november-26th-matchup",
+  "question": "NBA: Will the Bulls beat the Magic by more than 8.5 points in their November 26th matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239847",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-06T15:04:40.066000Z",
+  "market_createdAt": "2021-12-06T15:04:40.066Z",
+  "market_updatedAt": "2024-04-22T22:55:02.011345Z",
+  "market_startDate": "2021-12-06T17:00:44.095Z",
+  "market_endDate": "2021-12-06T00:00:00Z",
+  "market_closedTime": "2021-12-07 18:19:51+00",
+  "conditionId": "0x3341c0ea23311a09993475d14952cddef0e40fcf13a8774c44047801ebd9d74e",
+  "slug": "nba-will-the-76ers-beat-the-hornets-by-more-than-6pt5-points-in-their-december-6-matchup",
+  "question": "NBA: Will the 76ers beat the Hornets by more than 6.5 points in their December 6 matchup?"
+}

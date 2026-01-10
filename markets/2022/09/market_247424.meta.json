@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247424",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-30T17:17:21.789000Z",
+  "market_createdAt": "2022-09-30T17:17:21.789Z",
+  "market_updatedAt": "2023-01-31T20:16:04.637Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-10T00:00:00Z",
+  "market_closedTime": "2022-10-11 06:31:03+00",
+  "conditionId": "0x561661ddcdd239c58510647ca097ee267ed1e7930175c59c80e94d44387e90d6",
+  "slug": "will-the-price-of-natural-gas-be-7pt00-or-more-on-october-10-2022-nov-2022-future",
+  "question": "Will the price of natural gas be $7.00 or more on October 10, 2022? (NOV 2022 Future)"
+}

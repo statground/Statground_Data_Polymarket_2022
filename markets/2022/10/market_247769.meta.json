@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247769",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-25T20:42:09.803000Z",
+  "market_createdAt": "2022-10-25T20:42:09.803Z",
+  "market_updatedAt": "2023-07-09T04:08:32.129Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-04T00:00:00Z",
+  "market_closedTime": "2022-11-04 19:00:38+00",
+  "conditionId": "0xf95ce95c7a49b60e84d9496135dc7d7a62a2e49f546fc5f2a09b0efc118226cd",
+  "slug": "will-the-price-of-eth-be-above-1500-on-november-4",
+  "question": "Will the price of $ETH be above $1500 on November 4?"
+}

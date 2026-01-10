@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "202646",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-26T18:20:05.111000Z",
+  "market_createdAt": "2021-05-26T18:20:05.111Z",
+  "market_updatedAt": "2024-04-23T00:12:24.474858Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-16T00:00:00Z",
+  "market_closedTime": "2021-06-17 16:42:19+00",
+  "conditionId": "0xe0451915a5737e4376395074181e1af4b0bccef31107c55876ce9b0cf1260e0e",
+  "slug": "will-daily-atmospheric-co2-be-above-419-ppm-on-june-16-2021",
+  "question": "Will daily atmospheric CO2 be above 419 ppm on June 16, 2021?"
+}

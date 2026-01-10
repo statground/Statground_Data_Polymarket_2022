@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "88549",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-15T17:10:02.025000Z",
+  "market_createdAt": "2021-02-15T17:10:02.025Z",
+  "market_updatedAt": "2024-04-22T23:02:31.757624Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-16T00:00:00Z",
+  "market_closedTime": "2021-02-17 17:00:28+00",
+  "conditionId": "0x528665aa0a51e84a639022194d680e8a9b479ed77fe4c3c3de7fac032885c84b",
+  "slug": "will-the-nets-or-the-suns-win-their-february-16th-matchup",
+  "question": "Will the Nets or the Suns win their February 16th matchup?"
+}

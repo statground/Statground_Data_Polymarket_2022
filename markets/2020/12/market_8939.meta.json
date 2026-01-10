@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "8939",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-12-16T17:05:22.378000Z",
+  "market_createdAt": "2020-12-16T17:05:22.378Z",
+  "market_updatedAt": "2024-04-22T23:27:12.858402Z",
+  "market_startDate": null,
+  "market_endDate": "2021-03-02T00:00:00Z",
+  "market_closedTime": "2020-12-26 16:32:48+00",
+  "conditionId": "0x9cff735d7e2d1c7ed06cdc30f206e66dbf8331c493f0d260f6f777b6a7f72908",
+  "slug": "will-btc-break-25k-before-march-1st",
+  "question": "Will $BTC break $25k before March 1st?"
+}

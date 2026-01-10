@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "112491",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-03-29T22:35:02.230000Z",
+  "market_createdAt": "2021-03-29T22:35:02.23Z",
+  "market_updatedAt": "2024-04-23T00:40:02.355961Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-16T00:00:00Z",
+  "market_closedTime": "2021-04-19 14:59:16+00",
+  "conditionId": "0x4adf63112b1ca5e9d55aaaf6d8911cd37712853600ae8afb466d64025d19558e",
+  "slug": "will-the-us-have-fewer-than-40-000-new-covid-19-cases-on-any-day-before-april-16-2021",
+  "question": "Will the US have fewer than 40,000 new COVID-19 cases on any day before April 16, 2021?"
+}

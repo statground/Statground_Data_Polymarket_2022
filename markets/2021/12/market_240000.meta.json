@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240000",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-12T13:41:10.714000Z",
+  "market_createdAt": "2021-12-12T13:41:10.714Z",
+  "market_updatedAt": "2024-04-23T00:17:28.428649Z",
+  "market_startDate": "2021-12-12T19:42:50.205Z",
+  "market_endDate": "2021-12-12T00:00:00Z",
+  "market_closedTime": "2021-12-13 17:26:05+00",
+  "conditionId": "0x23a9f82445309536c44acc0a81f7cbbc5356f5c1e1ecec07f9e645f15ce26dbe",
+  "slug": "nba-will-the-nets-beat-the-pistons-by-more-than-8pt5-points-in-their-december-12-matchup",
+  "question": "NBA: Will the Nets beat the Pistons by more than 8.5 points in their December 12 matchup?"
+}

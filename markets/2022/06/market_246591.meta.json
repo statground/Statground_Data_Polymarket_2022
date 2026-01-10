@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246591",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-24T16:42:30.525000Z",
+  "market_createdAt": "2022-06-24T16:42:30.525Z",
+  "market_updatedAt": "2023-01-31T20:31:46.339Z",
+  "market_startDate": "2022-06-24T17:48:24.848Z",
+  "market_endDate": "2022-07-10T00:00:00Z",
+  "market_closedTime": "2022-07-10 19:00:43+00",
+  "conditionId": "0xcd24abeb6b4c6636e979f83ed402c7d3ad50243da8476b89bc77d71d6c77024b",
+  "slug": "2022-wimbledon-championships-will-novak-djokovic-win-mens-singles",
+  "question": "2022 Wimbledon Championships: Will Novak Djokovic win Men's Singles?"
+}

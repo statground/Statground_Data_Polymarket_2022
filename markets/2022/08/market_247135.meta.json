@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247135",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-24T14:32:11.810000Z",
+  "market_createdAt": "2022-08-24T14:32:11.81Z",
+  "market_updatedAt": "2023-01-31T20:59:04.325Z",
+  "market_startDate": "2022-08-24T18:04:39.041Z",
+  "market_endDate": "2022-09-05T00:00:00Z",
+  "market_closedTime": "2022-09-06 06:45:50+00",
+  "conditionId": "0xd10e6fdbc37ebad4ee6f167569280f0a276a6fcb9ff78fd27957907d0540f631",
+  "slug": "will-nasa-successfully-launch-the-space-launch-system-sls-into-space-by-september-5th",
+  "question": "Will NASA successfully launch the Space Launch System (SLS) into space by September 5th?"
+}

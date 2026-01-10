@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "229429",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-07T01:18:01.247000Z",
+  "market_createdAt": "2021-08-07T01:18:01.247Z",
+  "market_updatedAt": "2024-04-23T00:24:58.777161Z",
+  "market_startDate": "2021-08-07T16:17:04.93Z",
+  "market_endDate": "2021-08-10T00:00:00Z",
+  "market_closedTime": "2021-08-10 17:13:43+00",
+  "conditionId": "0x45b70259e26d402e7425b8f94faf1ed921aaa955a056b19da84095f639c1843e",
+  "slug": "will-the-us-senate-pass-hr-3684-invest-in-america-act-by-august10-2021",
+  "question": "Will the US Senate pass H.R. 3684 INVEST in America Act by August 10, 2021?"
+}

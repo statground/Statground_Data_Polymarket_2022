@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218624",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-22T20:05:01.304000Z",
+  "market_createdAt": "2021-06-22T20:05:01.304Z",
+  "market_updatedAt": "2024-04-22T22:52:21.547928Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-30T00:00:00Z",
+  "market_closedTime": "2021-06-30 21:35:54+00",
+  "conditionId": "0xcaf32114c4c5dea822369543418927718d235bc814c6ed8e05188e1cf99d3c38",
+  "slug": "will-fewociouss-his-name-is-victor-have-a-final-sale-price-of-more-than-850k-at-christies",
+  "question": "Will FEWOCiOUS’s “His Name Is Victor” have a final sale price of more than $500K at Christie’s?"
+}

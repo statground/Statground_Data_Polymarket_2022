@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246702",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-12T23:52:17.183000Z",
+  "market_createdAt": "2022-07-12T23:52:17.183Z",
+  "market_updatedAt": "2023-01-31T17:12:13.729Z",
+  "market_startDate": "2022-07-14T13:32:45.411Z",
+  "market_endDate": "2022-07-17T00:00:00Z",
+  "market_closedTime": "2022-07-15 20:30:41+00",
+  "conditionId": "0x20575cf9557a7aa050c147349e9bce9450afa405ce6963ece1d957116e28eeb0",
+  "slug": "2022-open-championship-will-tiger-woods-make-the-cut",
+  "question": "2022 Open Championship: Will Tiger Woods make the cut?"
+}

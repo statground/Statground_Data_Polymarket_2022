@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242713",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-01T09:07:03.924000Z",
+  "market_createdAt": "2022-04-01T09:07:03.924Z",
+  "market_updatedAt": "2024-04-23T00:36:58.254356Z",
+  "market_startDate": null,
+  "market_endDate": "2022-04-01T00:00:00Z",
+  "market_closedTime": "2022-04-02 07:19:10+00",
+  "conditionId": "0x33aed025011472ef7401d9ce4728e1e12af7d8aeec19b9a3e4d457ee71f6bf52",
+  "slug": "nba-who-will-win-kings-vs-rockets-scheduled-for-april-1-810-pm-et",
+  "question": "NBA: Who will win Kings vs. Rockets, scheduled for April 1, 8:10 PM ET?"
+}

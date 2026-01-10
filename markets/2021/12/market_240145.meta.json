@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240145",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-23T10:23:36.382000Z",
+  "market_createdAt": "2021-12-23T10:23:36.382Z",
+  "market_updatedAt": "2024-04-22T22:40:56.632185Z",
+  "market_startDate": "2021-12-23T17:05:44.892Z",
+  "market_endDate": "2021-12-23T00:00:00Z",
+  "market_closedTime": "2021-12-24 17:33:22+00",
+  "conditionId": "0xe404d56d0c4479a05887c41edcaf11a057cf147451ccd1213380d5a19f646b1a",
+  "slug": "nba-will-the-pacers-beat-the-rockets-by-more-than-8pt5-points-in-their-december-23-matchup",
+  "question": "NBA: Will the Pacers beat the Rockets by more than 8.5 points in their December 23 matchup?"
+}

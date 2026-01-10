@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247201",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-07T17:45:08.704000Z",
+  "market_createdAt": "2022-09-07T17:45:08.704Z",
+  "market_updatedAt": "2023-01-31T20:44:48.393Z",
+  "market_startDate": "2022-09-07T21:36:03.375Z",
+  "market_endDate": "2022-09-11T00:00:00Z",
+  "market_closedTime": "2022-09-11 14:30:53+00",
+  "conditionId": "0xdfca1eec7b79c08a6b5e6d0bccb117bf460a351fb4ddb279e9c1fbeb163a443f",
+  "slug": "ufc-279-who-will-win-holland-vs-rodriguez",
+  "question": "UFC 279: Who will win - Holland vs Rodriguez"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239029",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-19T17:19:31.844000Z",
+  "market_createdAt": "2021-10-19T17:19:31.844Z",
+  "market_updatedAt": "2024-04-24T23:39:53.589151Z",
+  "market_startDate": "2021-10-19T21:19:56.733Z",
+  "market_endDate": "2021-10-20T00:00:00Z",
+  "market_closedTime": "2021-10-21 02:46:48+00",
+  "conditionId": "0xde20851997445caedd2cdc654dacd883f76bfb907c4a194981bd23f3a30a50a7",
+  "slug": "will-the-grizzlies-beat-the-cavaliers-by-more-than-7pt5-points-in-their-october-20th-matchup",
+  "question": "Will the Grizzlies beat the Cavaliers by more than 7.5 points in their October 20th matchup?"
+}

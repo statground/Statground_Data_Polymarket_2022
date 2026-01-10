@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240524",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T18:23:21.764000Z",
+  "market_createdAt": "2022-01-11T18:23:21.764Z",
+  "market_updatedAt": "2023-01-31T15:20:25.849Z",
+  "market_startDate": null,
+  "market_endDate": "2022-02-20T00:00:00Z",
+  "market_closedTime": "2022-02-20 20:00:23+00",
+  "conditionId": "0xd73ae54f7b4ccc50c961a025f258c432c9a665af7c838f66eb2e7be2b1cfbea3",
+  "slug": "who-will-have-a-higher-net-worth-on-february-20-elon-musk-or-jeff-bezos",
+  "question": "Who will have a higher net worth on February 20: Elon Musk or Jeff Bezos?"
+}

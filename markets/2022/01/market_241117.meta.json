@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241117",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-27T14:08:42.822000Z",
+  "market_createdAt": "2022-01-27T14:08:42.822Z",
+  "market_updatedAt": "2024-04-23T00:13:49.246549Z",
+  "market_startDate": "2022-01-28T00:35:52.795Z",
+  "market_endDate": "2022-02-11T00:00:00Z",
+  "market_closedTime": "2022-02-12 08:24:11+00",
+  "conditionId": "0xcf4977c33fe24e6824400426d8cbe71fae35a1b8ffe55b2ebf25ce2164d195ec",
+  "slug": "will-nasa-have-confirmed-more-than-4910-existing-exoplanets-by-february-11",
+  "question": "Will NASA have confirmed more than 4910 existing exoplanets by February 11?"
+}

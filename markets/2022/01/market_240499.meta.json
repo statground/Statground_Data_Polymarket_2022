@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240499",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T17:15:57.725000Z",
+  "market_createdAt": "2022-01-11T17:15:57.725Z",
+  "market_updatedAt": "2024-04-26T02:54:20.767229Z",
+  "market_startDate": "2023-03-28T21:08:33.783Z",
+  "market_endDate": "2022-07-01T00:00:00Z",
+  "market_closedTime": "2022-07-02 14:45:33+00",
+  "conditionId": "0x78eb725a3e47c23567207392fe1248457080361f86c49123e86f9ea87271ecf0",
+  "slug": "will-donald-j-trump-be-indicted-by-july-1-2022",
+  "question": "Will Donald J. Trump be indicted by July 1, 2022?"
+}

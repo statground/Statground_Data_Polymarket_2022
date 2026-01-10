@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "224603",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-16T20:55:01.791000Z",
+  "market_createdAt": "2021-07-16T20:55:01.791Z",
+  "market_updatedAt": "2024-04-22T23:08:25.016958Z",
+  "market_startDate": null,
+  "market_endDate": null,
+  "market_closedTime": "2021-07-23 21:51:47+00",
+  "conditionId": "0xc75fa1290e3b4ce2b910cc6ad95628f92c9dab15d095d9e646e79f6447c1a3f9",
+  "slug": "who-will-get-more-airtime-in-episode-41-of-the-all-in-podcast-david-sacks-or-jason-calacanis",
+  "question": "Who will get more airtime in Episode 41 of the All In Podcast: David Sacks or Jason Calacanis?"
+}

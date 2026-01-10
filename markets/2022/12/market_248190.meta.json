@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248190",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-07T15:53:04.325000Z",
+  "market_createdAt": "2022-12-07T15:53:04.325Z",
+  "market_updatedAt": "2023-01-31T20:16:21.316Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-10T00:00:00Z",
+  "market_closedTime": null,
+  "conditionId": "0xe29f3c5d90743154eee0e0b19321e3cfbf23812d62115b55db97240413f6def0",
+  "slug": "ufc-282-who-will-win-blachowicz-vs-ankalaev",
+  "question": "UFC 282: Who will win - Blachowicz vs. Ankalaev"
+}

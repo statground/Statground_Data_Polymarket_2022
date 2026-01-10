@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "86505",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-14T01:50:02.305000Z",
+  "market_createdAt": "2021-02-14T01:50:02.305Z",
+  "market_updatedAt": "2024-04-22T22:25:49.89586Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-14T00:00:00Z",
+  "market_closedTime": "2021-02-14 22:14:14+00",
+  "conditionId": "0xb451b3985d1eaa3c637210858e0a785e9c9a05ae7c78eda1495afcc7959a2e2b",
+  "slug": "will-the-celtics-or-the-wizards-win-their-february-14th-matchup",
+  "question": "Will the Celtics or the Wizards win their February 14th matchup?"
+}

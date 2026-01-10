@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247020",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-17T16:17:51.591000Z",
+  "market_createdAt": "2022-08-17T16:17:51.591Z",
+  "market_updatedAt": "2023-01-31T19:44:05.996Z",
+  "market_startDate": "2022-08-23T21:04:07.358Z",
+  "market_endDate": "2022-12-01T00:00:00Z",
+  "market_closedTime": "2022-12-01 20:01:05+00",
+  "conditionId": "0xd743ddd80a3100f08aa91f9c1597952a00ced5783960f4157f84e0b02b1f6e18",
+  "slug": "will-joe-biden-be-president-of-the-usa-on-december-1-2022",
+  "question": "Will Joe Biden be President of the USA on December 1, 2022?"
+}

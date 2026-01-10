@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246853",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-28T16:15:07.657000Z",
+  "market_createdAt": "2022-07-28T16:15:07.657Z",
+  "market_updatedAt": "2023-01-31T16:32:53.221Z",
+  "market_startDate": "2022-07-28T16:36:14.106Z",
+  "market_endDate": "2022-09-21T00:00:00Z",
+  "market_closedTime": "2022-09-21 20:31:04+00",
+  "conditionId": "0x8137d425a84134010f70af5c51198b3c0b0155c34125095d12e2a9b9da13e395",
+  "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-their-september-meeting",
+  "question": "Will the Fed increase interest rates by 25 bps after their September meeting?"
+}

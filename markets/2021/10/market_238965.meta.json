@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238965",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-07T17:21:43.506000Z",
+  "market_createdAt": "2021-10-07T17:21:43.506Z",
+  "market_updatedAt": "2024-04-23T00:55:46.705891Z",
+  "market_startDate": "2021-10-07T17:58:22.75Z",
+  "market_endDate": "2021-10-14T00:00:00Z",
+  "market_closedTime": "2021-10-15 04:58:14+00",
+  "conditionId": "0x789828ef46460997ec3e27c6aea241aef6e752f0d492480993a96efdcc000de4",
+  "slug": "in-game-trading-will-the-giants-or-dodgers-win-their-nlds-matchup",
+  "question": "(In-game Trading) Will the Giants or Dodgers win their NLDS matchup?"
+}

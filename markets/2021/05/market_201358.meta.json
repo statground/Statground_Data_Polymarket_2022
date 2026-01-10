@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "201358",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-19T16:25:04.142000Z",
+  "market_createdAt": "2021-05-19T16:25:04.142Z",
+  "market_updatedAt": "2024-04-24T23:28:21.454013Z",
+  "market_startDate": null,
+  "market_endDate": "2021-09-02T00:00:00Z",
+  "market_closedTime": "2021-09-02 17:45:17+00",
+  "conditionId": "0x84870d779dad6d40e86cb01063b951d9643c01f1fcec7880b748df279065e473",
+  "slug": "will-the-us-have-fewer-than-1000-covid-19-cases-on-any-day-before-september-1",
+  "question": "Will the US have fewer than 1000 COVID-19 cases on any day on or before September 1?"
+}

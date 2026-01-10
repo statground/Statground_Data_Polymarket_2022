@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "65",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-10-27T17:35:06.010000Z",
+  "market_createdAt": "2020-10-27T17:35:06.01Z",
+  "market_updatedAt": "2024-04-24T23:56:03.663814Z",
+  "market_startDate": null,
+  "market_endDate": "2020-11-20T00:00:00Z",
+  "market_closedTime": "2020-11-16 17:14:17+00",
+  "conditionId": "0xdc9bc87850a00c051c902f6d10355ec6412a08a56aa2e81b59beb3e9b80a11b3",
+  "slug": "will-538-outperform-the-economist-in-forecasting-the-2020-presidential-election",
+  "question": "Will 538 outperform The Economist in forecasting the 2020 Presidential Election?"
+}

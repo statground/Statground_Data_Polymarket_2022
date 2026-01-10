@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247680",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-18T16:17:21.819000Z",
+  "market_createdAt": "2022-10-18T16:17:21.819Z",
+  "market_updatedAt": "2023-01-30T19:09:43.598Z",
+  "market_startDate": null,
+  "market_endDate": "2023-12-31T00:00:00Z",
+  "market_closedTime": "2022-11-16 23:15:36+00",
+  "conditionId": "0xd5f9392330db9d75d56f0a97a2ff4c44eb117fd40de5ec35c71ff0c9573ada66",
+  "slug": "will-starship-or-artemis-reach-space-first",
+  "question": "Will Artemis or Starship reach space first?"
+}

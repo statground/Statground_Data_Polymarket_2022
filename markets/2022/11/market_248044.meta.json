@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248044",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T20:57:25.008000Z",
+  "market_createdAt": "2022-11-18T20:57:25.008Z",
+  "market_updatedAt": "2023-01-31T21:10:05.703Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-06T00:00:00Z",
+  "market_closedTime": "2022-12-03 00:32:04+00",
+  "conditionId": "0x30772707330ef2b7cd59b74b61fd76765b407ec8891279199ff597a500527736",
+  "slug": "will-ghana-qualify-from-group-h",
+  "question": "Will Ghana qualify from Group H?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240273",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-01T21:23:00.234000Z",
+  "market_createdAt": "2022-01-01T21:23:00.234Z",
+  "market_updatedAt": "2024-04-25T00:14:50.239065Z",
+  "market_startDate": "2022-01-02T18:33:44.977Z",
+  "market_endDate": "2022-01-02T00:00:00Z",
+  "market_closedTime": "2022-01-03 15:14:47+00",
+  "conditionId": "0x45f1c906cb3b61b78ce0b859acacf3bef22822eba2e2f1824efbcd2411330824",
+  "slug": "nfl-will-the-packers-beat-the-vikings-by-more-than-13pt5-points-in-their-january-2-matchup",
+  "question": "NFL: Will the Packers beat the Vikings by more than 13.5 points in their January 2 matchup?"
+}

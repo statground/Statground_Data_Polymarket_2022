@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241768",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-28T13:21:40.287000Z",
+  "market_createdAt": "2022-02-28T13:21:40.287Z",
+  "market_updatedAt": "2024-04-22T23:59:29.942399Z",
+  "market_startDate": "2022-02-28T15:02:36.546Z",
+  "market_endDate": "2022-02-28T00:00:00Z",
+  "market_closedTime": "2022-03-01 22:19:50+00",
+  "conditionId": "0x61ea68040c1a846b512a8ef53f6de0f20d54eae28c28e7acc75b0004994eeaeb",
+  "slug": "nba-who-will-win-the-kings-vs-city-thunder-scheduled-for-february-28-9-pm-et",
+  "question": "NBA: Who will win the Kings vs. City Thunder, scheduled for February 28 (9 PM ET)?"
+}

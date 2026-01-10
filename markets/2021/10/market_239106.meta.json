@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239106",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-27T19:16:57.531000Z",
+  "market_createdAt": "2021-10-27T19:16:57.531Z",
+  "market_updatedAt": "2023-07-17T23:12:39.017Z",
+  "market_startDate": "2021-10-27T19:53:29.04Z",
+  "market_endDate": "2021-10-27T00:00:00Z",
+  "market_closedTime": "2021-10-28 09:57:48+00",
+  "conditionId": "0x84959d531fcb1d93e82d30441a0f67f2b1230a43d05b992bdfd7eb51d41f465c",
+  "slug": "2021-world-series-who-will-win-game-2-the-braves-v-astros-on-october-27th",
+  "question": "2021 World Series: Who will win Braves v. Astros Game 2 on October 27th?"
+}

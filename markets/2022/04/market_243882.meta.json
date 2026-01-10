@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243882",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-28T08:25:27.153000Z",
+  "market_createdAt": "2022-04-28T08:25:27.153Z",
+  "market_updatedAt": "2023-01-31T21:06:30.656Z",
+  "market_startDate": "2022-04-28T15:22:34.923Z",
+  "market_endDate": "2022-04-28T00:00:00Z",
+  "market_closedTime": "2022-04-29 07:16:39+00",
+  "conditionId": "0x7d71bc49047d70ae12217a15554cc392c3b1530bf25cc1a3f30d781eef1c1ec4",
+  "slug": "nba-who-will-win-jazz-vs-mavericks-scheduled-for-april-28-1000-pm-et",
+  "question": "NBA: Who will win Jazz vs. Mavericks, scheduled for April 28, 10:00 PM ET?"
+}

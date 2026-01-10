@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240537",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T18:43:42.962000Z",
+  "market_createdAt": "2022-01-11T18:43:42.962Z",
+  "market_updatedAt": "2024-04-23T00:01:30.270083Z",
+  "market_startDate": "2022-01-12T21:12:01.461Z",
+  "market_endDate": "2022-03-31T00:00:00Z",
+  "market_closedTime": "2022-04-01 22:30:52+00",
+  "conditionId": "0xc4a3cf0552cc338786a12b1ae5630906c6dffc12f53bd55ebefbb068149d6769",
+  "slug": "will-hop-protocol-airdrop-a-native-token-by-march-31st-2022",
+  "question": "Will Hop Protocol airdrop a native token by March 31st, 2022?"
+}

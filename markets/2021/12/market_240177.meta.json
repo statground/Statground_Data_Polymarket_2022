@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240177",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-23T20:26:28.546000Z",
+  "market_createdAt": "2021-12-23T20:26:28.546Z",
+  "market_updatedAt": "2024-04-22T23:49:44.3803Z",
+  "market_startDate": "2021-12-25T07:24:47.568Z",
+  "market_endDate": "2021-12-25T00:00:00Z",
+  "market_closedTime": "2021-12-26 14:32:49+00",
+  "conditionId": "0xe292991a0a9fb571960bb5f561b99af481ed46f8b872038acb28f3cb2afd2e1d",
+  "slug": "nba-will-the-lakers-beat-the-nets-by-more-than-1pt5-points-in-their-december-25-matchup",
+  "question": "NBA: Will the Lakers beat the Nets by more than 1.5 points in their December 25 matchup?"
+}

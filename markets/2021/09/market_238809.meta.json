@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238809",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-21T16:00:30.242000Z",
+  "market_createdAt": "2021-09-21T16:00:30.242Z",
+  "market_updatedAt": "2024-04-24T23:23:42.044249Z",
+  "market_startDate": "2021-09-22T20:56:06.692Z",
+  "market_endDate": "2021-09-24T00:00:00Z",
+  "market_closedTime": "2021-09-26 23:56:38+00",
+  "conditionId": "0xd2e0e80320563ef584304f94fe3c26a2a8a777f1de95e33f4578f56204b4298f",
+  "slug": "will-faze-clan-or-complexity-win-their-fall-blast-premier-matchup-on-september-24-2021",
+  "question": "Will FaZe Clan or Complexity win their Fall BLAST Premier matchup on September 24, 2021?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239836",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-04T18:58:33.529000Z",
+  "market_createdAt": "2021-12-04T18:58:33.529Z",
+  "market_updatedAt": "2024-04-23T00:17:37.29538Z",
+  "market_startDate": "2021-12-08T17:42:50.28Z",
+  "market_endDate": "2022-01-10T00:00:00Z",
+  "market_closedTime": "2022-01-03 18:57:57+00",
+  "conditionId": "0x8c85ffcb38376e89b62ffd277c6596a255a332d12938705dcf6cf8722b977957",
+  "slug": "nft-will-bored-ape-yacht-club-flip-cryptopunks-by-january-10-2022",
+  "question": "Will Bored Ape Yacht Club (BAYC) flip CryptoPunks by January 10, 2022?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239176",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-31T08:13:51.604000Z",
+  "market_createdAt": "2021-10-31T08:13:51.604Z",
+  "market_updatedAt": "2024-04-23T01:00:07.526372Z",
+  "market_startDate": "2021-10-31T09:19:42.845Z",
+  "market_endDate": "2021-11-01T00:00:00Z",
+  "market_closedTime": "2021-11-02 13:39:40+00",
+  "conditionId": "0x2ecc5a5e56f2b15e2dd046f371673a7767572ee5d295e0c76cb3dac8052ea85b",
+  "slug": "nfl-will-the-chiefs-beat-the-giants-by-more-than-10pt5-points-in-their-november-1st-matchup",
+  "question": "NFL: Will the Chiefs beat the Giants by more than 10.5 points in their November 1st matchup?"
+}

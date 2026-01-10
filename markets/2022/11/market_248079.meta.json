@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248079",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T22:40:38.657000Z",
+  "market_createdAt": "2022-11-18T22:40:38.657Z",
+  "market_updatedAt": "2023-01-31T14:17:26.139Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-18T00:00:00Z",
+  "market_closedTime": "2022-12-01 20:00:47+00",
+  "conditionId": "0x67a3a869bc0faf024bd0195f04175c16585be2727245d8b20d8e407e8d4fcf10",
+  "slug": "will-saudi-arabia-win-the-2022-world-cup",
+  "question": "Will Saudi Arabia win the 2022 World Cup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247833",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-10T16:34:03.692000Z",
+  "market_createdAt": "2022-11-10T16:34:03.692Z",
+  "market_updatedAt": "2023-02-02T19:08:36.657Z",
+  "market_startDate": null,
+  "market_endDate": "2023-02-01T00:00:00Z",
+  "market_closedTime": "2023-02-01 19:45:28+00",
+  "conditionId": "0xaafb0021141ff26e37215db3af05a51c4962d86ea6be338a5561e294e25d7028",
+  "slug": "will-joe-biden-be-president-of-the-usa-on-february-1-2023",
+  "question": "Will Joe Biden be President of the USA on February 1, 2023?"
+}

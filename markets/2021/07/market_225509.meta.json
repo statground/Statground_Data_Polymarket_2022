@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "225509",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-24T17:05:01.348000Z",
+  "market_createdAt": "2021-07-24T17:05:01.348Z",
+  "market_updatedAt": "2024-04-23T00:08:23.26468Z",
+  "market_startDate": "2021-07-26T16:32:51.117Z",
+  "market_endDate": "2021-08-05T00:00:00Z",
+  "market_closedTime": "2021-08-05 15:09:50+00",
+  "conditionId": "0x6b28a681649fe3fbd2e9292d2017a378ed6700e5d6608c8571d14051e11ec950",
+  "slug": "will-eip-1559-be-implemented-on-the-ethereum-mainnet-by-10am-aug5",
+  "question": "Will EIP-1559 be implemented live on Ethereum mainnet by 10 AM ET on August 5, 2021?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "202082",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-24T16:20:03.012000Z",
+  "market_createdAt": "2021-05-24T16:20:03.012Z",
+  "market_updatedAt": "2024-04-23T00:37:49.916796Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-28T00:00:00Z",
+  "market_closedTime": "2021-05-31 19:18:38+00",
+  "conditionId": "0x5e5009b732a91210e647070be4b4c1c7a5899cd8cc847bf875e6be7ed440ab99",
+  "slug": "will-the-clippers-or-the-mavericks-win-their-game-3-nba-playoff-matchup",
+  "question": "Who will win Clippers vs. Mavericks: Game 3?"
+}

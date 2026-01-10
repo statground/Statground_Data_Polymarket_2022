@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241490",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-15T08:06:22.979000Z",
+  "market_createdAt": "2022-02-15T08:06:22.979Z",
+  "market_updatedAt": "2024-04-24T23:21:57.247295Z",
+  "market_startDate": "2022-02-15T17:31:56.415Z",
+  "market_endDate": "2022-02-15T00:00:00Z",
+  "market_closedTime": "2022-02-16 20:08:49+00",
+  "conditionId": "0xab1cfe7bcc5d4020a9522adad95c214451c36bcbc1c7886b2f8cc12b21188377",
+  "slug": "nba-who-will-win-the-heat-vs-mavericks-scheduled-for-february-15-730-pm-et",
+  "question": "NBA: Who will win the Heat vs. Mavericks, scheduled for February 15 (7.30 PM ET)?"
+}

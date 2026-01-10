@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243694",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-26T08:02:29.616000Z",
+  "market_createdAt": "2022-04-26T08:02:29.616Z",
+  "market_updatedAt": "2023-01-31T18:28:01.11Z",
+  "market_startDate": "2022-04-26T15:19:43.602Z",
+  "market_endDate": "2022-04-26T00:00:00Z",
+  "market_closedTime": "2022-04-27 06:46:37+00",
+  "conditionId": "0xaa1abc789d478cd6cc0bae560341b75e8ba2aff66235662811da330a6d76f35a",
+  "slug": "nba-who-will-win-suns-vs-pelicans-scheduled-for-april-26-1000-pm-et",
+  "question": "NBA: Who will win Suns vs. Pelicans, scheduled for April 26, 10:00 PM ET?"
+}

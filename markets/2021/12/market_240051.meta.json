@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240051",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-15T10:05:25.572000Z",
+  "market_createdAt": "2021-12-15T10:05:25.572Z",
+  "market_updatedAt": "2024-04-23T00:16:15.882774Z",
+  "market_startDate": "2021-12-15T21:42:18.129Z",
+  "market_endDate": "2021-12-15T00:00:00Z",
+  "market_closedTime": "2021-12-16 17:28:56+00",
+  "conditionId": "0x69ecc788ce70fa407aee317277f109b4569e0775965bfb6e3de9c421a2070a10",
+  "slug": "nba-will-the-bucks-beat-the-pacers-by-more-than-1pt5-points-in-their-december-15-matchup",
+  "question": "NBA: Will the Bucks beat the Pacers by more than 1.5 points in their December 15 matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247219",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-09T17:40:23.068000Z",
+  "market_createdAt": "2022-09-09T17:40:23.068Z",
+  "market_updatedAt": "2023-01-26T21:36:13.037Z",
+  "market_startDate": "2022-09-09T19:11:43.632Z",
+  "market_endDate": "2022-09-11T00:00:00Z",
+  "market_closedTime": "2022-09-12 07:01:00+00",
+  "conditionId": "0x8699711dee939ff211c408e563dee636d64982650f45fa456bfa1d80d00192a7",
+  "slug": "nfl-who-will-win-tampa-bay-buccaneers-v-dallas-cowboys-scheduled-for-september-11-820-pm-et",
+  "question": "NFL: Who will win Tampa Bay Buccaneers v. Dallas Cowboys, scheduled for September 11, 8:20 PM ET?"
+}

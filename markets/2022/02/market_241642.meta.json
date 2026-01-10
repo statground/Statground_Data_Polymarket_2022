@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241642",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-22T21:18:04.169000Z",
+  "market_createdAt": "2022-02-22T21:18:04.169Z",
+  "market_updatedAt": "2023-01-31T03:49:14.09Z",
+  "market_startDate": "2022-02-24T20:31:00.04Z",
+  "market_endDate": "2022-04-22T00:00:00Z",
+  "market_closedTime": "2022-04-23 07:18:32+00",
+  "conditionId": "0x8c97d244f3335ef090e89858aac649bca80522333b21b5386a09410815aa191f",
+  "slug": "will-volodymyr-zelenskyy-be-ukraines-president-on-april-22-2022",
+  "question": "Will Volodymyr Zelenskyy be President of Ukraine on April 22, 2022?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240761",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-15T18:09:05.681000Z",
+  "market_createdAt": "2022-01-15T18:09:05.681Z",
+  "market_updatedAt": "2024-04-22T23:48:33.777596Z",
+  "market_startDate": "2022-01-15T19:15:34.692Z",
+  "market_endDate": "2022-01-15T00:00:00Z",
+  "market_closedTime": "2022-01-17 13:39:25+00",
+  "conditionId": "0xbef38b9eea8070343aab35a3550be8e6de8b6882539baf0bcc9f8554defde592",
+  "slug": "nba-will-the-mavericks-beat-the-magic-by-more-than-11p5-points-in-their-january-15-matchup",
+  "question": "NBA: Will the Mavericks beat the Magic by more than 11.5 points in their January 15 matchup?"
+}

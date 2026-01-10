@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "42120",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-01-15T15:15:04.146000Z",
+  "market_createdAt": "2021-01-15T15:15:04.146Z",
+  "market_updatedAt": "2024-04-23T00:34:39.14541Z",
+  "market_startDate": null,
+  "market_endDate": "2021-01-18T00:00:00Z",
+  "market_closedTime": "2021-01-18 15:49:00+00",
+  "conditionId": "0x8667bf71c111f359d56bace73b5213a8dfb332638ac5b6ff99ea0a70d7ab0b5c",
+  "slug": "will-the-browns-or-the-chiefs-win-their-jan-17th-matchup",
+  "question": "Will the Browns or the Chiefs win their Jan 17th matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239102",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-26T22:51:08.481000Z",
+  "market_createdAt": "2021-10-26T22:51:08.481Z",
+  "market_updatedAt": "2024-04-22T23:30:40.99582Z",
+  "market_startDate": "2021-10-27T18:20:28.233Z",
+  "market_endDate": "2021-10-27T00:00:00Z",
+  "market_closedTime": "2021-10-28 09:56:42+00",
+  "conditionId": "0x1ce6ecace346e7c1f7ffb71277a203205013c6ed1541488a269d0c16a19999c0",
+  "slug": "will-the-suns-beat-the-kings-by-more-than-7pt5-points-in-their-october-27th-matchup",
+  "question": "Will the Suns beat the Kings by more than 7.5 points in their October 27th matchup?"
+}

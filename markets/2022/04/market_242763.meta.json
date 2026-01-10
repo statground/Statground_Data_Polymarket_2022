@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242763",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-02T09:13:58.414000Z",
+  "market_createdAt": "2022-04-02T09:13:58.414Z",
+  "market_updatedAt": "2024-04-22T23:10:34.589927Z",
+  "market_startDate": "2022-04-02T16:38:29.43Z",
+  "market_endDate": "2022-04-02T00:00:00Z",
+  "market_closedTime": "2022-04-03 07:01:57+00",
+  "conditionId": "0x205d7e46a8dff206c4effc13f95c22d423eb7f6de53742ed9bdb382e8aa6831d",
+  "slug": "nba-will-the-heat-beat-the-bulls-by-more-than-2pt5-points-in-their-april-2-800-pm-et-matchup",
+  "question": "NBA: Will the Heat beat the Bulls by more than 2.5 points in their April 2, 8:00 PM ET matchup?"
+}

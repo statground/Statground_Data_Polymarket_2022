@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238932",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-01T21:35:34.143000Z",
+  "market_createdAt": "2021-10-01T21:35:34.143Z",
+  "market_updatedAt": "2024-04-22T23:04:56.243971Z",
+  "market_startDate": "2021-10-01T22:19:41.426Z",
+  "market_endDate": "2021-10-03T00:00:00Z",
+  "market_closedTime": "2021-10-03 20:25:20+00",
+  "conditionId": "0x1b0ac5cd8437ccda5e4437411ebd3b73cc1dd9ed0c733d9995f6139852cf7ec6",
+  "slug": "will-the-chiefs-beat-the-eagles-by-more-than-7pt5-points-in-their-week-four-matchup",
+  "question": "Will the Chiefs beat the Eagles by more than 7.5 points in their week four matchup?"
+}

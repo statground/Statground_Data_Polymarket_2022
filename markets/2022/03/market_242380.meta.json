@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242380",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-22T09:06:22.033000Z",
+  "market_createdAt": "2022-03-22T09:06:22.033Z",
+  "market_updatedAt": "2024-04-22T22:41:25.621337Z",
+  "market_startDate": "2022-03-22T16:30:07.938Z",
+  "market_endDate": "2022-03-22T00:00:00Z",
+  "market_closedTime": "2022-03-23 17:44:32+00",
+  "conditionId": "0x7584a7cd3d032277d281a756d450ab528dcbde28240887a113a41130655c027b",
+  "slug": "nhl-will-the-flames-beat-the-sharks-by-more-than-1pt5-goals-in-their-march-22-900-pm-et-matchup",
+  "question": "NHL: Will the Flames beat the Sharks by more than 1.5 goals in their March 22, 9:00 PM ET matchup?"
+}

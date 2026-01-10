@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "74",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-11-04T16:15:05.543000Z",
+  "market_createdAt": "2020-11-04T16:15:05.543Z",
+  "market_updatedAt": "2024-04-23T00:59:26.560423Z",
+  "market_startDate": null,
+  "market_endDate": "2020-11-06T00:00:00Z",
+  "market_closedTime": "2020-11-06 06:35:51+00",
+  "conditionId": "0x9129b6cb16ec8f79fd92d0d3377c554bb17fd31589bfef607f5bba1de5218a28",
+  "slug": "will-the-associated-press-publish-a-tweet-calling-the-2020-us-presidential-election-before-november-6",
+  "question": "Will the Associated Press publish a tweet calling the 2020 US presidential election before November 6?"
+}

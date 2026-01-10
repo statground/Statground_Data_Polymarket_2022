@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238890",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-26T06:23:20.731000Z",
+  "market_createdAt": "2021-09-26T06:23:20.731Z",
+  "market_updatedAt": "2024-04-22T23:32:25.113068Z",
+  "market_startDate": "2021-09-26T06:33:39.233Z",
+  "market_endDate": "2021-09-26T00:00:00Z",
+  "market_closedTime": "2021-09-26 23:57:38+00",
+  "conditionId": "0x047fbbea82a5b70b6cfd9ef25efb969675ae0d81b20f2bc37574867ad193e7a2",
+  "slug": "in-game-trading-will-the-buccaneers-beat-the-rams-by-more-than-1pt5-points-in-their-week-three-matchup",
+  "question": "(In-Game Trading) Will the Buccaneers beat the Rams by more than 1.5 points in their week three matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "184109",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-07T18:15:05.471000Z",
+  "market_createdAt": "2021-05-07T18:15:05.471Z",
+  "market_updatedAt": "2024-04-24T23:59:35.704141Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-20T00:00:00Z",
+  "market_closedTime": "2021-05-18 00:23:19+00",
+  "conditionId": "0x0d752051636abaa9b08e8ab4a7e15c4feb95852ac2e95dd9584b2d1463643329",
+  "slug": "will-there-be-fewer-than-300k-daily-covid-cases-in-india-by-may-20",
+  "question": "Will there be fewer than 300K daily COVID cases in India by May 20?"
+}

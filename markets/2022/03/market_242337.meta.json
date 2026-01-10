@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242337",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-20T09:12:58.734000Z",
+  "market_createdAt": "2022-03-20T09:12:58.734Z",
+  "market_updatedAt": "2024-04-23T00:23:25.164631Z",
+  "market_startDate": "2022-03-20T18:19:07.53Z",
+  "market_endDate": "2022-03-20T00:00:00Z",
+  "market_closedTime": "2022-03-21 20:53:15+00",
+  "conditionId": "0x2cae4199cc9bebe3b641606f0f5c93dcfe1c3b52fb81e83f4846b55435e3d8b3",
+  "slug": "ncaab-will-the-villanova-wildcats-beat-the-ohio-state-buckeyes-by-more-than-5pt5-points-in-their-march-20-240-pm-et-matchup",
+  "question": "NCAAB: Will the Villanova Wildcats beat the Ohio State Buckeyes by more than 5.5 points in their March 20, 2:40 PM ET matchup?"
+}

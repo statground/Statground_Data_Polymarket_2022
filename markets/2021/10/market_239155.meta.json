@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239155",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-30T13:36:01.354000Z",
+  "market_createdAt": "2021-10-30T13:36:01.354Z",
+  "market_updatedAt": "2024-04-26T02:46:09.179562Z",
+  "market_startDate": "2021-10-30T19:12:29.358Z",
+  "market_endDate": "2021-10-30T00:00:00Z",
+  "market_closedTime": "2021-10-31 16:45:15+00",
+  "conditionId": "0xd185c729928b1307b0b0e08ef1a984907684cd055f7d471a1bb87435a22ef337",
+  "slug": "will-the-jazz-beat-the-bulls-by-more-than-3pt5-points-in-their-october-30th-matchup",
+  "question": "Will the Jazz beat the Bulls by more than 3.5 points in their October 30th matchup?"
+}

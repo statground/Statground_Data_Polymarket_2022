@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242749",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-02T09:07:33.284000Z",
+  "market_createdAt": "2022-04-02T09:07:33.284Z",
+  "market_updatedAt": "2024-04-23T00:49:15.565266Z",
+  "market_startDate": "2022-04-02T16:34:24.025Z",
+  "market_endDate": "2022-04-02T00:00:00Z",
+  "market_closedTime": "2022-04-03 07:02:43+00",
+  "conditionId": "0x49b63f5a33e31cebfdd01568cf885d330b97b832d2ba5bd05de5bd32a3398977",
+  "slug": "nhl-will-the-hurricanes-beat-the-wild-by-more-than-1pt5-goals-in-their-april-2-700-pm-et-matchup",
+  "question": "NHL: Will the Hurricanes beat the Wild by more than 1.5 goals in their April 2, 7:00 PM ET matchup?"
+}

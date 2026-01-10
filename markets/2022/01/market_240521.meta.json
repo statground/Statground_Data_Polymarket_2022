@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240521",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T18:17:29.396000Z",
+  "market_createdAt": "2022-01-11T18:17:29.396Z",
+  "market_updatedAt": "2024-04-25T00:01:18.02807Z",
+  "market_startDate": "2022-01-12T20:42:37.058Z",
+  "market_endDate": "2022-03-01T00:00:00Z",
+  "market_closedTime": "2022-03-02 16:30:46+00",
+  "conditionId": "0x845b236e066c92a57e93562bb4b724e5dcebaa5dcd5a0b9d7d18f360473c02f4",
+  "slug": "will-terra-luna-or-avalanche-avax-have-a-higher-market-cap-on-march-1st-2022",
+  "question": "Will Terra ($LUNA) or Avalanche ($AVAX) have a higher market cap on March 1st, 2022?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246985",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-15T16:01:38.319000Z",
+  "market_createdAt": "2022-08-15T16:01:38.319Z",
+  "market_updatedAt": "2023-02-01T04:12:31.198Z",
+  "market_startDate": "2022-08-16T05:17:15.9Z",
+  "market_endDate": "2022-08-15T00:00:00Z",
+  "market_closedTime": "2022-08-16 05:15:27+00",
+  "conditionId": "0x09776586b8dc3f65cee05adb6e5c1f647dba76992c314a77d80a191cab6bb8c0",
+  "slug": "premier-league-who-will-win-the-crystal-palace-vs-liverpool-game-on-august-15",
+  "question": "Premier League: Who will win the Crystal Palace vs. Liverpool game on August 15?"
+}

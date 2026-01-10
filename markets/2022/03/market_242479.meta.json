@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242479",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-25T09:09:39.659000Z",
+  "market_createdAt": "2022-03-25T09:09:39.659Z",
+  "market_updatedAt": "2024-04-23T00:07:13.728716Z",
+  "market_startDate": "2022-03-25T15:52:52.679Z",
+  "market_endDate": "2022-03-25T00:00:00Z",
+  "market_closedTime": "2022-03-27 00:12:50+00",
+  "conditionId": "0xbb0fad0513b87835e32cebd00d4fab0a5ef8c0a777da6c312f2cad970cacfc24",
+  "slug": "nba-will-the-76ers-beat-the-clippers-by-more-than-5pt5-points-in-their-march-25-1040-pm-et-matchup",
+  "question": "NBA: Will the 76ers beat the Clippers by more than 5.5 points in their March 25, 10:40 PM ET matchup?"
+}

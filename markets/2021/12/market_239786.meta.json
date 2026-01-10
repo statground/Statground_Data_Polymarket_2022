@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239786",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-02T18:21:48.806000Z",
+  "market_createdAt": "2021-12-02T18:21:48.806Z",
+  "market_updatedAt": "2024-04-23T00:34:10.249243Z",
+  "market_startDate": "2021-12-02T21:17:58.363Z",
+  "market_endDate": "2021-12-02T00:00:00Z",
+  "market_closedTime": "2021-12-03 18:25:44+00",
+  "conditionId": "0x85ea05fc490f0a5b511ef85c95c7637725eb638d4d7ce1d44ba0294df2d2cf0c",
+  "slug": "nhl-will-the-panthers-beat-the-sabres-by-more-than-1pt5-points-in-their-december-2-matchup",
+  "question": "NHL: Will the Panthers beat the Sabres by more than 1.5 points in their December 2 matchup?"
+}

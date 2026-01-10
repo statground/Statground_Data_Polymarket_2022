@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "217624",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-14T16:45:01.436000Z",
+  "market_createdAt": "2021-06-14T16:45:01.436Z",
+  "market_updatedAt": "2024-04-22T23:56:59.68106Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-15T00:00:00Z",
+  "market_closedTime": "2021-06-18 14:32:54+00",
+  "conditionId": "0x180181059d6f475195b2fbd96470b8cc9283fdbe430c2ec0df22c9c6f1b228be",
+  "slug": "will-france-or-germany-win-their-euro-2020-match",
+  "question": "Will France or Germany win their Euro 2020 match?"
+}

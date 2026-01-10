@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239825",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-04T10:29:48.942000Z",
+  "market_createdAt": "2021-12-04T10:29:48.942Z",
+  "market_updatedAt": "2024-04-24T23:21:36.509395Z",
+  "market_startDate": "2021-12-04T19:34:00.569Z",
+  "market_endDate": "2021-12-04T00:00:00Z",
+  "market_closedTime": "2021-12-05 20:37:39+00",
+  "conditionId": "0x07a20416b620321ac4f9e512aca9c813afbceeb52aaa63e5bcc6428e4549a17a",
+  "slug": "nba-will-the-bucks-beat-the-heat-by-more-than-5pt5-points-in-their-december-4-matchup",
+  "question": "NBA: Will the Bucks beat the Heat by more than 5.5 points in their December 4 matchup?"
+}

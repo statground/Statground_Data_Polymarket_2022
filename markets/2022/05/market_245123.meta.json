@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "245123",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-21T08:17:13.803000Z",
+  "market_createdAt": "2022-05-21T08:17:13.803Z",
+  "market_updatedAt": "2023-01-31T09:05:15.524Z",
+  "market_startDate": "2022-05-21T15:47:14.555Z",
+  "market_endDate": "2022-05-21T00:00:00Z",
+  "market_closedTime": "2022-05-22 02:45:36+00",
+  "conditionId": "0xf7b384a6bdb01efbe86bf822546df523daaa26998a325937d9c9bce9a7ef6480",
+  "slug": "mlb-who-will-win-san-francisco-giants-vs-san-diego-padres-scheduled-for-may-21-406-pm-et",
+  "question": "MLB: Who will win San Francisco Giants vs. San Diego Padres, scheduled for May 21, 4:06 PM ET?"
+}

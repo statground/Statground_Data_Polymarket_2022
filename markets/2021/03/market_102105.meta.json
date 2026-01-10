@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "102105",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-03-09T17:30:02.141000Z",
+  "market_createdAt": "2021-03-09T17:30:02.141Z",
+  "market_updatedAt": "2024-04-22T22:26:02.0775Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-01T00:00:00Z",
+  "market_closedTime": "2021-06-18 18:06:08+00",
+  "conditionId": "0xde43f7858ba5ae03a9f4eac30852938bb0d469926ec96e7b348e98445806035d",
+  "slug": "will-harriet-tubman-appear-on-the-face-of-the-20-bill-by-july-1-2021-1",
+  "question": "Will Harriet Tubman appear on the face of the $20 bill by July 1, 2021?"
+}

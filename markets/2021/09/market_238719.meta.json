@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238719",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-09T18:20:01.711000Z",
+  "market_createdAt": "2021-09-09T18:20:01.711Z",
+  "market_updatedAt": "2024-04-25T00:12:37.20056Z",
+  "market_startDate": "2021-09-09T19:56:56.009Z",
+  "market_endDate": null,
+  "market_closedTime": "2021-09-22 18:40:16+00",
+  "conditionId": "0xe96b51038f36b8729f8c82ea677f1cf83daaf75a30e35ea9c67da719e4a4bc16",
+  "slug": "will-the-liberal-party-win-the-most-seats-in-the-2021-canadian-federal-election",
+  "question": "Will the Liberal Party win the most seats in the 2021 Canadian federal election?"
+}

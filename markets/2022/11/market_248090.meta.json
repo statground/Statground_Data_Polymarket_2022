@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248090",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-21T17:18:36.783000Z",
+  "market_createdAt": "2022-11-21T17:18:36.783Z",
+  "market_updatedAt": "2023-01-31T20:26:40.402Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-22T00:00:00Z",
+  "market_closedTime": "2022-11-22 16:34:08+00",
+  "conditionId": "0xb1df8403771b43ae7292d5ce8e44ea0e1fc3f75d21b3acbb5c8f916738d230ec",
+  "slug": "world-cup-2022-tuesday-will-argentina-beat-saudi-arabia",
+  "question": "World Cup: Tuesday - Will Argentina beat Saudi Arabia?"
+}

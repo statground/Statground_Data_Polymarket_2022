@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246933",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-08T17:03:33.252000Z",
+  "market_createdAt": "2022-08-08T17:03:33.252Z",
+  "market_updatedAt": "2023-02-01T04:12:28.977Z",
+  "market_startDate": "2022-08-11T13:59:41.795Z",
+  "market_endDate": "2022-08-10T00:00:00Z",
+  "market_closedTime": "2022-08-11 09:00:59+00",
+  "conditionId": "0x5eb98990f95a673bd6a438c47d8f5bd835a255b87b42a88123fa92c653859c3b",
+  "slug": "mlb-who-will-win-minnesota-twins-v-los-angeles-dodgers-scheduled-for-august-10-1010-pm-et",
+  "question": "MLB: Who will win Minnesota Twins v. Los Angeles Dodgers, scheduled for August 10, 10:10 PM ET?"
+}

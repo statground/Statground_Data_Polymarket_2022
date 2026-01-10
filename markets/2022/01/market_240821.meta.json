@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240821",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-18T15:59:20.248000Z",
+  "market_createdAt": "2022-01-18T15:59:20.248Z",
+  "market_updatedAt": "2024-04-22T23:11:24.974967Z",
+  "market_startDate": "2022-01-18T21:23:52.615Z",
+  "market_endDate": "2022-01-18T00:00:00Z",
+  "market_closedTime": "2022-01-21 13:28:31+00",
+  "conditionId": "0x2e2eb30ab115e551830a49ae7e0fe56cc842667fb0382e7f16825d3eb3bb16ea",
+  "slug": "nhl-will-the-senators-beat-the-sabres-by-more-than-1p5-goals-in-their-january-18-matchup",
+  "question": "NHL: Will the Senators beat the Sabres by more than 1.5 goals in their January 18 matchup?"
+}

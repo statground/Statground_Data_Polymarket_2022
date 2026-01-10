@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "225007",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-22T23:40:01.292000Z",
+  "market_createdAt": "2021-07-22T23:40:01.292Z",
+  "market_updatedAt": "2024-04-24T23:31:44.836868Z",
+  "market_startDate": "2021-07-23T17:39:22.425Z",
+  "market_endDate": "2021-07-29T00:00:00Z",
+  "market_closedTime": "2021-07-29 20:36:13+00",
+  "conditionId": "0xa435633bd44b88e557a65639978d97109a2d31160f83ef4c49e1ee45858a8f3a",
+  "slug": "will-weekly-jobless-claims-exceed-419k-for-the-week-ending-on-july-24",
+  "question": "Will weekly jobless claims exceed 419K for the week ending on July 24?"
+}

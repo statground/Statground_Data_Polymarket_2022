@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218617",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-22T16:45:01.758000Z",
+  "market_createdAt": "2021-06-22T16:45:01.758Z",
+  "market_updatedAt": "2024-04-22T22:39:33.744099Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-22T00:00:00Z",
+  "market_closedTime": "2021-07-14 16:54:27+00",
+  "conditionId": "0xebd5d97a94ee6f5a37bdec0f31626c6a636f39e896e0aca3525b1bd813447b5f",
+  "slug": "who-will-come-in-second-place-in-the-2021-democratic-primary-for-mayor-of-new-york-city",
+  "question": "Who will come in second place in the 2021 Democratic Primary for Mayor of New York City?"
+}

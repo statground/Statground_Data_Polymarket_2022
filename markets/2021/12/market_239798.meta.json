@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239798",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-03T18:39:27.516000Z",
+  "market_createdAt": "2021-12-03T18:39:27.516Z",
+  "market_updatedAt": "2024-04-26T02:46:27.399731Z",
+  "market_startDate": "2021-12-03T20:03:22.828Z",
+  "market_endDate": "2021-12-03T00:00:00Z",
+  "market_closedTime": "2021-12-04 18:31:35+00",
+  "conditionId": "0x41f726cdd6056a82a14d2aaf2c4c12f3b0bcce9dc87ab8ac6d367fe0ecf72415",
+  "slug": "nba-will-the-wizards-beat-the-cavaliers-by-more-than-3pt5-points-in-their-december-3-matchup",
+  "question": "NBA: Will the Wizards beat the Cavaliers by more than 3.5 points in their December 3 matchup?"
+}

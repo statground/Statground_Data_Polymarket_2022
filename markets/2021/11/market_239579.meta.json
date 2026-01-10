@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239579",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-24T00:52:23.504000Z",
+  "market_createdAt": "2021-11-24T00:52:23.504Z",
+  "market_updatedAt": "2023-01-31T18:01:50.933Z",
+  "market_startDate": "2021-11-24T19:04:13.141Z",
+  "market_endDate": "2021-11-30T00:00:00Z",
+  "market_closedTime": "2021-12-01 21:08:16+00",
+  "conditionId": "0x58108cb4b4feb96bf9335a6ec46dc94798f0f8f6c0cfef83e39a8eb575311aa2",
+  "slug": "will-bitcoin-btc-price-be-above-60000-at-noon-on-30th-november-2021",
+  "question": "Will Bitcoin ($BTC) price be above $60,000 at noon on November 30, 2021?"
+}

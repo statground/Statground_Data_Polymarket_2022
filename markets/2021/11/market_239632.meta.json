@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239632",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-27T18:59:23.149000Z",
+  "market_createdAt": "2021-11-27T18:59:23.149Z",
+  "market_updatedAt": "2024-04-24T23:39:09.38633Z",
+  "market_startDate": "2021-11-27T19:12:48.937Z",
+  "market_endDate": "2021-11-27T00:00:00Z",
+  "market_closedTime": "2021-11-28 20:27:40+00",
+  "conditionId": "0x1445483f4b66ae97992dd31f5ab25d7f2e65efa6760725a5f4e617892f33f26d",
+  "slug": "nba-will-the-jazz-beat-the-pelicans-by-more-than-12pt5-points-in-their-november-27th-matchup",
+  "question": "NBA: Will the Jazz beat the Pelicans by more than 12.5 points in their November 27th matchup?"
+}

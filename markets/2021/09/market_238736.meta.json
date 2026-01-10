@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238736",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-09T18:36:01.755000Z",
+  "market_createdAt": "2021-09-09T18:36:01.755Z",
+  "market_updatedAt": "2024-04-23T00:56:45.279404Z",
+  "market_startDate": "2021-09-09T22:52:05.497Z",
+  "market_endDate": "2021-09-12T00:00:00Z",
+  "market_closedTime": "2021-09-12 21:42:40+00",
+  "conditionId": "0x5d6a3e7820fc4c2b432f0594d8c28f4c2c08628e0b96dce8db6a45cddd55e2a6",
+  "slug": "panthers-4-v-jets-spread",
+  "question": "Panthers (-4) v. Jets Spread"
+}

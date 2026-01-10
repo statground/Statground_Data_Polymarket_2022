@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "226944",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-29T16:20:01.457000Z",
+  "market_createdAt": "2021-07-29T16:20:01.457Z",
+  "market_updatedAt": "2024-04-22T22:36:14.462614Z",
+  "market_startDate": "2021-07-29T16:28:59.662Z",
+  "market_endDate": "2021-07-29T00:00:00Z",
+  "market_closedTime": "2021-07-29 19:31:44+00",
+  "conditionId": "0xf5633f756f57e0403d3087f551bf4eab85c81898ee409f7bb9ba100c74be5f38",
+  "slug": "will-arca-ape-win-the-cryptog-charity-poker-tournament",
+  "question": "Will Arca Ape win the CryptOG Charity Poker Tournament?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241561",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-16T19:13:12.157000Z",
+  "market_createdAt": "2022-02-16T19:13:12.157Z",
+  "market_updatedAt": "2024-04-22T23:41:48.290705Z",
+  "market_startDate": "2022-02-16T19:37:48.961Z",
+  "market_endDate": "2022-02-16T00:00:00Z",
+  "market_closedTime": "2022-02-17 19:58:38+00",
+  "conditionId": "0xde19cf1db4b121cd3ff4b7a46ee108c089ae82349e1a5fe154b77a1bc18286f2",
+  "slug": "nba-who-will-win-the-pacers-vs-wizards-scheduled-for-february-16-730-pm-et",
+  "question": "NBA: Who will win the Pacers vs. Wizards, scheduled for February 16 (7.30 PM ET)?"
+}

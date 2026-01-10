@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243488",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-20T07:59:57.764000Z",
+  "market_createdAt": "2022-04-20T07:59:57.764Z",
+  "market_updatedAt": "2023-01-31T21:09:57.47Z",
+  "market_startDate": "2022-04-20T14:42:15.209Z",
+  "market_endDate": "2022-04-20T00:00:00Z",
+  "market_closedTime": "2022-04-21 07:18:07+00",
+  "conditionId": "0xf2898181e373c5e6eac3b961309f14ea4010fdc50847253b2820e9b9edee0d7b",
+  "slug": "nhl-will-the-knights-beat-the-capitals-by-more-than-1pt5-goals-in-their-april-20-1000-pm-et-matchup",
+  "question": "NHL: Will the Knights beat the Capitals by more than 1.5 goals in their April 20, 10:00 PM ET matchup?"
+}

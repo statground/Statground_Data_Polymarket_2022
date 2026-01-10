@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242669",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-31T09:05:49.617000Z",
+  "market_createdAt": "2022-03-31T09:05:49.617Z",
+  "market_updatedAt": "2024-04-23T00:32:31.23361Z",
+  "market_startDate": "2022-03-31T16:33:42.156Z",
+  "market_endDate": "2022-03-31T00:00:00Z",
+  "market_closedTime": "2022-04-01 06:46:58+00",
+  "conditionId": "0xa555ec44f70c10200896780127d1719f079b5300af84accc295a7a5a257e7fcb",
+  "slug": "nba-who-will-win-hawks-vs-cavaliers-scheduled-for-march-31-740-pm-et",
+  "question": "NBA: Who will win Hawks vs. Cavaliers, scheduled for March 31, 7:40 PM ET?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239077",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-25T07:44:11.570000Z",
+  "market_createdAt": "2021-10-25T07:44:11.57Z",
+  "market_updatedAt": "2024-04-24T23:22:50.48964Z",
+  "market_startDate": "2021-10-25T09:37:02.459Z",
+  "market_endDate": "2021-10-25T00:00:00Z",
+  "market_closedTime": "2021-10-26 09:53:06+00",
+  "conditionId": "0xf7f4928350e392ac9ee0bf66e46ea261493c2b9bbfbab3577d93e7ef2498dc0e",
+  "slug": "who-will-win-the-celtics-v-hornets-game-on-october-25th",
+  "question": "(In-Game Trading)Who will win the Celtics v. Hornets game on October 25th?"
+}

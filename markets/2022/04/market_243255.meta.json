@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243255",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-14T07:48:43.694000Z",
+  "market_createdAt": "2022-04-14T07:48:43.694Z",
+  "market_updatedAt": "2023-01-31T14:37:28.823Z",
+  "market_startDate": "2022-04-14T14:53:29.393Z",
+  "market_endDate": "2022-04-14T00:00:00Z",
+  "market_closedTime": "2022-04-15 07:32:34+00",
+  "conditionId": "0xf62b879fec2499b81472017fd80d5c231a469ab2e902b774f36d251e57a542e8",
+  "slug": "nhl-will-the-blues-beat-the-sabres-by-more-than-1pt5-goals-in-their-april-14-700-pm-et-matchup",
+  "question": "NHL: Will the Blues beat the Sabres by more than 1.5 goals in their April 14, 7:00 PM ET matchup?"
+}

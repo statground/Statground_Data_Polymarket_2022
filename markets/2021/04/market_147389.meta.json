@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "147389",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-22T21:45:03.053000Z",
+  "market_createdAt": "2021-04-22T21:45:03.053Z",
+  "market_updatedAt": "2024-04-23T00:39:27.787457Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-24T00:00:00Z",
+  "market_closedTime": "2021-04-25 23:30:25+00",
+  "conditionId": "0x8353f8f669bb7d6a2cd96c65f3890e211b5b6e803221a3325d17f9aea5cae55a",
+  "slug": "who-will-win-ufc-261-hall-vs-weidman",
+  "question": "Who will win UFC 261: Hall vs. Weidman?"
+}

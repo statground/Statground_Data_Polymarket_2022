@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "88475",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-15T15:35:02.117000Z",
+  "market_createdAt": "2021-02-15T15:35:02.117Z",
+  "market_updatedAt": "2024-04-23T00:14:17.421543Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-15T00:00:00Z",
+  "market_closedTime": "2021-02-16 16:24:52+00",
+  "conditionId": "0x4bc6439160713f7346b660b059c0e701c4400b6ba69db04fe0298ede17150cd8",
+  "slug": "will-the-jazz-or-the-76ers-win-their-february-15h-matchup",
+  "question": "Will the Jazz or the 76ers win their February 15h matchup?"
+}

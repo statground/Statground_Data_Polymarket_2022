@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238756",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-14T18:40:01.602000Z",
+  "market_createdAt": "2021-09-14T18:40:01.602Z",
+  "market_updatedAt": "2024-04-23T00:26:38.138533Z",
+  "market_startDate": "2021-09-15T00:31:56.177Z",
+  "market_endDate": "2021-09-16T00:00:00Z",
+  "market_closedTime": "2021-09-17 18:33:40+00",
+  "conditionId": "0xf1dc1fac40c315a61582435b1ff9e0694b22eeaae3524bef3619aecf5f1fb325",
+  "slug": "washington-4-v-giants-spread",
+  "question": "Washington (-4) v. Giants Spread"
+}

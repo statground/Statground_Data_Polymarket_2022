@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "156480",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-26T20:40:01.643000Z",
+  "market_createdAt": "2021-04-26T20:40:01.643Z",
+  "market_updatedAt": "2023-05-31T23:36:37.933Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-29T00:00:00Z",
+  "market_closedTime": "2021-04-30 06:16:35+00",
+  "conditionId": "0xaa3dd8bc76164fdb608889af0635aeb6fb30ecde9aee738138da12248c773fce",
+  "slug": "what-will-us-gdp-growth-be-in-q1-2021",
+  "question": "What will US GDP growth be in Q1 2021?"
+}

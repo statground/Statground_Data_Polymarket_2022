@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240558",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T19:02:12.079000Z",
+  "market_createdAt": "2022-01-11T19:02:12.079Z",
+  "market_updatedAt": "2024-04-23T00:55:48.168422Z",
+  "market_startDate": "2022-01-12T21:12:00.193Z",
+  "market_endDate": "2022-03-31T00:00:00Z",
+  "market_closedTime": "2022-04-02 01:01:28+00",
+  "conditionId": "0x0612f9b777d7a1a3d1b798484efc330c2d6ac8616faf4ae8740d44e786161818",
+  "slug": "will-zerion-airdrop-a-native-token-by-march-31st-2022",
+  "question": "Will Zerion airdrop a native token by March 31st, 2022?"
+}

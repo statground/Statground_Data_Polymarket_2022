@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240156",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-23T19:06:36.226000Z",
+  "market_createdAt": "2021-12-23T19:06:36.226Z",
+  "market_updatedAt": "2024-04-22T23:31:32.206763Z",
+  "market_startDate": "2021-12-23T22:11:02.537Z",
+  "market_endDate": "2021-12-23T00:00:00Z",
+  "market_closedTime": "2021-12-24 17:27:56+00",
+  "conditionId": "0x5b5f19d0311bd609423d1a8dd454b34f007f6c9a2f94ac7dfe6f0d3d8734736a",
+  "slug": "nfl-will-the-49ers-beat-the-titans-by-more-than-2pt5-points-in-their-december-23-matchup",
+  "question": "NFL: Will the 49ers beat the Titans by more than 2.5 points in their December 23 matchup?"
+}

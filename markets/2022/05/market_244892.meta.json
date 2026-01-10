@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244892",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-15T05:01:21.937000Z",
+  "market_createdAt": "2022-05-15T05:01:21.937Z",
+  "market_updatedAt": "2023-01-31T18:28:01.218Z",
+  "market_startDate": "2022-05-15T15:52:04.856Z",
+  "market_endDate": "2022-05-15T00:00:00Z",
+  "market_closedTime": "2022-05-16 06:00:47+00",
+  "conditionId": "0x87aded5ff887092fcc0dc091fb7c74075135eb3816c0f1b636db5fe105e6621a",
+  "slug": "nba-will-the-suns-beat-the-mavericks-by-more-than-6pt5-points-in-their-may-15-800-pm-et-matchup",
+  "question": "NBA: Will the Suns beat the Mavericks by more than 6.5 points in their May 15, 8:00 PM ET matchup?"
+}

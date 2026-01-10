@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241370",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-08T06:55:29.422000Z",
+  "market_createdAt": "2022-02-08T06:55:29.422Z",
+  "market_updatedAt": "2024-04-22T23:52:08.678413Z",
+  "market_startDate": "2022-02-08T17:13:42.481Z",
+  "market_endDate": "2022-02-08T00:00:00Z",
+  "market_closedTime": "2022-02-10 15:13:06+00",
+  "conditionId": "0x5313f622c9ed3b876371f2672215df31006e22791e11eee19e0a1de3fb1e3675",
+  "slug": "nhl-will-the-wild-beat-the-jets-by-more-than-1p5-goals-in-their-february-8-matchup-8-pm-et",
+  "question": "NHL: Will the Wild beat the Jets by more than 1.5 goals in their February 8 matchup (8 PM ET)?"
+}

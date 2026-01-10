@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "202101",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-25T18:15:03.751000Z",
+  "market_createdAt": "2021-05-25T18:15:03.751Z",
+  "market_updatedAt": "2024-04-23T00:08:05.204827Z",
+  "market_startDate": null,
+  "market_endDate": "2021-11-15T00:00:00Z",
+  "market_closedTime": "2021-11-17 15:54:38+00",
+  "conditionId": "0x7cf840c8b24da03a58fefb6afb58153198cdb1dfc5d73d3b21e50a0b41293d91",
+  "slug": "will-donald-trump-be-indicted-for-a-federal-or-state-crime-by-november-15",
+  "question": "Will Donald Trump be indicted for a federal or state crime by November 15?"
+}

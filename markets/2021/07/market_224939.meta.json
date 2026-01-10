@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "224939",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-22T18:20:01.169000Z",
+  "market_createdAt": "2021-07-22T18:20:01.169Z",
+  "market_updatedAt": "2024-04-22T23:41:52.661991Z",
+  "market_startDate": "2021-07-22T22:52:46.044Z",
+  "market_endDate": "2021-08-08T00:00:00Z",
+  "market_closedTime": "2021-08-08 18:02:31+00",
+  "conditionId": "0x6950416535f28d3246d918c740303ad0368373d1489fe0b149b4fb77cc680731",
+  "slug": "will-china-win-38-or-more-gold-medals-at-the-2020olympics",
+  "question": "Will China win 38 or more Gold Medals at the 2020 Olympics?"
+}

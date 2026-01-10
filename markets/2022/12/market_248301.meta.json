@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248301",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-28T18:06:20.104000Z",
+  "market_createdAt": "2022-12-28T18:06:20.104Z",
+  "market_updatedAt": "2023-02-10T01:03:39.336Z",
+  "market_startDate": null,
+  "market_endDate": "2023-01-04T00:00:00Z",
+  "market_closedTime": "2023-01-05 09:45:39+00",
+  "conditionId": "0xebc2c693e0b225d75cebe4695b10a23c618015668dfa7830e4bf52fa6a685798",
+  "slug": "will-btc-reach-17000-by-january-4",
+  "question": "Will $BTC reach $17000 by January 4?"
+}

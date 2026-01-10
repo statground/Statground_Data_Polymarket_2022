@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239619",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-26T09:34:58.169000Z",
+  "market_createdAt": "2021-11-26T09:34:58.169Z",
+  "market_updatedAt": "2024-04-23T00:26:36.373331Z",
+  "market_startDate": "2021-11-26T19:22:04.324Z",
+  "market_endDate": "2021-11-26T00:00:00Z",
+  "market_closedTime": "2021-11-27 20:57:04+00",
+  "conditionId": "0x98a6ea92f1c22db9d5baa26a7f5fb51e4b0870b0438e56528f9de4c5db70e76f",
+  "slug": "nba-will-the-pacers-beat-the-raptors-by-more-than-4pt5-points-in-their-november-26th-matchup",
+  "question": "NBA: Will the Pacers beat the Raptors by more than 4.5 points in their November 26th matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239250",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-04T19:40:52.960000Z",
+  "market_createdAt": "2021-11-04T19:40:52.96Z",
+  "market_updatedAt": "2024-04-24T23:29:39.72518Z",
+  "market_startDate": "2021-11-04T22:00:30.645Z",
+  "market_endDate": "2021-11-05T00:00:00Z",
+  "market_closedTime": "2021-11-05 22:32:06+00",
+  "conditionId": "0x3e1f172a49921004a28781fab21a51cb332409c49b0d9b0f639476621af93a5e",
+  "slug": "who-will-win-9th-round-of-fide-chesscom-grand-swiss-open-alireza-firouzja-vs-fabiano-caruana",
+  "question": "Who will win 9th round of FIDE Chess.com Grand Swiss Open: Alireza Firouzja vs. Fabiano Caruana?"
+}

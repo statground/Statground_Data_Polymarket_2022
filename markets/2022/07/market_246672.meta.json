@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246672",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-08T17:22:08.463000Z",
+  "market_createdAt": "2022-07-08T17:22:08.463Z",
+  "market_updatedAt": "2023-01-31T20:47:12.398Z",
+  "market_startDate": "2022-07-08T19:18:42.536Z",
+  "market_endDate": "2022-07-10T00:00:00Z",
+  "market_closedTime": "2022-07-10 19:00:53+00",
+  "conditionId": "0x36a5578179be0b36bcaf4124a543ca1356facce681807ed24e82f8ee366da794",
+  "slug": "formula-1-will-17-or-more-drivers-complete-the-2022-austrian-grand-prix",
+  "question": "Formula 1: Will 17 or more drivers complete the 2022 Austrian Grand Prix?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239555",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-22T15:20:56.878000Z",
+  "market_createdAt": "2021-11-22T15:20:56.878Z",
+  "market_updatedAt": "2024-04-26T02:51:40.59992Z",
+  "market_startDate": "2021-11-22T18:48:20.847Z",
+  "market_endDate": "2021-11-23T00:00:00Z",
+  "market_closedTime": "2021-11-24 20:29:18+00",
+  "conditionId": "0x565e42502da057d6374d7c2893c23eb9cb66b8dc15cce346b1270603aa0cffa2",
+  "slug": "uefa-champions-league-who-will-win-the-villareal-cf-v-manchester-united-game-on-november-23",
+  "question": "UEFA Champions League: Who will win the Villareal CF v. Manchester United game on November 23?"
+}

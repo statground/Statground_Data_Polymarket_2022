@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243057",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-09T16:42:13.388000Z",
+  "market_createdAt": "2022-04-09T16:42:13.388Z",
+  "market_updatedAt": "2023-01-31T21:23:15.582Z",
+  "market_startDate": "2022-04-09T17:41:01.869Z",
+  "market_endDate": "2022-04-09T00:00:00Z",
+  "market_closedTime": "2022-04-10 06:47:41+00",
+  "conditionId": "0x424763bcbed113c6f2d2f554faf83f003cbe65b4228b850c06c5035c109f7a0e",
+  "slug": "nba-will-the-warriors-beat-the-spurs-by-more-than-6pt5-points-in-their-april-9-830-pm-et-matchup",
+  "question": "NBA: Will the Warriors beat the Spurs by more than 6.5 points in their April 9 (8:30 PM ET) matchup?"
+}

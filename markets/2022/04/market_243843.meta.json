@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243843",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-27T08:26:52.611000Z",
+  "market_createdAt": "2022-04-27T08:26:52.611Z",
+  "market_updatedAt": "2023-01-31T21:18:01.36Z",
+  "market_startDate": "2022-04-27T15:07:42.82Z",
+  "market_endDate": "2022-04-27T00:00:00Z",
+  "market_closedTime": "2022-04-28 07:00:41+00",
+  "conditionId": "0x5180bb5803cb5b6ec21d111de21bd53045c94f97e6c9264c68f674ffaf0ad3a0",
+  "slug": "mlb-who-will-win-los-angeles-dodgers-vs-arizona-diamondbacks-scheduled-for-april-27-341-pm-et",
+  "question": "MLB: Who will win Los Angeles Dodgers vs. Arizona Diamondbacks, scheduled for April 27, 3:41 PM ET?"
+}

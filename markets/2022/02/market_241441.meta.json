@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241441",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-12T11:05:54.638000Z",
+  "market_createdAt": "2022-02-12T11:05:54.638Z",
+  "market_updatedAt": "2024-04-24T23:52:26.990394Z",
+  "market_startDate": "2022-02-12T16:28:23.146Z",
+  "market_endDate": "2022-02-12T00:00:00Z",
+  "market_closedTime": "2022-02-13 12:44:21+00",
+  "conditionId": "0x676df65929af0ab5418fa9f6245b4f1e0f1f5aec48e15cb30775c71ada2cf20c",
+  "slug": "nba-will-the-raptors-beat-the-nuggets-by-more-than-3p5-points-in-their-february-12-730-pm-et-matchup",
+  "question": "NBA: Will the Raptors beat the Nuggets by more than 3.5 points in their February 12 (7.30 PM ET) matchup?"
+}

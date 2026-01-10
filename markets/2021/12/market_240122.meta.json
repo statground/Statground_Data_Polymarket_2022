@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240122",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-21T14:41:56.553000Z",
+  "market_createdAt": "2021-12-21T14:41:56.553Z",
+  "market_updatedAt": "2024-04-22T23:23:05.004287Z",
+  "market_startDate": "2021-12-21T18:19:45.241Z",
+  "market_endDate": "2021-12-21T00:00:00Z",
+  "market_closedTime": "2021-12-22 18:36:29+00",
+  "conditionId": "0x0607105df305570502b07687126c5323523cf8a9000bc3d03c91c991c3e27151",
+  "slug": "nba-will-the-suns-beat-the-lakers-by-more-than-6pt5-points-in-their-december-21-matchup",
+  "question": "NBA: Will the Suns beat the Lakers by more than 6.5 points in their December 21 matchup?"
+}

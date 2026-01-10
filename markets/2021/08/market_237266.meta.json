@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "237266",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-17T22:02:01.134000Z",
+  "market_createdAt": "2021-08-17T22:02:01.134Z",
+  "market_updatedAt": "2024-04-23T00:40:04.317332Z",
+  "market_startDate": "2021-08-18T01:10:35.95Z",
+  "market_endDate": "2021-12-31T00:00:00Z",
+  "market_closedTime": "2022-01-02 21:14:52+00",
+  "conditionId": "0x3f9a03ebf98f1c7e4c68e9161e8230f33d14d3a7dd6a224d902809d8c0ce2e8a",
+  "slug": "will-3-or-more-of-dan-arielys-papers-be-retracted-by-december-31-2021",
+  "question": "Will 3 or more of Dan Ariely’s papers be retracted by December 31, 2021?"
+}

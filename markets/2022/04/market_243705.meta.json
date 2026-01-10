@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243705",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-26T08:27:31.782000Z",
+  "market_createdAt": "2022-04-26T08:27:31.782Z",
+  "market_updatedAt": "2023-01-31T11:08:30.524Z",
+  "market_startDate": "2022-04-26T15:33:57.318Z",
+  "market_endDate": "2022-04-26T00:00:00Z",
+  "market_closedTime": "2022-04-28 07:00:31+00",
+  "conditionId": "0x5a7bcfe4019d041ae527b22b5d28679ad7487517570930b37bf4a9cc61f62682",
+  "slug": "mlb-who-will-win-atlanta-braves-vs-chicago-cubs-scheduled-for-april-26-721-pm-et",
+  "question": "MLB: Who will win Atlanta Braves vs. Chicago Cubs, scheduled for April 26, 7:21 PM ET?"
+}

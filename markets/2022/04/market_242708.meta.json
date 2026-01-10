@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242708",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-01T09:04:35.338000Z",
+  "market_createdAt": "2022-04-01T09:04:35.338Z",
+  "market_updatedAt": "2024-04-23T00:26:44.160412Z",
+  "market_startDate": "2022-04-01T15:31:30.993Z",
+  "market_endDate": "2022-04-01T00:00:00Z",
+  "market_closedTime": "2022-04-03 02:45:44+00",
+  "conditionId": "0x3db9850ac8a11d3f0e3f4577a4f22cbe3b550baa1623c528f87ea3a6f5684d86",
+  "slug": "nhl-will-the-ducks-beat-the-coyotes-by-more-than-1pt5-goals-in-their-april-1-1030-pm-et-matchup",
+  "question": "NHL: Will the Ducks beat the Coyotes by more than 1.5 goals in their April 1, 10:30 PM ET matchup?"
+}

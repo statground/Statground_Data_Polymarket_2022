@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242386",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-22T09:09:01.615000Z",
+  "market_createdAt": "2022-03-22T09:09:01.615Z",
+  "market_updatedAt": "2024-04-22T23:40:29.967269Z",
+  "market_startDate": "2022-03-22T16:27:43.256Z",
+  "market_endDate": "2022-03-22T00:00:00Z",
+  "market_closedTime": "2022-03-23 07:15:46+00",
+  "conditionId": "0xf24f88d5970c4b1b5f7634c1ffe6d92d171703978d64aeaa3c8710fee758f4bc",
+  "slug": "nba-who-will-win-nuggets-vs-clippers-scheduled-for-march-22-1000-pm-et",
+  "question": "NBA: Who will win Nuggets vs. Clippers, scheduled for March 22, 10:00 PM ET?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239947",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-10T16:44:32.060000Z",
+  "market_createdAt": "2021-12-10T16:44:32.06Z",
+  "market_updatedAt": "2024-04-26T02:46:47.64407Z",
+  "market_startDate": "2021-12-10T18:05:26.86Z",
+  "market_endDate": "2021-12-10T00:00:00Z",
+  "market_closedTime": "2021-12-11 18:12:29+00",
+  "conditionId": "0x9b919e2a0856cfd2e1db081bc751c96a59586f4e33af706d120f4ab22f9a046a",
+  "slug": "nba-will-the-raptors-beat-the-knicks-by-more-than-1pt5-points-in-their-december-10-matchup",
+  "question": "NBA: Will the Raptors beat the Knicks by more than 1.5 points in their December 10 matchup?"
+}

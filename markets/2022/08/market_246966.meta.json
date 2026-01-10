@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246966",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-10T17:44:22.131000Z",
+  "market_createdAt": "2022-08-10T17:44:22.131Z",
+  "market_updatedAt": "2023-01-31T21:23:15.546Z",
+  "market_startDate": "2022-08-10T22:15:51.759Z",
+  "market_endDate": "2022-08-20T00:00:00Z",
+  "market_closedTime": "2022-08-21 08:16:17+00",
+  "conditionId": "0x63a395e032957c800c1523b5475560e894a35aabe5b62a6006b503dc7c9a392f",
+  "slug": "ufc-278-who-will-win-aldo-vs-dvalishvili",
+  "question": "UFC 278: Who will win - Aldo vs Dvalishvili"
+}

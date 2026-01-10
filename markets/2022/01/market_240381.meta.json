@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240381",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T02:10:51.183000Z",
+  "market_createdAt": "2022-01-11T02:10:51.183Z",
+  "market_updatedAt": "2024-07-18T00:10:37.491895Z",
+  "market_startDate": "2023-02-23T16:36:43.982Z",
+  "market_endDate": "2024-09-10T00:00:00Z",
+  "market_closedTime": "2024-07-18 00:10:37.491895+00",
+  "conditionId": "0x768603866bc5ce73836ccae47d72ee47cdd605d41320d3894ca41412f784d775",
+  "slug": "will-nikki-haley-win-the-us-2024-republican-presidential-nomination",
+  "question": "[Single Market] Will Nikki Haley win the U.S. 2024 Republican presidential nomination?"
+}

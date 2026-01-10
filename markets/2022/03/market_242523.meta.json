@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242523",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-26T09:11:47.560000Z",
+  "market_createdAt": "2022-03-26T09:11:47.56Z",
+  "market_updatedAt": "2024-04-22T23:16:48.662553Z",
+  "market_startDate": "2022-03-26T19:38:07.058Z",
+  "market_endDate": "2022-03-26T00:00:00Z",
+  "market_closedTime": "2022-03-27 17:20:00+00",
+  "conditionId": "0xf547210f93d3538f3963fb03e6b1b3ba5e2c2302f2b6f58652b568b3b1665415",
+  "slug": "nba-who-will-win-grizzlies-vs-bucks-scheduled-for-march-26-810-pm-et",
+  "question": "NBA: Who will win Grizzlies vs. Bucks, scheduled for March 26, 8:10 PM ET?"
+}

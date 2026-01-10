@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242125",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-16T11:08:32.092000Z",
+  "market_createdAt": "2022-03-16T11:08:32.092Z",
+  "market_updatedAt": "2024-04-24T23:20:51.876671Z",
+  "market_startDate": "2022-03-16T17:14:12.392Z",
+  "market_endDate": "2022-03-16T00:00:00Z",
+  "market_closedTime": "2022-03-21 05:58:59+00",
+  "conditionId": "0x539379df9919ed1953fd23fd857548661ef1e08df860e5a5678bd7d79ca1f9a7",
+  "slug": "ncaa-march-madness-who-will-win-the-wright-state-vspt-bryant-scheduled-for-march-16-6pt40-pm-et",
+  "question": "NCAA March Madness: Who will win Wright State vs. Bryant, scheduled for March 16 (6.40 PM ET)?"
+}

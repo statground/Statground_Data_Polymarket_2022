@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "46928",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-01-18T17:00:06.762000Z",
+  "market_createdAt": "2021-01-18T17:00:06.762Z",
+  "market_updatedAt": "2024-04-23T00:35:53.894158Z",
+  "market_startDate": null,
+  "market_endDate": "2021-03-15T00:00:00Z",
+  "market_closedTime": "2021-03-11 17:48:35+00",
+  "conditionId": "0x1c378cdab51cb29778fecab9340ace6e93029c58a26498e12556f0a35208e44a",
+  "slug": "will-the-us-have-fewer-than-50-000-new-covid-19-cases-on-any-day-before-march-15-2021-1",
+  "question": "Will the US have fewer than 50,000 new COVID-19 cases on any day before March 15, 2021?"
+}

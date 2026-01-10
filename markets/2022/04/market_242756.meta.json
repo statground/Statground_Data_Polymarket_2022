@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242756",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-02T09:10:31.391000Z",
+  "market_createdAt": "2022-04-02T09:10:31.391Z",
+  "market_updatedAt": "2024-04-23T00:49:27.620017Z",
+  "market_startDate": "2022-04-02T16:34:57.287Z",
+  "market_endDate": "2022-04-02T00:00:00Z",
+  "market_closedTime": "2022-04-03 07:00:23+00",
+  "conditionId": "0x6978b9a585dac323a075152951d3123c74e397b91cc574b40233defabbd1d289",
+  "slug": "nba-who-will-win-cavaliers-vs-knicks-scheduled-for-april-2-100-pm-et",
+  "question": "NBA: Who will win Cavaliers vs. Knicks, scheduled for April 2, 1:00 PM ET?"
+}

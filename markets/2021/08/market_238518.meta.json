@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238518",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-19T15:28:01.359000Z",
+  "market_createdAt": "2021-08-19T15:28:01.359Z",
+  "market_updatedAt": "2023-01-31T20:25:15.835Z",
+  "market_startDate": "2021-08-20T01:53:56.195Z",
+  "market_endDate": "2022-01-01T00:00:00Z",
+  "market_closedTime": "2021-10-21 17:17:17+00",
+  "conditionId": "0x47ee820e618646843979ac5ea0d6c905809395016de04c262854173f67094c20",
+  "slug": "will-miso-robotics-expand-its-restaurant-partnerships-in-2021",
+  "question": "Will Miso Robotics expand its restaurant partnerships in 2021?"
+}

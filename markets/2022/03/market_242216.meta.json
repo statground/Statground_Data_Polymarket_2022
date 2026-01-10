@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242216",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-18T12:08:30.601000Z",
+  "market_createdAt": "2022-03-18T12:08:30.601Z",
+  "market_updatedAt": "2024-04-22T23:10:00.511823Z",
+  "market_startDate": "2022-03-18T16:15:11.94Z",
+  "market_endDate": "2022-03-18T00:00:00Z",
+  "market_closedTime": "2022-03-19 11:45:33+00",
+  "conditionId": "0x818d2525d3b918803f1277ce367ae6fac0466f9be9401cb320ec44791d72fcab",
+  "slug": "nba-will-the-grizzlies-beat-the-hawks-by-more-than-5pt5-points-in-their-march-18-740-pm-et-matchup",
+  "question": "NBA: Will the Grizzlies beat the Hawks by more than 5.5 points in their March 18, 7:40 PM ET matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "224616",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-21T15:40:01.172000Z",
+  "market_createdAt": "2021-07-21T15:40:01.172Z",
+  "market_updatedAt": "2024-04-25T00:02:37.191966Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-23T00:00:00Z",
+  "market_closedTime": "2021-07-24 19:49:21+00",
+  "conditionId": "0x996057dd1c0d03cf11d735f9a9d487e82d8f1471e6542b9038428d2c336e292a",
+  "slug": "will-kanye-wests-album-donda-be-released-by-july-23",
+  "question": "Will Kanye West’s album DONDA be released by July 23?"
+}

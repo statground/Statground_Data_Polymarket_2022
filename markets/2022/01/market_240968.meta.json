@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240968",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-23T14:03:07.090000Z",
+  "market_createdAt": "2022-01-23T14:03:07.09Z",
+  "market_updatedAt": "2024-04-22T22:39:13.496555Z",
+  "market_startDate": "2022-01-23T17:33:16.804Z",
+  "market_endDate": "2022-01-23T00:00:00Z",
+  "market_closedTime": "2022-01-24 16:53:23+00",
+  "conditionId": "0x4176c58229782490af3a928f05f52f8ea93fd64dee7aef054d7bd1149fe5213a",
+  "slug": "nfl-who-will-win-buccaneers-v-rams",
+  "question": "NFL: Who will win Buccaneers v. Rams?"
+}

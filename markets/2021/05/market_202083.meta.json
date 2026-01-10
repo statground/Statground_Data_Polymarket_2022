@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "202083",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-24T16:20:03.013000Z",
+  "market_createdAt": "2021-05-24T16:20:03.013Z",
+  "market_updatedAt": "2024-04-22T22:47:14.74345Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-29T00:00:00Z",
+  "market_closedTime": "2021-05-31 19:24:36+00",
+  "conditionId": "0x730acd4b4c054845e7615e1d5dac1174fda08fe0738e7aa0fe2b03fbb1305a7c",
+  "slug": "who-will-win-76ers-vs-wizards-game-3",
+  "question": "Who will win 76ers vs. Wizards: Game 3?"
+}

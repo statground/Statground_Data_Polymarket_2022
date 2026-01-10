@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244599",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-09T22:34:20.278000Z",
+  "market_createdAt": "2022-05-09T22:34:20.278Z",
+  "market_updatedAt": "2024-04-22T22:26:29.971959Z",
+  "market_startDate": "2022-05-09T22:35:42.899Z",
+  "market_endDate": "2022-05-20T00:00:00Z",
+  "market_closedTime": "2022-05-21 06:16:18+00",
+  "conditionId": "0x37547754d4c0e50f3fd73ebc12b9ead4df40d116b666dc2e593d2e2fcd1a0731",
+  "slug": "will-ust-terrausd-regain-its-peg-by-may-20",
+  "question": "Will UST (TerraUSD) regain its peg by May 20?"
+}

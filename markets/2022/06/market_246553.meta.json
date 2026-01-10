@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246553",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-15T21:24:32.475000Z",
+  "market_createdAt": "2022-06-15T21:24:32.475Z",
+  "market_updatedAt": "2023-01-31T20:10:18.208Z",
+  "market_startDate": "2022-06-15T21:31:59.694Z",
+  "market_endDate": "2022-07-28T00:00:00Z",
+  "market_closedTime": "2022-07-28 17:15:41+00",
+  "conditionId": "0x9f8707152301a79696d177f3d52f8e3fcf12bf6fe803692a07ca3ab2a08b64e0",
+  "slug": "will-there-be-a-recession-in-q2-of-2022",
+  "question": "Will there be a recession in Q2 of 2022?"
+}

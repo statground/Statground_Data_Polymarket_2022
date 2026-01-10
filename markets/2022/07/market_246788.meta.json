@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246788",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-22T11:53:03.295000Z",
+  "market_createdAt": "2022-07-22T11:53:03.295Z",
+  "market_updatedAt": "2023-01-31T21:06:30.752Z",
+  "market_startDate": "2022-07-22T17:57:40.591Z",
+  "market_endDate": "2022-07-24T00:00:00Z",
+  "market_closedTime": "2022-07-25 03:15:54+00",
+  "conditionId": "0x323ceeee1ce2f78f17fd5c09f7d44a8f727ade2349eaa7d2ae0243b8fccf9014",
+  "slug": "formula-1-which-team-will-collect-more-points-at-the-2022-french-grand-prix-red-bull-or-ferrari",
+  "question": "Formula 1: Which team will collect more points at the 2022 French Grand Prix, Red Bull or Ferrari?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246610",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-29T21:46:35.407000Z",
+  "market_createdAt": "2022-06-29T21:46:35.407Z",
+  "market_updatedAt": "2023-01-31T17:53:56.87Z",
+  "market_startDate": "2022-06-29T22:23:09.259Z",
+  "market_endDate": "2022-12-31T00:00:00Z",
+  "market_closedTime": "2022-10-25 20:30:45+00",
+  "conditionId": "0x1c66d259fafeb7052ce2a6aa18a13e8cf41beb9bd231c848eec5f49e34abf7ef",
+  "slug": "will-jalen-brunson-join-the-knicks-for-the-2022-23-nba-season",
+  "question": "Will Jalen Brunson join the Knicks for the 2022-23 NBA season?"
+}

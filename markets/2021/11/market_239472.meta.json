@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239472",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-17T13:12:35.889000Z",
+  "market_createdAt": "2021-11-17T13:12:35.889Z",
+  "market_updatedAt": "2024-04-25T00:02:03.511631Z",
+  "market_startDate": "2021-11-17T19:17:47.731Z",
+  "market_endDate": "2021-11-17T00:00:00Z",
+  "market_closedTime": "2021-11-19 01:56:43+00",
+  "conditionId": "0x2baedb9f6f23a31ffb9a33ac03836973f18947c3a5b29f5a8092aaa322115e31",
+  "slug": "nba-will-the-heat-beat-the-pelicans-by-more-than-7pt5-points-in-their-november-17th-matchup",
+  "question": "NBA: Will the Heat beat the Pelicans by more than 7.5 points in their November 17th matchup?"
+}

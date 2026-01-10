@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "216580",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-12T21:25:01.349000Z",
+  "market_createdAt": "2021-06-12T21:25:01.349Z",
+  "market_updatedAt": "2023-01-31T18:41:11.394Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-13T00:00:00Z",
+  "market_closedTime": "2021-06-14 15:17:32+00",
+  "conditionId": "0x4370d114c74b9371cf7fbe4c361e35e742dfeb282e99aaf4894612528d19b17d",
+  "slug": "will-surojit-chatterjee-or-tekin-salimi-win-in-their-cryptochamps-semifinals-chess-match",
+  "question": "Will Surojit Chatterjee or Tekin Salimi win in their CryptoChamps Semifinals chess match?"
+}

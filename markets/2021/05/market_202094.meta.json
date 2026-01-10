@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "202094",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-24T22:25:05.811000Z",
+  "market_createdAt": "2021-05-24T22:25:05.811Z",
+  "market_updatedAt": "2024-04-23T00:38:51.075591Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-25T00:00:00Z",
+  "market_closedTime": "2021-05-25 16:47:53+00",
+  "conditionId": "0xbab2a0789d4a77d86db654f3a568798b4d33fe2e69de0260306ca8d847072ceb",
+  "slug": "will-the-ftx-crypto-cup-preliminary-game-between-magnus-carlsen-and-alireza-firouzja-end-in-a-draw-1",
+  "question": "Will the FTX Crypto Cup preliminary game between Magnus Carlsen and Alireza Firouzja end in a draw?"
+}

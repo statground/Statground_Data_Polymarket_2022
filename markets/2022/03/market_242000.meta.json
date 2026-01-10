@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242000",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-10T11:19:00.781000Z",
+  "market_createdAt": "2022-03-10T11:19:00.781Z",
+  "market_updatedAt": "2024-04-23T00:40:25.894361Z",
+  "market_startDate": null,
+  "market_endDate": "2022-03-10T00:00:00Z",
+  "market_closedTime": "2022-03-12 01:00:58+00",
+  "conditionId": "0x259b566ff39be15e0e8fa9aa00e877e3043e1cede5cbce8efaa9621769d4794a",
+  "slug": "nba-who-will-win-the-warriors-vspt-nuggets-scheduled-for-march-10-10-pm-et",
+  "question": "NBA: Who will win the Warriors vs. Nuggets, scheduled for March 10 (10 PM ET)?"
+}

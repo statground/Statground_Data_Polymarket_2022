@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240339",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T00:44:10.847000Z",
+  "market_createdAt": "2022-01-11T00:44:10.847Z",
+  "market_updatedAt": "2024-04-23T00:35:21.584095Z",
+  "market_startDate": "2022-01-12T20:44:07.758Z",
+  "market_endDate": "2022-06-19T00:00:00Z",
+  "market_closedTime": "2022-04-13 06:01:22+00",
+  "conditionId": "0x9c9793b7ac459f7aef58e6c9876744c29ab3e4bd23c9ae0d5ee2a1deb39de135",
+  "slug": "will-the-los-angeles-lakers-win-the-nba-21-22-championship",
+  "question": "Will the Los Angeles Lakers win the NBA ‘21-’22 Championship?"
+}

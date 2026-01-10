@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241106",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-27T12:30:57.774000Z",
+  "market_createdAt": "2022-01-27T12:30:57.774Z",
+  "market_updatedAt": "2024-04-22T22:45:14.253352Z",
+  "market_startDate": "2022-01-27T21:17:54.529Z",
+  "market_endDate": "2022-01-27T00:00:00Z",
+  "market_closedTime": "2022-01-29 17:10:21+00",
+  "conditionId": "0x5d3c9b7da7127fe5cefeeadabd3417e8aa0a9e0a928eb42e16e23c6ee9c4c0d0",
+  "slug": "nba-who-will-win-the-warriors-vs-timberwolves-scheduled-for-january-2p7-10pm-et",
+  "question": "NBA: Who will win the Warriors vs. Timberwolves, scheduled for January 27 (10pm ET)?"
+}

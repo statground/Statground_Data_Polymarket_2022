@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242518",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-26T09:10:21.579000Z",
+  "market_createdAt": "2022-03-26T09:10:21.579Z",
+  "market_updatedAt": "2024-04-23T00:39:39.648924Z",
+  "market_startDate": "2022-03-26T19:43:58.434Z",
+  "market_endDate": "2022-03-26T00:00:00Z",
+  "market_closedTime": "2022-04-04 18:04:40+00",
+  "conditionId": "0x9bc4c98a250577bffdf1f4c4e3dcee7afd605876943ca3f8fa306a984378db0a",
+  "slug": "nhl-will-the-sharks-beat-the-ducks-by-more-than-1pt5-goals-in-their-march-26-1030-pm-et-matchup",
+  "question": "NHL: Will the Sharks beat the Ducks by more than 1.5 goals in their March 26, 10:30 PM ET matchup?"
+}

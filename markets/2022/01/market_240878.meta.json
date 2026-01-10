@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240878",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-19T21:03:39.985000Z",
+  "market_createdAt": "2022-01-19T21:03:39.985Z",
+  "market_updatedAt": "2024-04-22T22:36:24.50337Z",
+  "market_startDate": "2022-01-20T20:14:23.727Z",
+  "market_endDate": "2022-01-22T00:00:00Z",
+  "market_closedTime": "2022-01-25 00:00:03+00",
+  "conditionId": "0x3eff9e16d335cf5ba23a7337e6cce8692e3c95cd6906f119858bf91236cde07f",
+  "slug": "nfl-will-the-chiefs-beat-the-bills-by-more-than-1p5-points-in-their-january-22-matchup",
+  "question": "NFL: Will the Chiefs beat the Bills by more than 1.5 points in their January 22 matchup?"
+}

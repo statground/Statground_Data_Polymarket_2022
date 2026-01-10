@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240786",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-17T16:45:07.244000Z",
+  "market_createdAt": "2022-01-17T16:45:07.244Z",
+  "market_updatedAt": "2024-04-22T23:00:37.96468Z",
+  "market_startDate": "2022-01-17T17:48:41.905Z",
+  "market_endDate": "2022-01-17T00:00:00Z",
+  "market_closedTime": "2022-01-19 21:34:04+00",
+  "conditionId": "0x92e0ab887eac30c0db1225c5719a8edb2b9cc6a280dd15b7304efb891bd71198",
+  "slug": "nba-will-the-grizzlies-beat-the-bulls-by-more-than-55-points-in-their-january-17-matchup",
+  "question": "NBA: Will the Grizzlies beat the Bulls by more than 5.5 points in their January 17 matchup?"
+}

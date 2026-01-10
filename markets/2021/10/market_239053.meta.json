@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239053",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-20T19:41:07.168000Z",
+  "market_createdAt": "2021-10-20T19:41:07.168Z",
+  "market_updatedAt": "2024-04-23T00:08:37.186321Z",
+  "market_startDate": "2021-10-24T06:40:51.506Z",
+  "market_endDate": "2021-10-24T00:00:00Z",
+  "market_closedTime": "2021-10-25 02:37:05+00",
+  "conditionId": "0xf8efd61f0173fe20a57604faf566a43be4ab96c9fbc4915291c2fb02f9921a9d",
+  "slug": "will-the-ravens-beat-the-bengals-by-more-than-6pt5-points-in-their-october-24th-matchup",
+  "question": "Will the Ravens beat the Bengals by more than 6.5 points in their October 24th matchup?"
+}

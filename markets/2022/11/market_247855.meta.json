@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247855",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-14T18:02:52.074000Z",
+  "market_createdAt": "2022-11-14T18:02:52.074Z",
+  "market_updatedAt": "2023-01-31T05:16:18.846Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-30T00:00:00Z",
+  "market_closedTime": "2022-11-14 20:45:25+00",
+  "conditionId": "0xb7ca943aa66176ae5d6306a4139b7bc5cf147c38a89121aa7ac1909d2e0e523c",
+  "slug": "will-the-first-letter-in-sbfs-next-tweet-be-p",
+  "question": "Will the first letter in SBF’s next tweet be “P”?"
+}

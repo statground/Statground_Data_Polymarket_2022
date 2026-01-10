@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240644",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-12T17:03:50.273000Z",
+  "market_createdAt": "2022-01-12T17:03:50.273Z",
+  "market_updatedAt": "2024-07-18T00:10:37.491895Z",
+  "market_startDate": "2023-02-23T16:36:44.09Z",
+  "market_endDate": "2024-09-10T00:00:00Z",
+  "market_closedTime": "2024-07-18 00:10:37.491895+00",
+  "conditionId": "0x6898b869f0bb1f31d309897956fab3437a7e82408cb91d4bfc888dbf52e259a8",
+  "slug": "will-donald-trump-jr-win-the-us-2024-republican-presidential-nomination",
+  "question": "[Single Market] Will Donald Trump Jr. win the U.S. 2024 Republican presidential nomination?"
+}

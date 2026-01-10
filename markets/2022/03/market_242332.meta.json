@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242332",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-20T09:11:27.586000Z",
+  "market_createdAt": "2022-03-20T09:11:27.586Z",
+  "market_updatedAt": "2024-04-23T00:28:17.941058Z",
+  "market_startDate": "2022-03-20T18:18:45.019Z",
+  "market_endDate": "2022-03-20T00:00:00Z",
+  "market_closedTime": "2022-03-21 20:49:19+00",
+  "conditionId": "0x3acc7843b1c27d0b31e4ff41446d8a50603b17c27cd1db72a64bb5bf2bf3e9e5",
+  "slug": "ncaab-who-will-win-purdue-boilermakers-vspt-texas-longhorns-scheduled-for-march-20-840-pm-et",
+  "question": "NCAAB: Who will win Purdue Boilermakers vs. Texas Longhorns, scheduled for March 20, 8:40 PM ET?"
+}

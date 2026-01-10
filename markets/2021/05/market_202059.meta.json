@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "202059",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-21T19:15:03.583000Z",
+  "market_createdAt": "2021-05-21T19:15:03.583Z",
+  "market_updatedAt": "2024-04-24T23:28:26.887357Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-05T00:00:00Z",
+  "market_closedTime": "2021-05-31 19:19:56+00",
+  "conditionId": "0xad6806ef291fb654abb3555cbf10e1b9e4331917079067139b6dd4198640698e",
+  "slug": "will-the-bucks-or-the-heat-win-their-round-1-nba-playoff-series",
+  "question": "Will the Bucks or the Heat win their Round 1 NBA Playoff Series?"
+}

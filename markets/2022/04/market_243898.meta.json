@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243898",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-28T09:02:26.514000Z",
+  "market_createdAt": "2022-04-28T09:02:26.514Z",
+  "market_updatedAt": "2023-01-31T05:16:14.492Z",
+  "market_startDate": "2022-04-28T15:20:48.417Z",
+  "market_endDate": "2022-04-28T00:00:00Z",
+  "market_closedTime": "2022-04-29 07:16:03+00",
+  "conditionId": "0x1c6a68f94ac42dfb36a0326422e99756900cddc6aa5280eb5c41f49e079ee49f",
+  "slug": "mlb-who-will-win-st-louis-cardinals-vs-arizona-diamondbacks-scheduled-for-april-28-746-pm-et",
+  "question": "MLB: Who will win St. Louis Cardinals vs. Arizona Diamondbacks, scheduled for April 28, 7:46 PM ET?"
+}

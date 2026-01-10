@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240830",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-18T18:56:10.063000Z",
+  "market_createdAt": "2022-01-18T18:56:10.063Z",
+  "market_updatedAt": "2024-04-22T22:40:25.082193Z",
+  "market_startDate": "2022-01-18T22:15:20.566Z",
+  "market_endDate": "2022-02-02T00:00:00Z",
+  "market_closedTime": "2022-02-04 23:47:28+00",
+  "conditionId": "0x3234b1ff8e983b2ba589ba1fac15e403e60cd433745bb829fcb89cb19fded9dd",
+  "slug": "will-stay-close-limited-series-be-the-1-netflix-show-worldwide-on-the-week-ending-january-30",
+  "question": "Will 'Stay Close: Limited Series' be the #1 Netflix show worldwide on the week ending January 30?"
+}

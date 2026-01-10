@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248154",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-01T17:32:30.972000Z",
+  "market_createdAt": "2022-12-01T17:32:30.972Z",
+  "market_updatedAt": "2023-01-31T14:38:44.166Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-04T00:00:00Z",
+  "market_closedTime": "2022-12-04 20:45:46+00",
+  "conditionId": "0xda5dda04e2ab5633121307a4188eee561761f699368af5008b9b9e08667b4ba3",
+  "slug": "world-cup-sunday-will-france-beat-poland",
+  "question": "World Cup: Sunday - Will France beat Poland?"
+}

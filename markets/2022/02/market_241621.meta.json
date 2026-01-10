@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241621",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-19T15:37:32.393000Z",
+  "market_createdAt": "2022-02-19T15:37:32.393Z",
+  "market_updatedAt": "2024-04-22T22:43:29.242188Z",
+  "market_startDate": null,
+  "market_endDate": "2022-02-20T00:00:00Z",
+  "market_closedTime": "2022-02-21 18:00:29+00",
+  "conditionId": "0x16f5f021f7601e42bf623b9fd4ef7745cca22c193293a86ca1d052178b99ef28",
+  "slug": "nba-all-star-2022-will-team-lebron-win-by-more-than-55-points",
+  "question": "NBA All-Star 2022: Will Team LeBron win by more than 5.5 points?"
+}

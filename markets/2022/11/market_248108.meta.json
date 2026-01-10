@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248108",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-21T19:18:55.431000Z",
+  "market_createdAt": "2022-11-21T19:18:55.431Z",
+  "market_updatedAt": "2023-01-31T19:46:38.376Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-26T00:00:00Z",
+  "market_closedTime": "2022-11-26 22:45:57+00",
+  "conditionId": "0x83e5408d240a49ab413d9484d65ba66731d3e3430e5d5d3e27d4fbff95ec6fa9",
+  "slug": "world-cup-2022-saturday-will-poland-beat-saudi-arabia",
+  "question": "World Cup: Saturday - Will Poland beat Saudi Arabia?"
+}

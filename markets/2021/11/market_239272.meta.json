@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239272",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-06T19:20:46.464000Z",
+  "market_createdAt": "2021-11-06T19:20:46.464Z",
+  "market_updatedAt": "2024-04-22T23:41:14.391074Z",
+  "market_startDate": "2021-11-07T00:59:15.266Z",
+  "market_endDate": "2021-11-07T00:00:00Z",
+  "market_closedTime": "2021-11-08 13:33:37+00",
+  "conditionId": "0xf3615db5242a29fe64c51b072994c0a2dc64b270c86b8e8c5130c604a2530e97",
+  "slug": "nfl-will-the-saints-beat-the-falcons-by-more-than-5pt5-points-in-their-november-7th-matchup",
+  "question": "NFL: Will the Saints beat the Falcons by more than 5.5 points in their November 7th matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "100582",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-03-04T22:15:03.416000Z",
+  "market_createdAt": "2021-03-04T22:15:03.416Z",
+  "market_updatedAt": "2024-04-22T23:05:22.150363Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-29T00:00:00Z",
+  "market_closedTime": "2021-04-29 19:45:42+00",
+  "conditionId": "0xce8a91092bffa8e4be199cea90d81ff07e25caf490dc4559e042b8fa91d19ada",
+  "slug": "how-many-people-will-have-initiated-covid-19-vaccination-by-biden-s-100th-day-in-office",
+  "question": "How many people will have initiated COVID-19 vaccination by Biden’s 100th day in office?"
+}

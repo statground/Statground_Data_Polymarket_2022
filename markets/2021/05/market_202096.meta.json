@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "202096",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-24T22:25:05.835000Z",
+  "market_createdAt": "2021-05-24T22:25:05.835Z",
+  "market_updatedAt": "2024-04-23T00:39:17.301142Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-25T00:00:00Z",
+  "market_closedTime": "2021-05-25 18:15:27+00",
+  "conditionId": "0x41afab9b5866f02e94ada8349b6853cff8d40b1bd9f4bdd9bdd3a0889f5f8be5",
+  "slug": "will-anish-giri-or-ian-nepomniachtchi-win-in-their-ftx-crypto-cup-preliminary-game",
+  "question": "Will Anish Giri or Ian Nepomniachtchi win in their FTX Crypto Cup preliminary game?"
+}

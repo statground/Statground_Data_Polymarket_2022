@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248022",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T20:18:03.250000Z",
+  "market_createdAt": "2022-11-18T20:18:03.25Z",
+  "market_updatedAt": "2023-01-31T21:16:38.634Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-06T00:00:00Z",
+  "market_closedTime": "2022-12-01 19:15:50+00",
+  "conditionId": "0x90edb7da8c46cc7d02b05f96eefc59269f9fc9dc57e3a44e05a0c174916a1cc3",
+  "slug": "will-mexico-qualify-from-group-c",
+  "question": "Will Mexico qualify from Group C?"
+}

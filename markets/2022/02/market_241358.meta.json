@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241358",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-07T11:13:48.314000Z",
+  "market_createdAt": "2022-02-07T11:13:48.314Z",
+  "market_updatedAt": "2024-04-22T22:23:44.503072Z",
+  "market_startDate": "2022-02-07T17:43:46.199Z",
+  "market_endDate": "2022-02-07T00:00:00Z",
+  "market_closedTime": "2022-02-10 15:11:14+00",
+  "conditionId": "0xcdc260ff7ee53d0c02af228bf0a8337108d75d1ad846efd81f01482ef8b60c1d",
+  "slug": "nba-who-will-win-the-raptors-vs-hornets-scheduled-for-february-7-7-pm-et",
+  "question": "NBA: Who will win the Raptors vs. Hornets, scheduled for February 7 (7 PM ET)?"
+}

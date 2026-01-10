@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241725",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-25T18:11:06.402000Z",
+  "market_createdAt": "2022-02-25T18:11:06.402Z",
+  "market_updatedAt": "2024-04-23T00:56:08.838398Z",
+  "market_startDate": "2022-02-25T18:18:25.407Z",
+  "market_endDate": "2022-04-01T00:00:00Z",
+  "market_closedTime": "2022-03-13 12:00:38+00",
+  "conditionId": "0x125807ec62bdfde8925c195c3430ebf9774b31df99032af6632d55836317ec0a",
+  "slug": "will-any-russian-institution-be-disconnected-from-swift-by-april-1",
+  "question": "Will any Russian bank be disconnected from SWIFT by April 1?"
+}

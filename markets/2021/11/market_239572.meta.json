@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239572",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-23T15:28:58.226000Z",
+  "market_createdAt": "2021-11-23T15:28:58.226Z",
+  "market_updatedAt": "2024-04-23T00:57:31.236529Z",
+  "market_startDate": "2021-11-23T20:00:49.068Z",
+  "market_endDate": "2021-11-23T00:00:00Z",
+  "market_closedTime": "2021-11-24 22:17:29+00",
+  "conditionId": "0xa513afc8415ab9c845cc2602d04bf20eb76579b4fa703065a4a59edbc0b1c83d",
+  "slug": "nba-will-the-knicks-beat-the-lakers-by-more-than-4pt5-points-in-their-23-november-matchup",
+  "question": "NBA: Will the Knicks beat the Lakers by more than 4.5 points in their November 23rd matchup?"
+}

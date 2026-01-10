@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240983",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-24T17:02:58.208000Z",
+  "market_createdAt": "2022-01-24T17:02:58.208Z",
+  "market_updatedAt": "2024-04-24T23:28:24.233087Z",
+  "market_startDate": "2022-01-24T20:11:46.579Z",
+  "market_endDate": "2022-01-24T00:00:00Z",
+  "market_closedTime": "2022-01-26 02:33:40+00",
+  "conditionId": "0x38286e0eb47c1633a785add7913ccbfad169dca191adefd3d83eb38f667f30fc",
+  "slug": "nba-will-the-pelicans-beat-the-pacers-by-more-than-2p5-points-in-their-january-24-matchup",
+  "question": "NBA: Will the Pelicans beat the Pacers by more than 2.5 points in their January 24 matchup?"
+}

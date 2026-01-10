@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241484",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-14T19:25:14.825000Z",
+  "market_createdAt": "2022-02-14T19:25:14.825Z",
+  "market_updatedAt": "2023-01-31T19:22:08.367Z",
+  "market_startDate": "2022-02-14T20:29:34.682Z",
+  "market_endDate": "2022-03-01T00:00:00Z",
+  "market_closedTime": "2022-03-02 17:25:17+00",
+  "conditionId": "0x0621525930553d74a77b18157f5a2c3cdc404eed2589b3fd985cc48791b19595",
+  "slug": "will-the-price-of-a-barrel-of-crude-oil-be-100-or-more-on-march-1-2022",
+  "question": "Will the price of a barrel of crude oil be $100 or more on March 1, 2022?"
+}

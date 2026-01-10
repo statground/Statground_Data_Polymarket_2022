@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246538",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-13T16:01:01.525000Z",
+  "market_createdAt": "2022-06-13T16:01:01.525Z",
+  "market_updatedAt": "2023-01-31T21:06:30.53Z",
+  "market_startDate": "2022-06-13T17:40:13.327Z",
+  "market_endDate": "2022-06-30T00:00:00Z",
+  "market_closedTime": "2022-06-18 11:15:35+00",
+  "conditionId": "0x1ef5450e4815a8b5ad51a8d20d4d469e3aa17561c738f125bd36a25168d1877b",
+  "slug": "will-ethereum-eth-hit-3-digits-by-june-30",
+  "question": "Will $ETH hit 3 digits (sub $1000) by June 30?"
+}

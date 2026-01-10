@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "245937",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-31T08:09:36.485000Z",
+  "market_createdAt": "2022-05-31T08:09:36.485Z",
+  "market_updatedAt": "2023-01-31T18:17:04.358Z",
+  "market_startDate": "2022-05-31T14:38:23.29Z",
+  "market_endDate": "2022-05-31T00:00:00Z",
+  "market_closedTime": "2022-06-01 05:30:36+00",
+  "conditionId": "0xba4978b936c219d4b4570b8333eeb45c9b0e30555e5eb8f588669f862ed60af9",
+  "slug": "mlb-who-will-win-new-york-yankees-vs-los-angeles-angels-scheduled-for-may-31-705-pm-et",
+  "question": "MLB: Who will win New York Yankees vs. Los Angeles Angels, scheduled for May 31, 7:05 PM ET?"
+}

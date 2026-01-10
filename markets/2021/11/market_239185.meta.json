@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239185",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-01T08:05:02.091000Z",
+  "market_createdAt": "2021-11-01T08:05:02.091Z",
+  "market_updatedAt": "2024-04-22T22:46:35.472018Z",
+  "market_startDate": "2021-11-01T18:26:40.026Z",
+  "market_endDate": "2021-11-11T00:00:00Z",
+  "market_closedTime": "2021-11-12 20:16:45+00",
+  "conditionId": "0xbc67c5ad9b1aff60861136db1afdf6cb520bf4e8e794792ad8dffa6e27f0babc",
+  "slug": "what-will-the-price-of-matic-be-on-november-11-2021",
+  "question": "What will the price of $MATIC be on November 11, 2021? "
+}

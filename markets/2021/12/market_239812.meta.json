@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239812",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-03T20:06:15.846000Z",
+  "market_createdAt": "2021-12-03T20:06:15.846Z",
+  "market_updatedAt": "2024-04-22T22:30:07.527782Z",
+  "market_startDate": "2021-12-04T19:43:40.775Z",
+  "market_endDate": "2021-12-05T00:00:00Z",
+  "market_closedTime": "2021-12-06 19:28:09+00",
+  "conditionId": "0x40f8f9340600e696e49e7996fc7ab0170786b134b52c3a9da3ef54c3b5d317e6",
+  "slug": "nfl-will-the-vikings-beat-the-lions-by-more-than-7pt5-points-in-their-december-5-matchup",
+  "question": "NFL: Will the Vikings beat the Lions by more than 7.5 points in their December 5 matchup?"
+}

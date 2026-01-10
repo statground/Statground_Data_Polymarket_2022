@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239780",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-02T13:56:38.334000Z",
+  "market_createdAt": "2021-12-02T13:56:38.334Z",
+  "market_updatedAt": "2024-04-25T00:00:13.430097Z",
+  "market_startDate": "2021-12-02T19:20:40.637Z",
+  "market_endDate": "2021-12-02T00:00:00Z",
+  "market_closedTime": "2021-12-03 18:20:54+00",
+  "conditionId": "0xe9a0d675c847c8b2896a9e540f34451b7498dae30d7ea312bada2fa3f561fd2a",
+  "slug": "nba-will-the-bucks-beat-the-raptors-by-more-than-4pt5-points-in-their-december-2-matchup",
+  "question": "NBA: Will the Bucks beat the Raptors by more than 4.5 points in their December 2 matchup?"
+}

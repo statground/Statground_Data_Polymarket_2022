@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "112302",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-03-29T15:00:08.416000Z",
+  "market_createdAt": "2021-03-29T15:00:08.416Z",
+  "market_updatedAt": "2024-04-25T00:14:59.968649Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-30T00:00:00Z",
+  "market_closedTime": "2021-06-18 18:05:02+00",
+  "conditionId": "0x09c43f456a7c325b66cfecc67b40162d96ef2df1bf80230f08e6191a1ffb9e9f",
+  "slug": "will-joe-biden-be-president-of-the-usa-on-june-30-2021",
+  "question": "Will Joe Biden be President of the USA on June 30, 2021?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239685",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-29T20:44:33.781000Z",
+  "market_createdAt": "2021-11-29T20:44:33.781Z",
+  "market_updatedAt": "2024-04-22T22:45:11.536767Z",
+  "market_startDate": "2021-11-29T21:35:29.028Z",
+  "market_endDate": "2021-12-31T00:00:00Z",
+  "market_closedTime": "2022-01-01 18:29:22+00",
+  "conditionId": "0xe8f76c71d8a4be8c3c8cdb37df61de0e6ac159af8f77c11f4e417dea6d82decc",
+  "slug": "will-coinbases-nft-marketplace-launch-before-2022",
+  "question": "Will Coinbase’s NFT marketplace launch before 2022?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248136",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-28T16:02:28.910000Z",
+  "market_createdAt": "2022-11-28T16:02:28.91Z",
+  "market_updatedAt": "2023-01-31T03:01:41.383Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-30T00:00:00Z",
+  "market_closedTime": "2022-12-01 00:16:01+00",
+  "conditionId": "0xcc5bd3fe5991acf3aa0a363c117c458f1c674fd63e0bf2f91ab6431b13a54576",
+  "slug": "world-cup-wednesday-will-argentina-beat-poland",
+  "question": "World Cup: Wednesday - Will Argentina beat Poland?"
+}

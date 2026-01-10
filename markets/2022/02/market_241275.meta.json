@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241275",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-02T18:50:28.109000Z",
+  "market_createdAt": "2022-02-02T18:50:28.109Z",
+  "market_updatedAt": "2024-04-24T23:50:54.403764Z",
+  "market_startDate": null,
+  "market_endDate": "2022-02-13T00:00:00Z",
+  "market_closedTime": "2022-02-14 17:11:34+00",
+  "conditionId": "0xd35474ab55c561ff2aad3e3fe440f5fb644ccbfc272604cf17708f6a3d33063e",
+  "slug": "will-a-bored-ape-appear-during-a-superbowl-lvi-commercial-or-halftime-show",
+  "question": "Will a Bored Ape appear during a SuperBowl LVI Commercial or Halftime Show?"
+}

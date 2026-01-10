@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240712",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-13T23:10:35.123000Z",
+  "market_createdAt": "2022-01-13T23:10:35.123Z",
+  "market_updatedAt": "2024-04-25T00:09:07.568649Z",
+  "market_startDate": "2022-01-14T00:01:52.116Z",
+  "market_endDate": "2022-01-13T00:00:00Z",
+  "market_closedTime": "2022-01-16 01:46:45+00",
+  "conditionId": "0x15bbd337873e72a33507437b08696e4f3a6b2ebb62e47d25d07dba4ad14ed963",
+  "slug": "nhl-will-the-islanders-beat-the-devils-by-more-than-1p5-goals-in-their-january-13-matchup",
+  "question": "NHL: Will the Islanders beat the Devils by more than 1.5 goals in their January 13 matchup?"
+}

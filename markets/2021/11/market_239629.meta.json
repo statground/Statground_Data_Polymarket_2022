@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239629",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-27T18:47:42.419000Z",
+  "market_createdAt": "2021-11-27T18:47:42.419Z",
+  "market_updatedAt": "2024-04-23T00:23:21.743131Z",
+  "market_startDate": "2021-11-27T19:11:31.162Z",
+  "market_endDate": "2021-11-27T00:00:00Z",
+  "market_closedTime": "2021-11-28 20:28:56+00",
+  "conditionId": "0x6bd2e578cbf6fb2c4e92a9659b8f6ed74cbafafac44d337b81269462d333a21c",
+  "slug": "nba-will-the-heat-beat-the-bulls-by-more-than-1pt5-points-in-their-november-27th-matchup",
+  "question": "NBA: Will the Heat beat the Bulls by more than 1.5 points in their November 27th matchup?"
+}

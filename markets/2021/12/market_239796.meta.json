@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239796",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-03T18:19:38.357000Z",
+  "market_createdAt": "2021-12-03T18:19:38.357Z",
+  "market_updatedAt": "2024-04-26T02:49:29.41317Z",
+  "market_startDate": "2021-12-03T20:02:01.04Z",
+  "market_endDate": "2021-12-07T00:00:00Z",
+  "market_closedTime": "2021-12-08 18:46:21+00",
+  "conditionId": "0x23e8eb5d63b03e2ad3480bc42a423aa05a05bb645dc0869f9978bf0afb689330",
+  "slug": "will-sequoia-capitals-youtube-memo-sell-for-more-than-100-eth",
+  "question": "Will Sequoia Capital's Youtube memo sell for more than 100 ETH?"
+}

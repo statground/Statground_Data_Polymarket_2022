@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241040",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-26T12:27:48.895000Z",
+  "market_createdAt": "2022-01-26T12:27:48.895Z",
+  "market_updatedAt": "2024-04-24T23:51:17.428999Z",
+  "market_startDate": "2022-01-26T19:06:20.041Z",
+  "market_endDate": "2022-01-26T00:00:00Z",
+  "market_closedTime": "2022-01-27 23:54:41+00",
+  "conditionId": "0x97b09d69a59629296e4e035ec9eaaa73a8d9507a710b446f30a6b34af0b602d6",
+  "slug": "nba-will-the-hawks-beat-the-kings-by-more-than-7p5-points-in-their-january-26-730-pm-et-matchup",
+  "question": "NBA: Will the Hawks beat the Kings by more than 7.5 points in their January 26 (7.30 PM ET) matchup?"
+}

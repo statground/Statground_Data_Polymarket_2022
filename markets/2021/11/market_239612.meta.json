@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239612",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-26T09:09:56.879000Z",
+  "market_createdAt": "2021-11-26T09:09:56.879Z",
+  "market_updatedAt": "2024-04-25T00:08:44.599348Z",
+  "market_startDate": "2021-11-26T19:19:49.896Z",
+  "market_endDate": "2021-11-26T00:00:00Z",
+  "market_closedTime": "2021-11-27 20:50:39+00",
+  "conditionId": "0x80e1a5e47d9a858c2da272a79a449a203b2f80f15f879a104da5f92e4f72fd53",
+  "slug": "nba-will-the-hornets-beat-the-timberwolves-by-more-than-2pt5-points-in-their-november-26th-matchup",
+  "question": "NBA: Will the Hornets beat the Timberwolves by more than 2.5 points in their November 26th matchup?"
+}

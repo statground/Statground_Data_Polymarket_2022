@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246790",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-22T12:33:30.954000Z",
+  "market_createdAt": "2022-07-22T12:33:30.954Z",
+  "market_updatedAt": "2023-01-31T19:47:17.329Z",
+  "market_startDate": "2022-07-22T17:58:40.442Z",
+  "market_endDate": "2022-07-24T00:00:00Z",
+  "market_closedTime": "2022-07-25 03:16:10+00",
+  "conditionId": "0x550e2127fa23ce4e19f840eabb93cd15dd82f53f09f629d91392aec5418b3adb",
+  "slug": "formula-1-who-will-finish-ahead-at-the-2022-french-grand-prix-max-verstappen-or-charles-leclerc",
+  "question": "Formula 1: Who will finish ahead at the 2022 French Grand Prix, Max Verstappen or Charles Leclerc?"
+}

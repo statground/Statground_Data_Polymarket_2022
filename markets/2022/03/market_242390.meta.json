@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242390",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-22T09:10:50.151000Z",
+  "market_createdAt": "2022-03-22T09:10:50.151Z",
+  "market_updatedAt": "2024-04-24T23:28:50.252569Z",
+  "market_startDate": "2022-03-22T16:28:53.439Z",
+  "market_endDate": "2022-03-22T00:00:00Z",
+  "market_closedTime": "2022-03-23 16:21:36+00",
+  "conditionId": "0x66715d2f12d75f046e894a55870449a1195cdb95793062029b46dbb8cf7c53d0",
+  "slug": "nba-will-the-nuggets-beat-the-clippers-by-more-than-6pt5-points-in-their-march-22-1000-pm-et-matchup",
+  "question": "NBA: Will the Nuggets beat the Clippers by more than 6.5 points in their March 22, 10:00 PM ET matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242186",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-17T22:59:09.248000Z",
+  "market_createdAt": "2022-03-17T22:59:09.248Z",
+  "market_updatedAt": "2024-04-22T23:19:05.06696Z",
+  "market_startDate": "2022-03-17T23:15:53.613Z",
+  "market_endDate": "2022-05-31T00:00:00Z",
+  "market_closedTime": "2022-06-01 16:15:52+00",
+  "conditionId": "0x1f3a760a69047345591fb56328cf7328aa5ed2b2e367956851bbdcdc41b4b92a",
+  "slug": "will-volodymyr-zelenskyy-and-vladimir-putin-meet-in-person-before-june-2022",
+  "question": "Will Volodymyr Zelenskyy and Vladimir Putin meet in person before June 2022?"
+}

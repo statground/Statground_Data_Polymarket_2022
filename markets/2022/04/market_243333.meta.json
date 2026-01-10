@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243333",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-16T08:27:54.655000Z",
+  "market_createdAt": "2022-04-16T08:27:54.655Z",
+  "market_updatedAt": "2023-01-31T17:22:24.253Z",
+  "market_startDate": "2022-04-16T15:23:17.051Z",
+  "market_endDate": "2022-04-16T00:00:00Z",
+  "market_closedTime": "2022-04-17 07:30:54+00",
+  "conditionId": "0xb998fcc3cb38796cfff9b57e7d1f1717a330fa45794c295420e6ea13eb7e0491",
+  "slug": "mlb-who-will-win-colorado-rockies-vs-chicago-cubs-scheduled-for-april-16-811-pm-et",
+  "question": "MLB: Who will win Colorado Rockies vs. Chicago Cubs, scheduled for April 16, 8:11 PM ET?"
+}

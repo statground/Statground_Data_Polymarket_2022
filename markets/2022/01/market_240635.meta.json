@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240635",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-12T16:43:45.610000Z",
+  "market_createdAt": "2022-01-12T16:43:45.61Z",
+  "market_updatedAt": "2024-04-22T23:30:45.628875Z",
+  "market_startDate": "2022-01-12T21:07:03.692Z",
+  "market_endDate": "2022-01-12T00:00:00Z",
+  "market_closedTime": "2022-01-14 06:54:06+00",
+  "conditionId": "0x742cc0e377699b64e9390ee9c82e07300fd5bbd31de8ca4afd99e92d5b796099",
+  "slug": "nba-will-the-bulls-beat-the-nets-by-more-than-2pt5-points-in-their-january-12-matchup",
+  "question": "NBA: Will the Bulls beat the Nets by more than 2.5 points in their January 12 matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241285",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-02T23:13:30.719000Z",
+  "market_createdAt": "2022-02-02T23:13:30.719Z",
+  "market_updatedAt": "2024-04-22T22:43:53.645172Z",
+  "market_startDate": "2022-02-04T14:50:32.102Z",
+  "market_endDate": "2022-02-20T00:00:00Z",
+  "market_closedTime": "2022-02-21 19:30:26+00",
+  "conditionId": "0xbeb0dc1cdabc885ca842b3e944fc9fbfbd7ff8c02376c49489a367be7f6e9d6f",
+  "slug": "2022-winter-olympics-will-the-usa-or-canada-get-more-gold-medals",
+  "question": "2022 Winter Olympics: Will the USA or Canada get more gold medals?"
+}

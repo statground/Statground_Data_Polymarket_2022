@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "195042",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-12T21:25:02.527000Z",
+  "market_createdAt": "2021-05-12T21:25:02.527Z",
+  "market_updatedAt": "2024-04-22T22:59:22.147817Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-10T00:00:00Z",
+  "market_closedTime": "2021-06-10 14:34:42+00",
+  "conditionId": "0xbc55ba440c5da79a535926c1e1c1a5fb4541bc888543ee9a621089187766224a",
+  "slug": "will-inflation-be-04-or-more-from-april-to-may",
+  "question": "Will inflation be 0.4% or more from April to May?"
+}

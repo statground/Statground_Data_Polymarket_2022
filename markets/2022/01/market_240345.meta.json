@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240345",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T00:54:43.444000Z",
+  "market_createdAt": "2022-01-11T00:54:43.444Z",
+  "market_updatedAt": "2024-04-24T23:40:40.26044Z",
+  "market_startDate": "2022-01-12T20:46:32.526Z",
+  "market_endDate": "2022-02-13T00:00:00Z",
+  "market_closedTime": "2022-01-21 14:00:09+00",
+  "conditionId": "0x0878644542ddf488bc596f10571421086218d9e224e5896dc61a0eb87a59f5da",
+  "slug": "will-the-dallas-cowboys-win-the-21-22-superbowl",
+  "question": "Will the Dallas Cowboys win the ‘21-’22 Superbowl?"
+}

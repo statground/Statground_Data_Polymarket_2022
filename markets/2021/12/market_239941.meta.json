@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239941",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-09T11:18:50.477000Z",
+  "market_createdAt": "2021-12-09T11:18:50.477Z",
+  "market_updatedAt": "2024-04-24T23:27:02.867424Z",
+  "market_startDate": "2021-12-09T18:33:47.635Z",
+  "market_endDate": "2021-12-09T00:00:00Z",
+  "market_closedTime": "2021-12-10 13:08:25+00",
+  "conditionId": "0xce16c8ceda06fe899ca70a9e799f2a326113cac5b6038c9d84769586e4c28a71",
+  "slug": "nhl-will-the-stars-beat-the-la-kings-by-more-than-1.5-points-in-their-december-9-matchup",
+  "question": "NHL: Will the Stars beat the Kings by more than 1.5 points in their December 9 matchup?"
+}

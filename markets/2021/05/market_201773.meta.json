@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "201773",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-20T20:30:01.557000Z",
+  "market_createdAt": "2021-05-20T20:30:01.557Z",
+  "market_updatedAt": "2024-04-23T00:32:44.229754Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-17T00:00:00Z",
+  "market_closedTime": "2021-06-19 18:33:10+00",
+  "conditionId": "0x75bae880de987bcc0ed14f0b0909453a5aef8e35b887d770c98313f047a8f07d",
+  "slug": "will-the-7-day-average-covid-19-case-count-in-the-us-be-less-than-15000-on-june-17",
+  "question": "Will the 7-day average COVID-19 case count in the US be less than 15,000 on June 17?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "220617",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-30T17:50:01.036000Z",
+  "market_createdAt": "2021-06-30T17:50:01.036Z",
+  "market_updatedAt": "2024-04-24T23:22:12.910779Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-18T00:00:00Z",
+  "market_closedTime": "2021-07-19 17:43:39+00",
+  "conditionId": "0xb496be80ed243d693f2de66e8622288f3b8b728b8dd397418419db8595b7ec53",
+  "slug": "will-tadej-pogacar-win-the-2021-tour-de-france",
+  "question": "Will Tadej Pogacar win the 2021 Tour de France?"
+}

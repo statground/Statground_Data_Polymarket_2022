@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239615",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-26T09:28:41.871000Z",
+  "market_createdAt": "2021-11-26T09:28:41.871Z",
+  "market_updatedAt": "2024-04-26T02:49:10.696127Z",
+  "market_startDate": "2021-11-26T19:20:52.009Z",
+  "market_endDate": "2021-11-26T00:00:00Z",
+  "market_closedTime": "2021-11-27 20:55:46+00",
+  "conditionId": "0xbb470222b9c9dbf7f7a0ae5897782562eaf4a9cbfdfeefccd1c8051880a89765",
+  "slug": "nba-will-the-celtics-beat-the-spurs-by-more-than-3pt5-points-in-their-november-26th-matchup",
+  "question": "NBA: Will the Celtics beat the Spurs by more than 3.5 points in their November 26th matchup?"
+}

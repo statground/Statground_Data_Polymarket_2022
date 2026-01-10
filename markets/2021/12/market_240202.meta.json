@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240202",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-27T22:16:44.399000Z",
+  "market_createdAt": "2021-12-27T22:16:44.399Z",
+  "market_updatedAt": "2024-04-23T00:18:06.165735Z",
+  "market_startDate": "2021-12-28T22:10:47.595Z",
+  "market_endDate": "2022-01-14T00:00:00Z",
+  "market_closedTime": "2022-01-15 00:20:52+00",
+  "conditionId": "0x7be04a54a32f884a20c13c961fbe3cf3e6107f13cd7c16c548fd44d5be3d47b2",
+  "slug": "will-the-floor-price-of-bored-apes-be-above-65-eth-on-january-14",
+  "question": "Will the floor price of Bored Apes be above 65 ETH on January 14?"
+}

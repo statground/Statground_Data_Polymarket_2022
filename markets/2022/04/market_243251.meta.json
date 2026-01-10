@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243251",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-14T00:06:09.470000Z",
+  "market_createdAt": "2022-04-14T00:06:09.47Z",
+  "market_updatedAt": "2023-04-20T00:05:44.351Z",
+  "market_startDate": "2022-04-14T15:04:37.764Z",
+  "market_endDate": "2022-10-01T00:00:00Z",
+  "market_closedTime": "2022-09-15 20:01:03+00",
+  "conditionId": "0xf6024bc223ad8abf050aace07fd3a69328f1bba63c3ffc98062d2420a2030a1e",
+  "slug": "will-the-ethereum-merge-eip-3675-occur-by-october-1-2022",
+  "question": "Will the Ethereum Merge (EIP-3675) occur by October 1, 2022?"
+}

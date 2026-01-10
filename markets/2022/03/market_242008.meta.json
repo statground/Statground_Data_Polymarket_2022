@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242008",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-11T08:41:12.838000Z",
+  "market_createdAt": "2022-03-11T08:41:12.838Z",
+  "market_updatedAt": "2024-04-22T22:47:51.274706Z",
+  "market_startDate": "2022-03-11T20:35:13.331Z",
+  "market_endDate": "2022-03-11T00:00:00Z",
+  "market_closedTime": "2022-03-12 11:00:31+00",
+  "conditionId": "0xf092c92ed3d0888eed5f30112d8139af02e65e147ddc2df931d7ae17e5f4f5b0",
+  "slug": "nba-who-will-win-the-timberwolves-vspt-magic-scheduled-for-march-11-7-pm-et",
+  "question": "NBA: Who will win the Timberwolves vs. Magic, scheduled for March 11 (7 PM ET)?"
+}

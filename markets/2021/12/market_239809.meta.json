@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239809",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-03T20:01:00.700000Z",
+  "market_createdAt": "2021-12-03T20:01:00.7Z",
+  "market_updatedAt": "2024-04-25T00:08:20.721834Z",
+  "market_startDate": "2021-12-04T19:40:48.344Z",
+  "market_endDate": "2021-12-05T00:00:00Z",
+  "market_closedTime": "2021-12-06 17:25:36+00",
+  "conditionId": "0x27b6fda0b5046d6cfc97740619af45404257fc593c8718e8a87a62735b4d8a12",
+  "slug": "nfl-will-the-cardinals-beat-the-bears-by-more-than-6pt5-points-in-their-december-5-matchup",
+  "question": "NFL: Will the Cardinals beat the Bears by more than 6.5 points in their December 5 matchup?"
+}

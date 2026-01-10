@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242533",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-26T09:16:03.728000Z",
+  "market_createdAt": "2022-03-26T09:16:03.728Z",
+  "market_updatedAt": "2024-04-23T00:40:11.711275Z",
+  "market_startDate": "2022-03-26T19:39:45.305Z",
+  "market_endDate": "2022-03-26T00:00:00Z",
+  "market_closedTime": "2022-03-27 17:50:38+00",
+  "conditionId": "0x062c1c96df481f949f4f94e025a285c7e893f4501d0c10d1ff7eb6ce1e001e18",
+  "slug": "nba-will-the-nuggets-beat-the-thunder-by-more-than-13pt5-points-in-their-march-26-910-pm-et-matchup",
+  "question": "NBA: Will the Nuggets beat the Thunder by more than 13.5 points in their March 26, 9:10 PM ET matchup?"
+}

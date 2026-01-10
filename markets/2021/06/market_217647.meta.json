@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "217647",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-14T17:35:01.084000Z",
+  "market_createdAt": "2021-06-14T17:35:01.084Z",
+  "market_updatedAt": "2024-04-22T23:15:55.641491Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-16T00:00:00Z",
+  "market_closedTime": "2021-06-17 16:39:54+00",
+  "conditionId": "0xf913f3fb87aaf1eb564147f9f113c824cfe6c05554c85d26a6b52cb91d72eeb3",
+  "slug": "will-turkey-or-wales-win-their-euro-2020-match",
+  "question": "Will Turkey or Wales win their Euro 2020 match?"
+}

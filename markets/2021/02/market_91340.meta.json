@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "91340",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-18T16:05:02.513000Z",
+  "market_createdAt": "2021-02-18T16:05:02.513Z",
+  "market_updatedAt": "2024-04-23T00:17:00.884232Z",
+  "market_startDate": null,
+  "market_endDate": "2021-03-11T00:00:00Z",
+  "market_closedTime": "2021-03-11 17:40:39+00",
+  "conditionId": "0xc04011de8a962db2a746bf756698bae4e7571d52d865362839a037c3495806e0",
+  "slug": "what-will-beeples-everydays-the-first-5000-days-sell-for-at-auction",
+  "question": "What will Beeple's \"Everydays: The First 5000 Days\" sell for at auction?"
+}

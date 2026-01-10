@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241102",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-27T01:51:32.592000Z",
+  "market_createdAt": "2022-01-27T01:51:32.592Z",
+  "market_updatedAt": "2024-04-23T00:33:47.261931Z",
+  "market_startDate": null,
+  "market_endDate": "2022-03-31T00:00:00Z",
+  "market_closedTime": "2022-04-02 07:18:44+00",
+  "conditionId": "0x6c912ec8880403238b89c0b129912b757ad3cc62a9181f17bd49d3e126b7919f",
+  "slug": "will-uniswap-suffer-an-exploit-by-march-31st-2022",
+  "question": "Will Uniswap suffer an exploit by March 31st, 2022?"
+}

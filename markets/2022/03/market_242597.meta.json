@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242597",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-29T02:12:43.619000Z",
+  "market_createdAt": "2022-03-29T02:12:43.619Z",
+  "market_updatedAt": "2023-01-31T19:26:37.168Z",
+  "market_startDate": "2022-03-31T20:25:55.372Z",
+  "market_endDate": "2022-05-01T00:00:00Z",
+  "market_closedTime": "2022-05-02 22:16:42+00",
+  "conditionId": "0x5c243ad7e05206223b8b6b35656594b78800f88cdd79b7d22c45b6c3391002cf",
+  "slug": "will-more-than-2pt4-million-people-travel-through-a-tsa-checkpoint-on-any-day-on-or-before-may-1-2022",
+  "question": "Will more than 2.4 million people travel through a TSA checkpoint on any day on or before May 1, 2022?"
+}

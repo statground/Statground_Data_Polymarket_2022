@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240602",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-12T00:03:34.207000Z",
+  "market_createdAt": "2022-01-12T00:03:34.207Z",
+  "market_updatedAt": "2024-04-22T23:03:33.789537Z",
+  "market_startDate": "2022-01-12T21:11:14.748Z",
+  "market_endDate": "2022-11-15T00:00:00Z",
+  "market_closedTime": "2022-11-09 16:18:33+00",
+  "conditionId": "0x5e2c7c532bf10e7c7cbe04d5c9f319c75d8cb6080a614a0fc16225fb466d17c9",
+  "slug": "2022-us-senate-elections-will-a-democrat-or-republican-win-in-colorado",
+  "question": "Senate: Will a Democrat (Bennet) or Republican (O'Dea) win in Colorado?"
+}

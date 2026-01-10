@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240026",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-14T16:19:03.314000Z",
+  "market_createdAt": "2021-12-14T16:19:03.314Z",
+  "market_updatedAt": "2024-04-22T23:02:58.679099Z",
+  "market_startDate": "2021-12-14T17:57:55.521Z",
+  "market_endDate": "2021-12-14T00:00:00Z",
+  "market_closedTime": "2021-12-15 20:19:42+00",
+  "conditionId": "0xb3a2235d84db94a8f349c61dab08fe0e9a6fe993f001d3edbd517f90ff7e8136",
+  "slug": "nhl-will-the-panthers-beat-the-senators-by-more-than-1pt5-goals-in-their-december-14-matchup",
+  "question": "NHL: Will the Panthers beat the Senators by more than 1.5 goals in their December 14 matchup?"
+}

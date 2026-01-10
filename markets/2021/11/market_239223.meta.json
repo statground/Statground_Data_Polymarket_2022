@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239223",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-03T15:26:48.017000Z",
+  "market_createdAt": "2021-11-03T15:26:48.017Z",
+  "market_updatedAt": "2024-04-26T02:45:27.356444Z",
+  "market_startDate": "2021-11-03T16:47:07.184Z",
+  "market_endDate": "2021-11-03T00:00:00Z",
+  "market_closedTime": "2021-11-04 17:02:29+00",
+  "conditionId": "0x052a6c2270773f8444f367c2b31c69ddda3e7b5c2f7e487a60a3e93572f79ebf",
+  "slug": "nba-will-the-nets-beat-the-hawks-by-more-than-4pt5-points-in-their-november-3rd-matchup",
+  "question": "NBA: Will the Nets beat the Hawks by more than 4.5 points in their November 3rd matchup?"
+}

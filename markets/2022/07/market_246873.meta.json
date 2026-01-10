@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246873",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-29T19:02:17.934000Z",
+  "market_createdAt": "2022-07-29T19:02:17.934Z",
+  "market_updatedAt": "2023-01-31T20:31:17.272Z",
+  "market_startDate": "2022-07-29T21:31:53.778Z",
+  "market_endDate": "2022-07-30T00:00:00Z",
+  "market_closedTime": "2022-07-31 07:33:59+00",
+  "conditionId": "0xf87ec1ec1cfaeadce6d2abced6f4f0f6789054cf712a0f4dac9c2114431e63fe",
+  "slug": "ufc-277-who-will-win-moreno-vs-kara-france",
+  "question": "UFC 277: Who will win - Moreno vs Kara-France"
+}

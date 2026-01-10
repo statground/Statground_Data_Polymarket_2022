@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "200253",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-17T19:00:04.366000Z",
+  "market_createdAt": "2021-05-17T19:00:04.366Z",
+  "market_updatedAt": "2024-04-23T00:15:22.689864Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-18T00:00:00Z",
+  "market_closedTime": "2021-05-19 14:32:45+00",
+  "conditionId": "0x50cb411c46420284f7422f24cefaf7aad955700dfd9b722cb54016f396a1222d",
+  "slug": "will-the-hornets-or-the-pacers-win-their-nba-play-in-tournament-matchup",
+  "question": "Will the Hornets or the Pacers win their NBA play-in tournament matchup?"
+}

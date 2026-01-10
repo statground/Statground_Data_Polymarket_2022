@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239256",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-05T12:48:02.714000Z",
+  "market_createdAt": "2021-11-05T12:48:02.714Z",
+  "market_updatedAt": "2024-04-22T23:29:35.629662Z",
+  "market_startDate": "2021-11-05T19:54:22.429Z",
+  "market_endDate": "2021-11-05T00:00:00Z",
+  "market_closedTime": "2021-11-06 11:09:02+00",
+  "conditionId": "0xe4d1a19b9b7e0cc339bfe1c564983ef766523bb9ad179d6b198dfb030cea7325",
+  "slug": "nba-will-the-trail-blazers-beat-the-pacers-by-more-than-3pt5-points-in-their-november-5th-matchup",
+  "question": "NBA: Will the Trail Blazers beat the Pacers by more than 3.5 points in their November 5th matchup?"
+}

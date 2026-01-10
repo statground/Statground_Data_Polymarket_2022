@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241651",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-23T14:33:12.348000Z",
+  "market_createdAt": "2022-02-23T14:33:12.348Z",
+  "market_updatedAt": "2024-04-24T23:30:47.540172Z",
+  "market_startDate": "2022-02-23T16:46:05.895Z",
+  "market_endDate": "2022-02-23T00:00:00Z",
+  "market_closedTime": "2022-02-25 08:29:40+00",
+  "conditionId": "0x1fa0f56744b4635094e46808070656f2bc72a499cbfdc451cfd558aef7151ed6",
+  "slug": "atp-santiago-who-will-win-the-monteiro-vs-delbonis-scheduled-for-february-23",
+  "question": "ATP Santiago: Who will win Monteiro v. Delbonis, scheduled for February 23?"
+}

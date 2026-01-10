@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240360",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T01:23:21.078000Z",
+  "market_createdAt": "2022-01-11T01:23:21.078Z",
+  "market_updatedAt": "2024-04-22T23:15:16.368402Z",
+  "market_startDate": "2022-01-12T21:07:13.917Z",
+  "market_endDate": "2022-05-22T00:00:00Z",
+  "market_closedTime": "2022-05-22 19:45:53+00",
+  "conditionId": "0x1763796732898480adec2b3eb9734d57e24d960f430fac3172315dace7ede440",
+  "slug": "will-chelsea-london-win-the-2021-22-english-premier-league",
+  "question": "Will Chelsea London win the 2021-22 English Premier League?"
+}

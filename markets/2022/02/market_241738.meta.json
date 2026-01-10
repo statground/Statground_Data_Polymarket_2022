@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241738",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-26T16:24:15.003000Z",
+  "market_createdAt": "2022-02-26T16:24:15.003Z",
+  "market_updatedAt": "2024-04-22T22:44:51.187878Z",
+  "market_startDate": "2022-02-26T18:13:31.106Z",
+  "market_endDate": "2022-02-26T00:00:00Z",
+  "market_closedTime": "2022-02-27 21:24:03+00",
+  "conditionId": "0x49131dc4e6f3e06b026fe3e68ef9c80e7a0e21086163f8a9c37de76df3d669c9",
+  "slug": "nba-will-the-bulls-beat-the-grizzlies-by-more-than-1p5-points-in-their-february-26-8-pm-et-matchup",
+  "question": "NBA: Will the Bulls beat the Grizzlies by more than 1.5 points in their February 26 (8 PM ET) matchup?"
+}

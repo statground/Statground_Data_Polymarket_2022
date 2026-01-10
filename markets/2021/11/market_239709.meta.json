@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239709",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-30T21:13:54.519000Z",
+  "market_createdAt": "2021-11-30T21:13:54.519Z",
+  "market_updatedAt": "2024-04-22T23:31:03.554551Z",
+  "market_startDate": "2021-12-01T16:58:13.336Z",
+  "market_endDate": "2022-01-01T00:00:00Z",
+  "market_closedTime": "2022-01-01 18:47:38+00",
+  "conditionId": "0x4b771ce27936d7b6cd0c16ebcaff4d27c879068f5c11b29b3a3d2b40b25ba9cc",
+  "slug": "will-the-omicron-variant-be-marked-as-a-variant-of-high-consequence-by-the-cdc-before-2022",
+  "question": "Will the Omicron variant be marked as a Variant Of High Consequence by the CDC before 2022? "
+}

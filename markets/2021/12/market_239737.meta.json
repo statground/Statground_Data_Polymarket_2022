@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239737",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-01T13:21:11.605000Z",
+  "market_createdAt": "2021-12-01T13:21:11.605Z",
+  "market_updatedAt": "2024-04-23T00:21:37.207943Z",
+  "market_startDate": "2021-12-01T19:36:57.232Z",
+  "market_endDate": "2021-12-01T00:00:00Z",
+  "market_closedTime": "2021-12-02 07:09:35+00",
+  "conditionId": "0x8e5eb44a5d0f367b4a9371478456c9f230903f7e8c31e88f1a15720c17fb4496",
+  "slug": "nba-will-the-thunder-beat-the-rockets-by-more-than-3pt5-points-in-their-december-1-matchup",
+  "question": "NBA: Will the Thunder beat the Rockets by more than 3.5 points in their December 1 matchup?"
+}

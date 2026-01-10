@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243129",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-12T00:24:04.798000Z",
+  "market_createdAt": "2022-04-12T00:24:04.798Z",
+  "market_updatedAt": "2023-01-31T19:05:06.018Z",
+  "market_startDate": "2022-04-12T14:21:08.842Z",
+  "market_endDate": "2022-04-13T00:00:00Z",
+  "market_closedTime": "2022-04-14 06:32:36+00",
+  "conditionId": "0x48f5cceeffc6b9e28ca7c93347d262e45c61bc973df49816378fe054a3fa8140",
+  "slug": "nba-will-the-hawks-beat-the-hornets-by-more-than-4pt5-points-in-their-april-13-7-pm-et-matchup",
+  "question": "NBA: Will the Hawks beat the Hornets by more than 4.5 points in their April 13 (7 PM ET) matchup?"
+}

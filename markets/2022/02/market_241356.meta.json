@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241356",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-07T10:41:06.178000Z",
+  "market_createdAt": "2022-02-07T10:41:06.178Z",
+  "market_updatedAt": "2024-04-23T00:36:50.711367Z",
+  "market_startDate": "2022-02-07T21:31:21.377Z",
+  "market_endDate": "2022-02-07T00:00:00Z",
+  "market_closedTime": "2022-02-09 17:57:25+00",
+  "conditionId": "0xba4c9b9ce010a4bf28ea1cf65e8d44934fe915d53608aec7be44c6722b2306cb",
+  "slug": "nhl-will-the-maple-leafs-beat-the-hurricanes-by-more-than-15-goals-in-their-february-7-matchup-7-pm-et",
+  "question": "NHL: Will the Maple Leafs beat the Hurricanes by more than 1.5 goals in their February 7 matchup (7 PM ET)?"
+}

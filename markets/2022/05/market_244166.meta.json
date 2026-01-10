@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244166",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-03T23:30:47.629000Z",
+  "market_createdAt": "2022-05-03T23:30:47.629Z",
+  "market_updatedAt": "2023-01-31T11:52:43.939Z",
+  "market_startDate": "2022-05-04T14:35:12.925Z",
+  "market_endDate": "2022-05-07T00:00:00Z",
+  "market_closedTime": "2022-05-08 07:45:36+00",
+  "conditionId": "0x92c06836397480592ff6697ea8924ee5032a9dc92d21e1b9f29fa6aec7aeddd1",
+  "slug": "ufc-274-who-will-win-charles-oliveira-or-justin-gaethje",
+  "question": "UFC 274: Who will win - Charles Oliveira or Justin Gaethje?"
+}

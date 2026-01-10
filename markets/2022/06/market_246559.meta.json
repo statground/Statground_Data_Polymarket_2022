@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246559",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-16T19:12:16.504000Z",
+  "market_createdAt": "2022-06-16T19:12:16.504Z",
+  "market_updatedAt": "2023-01-31T20:21:05.852Z",
+  "market_startDate": "2022-06-16T19:27:26.874Z",
+  "market_endDate": "2022-07-05T00:00:00Z",
+  "market_closedTime": "2022-07-05 01:46:15+00",
+  "conditionId": "0x3bf9ea8e74504df6bc70938e2253e963538bad335121106df5242d9adca59b50",
+  "slug": "chess-will-ding-liren-win-the-2022-candidates-tournament",
+  "question": "Chess: Will Ding Liren win the 2022 Candidates Tournament?"
+}

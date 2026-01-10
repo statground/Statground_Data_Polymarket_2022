@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248302",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-30T15:31:46.878000Z",
+  "market_createdAt": "2022-12-30T15:31:46.878Z",
+  "market_updatedAt": "2023-02-10T01:03:37.507Z",
+  "market_startDate": null,
+  "market_endDate": "2023-01-06T00:00:00Z",
+  "market_closedTime": "2023-01-06 19:15:18+00",
+  "conditionId": "0xaf1f28ba9862507f432989cbf3a46feef83e1ace6f8d155b3c23463bd7d3108a",
+  "slug": "will-the-price-of-eth-be-above-1200-on-january-6",
+  "question": "Will the price of $ETH be above $1200 on January 6?"
+}

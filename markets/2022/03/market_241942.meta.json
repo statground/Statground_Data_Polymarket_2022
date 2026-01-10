@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241942",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-07T09:45:10.975000Z",
+  "market_createdAt": "2022-03-07T09:45:10.975Z",
+  "market_updatedAt": "2024-04-24T23:39:49.945285Z",
+  "market_startDate": "2022-03-07T15:28:19.557Z",
+  "market_endDate": "2022-03-07T00:00:00Z",
+  "market_closedTime": "2022-03-08 19:02:10+00",
+  "conditionId": "0x88362c1591c52ea99ff8d3358e40bbee72883a496cdb9e5938545de7b8c3847a",
+  "slug": "nba-will-the-mavericks-beat-the-jazz-by-more-than-1pt5-points-in-their-march-7-8pt30-pm-et-matchup",
+  "question": "NBA: Will the Mavericks beat the Jazz by more than 1.5 points in their March 7 (8.30 PM ET) matchup?"
+}

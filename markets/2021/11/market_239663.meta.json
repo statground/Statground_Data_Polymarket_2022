@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239663",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-29T09:54:47.621000Z",
+  "market_createdAt": "2021-11-29T09:54:47.621Z",
+  "market_updatedAt": "2024-04-24T23:43:25.239613Z",
+  "market_startDate": "2021-11-29T17:26:04.576Z",
+  "market_endDate": "2021-11-29T00:00:00Z",
+  "market_closedTime": "2021-11-30 13:45:38+00",
+  "conditionId": "0xd2982cfb7a81ef9aeac505f92745347499e6dbb75864916e703a2b8603c63e00",
+  "slug": "nba-will-the-76ers-beat-the-magic-by-more-than-15pt5-points-in-their-november-29th-matchup",
+  "question": "NBA: Will the 76ers beat the Magic by more than 15.5 points in their November 29th matchup?"
+}

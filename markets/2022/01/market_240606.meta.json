@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240606",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-12T00:12:50.621000Z",
+  "market_createdAt": "2022-01-12T00:12:50.621Z",
+  "market_updatedAt": "2024-04-22T23:31:01.842272Z",
+  "market_startDate": "2022-01-12T21:08:32.714Z",
+  "market_endDate": "2022-11-15T00:00:00Z",
+  "market_closedTime": "2022-11-09 15:35:59+00",
+  "conditionId": "0xd8be2f2b4749faf84181e35012a94f5173b5ebb3af50b5513080d3e964db92d4",
+  "slug": "2022-us-gubernatorial-elections-will-a-democrat-or-republican-win-in-pennsylvania",
+  "question": "Governor: Will a Democrat (Shapiro) or Republican (Mastriano) win in Pennsylvania?"
+}

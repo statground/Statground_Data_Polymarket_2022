@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242016",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-11T13:25:31.245000Z",
+  "market_createdAt": "2022-03-11T13:25:31.245Z",
+  "market_updatedAt": "2024-04-24T23:29:50.491964Z",
+  "market_startDate": "2022-03-11T20:34:03.701Z",
+  "market_endDate": "2022-03-11T00:00:00Z",
+  "market_closedTime": "2022-03-12 14:00:28+00",
+  "conditionId": "0xc5563d657bd7b7e5d2a0cd509a9b917c448ccc94ea77db76b068e45c25771189",
+  "slug": "nhl-will-the-wild-beat-the-blue-jackets-by-more-than-1pt5-goals-in-their-march-11-matchup-7-pm-et",
+  "question": "NHL: Will the Wild beat the Blue Jackets by more than 1.5 goals in their March 11 matchup (7 PM ET)?"
+}

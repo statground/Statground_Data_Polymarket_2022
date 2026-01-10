@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248129",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-26T23:32:30.559000Z",
+  "market_createdAt": "2022-11-26T23:32:30.559Z",
+  "market_updatedAt": "2023-01-31T19:43:57.992Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-31T00:00:00Z",
+  "market_closedTime": "2022-12-13 19:45:38+00",
+  "conditionId": "0x138338e34c0c8df2b545bc1346495c04fa43c3c2630078749d5c51f1c2a6be27",
+  "slug": "will-sbf-or-bitboy-be-arrested-first",
+  "question": "Will SBF or Bitboy be arrested first?"
+}

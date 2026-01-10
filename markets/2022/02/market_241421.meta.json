@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241421",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-11T10:33:20.207000Z",
+  "market_createdAt": "2022-02-11T10:33:20.207Z",
+  "market_updatedAt": "2024-04-22T23:34:54.880373Z",
+  "market_startDate": "2022-02-11T20:03:06.711Z",
+  "market_endDate": "2022-02-11T00:00:00Z",
+  "market_closedTime": "2022-02-13 05:02:58+00",
+  "conditionId": "0xa6af9abe0fe87ea542cc9c496bb1102d249a914856add8e7bd086cbbb9496428",
+  "slug": "nba-will-the-hornets-beat-the-pistons-by-more-than-6p5-points-in-their-february-11-7-pm-et-matchup",
+  "question": "NBA: Will the Hornets beat the Pistons by more than 6.5 points in their February 11 (7 PM ET) matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240900",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-20T22:43:21.373000Z",
+  "market_createdAt": "2022-01-20T22:43:21.373Z",
+  "market_updatedAt": "2024-04-24T23:52:14.925371Z",
+  "market_startDate": null,
+  "market_endDate": "2022-02-23T00:00:00Z",
+  "market_closedTime": "2022-02-23 17:30:30+00",
+  "conditionId": "0xce4747e4c39a28d7a18e262005c44a3153b3996fd1c6395945112f27104f22d9",
+  "slug": "will-annual-inflation-in-the-european-union-be-5p3-or-more-in-january",
+  "question": "Will annual inflation in the European Union be 5.3% or more in January?"
+}

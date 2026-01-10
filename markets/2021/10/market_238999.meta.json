@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238999",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-13T23:11:22.229000Z",
+  "market_createdAt": "2021-10-13T23:11:22.229Z",
+  "market_updatedAt": "2024-04-23T00:38:01.012552Z",
+  "market_startDate": "2021-10-14T16:49:18.129Z",
+  "market_endDate": "2021-10-17T00:00:00Z",
+  "market_closedTime": "2021-10-17 17:26:01+00",
+  "conditionId": "0x63b10e8c48ad327c938beaa5137eecb2c85b57a2854eaf4560937984c113adfb",
+  "slug": "will-the-dolphins-beat-the-jaguars-by-more-than-3pt5-points-in-their-week-six-matchup",
+  "question": "Will the Dolphins beat the Jaguars by more than 3.5 points in their week six matchup?"
+}

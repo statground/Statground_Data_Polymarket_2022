@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "226647",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-28T16:05:01.208000Z",
+  "market_createdAt": "2021-07-28T16:05:01.208Z",
+  "market_updatedAt": "2024-04-24T23:29:22.548582Z",
+  "market_startDate": "2021-07-28T19:05:59.108Z",
+  "market_endDate": "2021-07-30T00:00:00Z",
+  "market_closedTime": "2021-07-29 19:30:22+00",
+  "conditionId": "0x761f5d44e02a5ff530ae1047f8de8a7af972f912912fed7c95b10e70a7383f5c",
+  "slug": "will-tom-dwan-make-it-to-the-final-table-of-the-cryptog-charity-poker-tournament",
+  "question": "Will Tom Dwan make it to the final table of the CryptOG Charity Poker Tournament?"
+}

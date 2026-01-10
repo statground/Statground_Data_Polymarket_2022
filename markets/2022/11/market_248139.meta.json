@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248139",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-28T16:16:17.727000Z",
+  "market_createdAt": "2022-11-28T16:16:17.727Z",
+  "market_updatedAt": "2023-01-31T17:27:04.639Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-30T00:00:00Z",
+  "market_closedTime": "2022-11-30 20:18:07+00",
+  "conditionId": "0x488a1b6f51433679110aa522093cb8c8f34125cd96fab9cb8bfd3afd97b749c8",
+  "slug": "world-cup-wednesday-will-france-beat-tunisia",
+  "question": "World Cup: Wednesday - Will France beat Tunisia?"
+}

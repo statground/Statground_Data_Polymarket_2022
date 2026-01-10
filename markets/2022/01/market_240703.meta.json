@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240703",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-13T20:15:37.794000Z",
+  "market_createdAt": "2022-01-13T20:15:37.794Z",
+  "market_updatedAt": "2024-04-22T22:23:01.756926Z",
+  "market_startDate": "2022-01-13T20:58:26.021Z",
+  "market_endDate": "2022-01-13T00:00:00Z",
+  "market_closedTime": "2022-01-15 23:28:38+00",
+  "conditionId": "0x127a5a43cb8f560de8f7b48d12a3c806644d8fa2b32b18574b4f74c65a5452ff",
+  "slug": "nba-will-brooklyn-nets-beat-oklahoma-city-thunder-by-more-than-5pt5-points-in-their-january-13-matchup",
+  "question": "NBA: Will the Brooklyn Nets beat Oklahoma City Thunder by more than 5.5 points in their January 13 matchup?"
+}

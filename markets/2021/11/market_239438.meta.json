@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239438",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-15T11:04:44.565000Z",
+  "market_createdAt": "2021-11-15T11:04:44.565Z",
+  "market_updatedAt": "2024-04-22T23:12:14.717288Z",
+  "market_startDate": "2021-11-15T18:27:19.194Z",
+  "market_endDate": "2021-11-15T00:00:00Z",
+  "market_closedTime": "2021-11-16 10:30:30+00",
+  "conditionId": "0xc9b5f3c42c283be7389f2f268f660e11b90ae6bd9b71dd8f1c5c28cc16b93fec",
+  "slug": "nba-will-the-grizzlies-beat-the-rockets-by-more-than-10pt5-points-in-their-november-15th-matchup",
+  "question": "NBA: Will the Grizzlies beat the Rockets by more than 10.5 points in their November 15th matchup?"
+}

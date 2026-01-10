@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247439",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-04T16:56:24.957000Z",
+  "market_createdAt": "2022-10-04T16:56:24.957Z",
+  "market_updatedAt": "2023-01-31T17:38:40.032Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-10T00:00:00Z",
+  "market_closedTime": "2022-10-11 06:15:55+00",
+  "conditionId": "0xe340e96dbbbe90cc283cbcc6299e8bcaec7d42a3dd1d4c32e9cfe3c9ef6bdd65",
+  "slug": "will-lyle-lyle-crocodile-gross-more-than-18-million-domestically-on-its-opening-weekend",
+  "question": "Will 'Lyle, Lyle, Crocodile' gross more than $18 million domestically on its opening weekend?"
+}

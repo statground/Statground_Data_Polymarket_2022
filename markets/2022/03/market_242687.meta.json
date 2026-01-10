@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242687",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-31T21:13:02.511000Z",
+  "market_createdAt": "2022-03-31T21:13:02.511Z",
+  "market_updatedAt": "2023-01-31T17:45:20.604Z",
+  "market_startDate": "2022-03-31T23:17:03.409Z",
+  "market_endDate": "2022-04-29T00:00:00Z",
+  "market_closedTime": "2022-04-30 07:18:25+00",
+  "conditionId": "0xf4972bb8ae2c5ab69d0ca153448884b350550e738e170cdd6c263b6fba951f29",
+  "slug": "will-the-price-of-wheat-close-above-1050-on-april-29-2022",
+  "question": "Will the price of wheat close above $1050 on April 29, 2022?"
+}

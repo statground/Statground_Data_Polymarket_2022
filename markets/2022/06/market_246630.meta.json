@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246630",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-30T16:46:32.915000Z",
+  "market_createdAt": "2022-06-30T16:46:32.915Z",
+  "market_updatedAt": "2023-01-31T12:34:31.551Z",
+  "market_startDate": "2022-06-30T18:35:47.968Z",
+  "market_endDate": "2022-07-02T00:00:00Z",
+  "market_closedTime": "2022-07-03 08:15:57+00",
+  "conditionId": "0x6198a0ad709ebcdddc579ef41ffe9b5c5bece6c38f78d4703f83853210bf9e6b",
+  "slug": "ufc-276-who-will-win-adesanya-vs-cannonier",
+  "question": "UFC 276: Who will win - Adesanya vs Cannonier"
+}

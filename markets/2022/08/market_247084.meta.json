@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247084",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-22T19:05:03.964000Z",
+  "market_createdAt": "2022-08-22T19:05:03.964Z",
+  "market_updatedAt": "2023-01-31T17:22:18.138Z",
+  "market_startDate": "2022-08-23T17:42:17.87Z",
+  "market_endDate": "2023-01-01T00:00:00Z",
+  "market_closedTime": "2022-09-15 20:01:33+00",
+  "conditionId": "0xccf59e04c15bd9e10c91a1b515c3bf0cd5485667d0d1b527d489de64f4ba907b",
+  "slug": "will-eth-hit-2000-again-before-the-merge",
+  "question": "Will $ETH hit $2000 again before the merge?"
+}

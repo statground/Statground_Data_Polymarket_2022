@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241825",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-02T15:02:38.442000Z",
+  "market_createdAt": "2022-03-02T15:02:38.442Z",
+  "market_updatedAt": "2024-04-23T00:35:24.794758Z",
+  "market_startDate": "2022-03-02T15:56:42.147Z",
+  "market_endDate": "2022-03-02T00:00:00Z",
+  "market_closedTime": "2022-03-03 18:19:36+00",
+  "conditionId": "0xfc3e00fc36a4fec9a0521a08ddb37d6ccd17dd09921d503f6a737c14bf4dfce8",
+  "slug": "nhl-will-the-stars-beat-the-kings-by-more-than-1pt5-goals-in-their-march-2-matchup-8pt30-pm-et",
+  "question": "NHL: Will the Stars beat the Kings by more than 1.5 goals in their March 2 matchup (8.30 PM ET)?"
+}

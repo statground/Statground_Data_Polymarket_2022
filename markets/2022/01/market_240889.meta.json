@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240889",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-20T16:18:08.614000Z",
+  "market_createdAt": "2022-01-20T16:18:08.614Z",
+  "market_updatedAt": "2024-04-24T23:37:37.886453Z",
+  "market_startDate": "2022-01-20T20:15:08.399Z",
+  "market_endDate": "2022-01-20T00:00:00Z",
+  "market_closedTime": "2022-01-24 21:49:16+00",
+  "conditionId": "0xc79e3a6a5ef5b0c7492d5af5345cc18c8b6fe4f760da7d0aef2200650aaa7181",
+  "slug": "nba-will-the-warriors-beat-the-pacers-by-more-than-11p5-points-in-their-january-20-matchup",
+  "question": "NBA: Will the Warriors beat the Pacers by more than 11.5 points in their January 20 matchup?"
+}

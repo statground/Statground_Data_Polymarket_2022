@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240887",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-20T16:10:47.803000Z",
+  "market_createdAt": "2022-01-20T16:10:47.803Z",
+  "market_updatedAt": "2024-04-23T00:54:23.606647Z",
+  "market_startDate": "2022-01-20T20:14:47.325Z",
+  "market_endDate": "2022-01-20T00:00:00Z",
+  "market_closedTime": "2022-01-24 21:54:02+00",
+  "conditionId": "0x0297acb5683b8f002f8f688817727c6907cc0b4f0fd4637f750cbb479fb93c98",
+  "slug": "nba-will-the-knicks-beat-the-pelicans-by-more-than-4p5-points-in-their-january-20-matchup",
+  "question": "NBA: Will the Knicks beat the Pelicans by more than 4.5 points in their January 20 matchup?"
+}

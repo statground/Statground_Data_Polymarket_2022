@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241298",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-03T16:41:25.121000Z",
+  "market_createdAt": "2022-02-03T16:41:25.121Z",
+  "market_updatedAt": "2024-04-23T00:07:18.30687Z",
+  "market_startDate": "2022-02-04T14:31:38.123Z",
+  "market_endDate": "2022-02-17T00:00:00Z",
+  "market_closedTime": "2022-02-12 01:15:13+00",
+  "conditionId": "0x7942d445cfb16f5a270c2307c1cfcf48129fa8a46e58868033058a34c47e232c",
+  "slug": "fide-world-chess-grand-prix-2022-will-levon-aronian-win-pool-c",
+  "question": "FIDE World Chess Grand Prix 2022: Will Levon Aronian win Pool C?"
+}

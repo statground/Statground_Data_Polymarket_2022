@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "212449",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-07T18:45:01.942000Z",
+  "market_createdAt": "2021-06-07T18:45:01.942Z",
+  "market_updatedAt": "2024-04-22T23:12:24.707038Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-01T00:00:00Z",
+  "market_closedTime": "2021-07-01 22:27:08+00",
+  "conditionId": "0xd7b2608f1176d122822ebfa7d507ce4efd173587157ae8912bfffe8e153abceb",
+  "slug": "will-link-chainlink-be-above-27-on-july-1",
+  "question": "Will $LINK (Chainlink) be above $27 on July 1?"
+}

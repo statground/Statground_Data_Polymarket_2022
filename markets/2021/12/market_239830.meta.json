@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239830",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-04T10:38:05.849000Z",
+  "market_createdAt": "2021-12-04T10:38:05.849Z",
+  "market_updatedAt": "2024-04-22T23:11:27.734292Z",
+  "market_startDate": "2021-12-04T19:38:48.098Z",
+  "market_endDate": "2021-12-04T00:00:00Z",
+  "market_closedTime": "2021-12-06 20:27:54+00",
+  "conditionId": "0x614c18ba41a31826a2f08065bf367ddb0229f57018f2797dc1275836eaa20f2d",
+  "slug": "nba-will-the-sum-of-points-in-clippers-v-kings-be-greater-than-217pt5",
+  "question": "NBA: Will the sum of points in Clippers v Kings be greater than 217.5?"
+}

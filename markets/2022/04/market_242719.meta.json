@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242719",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-01T09:10:56.833000Z",
+  "market_createdAt": "2022-04-01T09:10:56.833Z",
+  "market_updatedAt": "2024-04-23T00:51:59.65789Z",
+  "market_startDate": "2022-04-01T15:36:45.506Z",
+  "market_endDate": "2022-04-01T00:00:00Z",
+  "market_closedTime": "2022-04-02 07:19:38+00",
+  "conditionId": "0x7bba35547eece8da4d0f1532ab91550fd6fd19f85052be6e02a31a9d17a8da99",
+  "slug": "nba-will-the-mavericks-beat-the-wizards-by-more-than-8pt5-points-in-their-april-1-710-pm-et-matchup",
+  "question": "NBA: Will the Mavericks beat the Wizards by more than 8.5 points in their April 1, 7:10 PM ET matchup?"
+}

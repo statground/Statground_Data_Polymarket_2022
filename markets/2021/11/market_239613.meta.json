@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239613",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-26T09:11:20.956000Z",
+  "market_createdAt": "2021-11-26T09:11:20.956Z",
+  "market_updatedAt": "2024-04-25T00:05:01.865527Z",
+  "market_startDate": "2021-11-26T19:20:08.147Z",
+  "market_endDate": "2021-11-26T00:00:00Z",
+  "market_closedTime": "2021-11-27 20:54:16+00",
+  "conditionId": "0x58f948e669e59a6feb5c0a09d55751dda415d44afd2a46cb6a2607a186248c40",
+  "slug": "nba-will-the-suns-beat-the-knicks-by-more-than-2pt5-points-in-their-november-26th-matchup",
+  "question": "NBA: Will the Suns beat the Knicks by more than 2.5 points in their November 26th matchup?"
+}

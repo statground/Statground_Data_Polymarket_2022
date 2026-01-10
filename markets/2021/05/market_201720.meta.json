@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "201720",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-20T17:00:02.064000Z",
+  "market_createdAt": "2021-05-20T17:00:02.064Z",
+  "market_updatedAt": "2024-04-24T23:37:55.966645Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-22T00:00:00Z",
+  "market_closedTime": "2021-05-23 19:08:50+00",
+  "conditionId": "0x11ac6c03cb81d4f0ab34dd56e6e50ec8b3f48c747277280afbc9d2c210b70aa9",
+  "slug": "will-the-nets-or-the-celtics-win-their-game-1-nba-playoff-matchup",
+  "question": "Will the Nets or the Celtics win their Game 1 NBA Playoff matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "201730",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-20T17:10:04.955000Z",
+  "market_createdAt": "2021-05-20T17:10:04.955Z",
+  "market_updatedAt": "2024-04-22T23:42:31.562202Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-24T00:00:00Z",
+  "market_closedTime": "2021-05-24 16:55:58+00",
+  "conditionId": "0x691cbeec95872adabb50f0aa9adda5e54cac82467d0aedc64dfdf759dfaab8cf",
+  "slug": "will-sanyus-potted-chrysanthemums-sell-for-more-than-hk120m-at-christies",
+  "question": "Will Sanyu’s “Potted Chrysanthemums” sell for more than HK$120M at Christie’s?"
+}

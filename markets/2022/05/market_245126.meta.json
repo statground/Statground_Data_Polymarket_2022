@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "245126",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-21T15:25:58.966000Z",
+  "market_createdAt": "2022-05-21T15:25:58.966Z",
+  "market_updatedAt": "2023-01-31T17:38:48.433Z",
+  "market_startDate": "2022-05-21T15:46:06.237Z",
+  "market_endDate": "2022-05-22T00:00:00Z",
+  "market_closedTime": "2022-05-22 19:30:47+00",
+  "conditionId": "0xb73d0eda4f43e685179a2f95ce24c69984dd936fc0db3485aee55a22b1f0f190",
+  "slug": "premier-league-who-will-win-the-crystal-palace-vs-manchester-utd-game-on-may-22",
+  "question": "Premier League: Who will win the Crystal Palace vs. Manchester Utd game on May 22?"
+}

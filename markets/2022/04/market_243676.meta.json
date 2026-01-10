@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243676",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-25T20:13:30.059000Z",
+  "market_createdAt": "2022-04-25T20:13:30.059Z",
+  "market_updatedAt": "2023-01-31T20:14:17.097Z",
+  "market_startDate": "2022-04-25T22:19:41.836Z",
+  "market_endDate": "2022-09-01T00:00:00Z",
+  "market_closedTime": "2022-09-02 16:31:06+00",
+  "conditionId": "0x658641ee162706f56d0a73309d695772151bd213a484eb9f1deb56b173243655",
+  "slug": "will-jada-or-will-smith-announce-theyre-getting-divorced-by-september-1-2022",
+  "question": "Will Jada or Will Smith announce they're getting divorced by September 1, 2022?"
+}

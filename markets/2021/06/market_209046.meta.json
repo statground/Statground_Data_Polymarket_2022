@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "209046",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-04T20:20:01.003000Z",
+  "market_createdAt": "2021-06-04T20:20:01.003Z",
+  "market_updatedAt": "2024-04-22T23:10:24.33298Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-20T00:00:00Z",
+  "market_closedTime": "2021-06-21 18:55:42+00",
+  "conditionId": "0xba009665d0e9d19c6da27b5530b6813f7858f3a4cc7bdb90b6ccba655abe3fdf",
+  "slug": "will-the-76ers-or-the-hawks-win-their-nba-conference-semifinals-series",
+  "question": "Will the 76ers or the Hawks win their NBA Conference Semifinals Series?"
+}

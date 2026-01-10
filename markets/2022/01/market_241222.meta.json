@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241222",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-31T17:39:37.520000Z",
+  "market_createdAt": "2022-01-31T17:39:37.52Z",
+  "market_updatedAt": "2024-04-22T22:33:37.447612Z",
+  "market_startDate": null,
+  "market_endDate": "2022-02-14T00:00:00Z",
+  "market_closedTime": "2022-02-10 20:57:51+00",
+  "conditionId": "0x625e2c5d86c8f28d1575279ccc50ff1cef959d3a3e4604e7ad3dbd848389b13d",
+  "slug": "will-ethereum-reach-3000-by-valentines-day",
+  "question": "Will Ethereum reach $3000 by Valentine's Day?"
+}

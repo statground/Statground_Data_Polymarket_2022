@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240035",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-14T22:47:53.359000Z",
+  "market_createdAt": "2021-12-14T22:47:53.359Z",
+  "market_updatedAt": "2024-04-23T00:56:16.964941Z",
+  "market_startDate": "2021-12-15T22:43:16.89Z",
+  "market_endDate": "2021-12-28T00:00:00Z",
+  "market_closedTime": "2021-12-29 16:24:41+00",
+  "conditionId": "0x0827fb6e418c891e92cdd7b18a9e5ed666afd352a14fb2576922fc4716053749",
+  "slug": "chess-will-magnus-carlsen-win-the-2021-fide-world-rapid-championship",
+  "question": "Chess: Will Magnus Carlsen win the 2021 FIDE World Rapid Championship?"
+}

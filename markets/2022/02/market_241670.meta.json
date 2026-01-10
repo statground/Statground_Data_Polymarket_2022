@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241670",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-24T11:06:16.221000Z",
+  "market_createdAt": "2022-02-24T11:06:16.221Z",
+  "market_updatedAt": "2024-04-22T23:17:12.653285Z",
+  "market_startDate": "2022-02-24T14:32:31.569Z",
+  "market_endDate": "2022-02-24T00:00:00Z",
+  "market_closedTime": "2022-02-25 18:19:14+00",
+  "conditionId": "0x01350645c4a920cbcec8776400259149f9292af9471280aac26b5399cfd620cb",
+  "slug": "nhl-will-the-predators-beat-the-stars-by-more-than-1p5-goals-in-their-february-24-matchup-830-pm-et",
+  "question": "NHL: Will the Predators beat the Stars by more than 1.5 goals in their February 24 matchup (8.30 PM ET)?"
+}

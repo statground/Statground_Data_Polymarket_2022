@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243131",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-12T00:29:43.136000Z",
+  "market_createdAt": "2022-04-12T00:29:43.136Z",
+  "market_updatedAt": "2023-01-31T21:09:59.476Z",
+  "market_startDate": "2022-04-12T14:21:24.871Z",
+  "market_endDate": "2022-04-12T00:00:00Z",
+  "market_closedTime": "2022-04-13 06:46:58+00",
+  "conditionId": "0xcdfb8460432c888d63009ab66f0895d892bef0dfa76dfaa6e6870863a1be0e15",
+  "slug": "nba-will-the-timberwolves-beat-the-clippers-by-more-than-2pt5-points-in-their-april-12-930pm-et-matchup",
+  "question": "NBA: Will the Timberwolves beat the Clippers by more than 2.5 points in their April 12 (9:30PM ET) matchup?"
+}

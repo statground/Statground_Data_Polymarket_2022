@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243071",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-10T16:37:24.450000Z",
+  "market_createdAt": "2022-04-10T16:37:24.45Z",
+  "market_updatedAt": "2023-01-31T17:18:03.967Z",
+  "market_startDate": "2022-04-10T16:48:41.2Z",
+  "market_endDate": "2022-04-10T00:00:00Z",
+  "market_closedTime": "2022-04-11 09:16:55+00",
+  "conditionId": "0x57d878e0044efd996ecd75ccea0018ab630e2fe5dd89e19abaaccb9b6816a12d",
+  "slug": "nhl-will-the-stars-beat-the-blackhawks-by-more-than-1pt5-goals-in-their-april-10-matchup-7-pm-et",
+  "question": "NHL: Will the Stars beat the Blackhawks by more than 1.5 goals in their April 10 matchup (7 PM ET)?"
+}

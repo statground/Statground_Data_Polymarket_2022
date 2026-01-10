@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241884",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-04T15:14:17.634000Z",
+  "market_createdAt": "2022-03-04T15:14:17.634Z",
+  "market_updatedAt": "2024-04-22T23:19:02.647489Z",
+  "market_startDate": "2022-03-04T17:31:46.797Z",
+  "market_endDate": "2022-03-04T00:00:00Z",
+  "market_closedTime": "2022-03-05 14:15:32+00",
+  "conditionId": "0xb6ca6edee2bd47b48015930c5bec89b35f075f557a6303b5ebf58c7c98fddfe7",
+  "slug": "nba-who-will-win-the-hawks-vspt-wizards-scheduled-for-march-4-7-pm-et",
+  "question": "NBA: Who will win the Hawks vs. Wizards, scheduled for March 4 (7 PM ET)?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240341",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T00:50:25.126000Z",
+  "market_createdAt": "2022-01-11T00:50:25.126Z",
+  "market_updatedAt": "2024-04-22T23:31:18.684529Z",
+  "market_startDate": "2022-01-12T20:45:39.399Z",
+  "market_endDate": "2022-02-13T00:00:00Z",
+  "market_closedTime": "2022-02-01 23:18:49+00",
+  "conditionId": "0x9a9b8e38dfbb6d39a740993b24097993e360eb8e7f1790262d5655fed47b22d3",
+  "slug": "will-the-kansas-city-chiefs-win-the-21-22-superbowl",
+  "question": "Will the Kansas City Chiefs win the ‘21-’22 Superbowl?"
+}

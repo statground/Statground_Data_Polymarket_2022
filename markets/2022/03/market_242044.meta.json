@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242044",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-13T13:08:58.653000Z",
+  "market_createdAt": "2022-03-13T13:08:58.653Z",
+  "market_updatedAt": "2024-04-22T23:54:50.198321Z",
+  "market_startDate": "2022-03-13T17:57:19.982Z",
+  "market_endDate": "2022-03-13T00:00:00Z",
+  "market_closedTime": "2022-03-14 10:15:32+00",
+  "conditionId": "0x18d4d7df7b61ba87827572bf8614e61d7e9bf2d18aa81b3f8df04cbac4780e92",
+  "slug": "nba-who-will-win-the-suns-vspt-lakers-scheduled-for-march-13-8-pm-et",
+  "question": "NBA: Who will win the Suns vs. Lakers, scheduled for March 13 (8 PM ET)?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248138",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-28T16:12:28.996000Z",
+  "market_createdAt": "2022-11-28T16:12:28.996Z",
+  "market_updatedAt": "2023-01-31T04:57:11.294Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-30T00:00:00Z",
+  "market_closedTime": "2022-11-30 20:17:51+00",
+  "conditionId": "0x01553782d8ac12fa7f71dd272a3b4f2f3897d3bdfa5c0cbc04bbb41f1d3fed17",
+  "slug": "world-cup-wednesday-will-denmark-beat-australia",
+  "question": "World Cup: Wednesday - Will Denmark beat Australia?"
+}

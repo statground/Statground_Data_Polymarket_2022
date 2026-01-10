@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239611",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-26T09:07:18.747000Z",
+  "market_createdAt": "2021-11-26T09:07:18.747Z",
+  "market_updatedAt": "2024-04-23T00:15:55.479375Z",
+  "market_startDate": "2021-11-26T19:19:33.435Z",
+  "market_endDate": "2021-11-26T00:00:00Z",
+  "market_closedTime": "2021-11-27 20:52:18+00",
+  "conditionId": "0xd88512401241ae29127a0525eb42b813f54a347da3d774e7400a476510494c01",
+  "slug": "nba-will-the-clippers-beat-the-pistons-by-more-than-11pt5-points-in-their-november-26th-matchup",
+  "question": "NBA: Will the Clippers beat the Pistons by more than 11.5 points in their November 26th matchup?"
+}

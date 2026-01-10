@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240214",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-28T08:25:22.825000Z",
+  "market_createdAt": "2021-12-28T08:25:22.825Z",
+  "market_updatedAt": "2024-04-22T23:34:07.79622Z",
+  "market_startDate": "2021-12-28T17:31:07.211Z",
+  "market_endDate": "2022-01-14T00:00:00Z",
+  "market_closedTime": "2022-01-15 00:19:18+00",
+  "conditionId": "0x78a1187c8ed5c69404c257718082968829a2ba6f2bba44c6dde4d915a992a145",
+  "slug": "which-country-will-report-a-higher-7-day-covid-19-case-average-per-capita-on-january-12-france-italy-usa-or-spain",
+  "question": "Which country will report a higher 7-day COVID-19 case average per capita on January 12: France, Italy, USA or Spain?"
+}

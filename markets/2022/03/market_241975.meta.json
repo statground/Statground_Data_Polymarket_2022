@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241975",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-08T20:10:45.449000Z",
+  "market_createdAt": "2022-03-08T20:10:45.449Z",
+  "market_updatedAt": "2024-04-23T00:10:19.430221Z",
+  "market_startDate": "2022-03-08T21:29:13.801Z",
+  "market_endDate": "2022-03-08T00:00:00Z",
+  "market_closedTime": "2022-03-09 19:00:35+00",
+  "conditionId": "0x08024ca4df2c4af9455654491407696999f4e1b193db96672f5080d28bac51b7",
+  "slug": "nba-who-will-win-the-cavaliers-vspt-pacers-scheduled-for-march-8-7-pm-et",
+  "question": "NBA: Who will win the Cavaliers vs. Pacers, scheduled for March 8 (7 PM ET)?"
+}

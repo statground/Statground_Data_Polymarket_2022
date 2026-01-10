@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241820",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-02T14:31:06.148000Z",
+  "market_createdAt": "2022-03-02T14:31:06.148Z",
+  "market_updatedAt": "2024-04-23T00:07:32.120997Z",
+  "market_startDate": "2022-03-02T15:52:55.947Z",
+  "market_endDate": "2022-03-02T00:00:00Z",
+  "market_closedTime": "2022-03-03 18:17:02+00",
+  "conditionId": "0x04d758de4518720a832469cb00c57fd0f294d04530b921b8ee20f838079c5255",
+  "slug": "nba-will-the-bucks-beat-the-heat-by-more-than-4pt5-points-in-their-march-2-8-pm-et-matchup",
+  "question": "NBA: Will the Bucks beat the Heat by more than 4.5 points in their March 2 (8 PM ET) matchup?"
+}

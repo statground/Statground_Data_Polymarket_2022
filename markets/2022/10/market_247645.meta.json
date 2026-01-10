@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247645",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-13T19:42:34.313000Z",
+  "market_createdAt": "2022-10-13T19:42:34.313Z",
+  "market_updatedAt": "2023-01-31T21:06:36.671Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-22T00:00:00Z",
+  "market_closedTime": "2022-10-23 01:45:44+00",
+  "conditionId": "0x1e26ab9e0a7b68c9c9e3cef76234d9cdb5cf4c0ec51ff408797e82dbce062c9e",
+  "slug": "ufc-280-who-will-win-oliveira-vs-makhachev",
+  "question": "UFC 280: Who will win - Oliveira vs Makhachev"
+}

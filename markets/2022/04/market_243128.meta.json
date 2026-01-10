@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243128",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-12T00:21:31.391000Z",
+  "market_createdAt": "2022-04-12T00:21:31.391Z",
+  "market_updatedAt": "2023-01-31T17:22:18.33Z",
+  "market_startDate": "2022-04-12T14:20:52.896Z",
+  "market_endDate": "2022-04-12T00:00:00Z",
+  "market_closedTime": "2022-04-13 06:46:44+00",
+  "conditionId": "0x86e7bc4cdb50bbeea3cabe33238fa1b1ecdf43e04559a3a028634f55a64747f5",
+  "slug": "nba-will-the-nets-beat-the-cavaliers-by-more-than-8pt5-points-in-their-april-12-7-pm-et-matchup",
+  "question": "NBA: Will the Nets beat the Cavaliers by more than 8.5 points in their April 12 (7 PM ET) matchup?"
+}

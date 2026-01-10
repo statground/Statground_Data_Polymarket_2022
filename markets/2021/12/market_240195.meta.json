@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240195",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-27T20:27:26.381000Z",
+  "market_createdAt": "2021-12-27T20:27:26.381Z",
+  "market_updatedAt": "2024-04-22T22:54:51.514892Z",
+  "market_startDate": "2021-12-28T03:34:52.902Z",
+  "market_endDate": "2022-01-12T00:00:00Z",
+  "market_closedTime": "2022-01-13 18:40:06+00",
+  "conditionId": "0x94a7e935222a06d4ad4ab33bd451312e06a3eb644e4a5405fb18799344f0cf04",
+  "slug": "will-annual-inflation-in-the-usa-be-7pt0-or-more-in-december-2021",
+  "question": "Will annual inflation in the USA be 7.0% or more in December 2021?"
+}

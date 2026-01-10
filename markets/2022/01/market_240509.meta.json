@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240509",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T17:58:44.283000Z",
+  "market_createdAt": "2022-01-11T17:58:44.283Z",
+  "market_updatedAt": "2024-04-23T00:22:40.305141Z",
+  "market_startDate": "2022-01-12T21:07:32.646Z",
+  "market_endDate": "2022-03-01T00:00:00Z",
+  "market_closedTime": "2022-03-02 16:26:10+00",
+  "conditionId": "0x3b4e067f7aae2bdcc298baa4e3980431873f1813240dd8889a0f3884d844be94",
+  "slug": "will-metamask-launch-a-token-by-march-1st-2022",
+  "question": "Will MetaMask launch a token by March 1st, 2022?"
+}

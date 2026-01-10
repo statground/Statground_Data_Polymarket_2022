@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242448",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-24T19:04:03.872000Z",
+  "market_createdAt": "2022-03-24T19:04:03.872Z",
+  "market_updatedAt": "2024-04-22T23:23:21.461503Z",
+  "market_startDate": "2022-03-24T19:47:12.565Z",
+  "market_endDate": "2022-04-11T00:00:00Z",
+  "market_closedTime": "2022-04-11 02:45:52+00",
+  "conditionId": "0xf43c21bacfed6a34676013efa60f140174bf3795f306165247273d83cb8a33b7",
+  "slug": "golf-will-jon-rahm-win-the-2022-masters-tournament",
+  "question": "Golf: Will Jon Rahm win the 2022 Masters Tournament?"
+}

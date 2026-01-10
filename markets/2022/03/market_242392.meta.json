@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242392",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-22T18:08:15.952000Z",
+  "market_createdAt": "2022-03-22T18:08:15.952Z",
+  "market_updatedAt": "2024-04-22T23:11:45.216332Z",
+  "market_startDate": "2022-03-22T18:13:31.983Z",
+  "market_endDate": "2022-06-10T00:00:00Z",
+  "market_closedTime": "2022-05-13 01:45:55+00",
+  "conditionId": "0xf66f9c70a4bb796e60ffd89ef5ec74356f4021024f024b505263fb0efc2d5bdb",
+  "slug": "will-joel-embiid-win-nba-21-22-mvp",
+  "question": "Will Joel Embiid win NBA ’21-’22 MVP?"
+}

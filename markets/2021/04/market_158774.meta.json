@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "158774",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-27T20:35:02.675000Z",
+  "market_createdAt": "2021-04-27T20:35:02.675Z",
+  "market_updatedAt": "2024-04-22T23:03:36.260072Z",
+  "market_startDate": null,
+  "market_endDate": "2021-09-30T00:00:00Z",
+  "market_closedTime": "2021-10-01 18:42:07+00",
+  "conditionId": "0xc20d895097d0f871a4ab7af0ae2a45deba6bcb2044f8abfd53fa2ef6e2865b60",
+  "slug": "will-donald-trump-be-president-of-the-usa-on-september-30-2021",
+  "question": "Will Donald Trump be President of the USA on September 30, 2021?"
+}

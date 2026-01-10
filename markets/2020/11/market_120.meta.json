@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "120",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-11-25T19:00:13.858000Z",
+  "market_createdAt": "2020-11-25T19:00:13.858Z",
+  "market_updatedAt": "2024-04-23T00:42:38.0002Z",
+  "market_startDate": null,
+  "market_endDate": "2020-11-29T00:00:00Z",
+  "market_closedTime": "2020-11-29 19:18:49+00",
+  "conditionId": "0x57030aa588d4e7da748f861da54fea976fe8f1fe5440cd8843e305732a682d02",
+  "slug": "will-mike-tyson-win-his-boxing-match-against-roy-jones",
+  "question": "Will Mike Tyson win his boxing match against Roy Jones Jr?"
+}

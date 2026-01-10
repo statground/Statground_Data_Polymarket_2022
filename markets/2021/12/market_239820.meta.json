@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239820",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-03T22:47:04.747000Z",
+  "market_createdAt": "2021-12-03T22:47:04.747Z",
+  "market_updatedAt": "2024-04-23T00:13:37.708589Z",
+  "market_startDate": null,
+  "market_endDate": "2022-01-04T00:00:00Z",
+  "market_closedTime": "2022-01-06 03:05:13+00",
+  "conditionId": "0x729deb73ee43e45d9857ed31bb38a2611b9b2dce9a0c8aa3f3997cc711de0e6e",
+  "slug": "will-at-least-10pct-of-us-covid-19-cases-be-from-the-omicron-variant-on-january-1-2022",
+  "question": "Will at least 10% of U.S. COVID-19 cases be from the Omicron variant on January 1, 2022?"
+}

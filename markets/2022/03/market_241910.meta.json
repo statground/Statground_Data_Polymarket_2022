@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241910",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-04T23:14:25.095000Z",
+  "market_createdAt": "2022-03-04T23:14:25.095Z",
+  "market_updatedAt": "2024-04-24T23:45:03.637928Z",
+  "market_startDate": null,
+  "market_endDate": "2022-03-05T00:00:00Z",
+  "market_closedTime": "2022-03-06 19:00:58+00",
+  "conditionId": "0xd61730cf2f9455f8d94acf7b642199eb540300dda1351a09b3fcff86cc860064",
+  "slug": "ufc-272-who-will-win-colby-covington-or-jorge-masvidal",
+  "question": "UFC 272: Who will win - Colby Covington or Jorge Masvidal?"
+}

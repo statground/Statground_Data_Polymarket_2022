@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241630",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-20T17:01:56.847000Z",
+  "market_createdAt": "2022-02-20T17:01:56.847Z",
+  "market_updatedAt": "2024-04-22T23:22:50.226767Z",
+  "market_startDate": "2022-02-20T17:26:42.542Z",
+  "market_endDate": "2022-02-20T00:00:00Z",
+  "market_closedTime": "2022-02-21 16:33:06+00",
+  "conditionId": "0x69a1005e8a402afa5c80e88ae1b39f6edb7ccf56709ce10afe2f0e7efd18c935",
+  "slug": "nhl-will-the-oilers-beat-the-wild-by-more-than-1p5-goals-in-their-february-20-matchup-8-pm-et",
+  "question": "NHL: Will the Oilers beat the Wild by more than 1.5 goals in their February 20 matchup (8 PM ET)?"
+}

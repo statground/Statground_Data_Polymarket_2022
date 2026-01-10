@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246679",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-11T12:59:46.129000Z",
+  "market_createdAt": "2022-07-11T12:59:46.129Z",
+  "market_updatedAt": "2023-01-31T21:16:35.441Z",
+  "market_startDate": "2022-07-11T15:35:59.688Z",
+  "market_endDate": "2022-07-25T00:00:00Z",
+  "market_closedTime": "2022-07-26 04:00:28+00",
+  "conditionId": "0x1d49d200d7415a06fb429ea7d08b1407673ab0a2b1c3d9eec121ab8bead56b4c",
+  "slug": "will-nope-gross-more-than-60-million-domestically-on-its-opening-weekend",
+  "question": "Will ‘Nope’ gross more than $60 million domestically on its opening weekend?"
+}

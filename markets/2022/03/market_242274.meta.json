@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242274",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-19T09:07:20.747000Z",
+  "market_createdAt": "2022-03-19T09:07:20.747Z",
+  "market_updatedAt": "2024-04-23T00:41:34.286747Z",
+  "market_startDate": "2022-03-19T17:14:40.346Z",
+  "market_endDate": "2022-03-19T00:00:00Z",
+  "market_closedTime": "2022-03-20 20:53:09+00",
+  "conditionId": "0xb2515c2e77a24f26c97c92cfced62b49ee4cb28aade71c6a87429198c2e26a04",
+  "slug": "nba-who-will-win-mavericks-vspt-hornets-scheduled-for-march-19-710-pm-et",
+  "question": "NBA: Who will win Mavericks vs. Hornets, scheduled for March 19, 7:10 PM ET?"
+}

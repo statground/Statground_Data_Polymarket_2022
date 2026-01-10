@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244758",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-13T04:05:26.282000Z",
+  "market_createdAt": "2022-05-13T04:05:26.282Z",
+  "market_updatedAt": "2023-01-31T20:16:21.733Z",
+  "market_startDate": "2022-05-13T17:56:04.223Z",
+  "market_endDate": "2022-05-13T00:00:00Z",
+  "market_closedTime": "2022-05-14 06:30:39+00",
+  "conditionId": "0x370ec5e2bbbadd5e94afd1dbd12d50288949b226c04d0e4ac1bb5722df1c86be",
+  "slug": "nhl-who-will-win-panthers-vs-capitals-scheduled-for-may-13-730-pm-et",
+  "question": "NHL: Who will win Panthers vs. Capitals, scheduled for May 13, 7:30 PM ET?"
+}

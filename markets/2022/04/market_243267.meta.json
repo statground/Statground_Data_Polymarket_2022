@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243267",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-14T08:17:40.049000Z",
+  "market_createdAt": "2022-04-14T08:17:40.049Z",
+  "market_updatedAt": "2023-01-31T20:59:49.171Z",
+  "market_startDate": "2022-04-14T14:51:21.169Z",
+  "market_endDate": "2022-04-14T00:00:00Z",
+  "market_closedTime": "2022-04-15 07:32:10+00",
+  "conditionId": "0x5508a0625ddc048de3aa2e449eea2c2fda29f8c99818fc4d471052003cd2f12d",
+  "slug": "mlb-who-will-win-seattle-mariners-vs-chicago-white-sox-scheduled-for-april-14-211-pm-et",
+  "question": "MLB: Who will win Seattle Mariners vs. Chicago White Sox, scheduled for April 14, 2:11 PM ET?"
+}

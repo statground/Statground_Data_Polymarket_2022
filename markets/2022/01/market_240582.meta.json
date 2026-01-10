@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240582",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T22:36:57.770000Z",
+  "market_createdAt": "2022-01-11T22:36:57.77Z",
+  "market_updatedAt": "2024-04-22T23:08:53.980129Z",
+  "market_startDate": "2022-01-12T21:15:20.162Z",
+  "market_endDate": "2022-02-02T00:00:00Z",
+  "market_closedTime": "2022-02-04 23:37:40+00",
+  "conditionId": "0x9c50519a96d788335f758716433566acaf67bdfd5f32110554689092575ebf6e",
+  "slug": "will-opensea-have-more-than-5-billion-in-volume-in-january-2022",
+  "question": "Will OpenSea have more than $5 billion in volume in January 2022?"
+}

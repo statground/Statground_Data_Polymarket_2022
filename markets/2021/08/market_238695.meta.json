@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238695",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-31T17:32:01.356000Z",
+  "market_createdAt": "2021-08-31T17:32:01.356Z",
+  "market_updatedAt": "2024-04-22T22:43:26.415525Z",
+  "market_startDate": "2021-09-01T20:43:45.113Z",
+  "market_endDate": "2021-09-02T00:00:00Z",
+  "market_closedTime": "2021-09-03 18:57:11+00",
+  "conditionId": "0xafec9c39e5a282419150e162425332393fcad5dd3f3337b16ff0760a76a0310c",
+  "slug": "ohio-minus14-v-minnesota-spread",
+  "question": "Ohio (-14) v. Minnesota Spread"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241446",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-12T11:20:31.418000Z",
+  "market_createdAt": "2022-02-12T11:20:31.418Z",
+  "market_updatedAt": "2024-04-22T22:30:09.085061Z",
+  "market_startDate": "2022-02-12T16:27:27.093Z",
+  "market_endDate": "2022-02-12T00:00:00Z",
+  "market_closedTime": "2022-02-13 12:04:21+00",
+  "conditionId": "0x1416ee4b2090056812a7d9b77eda877b5991e1bf76c4eacc0f7e03227792c9c1",
+  "slug": "nhl-will-the-flames-beat-the-islanders-by-more-than-1p5-goals-in-their-february-12-matchup-10-pm-et",
+  "question": "NHL: Will the Flames beat the Islanders by more than 1.5 goals in their February 12 matchup (10 PM ET)?"
+}

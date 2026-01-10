@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240067",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-16T22:35:47.384000Z",
+  "market_createdAt": "2021-12-16T22:35:47.384Z",
+  "market_updatedAt": "2024-04-23T00:27:27.142441Z",
+  "market_startDate": "2021-12-17T20:55:57.089Z",
+  "market_endDate": "2021-12-19T00:00:00Z",
+  "market_closedTime": "2021-12-20 14:09:46+00",
+  "conditionId": "0xef21b05de130e2aad78ef6c95c5ec35cf38107abd39cc0538f8693e08b5e16e1",
+  "slug": "nfl-will-the-jaguars-beat-the-texans-by-more-than-3pt5-points-in-their-december-19-matchup",
+  "question": "NFL: Will the Jaguars beat the Texans by more than 3.5 points in their December 19 matchup?"
+}

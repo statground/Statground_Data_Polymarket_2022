@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243313",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-16T07:41:46.327000Z",
+  "market_createdAt": "2022-04-16T07:41:46.327Z",
+  "market_updatedAt": "2023-01-31T11:08:34.625Z",
+  "market_startDate": "2022-04-16T15:26:50.406Z",
+  "market_endDate": "2022-04-16T00:00:00Z",
+  "market_closedTime": "2022-04-17 07:33:04+00",
+  "conditionId": "0xb7b4659d82ada69f2142d94e68457e1688ddda25bf594fbb6144c6a0ee80ef4f",
+  "slug": "nhl-will-the-blues-beat-the-wild-by-more-than-1pt5-goals-in-their-april-16-300-pm-et-matchup",
+  "question": "NHL: Will the Blues beat the Wild by more than 1.5 goals in their April 16, 3:00 PM ET matchup?"
+}

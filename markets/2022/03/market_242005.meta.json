@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242005",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-10T12:08:07.469000Z",
+  "market_createdAt": "2022-03-10T12:08:07.469Z",
+  "market_updatedAt": "2024-04-23T00:25:39.229169Z",
+  "market_startDate": "2022-03-10T17:17:10.061Z",
+  "market_endDate": "2022-03-10T00:00:00Z",
+  "market_closedTime": "2022-03-12 02:00:30+00",
+  "conditionId": "0x022a97b20f90c8bc9642465663bdef33d21f3fdd775ede9f1b75b8706cf9a0f2",
+  "slug": "nhl-will-the-maple-leafs-beat-the-coyotes-by-more-than-1pt5-goals-in-their-march-10-matchup-7-pm-et",
+  "question": "NHL: Will the Maple Leafs beat the Coyotes by more than 1.5 goals in their March 10 matchup (7 PM ET)?"
+}

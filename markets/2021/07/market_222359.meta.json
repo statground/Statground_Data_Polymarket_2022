@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "222359",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-06T17:05:01.206000Z",
+  "market_createdAt": "2021-07-06T17:05:01.206Z",
+  "market_updatedAt": "2024-04-22T23:17:26.380244Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-29T00:00:00Z",
+  "market_closedTime": "2021-07-29 20:37:07+00",
+  "conditionId": "0x13508723af6e56da706d450adc36636e83d9760b99aab3edf1ba5fd324552418",
+  "slug": "will-sol-solana-be-above-33-on-july-29",
+  "question": "Will $SOL (Solana) be above $33 on July 29?"
+}

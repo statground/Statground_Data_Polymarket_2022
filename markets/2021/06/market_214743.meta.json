@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "214743",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-09T18:10:01.234000Z",
+  "market_createdAt": "2021-06-09T18:10:01.234Z",
+  "market_updatedAt": "2024-04-22T22:34:22.590512Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-15T00:00:00Z",
+  "market_closedTime": "2021-06-17 15:11:42+00",
+  "conditionId": "0x52cd90e5c1978286d0455a8f9f18a5af00858b5fc5f3bfbe7150ca21daedd606",
+  "slug": "how-much-will-in-the-heights-gross-domestically-on-opening-weekend",
+  "question": "How much will “In the Heights” gross domestically on opening weekend?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240394",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T12:42:17.711000Z",
+  "market_createdAt": "2022-01-11T12:42:17.711Z",
+  "market_updatedAt": "2024-04-22T23:01:10.414679Z",
+  "market_startDate": "2022-01-12T20:59:10.953Z",
+  "market_endDate": "2022-01-26T00:00:00Z",
+  "market_closedTime": "2022-01-29 18:16:05+00",
+  "conditionId": "0x6a42469c5bbde38a21dc7c77d7f07bee87db001673accdbf35c8d856392c6b17",
+  "slug": "will-joe-bidens-fivethirtyeight-approval-rating-be-between-42pt7-and-42pt9-on-january-26",
+  "question": "Will Joe Biden's FiveThirtyEight approval rating be between 42.7% and 42.9% on January 26?"
+}

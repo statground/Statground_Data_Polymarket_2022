@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "245571",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-27T16:05:12.431000Z",
+  "market_createdAt": "2022-05-27T16:05:12.431Z",
+  "market_updatedAt": "2023-01-31T17:06:31.576Z",
+  "market_startDate": "2022-05-27T16:19:50.46Z",
+  "market_endDate": "2023-01-01T00:00:00Z",
+  "market_closedTime": "2022-06-12 16:45:34+00",
+  "conditionId": "0xcc1321141750f5f83975254d121a853cc6493a32c0bf370eca5a92d86b6486a4",
+  "slug": "will-eth-hit-1500-or-2500-first",
+  "question": "Will $ETH hit $1,500 or $2,500 first?"
+}

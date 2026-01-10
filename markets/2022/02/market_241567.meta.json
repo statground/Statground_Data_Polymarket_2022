@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241567",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-16T19:17:24.857000Z",
+  "market_createdAt": "2022-02-16T19:17:24.857Z",
+  "market_updatedAt": "2024-04-22T23:51:49.271819Z",
+  "market_startDate": "2022-02-16T19:38:39.752Z",
+  "market_endDate": "2022-02-16T00:00:00Z",
+  "market_closedTime": "2022-02-17 20:28:33+00",
+  "conditionId": "0xa71665bc683c7cbef5a36483ed3a30c2ef255d8f4aa78a32f3811627eb751608",
+  "slug": "nba-will-the-pacers-beat-the-wizards-by-more-than-1p5-points-in-their-february-16-730-pm-et-matchup",
+  "question": "NBA: Will the Pacers beat the Wizards by more than 1.5 points in their February 16 (7.30 PM ET) matchup?"
+}

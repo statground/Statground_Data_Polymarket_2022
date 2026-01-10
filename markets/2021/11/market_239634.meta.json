@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239634",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-27T22:42:34.863000Z",
+  "market_createdAt": "2021-11-27T22:42:34.863Z",
+  "market_updatedAt": "2024-04-24T23:53:04.365543Z",
+  "market_startDate": "2021-11-28T17:00:20.367Z",
+  "market_endDate": "2021-12-31T00:00:00Z",
+  "market_closedTime": "2021-12-31 17:46:20+00",
+  "conditionId": "0x538231be8298db9d356a297eab85dc75b66b0ee3641e0cc46675b702ce77d108",
+  "slug": "will-donald-trump-be-president-of-the-usa-on-december-31-2021",
+  "question": "Will Donald Trump be President of the USA on December 31, 2021?"
+}

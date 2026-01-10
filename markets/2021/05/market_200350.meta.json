@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "200350",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-17T22:40:03.050000Z",
+  "market_createdAt": "2021-05-17T22:40:03.05Z",
+  "market_updatedAt": "2023-01-31T21:06:28.786Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-17T00:00:00Z",
+  "market_closedTime": "2021-06-17 19:21:55+00",
+  "conditionId": "0x348efb2ae59308d71bd9cb740ad7f57eb5483882e73895767ea9f922cd49122f",
+  "slug": "will-uni-uniswap-be-above-40-on-june-17-2021",
+  "question": "Will $UNI (Uniswap) be above $40 on June 17, 2021?"
+}

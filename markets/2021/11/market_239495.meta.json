@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239495",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-18T11:12:49.513000Z",
+  "market_createdAt": "2021-11-18T11:12:49.513Z",
+  "market_updatedAt": "2024-04-22T22:35:47.296999Z",
+  "market_startDate": "2021-11-18T17:25:19.579Z",
+  "market_endDate": "2021-11-18T00:00:00Z",
+  "market_closedTime": "2021-11-19 19:53:14+00",
+  "conditionId": "0x0815fd5d2d7d9f90e18115c91c43650c0a6e5229ecb018de5bb9d008654ffe21",
+  "slug": "nba-will-the-warriors-beat-the-cavaliers-by-more-than-8pt5-points-in-their-november-18th-matchup",
+  "question": "NBA: Will the Warriors beat the Cavaliers by more than 8.5 points in their November 18th matchup?"
+}

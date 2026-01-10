@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239842",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-05T17:19:00.462000Z",
+  "market_createdAt": "2021-12-05T17:19:00.462Z",
+  "market_updatedAt": "2024-04-23T00:54:11.842705Z",
+  "market_startDate": null,
+  "market_endDate": "2021-12-05T00:00:00Z",
+  "market_closedTime": "2021-12-06 20:35:34+00",
+  "conditionId": "0x9b57fce7d82a418cb9fb1856f44de1245d6b2585e1e71d9027f10d98b5937004",
+  "slug": "nba-will-the-sum-of-points-in-raptors-v-wizards-be-an-even-or-an-odd-number",
+  "question": "NBA: Will the sum of points in Raptors v Wizards be an even or an odd number?"
+}

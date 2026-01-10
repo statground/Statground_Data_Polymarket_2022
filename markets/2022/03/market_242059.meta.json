@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242059",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-14T11:04:12.834000Z",
+  "market_createdAt": "2022-03-14T11:04:12.834Z",
+  "market_updatedAt": "2024-04-22T22:46:09.511616Z",
+  "market_startDate": "2022-03-14T16:24:25.124Z",
+  "market_endDate": "2022-03-14T00:00:00Z",
+  "market_closedTime": "2022-03-15 10:30:34+00",
+  "conditionId": "0xe7c20cb784a4d8c3bab3bfa69005075285bcc05a763a013edf0fa9b8064670ee",
+  "slug": "nba-will-the-cavaliers-beat-the-clippers-by-more-than-6pt5-points-in-their-march-14-7-pm-et-matchup",
+  "question": "NBA: Will the Cavaliers beat the Clippers by more than 6.5 points in their March 14 (7 PM ET) matchup?"
+}

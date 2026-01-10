@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244678",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-12T19:08:00.691000Z",
+  "market_createdAt": "2022-05-12T19:08:00.691Z",
+  "market_updatedAt": "2023-01-31T17:38:40.293Z",
+  "market_startDate": "2022-05-12T21:29:00.884Z",
+  "market_endDate": "2022-05-31T00:00:00Z",
+  "market_closedTime": "2022-06-01 14:00:34+00",
+  "conditionId": "0xe7a3aa70cc3c5082e745c07c476c5f1c35fba5f3c0766625df299ce94991a275",
+  "slug": "will-top-gun-maverick-gross-100-million-or-more-on-the-4-day-memorial-weekend-in-the-usa",
+  "question": "Will ‘Top Gun: Maverick’ gross $100 million or more on the 4-day Memorial Weekend domestically?"
+}

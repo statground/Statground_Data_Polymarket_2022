@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241818",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-02T14:24:05.794000Z",
+  "market_createdAt": "2022-03-02T14:24:05.794Z",
+  "market_updatedAt": "2024-04-23T00:24:05.637806Z",
+  "market_startDate": "2022-03-02T15:52:39.415Z",
+  "market_endDate": "2022-03-02T00:00:00Z",
+  "market_closedTime": "2022-03-03 19:36:11+00",
+  "conditionId": "0x7f9416f96efe2ec1352dc903fa3e9e79321e9512c3bf58c17923af25c117d770",
+  "slug": "nba-will-the-cavaliers-beat-the-hornets-by-more-than-3pt5-points-in-their-march-2-7-pm-et-matchup",
+  "question": "NBA: Will the Cavaliers beat the Hornets by more than 3.5 points in their March 2 (7 PM ET) matchup?"
+}

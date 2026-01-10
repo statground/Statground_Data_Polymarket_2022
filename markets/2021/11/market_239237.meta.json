@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239237",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-04T12:11:45.337000Z",
+  "market_createdAt": "2021-11-04T12:11:45.337Z",
+  "market_updatedAt": "2024-04-23T00:38:44.210716Z",
+  "market_startDate": "2021-11-04T16:37:18.693Z",
+  "market_endDate": "2021-11-04T00:00:00Z",
+  "market_closedTime": "2021-11-05 18:57:57+00",
+  "conditionId": "0x6ea481a865a8e4287aed7b3d8758cc6df6c41ae7b2bfd9ab9b0b31c4a468ff86",
+  "slug": "nba-will-the-suns-beat-the-rockets-by-more-than-10pt5-points-in-their-november-4th-matchup",
+  "question": "NBA: Will the Suns beat the Rockets by more than 10.5 points in their November 4th matchup?"
+}

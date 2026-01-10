@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243099",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-11T18:23:59.205000Z",
+  "market_createdAt": "2022-04-11T18:23:59.205Z",
+  "market_updatedAt": "2023-01-31T03:49:15.709Z",
+  "market_startDate": "2022-04-11T18:32:31.439Z",
+  "market_endDate": "2022-06-01T00:00:00Z",
+  "market_closedTime": "2022-06-01 14:16:08+00",
+  "conditionId": "0x1f02c2b8e4f7dc5c8f2b7a479288b249c93f145bfecea3e05f21db68d7bb86bc",
+  "slug": "will-nancy-pelosi-visit-taiwan-before-june-2022",
+  "question": "Will Nancy Pelosi visit Taiwan before June 2022?"
+}

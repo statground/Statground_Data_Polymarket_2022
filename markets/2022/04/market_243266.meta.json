@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243266",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-14T08:15:14.046000Z",
+  "market_createdAt": "2022-04-14T08:15:14.046Z",
+  "market_updatedAt": "2023-01-31T13:47:57.795Z",
+  "market_startDate": "2022-04-14T14:53:55.432Z",
+  "market_endDate": "2022-04-14T00:00:00Z",
+  "market_closedTime": "2022-04-15 07:32:46+00",
+  "conditionId": "0x77b10ce5efa1ce8fe68abdb286e1ffec87cf879ecee5ce5c9f5497bcff331aee",
+  "slug": "nhl-will-the-canucks-beat-the-coyotes-by-more-than-1pt5-goals-in-their-april-14-1000-pm-et-matchup",
+  "question": "NHL: Will the Canucks beat the Coyotes by more than 1.5 goals in their April 14, 10:00 PM ET matchup?"
+}

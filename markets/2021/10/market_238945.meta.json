@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238945",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-04T23:08:12.416000Z",
+  "market_createdAt": "2021-10-04T23:08:12.416Z",
+  "market_updatedAt": "2024-04-26T02:45:38.059705Z",
+  "market_startDate": "2023-08-24T16:35:29.55Z",
+  "market_endDate": "2021-10-04T00:00:00Z",
+  "market_closedTime": "2021-10-05 03:54:25+00",
+  "conditionId": "0xf317c5aad5f91c79404c465d2431feaa7090464911c8ad3c746c26fb291b2ab2",
+  "slug": "in-game-trading-will-the-chargers-beat-the-raiders-by-over-35-points-in-their-monday-night-matchup",
+  "question": "(In-Game Trading) Will the Chargers beat the Raiders by over 3.5 points in their Monday Night matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240166",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-23T19:33:21.681000Z",
+  "market_createdAt": "2021-12-23T19:33:21.681Z",
+  "market_updatedAt": "2024-04-22T23:49:04.788703Z",
+  "market_startDate": "2021-12-26T08:51:37.651Z",
+  "market_endDate": "2021-12-26T00:00:00Z",
+  "market_closedTime": "2021-12-27 14:19:22+00",
+  "conditionId": "0xce0f2b2afb2df24d0e10c69fd4f223de41552c84d483d347a6ab97f963e3fefb",
+  "slug": "nfl-will-the-rams-beat-the-vikings-by-more-than-3pt5-points-in-their-december-26-matchup",
+  "question": "NFL: Will the Rams beat the Vikings by more than 3.5 points in their December 26 matchup?"
+}

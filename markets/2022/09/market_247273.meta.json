@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247273",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-16T16:42:36.946000Z",
+  "market_createdAt": "2022-09-16T16:42:36.946Z",
+  "market_updatedAt": "2023-01-31T19:05:05.934Z",
+  "market_startDate": null,
+  "market_endDate": "2022-09-23T00:00:00Z",
+  "market_closedTime": "2022-09-24 10:30:46+00",
+  "conditionId": "0x0b0fb16bf994b21ac4ce4f120c37ad714209f58b0a809bc9a3e5f5790e23b113",
+  "slug": "will-the-british-pound-be-below-1pt15-usd-on-september-23",
+  "question": "Will the British Pound be below $1.15 USD on September 23?"
+}

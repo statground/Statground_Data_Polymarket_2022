@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244023",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-02T21:54:14.712000Z",
+  "market_createdAt": "2022-05-02T21:54:14.712Z",
+  "market_updatedAt": "2023-01-31T14:22:37.156Z",
+  "market_startDate": "2022-05-02T22:26:34.043Z",
+  "market_endDate": "2022-06-15T00:00:00Z",
+  "market_closedTime": "2022-06-15 21:15:41+00",
+  "conditionId": "0x7a144ccc02835fa05315af4688aed0eeb2c189ee796018a0ba6c498f774a1391",
+  "slug": "will-the-fed-set-interest-rates-above-1pt50-after-their-scheduled-june-meeting",
+  "question": "Will the Fed set interest rates above 1.50% after their scheduled June meeting?"
+}

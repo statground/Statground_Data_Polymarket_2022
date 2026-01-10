@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "225260",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-23T20:40:01.239000Z",
+  "market_createdAt": "2021-07-23T20:40:01.239Z",
+  "market_updatedAt": "2024-04-22T23:55:38.522409Z",
+  "market_startDate": "2021-07-23T22:58:16.816Z",
+  "market_endDate": "2021-08-03T00:00:00Z",
+  "market_closedTime": "2021-07-29 19:29:28+00",
+  "conditionId": "0x212522b2b99abe14e29aeb6e1cdf6f2f296d3ca87fca648ce854359d85a46adb",
+  "slug": "will-simone-biles-win-5-or-more-gold-medals-at-the-2020-olympics",
+  "question": "Will Simone Biles win 5 or more gold medals at the 2020 Olympics?"
+}

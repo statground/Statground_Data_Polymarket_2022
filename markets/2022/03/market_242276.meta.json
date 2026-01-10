@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242276",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-19T09:07:51.322000Z",
+  "market_createdAt": "2022-03-19T09:07:51.322Z",
+  "market_updatedAt": "2024-04-22T23:34:10.615179Z",
+  "market_startDate": null,
+  "market_endDate": "2022-03-19T00:00:00Z",
+  "market_closedTime": "2022-03-20 21:01:09+00",
+  "conditionId": "0x7ca2256095cf33db57661934f15b30ac995080fd2bdcd604eede1f7947dbb019",
+  "slug": "nba-who-will-win-wizards-vspt-lakers-scheduled-for-march-19-810-pm-et",
+  "question": "NBA: Who will win Wizards vs. Lakers, scheduled for March 19, 8:10 PM ET?"
+}

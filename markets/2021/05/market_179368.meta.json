@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "179368",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-05T22:05:03.325000Z",
+  "market_createdAt": "2021-05-05T22:05:03.325Z",
+  "market_updatedAt": "2024-04-23T00:58:34.968807Z",
+  "market_startDate": null,
+  "market_endDate": "2021-09-01T00:00:00Z",
+  "market_closedTime": "2021-09-02 16:41:59+00",
+  "conditionId": "0x779a58909186c5aa240e1d2221ca1ddf108e2928759cf26882925a33cf447113",
+  "slug": "will-a-vacancy-for-the-us-supreme-court-be-announced-by-september-1-2021",
+  "question": "Will a vacancy for the US Supreme Court be announced by September 1, 2021?"
+}

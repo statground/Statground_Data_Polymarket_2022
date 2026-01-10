@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "202079",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-24T15:30:04.859000Z",
+  "market_createdAt": "2021-05-24T15:30:04.859Z",
+  "market_updatedAt": "2024-04-22T23:48:50.24726Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-06T00:00:00Z",
+  "market_closedTime": "2021-06-03 15:24:23+00",
+  "conditionId": "0x35b24743c50c193259ba6ec0412857950928522ee4aefeb094e9660958f93936",
+  "slug": "will-the-jazz-or-the-grizzlies-win-their-round-1-nba-playoff-series",
+  "question": "Will the Jazz or the Grizzlies win their Round 1 NBA Playoff Series?"
+}

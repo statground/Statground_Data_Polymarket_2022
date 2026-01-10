@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243629",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-24T07:13:31.473000Z",
+  "market_createdAt": "2022-04-24T07:13:31.473Z",
+  "market_updatedAt": "2023-01-31T11:14:28.948Z",
+  "market_startDate": "2022-04-24T15:28:49.009Z",
+  "market_endDate": "2022-04-24T00:00:00Z",
+  "market_closedTime": "2022-04-25 16:33:57+00",
+  "conditionId": "0x915a0b4aec16df2af281c3157a66fd6acb63f65d457792b331bd5f7c0beea695",
+  "slug": "nhl-will-the-penguins-beat-the-flyers-by-more-than-1pt5-goals-in-their-april-24-400-pm-et-matchup",
+  "question": "NHL: Will the Penguins beat the Flyers by more than 1.5 goals in their April 24, 4:00 PM ET matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248012",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T16:38:27.273000Z",
+  "market_createdAt": "2022-11-18T16:38:27.273Z",
+  "market_updatedAt": "2023-01-31T13:05:21.705Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-06T00:00:00Z",
+  "market_closedTime": "2022-12-08 02:30:59+00",
+  "conditionId": "0xfc3e18ba7266165616af368ffab3ce5b95194a12bd4065693d804341799ae2fe",
+  "slug": "will-the-margin-of-victory-in-the-georgia-runoff-be-5pt0-or-greater",
+  "question": "Will the Margin of Victory in the Georgia runoff be 5.0% or greater?"
+}

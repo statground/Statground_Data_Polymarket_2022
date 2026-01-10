@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238952",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-06T17:13:50.132000Z",
+  "market_createdAt": "2021-10-06T17:13:50.132Z",
+  "market_updatedAt": "2024-04-24T23:52:31.244616Z",
+  "market_startDate": "2021-10-06T17:40:31.283Z",
+  "market_endDate": "2021-10-14T00:00:00Z",
+  "market_closedTime": "2021-10-15 00:58:22+00",
+  "conditionId": "0x91b3454a883ab8974dfa127f8e8cf40d8049d203d8701876048b44d87c6a6036",
+  "slug": "will-squid-game-remain-the-1-netflix-show-in-the-us-throughout-the-second-week-of-october",
+  "question": "Will Squid Game remain the #1 Netflix show in the US throughout the ‘second week’ of October?"
+}

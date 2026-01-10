@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242619",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-29T22:56:58.208000Z",
+  "market_createdAt": "2022-03-29T22:56:58.208Z",
+  "market_updatedAt": "2024-04-22T22:39:30.32315Z",
+  "market_startDate": "2022-03-29T23:11:07.744Z",
+  "market_endDate": "2022-05-01T00:00:00Z",
+  "market_closedTime": "2022-04-04 07:15:38+00",
+  "conditionId": "0xc8240d6a53cca6278ae17993515cb6920daacd63633bf0117d559a29a7fcc57f",
+  "slug": "grammys-2022-will-drivers-license-by-olivia-rodrigo-win-song-of-the-year",
+  "question": "GRAMMYs 2022: Will \"drivers license\" by Olivia Rodrigo win Song of the Year?"
+}

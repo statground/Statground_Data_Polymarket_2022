@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241917",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-05T12:15:45.891000Z",
+  "market_createdAt": "2022-03-05T12:15:45.891Z",
+  "market_updatedAt": "2024-04-25T00:08:36.284474Z",
+  "market_startDate": null,
+  "market_endDate": "2022-03-05T00:00:00Z",
+  "market_closedTime": "2022-03-06 18:31:12+00",
+  "conditionId": "0xe98ec0c456fdb0ec4a8e72d1bb188c870cbb84a0bafe4a1dfd85bab23b19962c",
+  "slug": "nba-who-will-win-the-warriors-vspt-lakers-scheduled-for-march-5-10-pm-et",
+  "question": "NBA: Who will win the Warriors vs. Lakers, scheduled for March 5 (8 PM ET)?"
+}

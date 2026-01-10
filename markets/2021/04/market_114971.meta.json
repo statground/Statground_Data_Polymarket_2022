@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "114971",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-02T21:20:02.232000Z",
+  "market_createdAt": "2021-04-02T21:20:02.232Z",
+  "market_updatedAt": "2024-04-22T23:54:29.779137Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-05T00:00:00Z",
+  "market_closedTime": "2021-04-06 00:53:21+00",
+  "conditionId": "0xaf50e1b3f58ae937ee984729fe5d3b0351a3f33c5cbd6d8e397801685938cda1",
+  "slug": "what-will-the-weeknds-nifty-gateway-drop-generate-in-total-sales",
+  "question": "What will The Weeknd’s Nifty Gateway drop generate in total sales?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238017",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-18T22:48:01.119000Z",
+  "market_createdAt": "2021-08-18T22:48:01.119Z",
+  "market_updatedAt": "2024-04-22T22:53:45.532292Z",
+  "market_startDate": "2021-08-20T01:49:30.728Z",
+  "market_endDate": "2021-12-16T00:00:00Z",
+  "market_closedTime": "2021-12-13 19:06:19+00",
+  "conditionId": "0x5b4e442e80021ebc826b59a4e3695a3dfbbc1b41baccf076179fc2549e02ef05",
+  "slug": "who-will-win-the-2021-world-chess-championship",
+  "question": "Who will win the 2021 World Chess Championship? "
+}

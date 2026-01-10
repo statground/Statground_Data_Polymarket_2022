@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239083",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-25T08:09:17.187000Z",
+  "market_createdAt": "2021-10-25T08:09:17.187Z",
+  "market_updatedAt": "2024-04-23T00:34:34.129344Z",
+  "market_startDate": "2021-10-25T09:41:56.585Z",
+  "market_endDate": "2021-10-25T00:00:00Z",
+  "market_closedTime": "2021-10-26 09:54:02+00",
+  "conditionId": "0x7389a0c2169870d499b023ebede5a89418eeee672ac0a05aaaacb6e6f8c0cbdc",
+  "slug": "will-the-nuggets-beat-the-cavaliers-by-more-than-10pt5-points-in-their-october-25th-matchup",
+  "question": "(In-Game Trading)Will the Nuggets beat the Cavaliers by more than 10.5 points in their October 25th matchup?"
+}

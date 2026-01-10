@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247671",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-14T20:47:06.614000Z",
+  "market_createdAt": "2022-10-14T20:47:06.614Z",
+  "market_updatedAt": "2023-01-31T18:22:14.42Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-08T00:00:00Z",
+  "market_closedTime": "2022-11-11 00:00:34+00",
+  "conditionId": "0x8d9ecd228ba2a953bcaaaae1b7690474cf186e47ed4cc51626b3d2904d0b8cd9",
+  "slug": "will-there-be-a-run-off-in-the-2022-georgia-senate-election",
+  "question": "Will there be a run-off in the 2022 Georgia Senate election?"
+}

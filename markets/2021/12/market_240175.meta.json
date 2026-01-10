@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240175",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-23T20:22:40.576000Z",
+  "market_createdAt": "2021-12-23T20:22:40.576Z",
+  "market_updatedAt": "2024-04-23T00:51:12.078898Z",
+  "market_startDate": "2021-12-25T07:23:25.807Z",
+  "market_endDate": "2021-12-25T00:00:00Z",
+  "market_closedTime": "2021-12-26 14:33:25+00",
+  "conditionId": "0xeb6d3eb4b2d5465127539732e84d4fed3423343b56842353ae19a6aec88103b8",
+  "slug": "nba-will-the-bucks-beat-the-celtics-by-more-than-7pt5-points-in-their-december-25-matchup",
+  "question": "NBA: Will the Bucks beat the Celtics by more than 7.5 points in their December 25 matchup?"
+}

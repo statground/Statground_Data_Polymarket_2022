@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241807",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-01T19:34:01.656000Z",
+  "market_createdAt": "2022-03-01T19:34:01.656Z",
+  "market_updatedAt": "2023-08-24T07:36:41.929Z",
+  "market_startDate": "2022-03-01T21:04:12.148Z",
+  "market_endDate": "2023-01-01T00:00:00Z",
+  "market_closedTime": "2023-01-02 22:46:55+00",
+  "conditionId": "0xcd6da828b80dd867a3706f0dfe6d3a8b1faeace44a9bd4995422734deba555b4",
+  "slug": "will-nato-expand-in-2022",
+  "question": "Will NATO expand in 2022?"
+}

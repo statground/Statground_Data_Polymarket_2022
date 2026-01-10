@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240076",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-16T23:10:53.351000Z",
+  "market_createdAt": "2021-12-16T23:10:53.351Z",
+  "market_updatedAt": "2024-04-23T00:46:44.496312Z",
+  "market_startDate": "2021-12-17T21:26:34.274Z",
+  "market_endDate": "2021-12-19T00:00:00Z",
+  "market_closedTime": "2021-12-20 14:06:56+00",
+  "conditionId": "0xbcb5b7f2b2ff415a23e2e0d44b4265218fb28c6b9b4bd3d9166a84b3ee907aff",
+  "slug": "nfl-will-the-packers-beat-the-ravens-by-more-than-5pt5-points-in-their-december-19-matchup",
+  "question": "NFL: Will the Packers beat the Ravens by more than 5.5 points in their December 19 matchup?"
+}

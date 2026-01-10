@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241100",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-27T01:49:24.711000Z",
+  "market_createdAt": "2022-01-27T01:49:24.711Z",
+  "market_updatedAt": "2024-04-24T23:27:33.361291Z",
+  "market_startDate": "2022-01-27T18:01:55.149Z",
+  "market_endDate": "2022-03-31T00:00:00Z",
+  "market_closedTime": "2022-04-02 07:16:50+00",
+  "conditionId": "0x641cd3c6f1bb50aba3bef7bf9f4eced18be901c214e2ea53ca2c9ca2aa8c1b5d",
+  "slug": "will-dydx-suffer-an-exploit-by-march-31st-2022",
+  "question": "Will dYdX suffer an exploit by March 31st, 2022?"
+}

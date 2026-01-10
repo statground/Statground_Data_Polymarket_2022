@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247830",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-09T21:12:52.767000Z",
+  "market_createdAt": "2022-11-09T21:12:52.767Z",
+  "market_updatedAt": "2023-01-31T14:28:07.613Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-14T00:00:00Z",
+  "market_closedTime": "2022-11-15 09:30:30+00",
+  "conditionId": "0x5bf7a46774da72983e4bf5c3e93e2b1d90e98e58e426d31a0760c7ff1aeb764d",
+  "slug": "nfl-monday-commanders-vs-eagles",
+  "question": "NFL Monday: Commanders vs. Eagles"
+}

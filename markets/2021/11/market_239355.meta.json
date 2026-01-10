@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239355",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-10T20:28:13.239000Z",
+  "market_createdAt": "2021-11-10T20:28:13.239Z",
+  "market_updatedAt": "2023-01-31T08:09:51.427Z",
+  "market_startDate": "2021-11-10T22:28:27.798Z",
+  "market_endDate": "2021-11-11T00:00:00Z",
+  "market_closedTime": "2021-11-12 19:44:13+00",
+  "conditionId": "0xd4c8285b2b9a4f8cdd25c64519e840dc4a2345ba46f6052848f3f8f9d421b938",
+  "slug": "will-gerhard-richters-abstraktes-bild-lot-27c-sell-for-more-than-35m-at-christies-on-november-11",
+  "question": "Will Gerhard Richter's “Abstraktes Bild” (Lot 27C) sell for more than $35m at Christie’s on November 11?"
+}

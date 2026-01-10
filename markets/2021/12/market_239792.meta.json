@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239792",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-02T19:49:25.642000Z",
+  "market_createdAt": "2021-12-02T19:49:25.642Z",
+  "market_updatedAt": "2024-04-26T02:51:13.01109Z",
+  "market_startDate": "2021-12-02T20:48:25.359Z",
+  "market_endDate": "2021-12-04T00:00:00Z",
+  "market_closedTime": "2021-12-04 18:16:09+00",
+  "conditionId": "0xc2e7c314a1c7f774a298db245322789f634c4e2c804dc05b2f09c06f283369d6",
+  "slug": "who-will-win-the-primaries-of-les-republicains-in-france",
+  "question": "Who will win the primaries of Les Républicains in France?"
+}

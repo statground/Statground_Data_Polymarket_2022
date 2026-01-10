@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241476",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-14T10:01:20.979000Z",
+  "market_createdAt": "2022-02-14T10:01:20.979Z",
+  "market_updatedAt": "2024-04-22T23:29:39.418742Z",
+  "market_startDate": "2022-02-14T14:49:25.264Z",
+  "market_endDate": "2022-02-14T00:00:00Z",
+  "market_closedTime": "2022-02-15 18:08:08+00",
+  "conditionId": "0x0379c2a6b4ae09b49cb4cd193741dfb755546dac3c9bddaa9e5d0154b5e71068",
+  "slug": "nhl-will-the-oilers-beat-the-sharks-by-more-than-1p5-goals-in-their-february-14-matchup-1030-pm-et",
+  "question": "NHL: Will the Oilers beat the Sharks by more than 1.5 goals in their February 14 matchup (10.30 PM ET)?"
+}

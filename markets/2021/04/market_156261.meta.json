@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "156261",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-26T18:25:02.828000Z",
+  "market_createdAt": "2021-04-26T18:25:02.828Z",
+  "market_updatedAt": "2024-04-24T23:36:56.547876Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-28T00:00:00Z",
+  "market_closedTime": "2021-04-30 06:23:23+00",
+  "conditionId": "0x0aef4aae1d872da2705f22a6a68463251f49824e80d19805d0749a8638c4bd55",
+  "slug": "will-president-biden-s-first-joint-address-have-more-viewers-than-president-trump-s",
+  "question": "Will President Biden’s first Joint Address have more viewers than President Trump’s?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247302",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-19T19:33:01.185000Z",
+  "market_createdAt": "2022-09-19T19:33:01.185Z",
+  "market_updatedAt": "2023-01-31T19:21:23.057Z",
+  "market_startDate": null,
+  "market_endDate": "2022-09-22T00:00:00Z",
+  "market_closedTime": "2022-09-23 16:15:45+00",
+  "conditionId": "0x408eb762b930f50047ac44a7d19b72faa0ae0748d388d9a254f7c2294fd1d977",
+  "slug": "nfl-thursday-steelers-vs-browns",
+  "question": "NFL Thursday: Steelers vs. Browns"
+}

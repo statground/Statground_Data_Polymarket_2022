@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239384",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-12T11:42:04.175000Z",
+  "market_createdAt": "2021-11-12T11:42:04.175Z",
+  "market_updatedAt": "2024-04-26T02:50:10.769649Z",
+  "market_startDate": "2021-11-12T20:19:53.369Z",
+  "market_endDate": "2021-11-12T00:00:00Z",
+  "market_closedTime": "2021-11-13 23:59:49+00",
+  "conditionId": "0x6ab93e95511aad47418162be19a9b3d61c14508d7fd74e5188c58b292ec86239",
+  "slug": "nba-who-will-win-the-grizzlies-v-suns-game-on-november-12th",
+  "question": "NBA: Who will win the Grizzlies v. Suns game on November 12th?"
+}

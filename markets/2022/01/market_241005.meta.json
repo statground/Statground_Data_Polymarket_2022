@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241005",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-24T23:28:43.890000Z",
+  "market_createdAt": "2022-01-24T23:28:43.89Z",
+  "market_updatedAt": "2024-04-23T00:21:26.636635Z",
+  "market_startDate": "2022-01-25T21:45:51.662Z",
+  "market_endDate": "2022-02-08T00:00:00Z",
+  "market_closedTime": "2022-02-10 21:56:16+00",
+  "conditionId": "0x40290f49895f0c798e27fac5b0bad28f9c947a166153b431e6104643aea0ca72",
+  "slug": "will-the-price-of-lumber-be-above-1150-as-of-market-close-on-february-7-2022",
+  "question": "Will the price of lumber be above $1,150 as of market close on February 7, 2022?"
+}

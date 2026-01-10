@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248105",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-21T19:07:28.585000Z",
+  "market_createdAt": "2022-11-21T19:07:28.585Z",
+  "market_updatedAt": "2023-01-31T19:21:09.506Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-25T00:00:00Z",
+  "market_closedTime": "2022-11-26 01:00:40+00",
+  "conditionId": "0x612bd06b847f6eb7d02b84fb61bdcf8ebb85d282833a754ef151609c27b39ba3",
+  "slug": "world-cup-2022-friday-will-netherlands-beat-ecuador",
+  "question": "World Cup: Friday - Will Netherlands beat Ecuador?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240119",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-21T14:35:52.332000Z",
+  "market_createdAt": "2021-12-21T14:35:52.332Z",
+  "market_updatedAt": "2024-04-25T00:08:27.865507Z",
+  "market_startDate": "2021-12-21T18:12:16.708Z",
+  "market_endDate": "2021-12-21T00:00:00Z",
+  "market_closedTime": "2021-12-22 18:37:57+00",
+  "conditionId": "0x429a2168c139bfdccab09fbee8ee9ee317f451b80747e78cb891c6ffa120f019",
+  "slug": "nba-will-the-pacers-beat-the-heat-by-more-than-2pt5-points-in-their-december-21-matchup",
+  "question": "NBA: Will the Pacers beat the Heat by more than 2.5 points in their December 21 matchup?"
+}

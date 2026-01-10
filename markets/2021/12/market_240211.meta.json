@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240211",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-27T23:45:41.397000Z",
+  "market_createdAt": "2021-12-27T23:45:41.397Z",
+  "market_updatedAt": "2023-07-17T23:44:36.729Z",
+  "market_startDate": "2021-12-28T03:51:34.132Z",
+  "market_endDate": "2022-01-15T00:00:00Z",
+  "market_closedTime": "2022-01-16 15:07:25+00",
+  "conditionId": "0x8f7224252d7595f7f8f4d5e7acd43234193e7ddcc8b97cbab67b5bc9e355fbbe",
+  "slug": "will-the-7-day-covid-19-case-average-on-january-8th-be-higher-than-it-was-a-week-earlier",
+  "question": "Will the 7-day COVID-19 case average on January 8th be higher than it was a week earlier?"
+}

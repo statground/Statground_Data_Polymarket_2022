@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "226646",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-28T16:05:01.207000Z",
+  "market_createdAt": "2021-07-28T16:05:01.207Z",
+  "market_updatedAt": "2024-04-23T00:25:34.271907Z",
+  "market_startDate": "2021-07-28T19:04:59.633Z",
+  "market_endDate": "2021-07-30T00:00:00Z",
+  "market_closedTime": "2021-07-29 15:43:57+00",
+  "conditionId": "0x25994352bd74e347c32c1eb84960e8c0f2bdc14524f5dc540199157758c8641f",
+  "slug": "will-loomdart-make-it-to-the-final-table-of-the-cryptog-charity-poker-tournament",
+  "question": "Will Loomdart make it to the final table of the CryptOG Charity Poker Tournament?"
+}

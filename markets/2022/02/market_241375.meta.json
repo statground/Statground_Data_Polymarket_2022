@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241375",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-08T07:01:53.770000Z",
+  "market_createdAt": "2022-02-08T07:01:53.77Z",
+  "market_updatedAt": "2024-04-22T23:50:55.588072Z",
+  "market_startDate": "2022-02-08T17:11:56.329Z",
+  "market_endDate": "2022-02-08T00:00:00Z",
+  "market_closedTime": "2022-02-10 15:14:38+00",
+  "conditionId": "0x0b2930da11595118ec9cd5834374dd2887aa4e6763449742e5415d98a68e846d",
+  "slug": "nba-who-will-win-the-trail-blazers-vs-magic-scheduled-for-february-8-10-pm-et",
+  "question": "NBA: Who will win the Trail Blazers vs. Magic, scheduled for February 8 (10 PM ET)?"
+}

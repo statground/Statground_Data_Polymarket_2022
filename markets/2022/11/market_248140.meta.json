@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248140",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-28T16:27:24.172000Z",
+  "market_createdAt": "2022-11-28T16:27:24.172Z",
+  "market_updatedAt": "2023-01-31T20:16:21.572Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-01T00:00:00Z",
+  "market_closedTime": "2022-12-01 20:15:47+00",
+  "conditionId": "0xc61eaa935c588165d1a5e766bac943fd9c364740a584f58c154f5a21184b1d73",
+  "slug": "world-cup-thursday-will-belgium-beat-croatia",
+  "question": "World Cup: Thursday - Will Belgium beat Croatia?"
+}

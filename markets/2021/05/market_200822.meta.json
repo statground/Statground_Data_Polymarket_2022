@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "200822",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-18T18:15:05.171000Z",
+  "market_createdAt": "2021-05-18T18:15:05.171Z",
+  "market_updatedAt": "2024-04-23T00:32:11.320322Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-01T00:00:00Z",
+  "market_closedTime": "2021-06-01 22:01:02+00",
+  "conditionId": "0x46a6647394515c6a3872086108a6451db47fe9cd935f4d097fde24062242eacf",
+  "slug": "will-a-quiet-place-part-ii-gross-more-domestically-on-opening-weekend-than-a-quiet-place-part-i",
+  "question": "Will A Quiet Place Part II gross more domestically on opening weekend than A Quiet Place Part I? "
+}

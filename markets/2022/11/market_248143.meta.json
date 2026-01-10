@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248143",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-28T16:39:28.291000Z",
+  "market_createdAt": "2022-11-28T16:39:28.291Z",
+  "market_updatedAt": "2023-01-31T12:14:20.563Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-01T00:00:00Z",
+  "market_closedTime": "2022-12-02 00:16:12+00",
+  "conditionId": "0x040e2ec71e89499da25cddf4d020ea5c0d33966f623daded7929c6e8c9ed3245",
+  "slug": "world-cup-thursday-will-germany-beat-costa-rica",
+  "question": "World Cup: Thursday - Will Germany beat Costa Rica?"
+}

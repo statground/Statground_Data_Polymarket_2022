@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241971",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-08T13:04:44.877000Z",
+  "market_createdAt": "2022-03-08T13:04:44.877Z",
+  "market_updatedAt": "2024-04-22T22:42:15.068245Z",
+  "market_startDate": "2022-03-08T18:32:12.954Z",
+  "market_endDate": "2022-03-08T00:00:00Z",
+  "market_closedTime": "2022-03-09 19:17:35+00",
+  "conditionId": "0x4ddefa6b7e0bd696165ab48e1a5850c456560ae81397bf18fa19120eff8d324f",
+  "slug": "nhl-will-the-avalanche-beat-the-devils-by-more-than-1pt5-goals-in-their-march-8-matchup-7-pm-et",
+  "question": "NHL: Will the Avalanche beat the Devils by more than 1.5 goals in their March 8 matchup (7 PM ET)?"
+}

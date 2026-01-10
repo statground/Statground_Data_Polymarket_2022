@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239948",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-10T16:45:56.095000Z",
+  "market_createdAt": "2021-12-10T16:45:56.095Z",
+  "market_updatedAt": "2024-04-22T23:18:15.195812Z",
+  "market_startDate": "2021-12-10T18:10:22.079Z",
+  "market_endDate": "2021-12-10T00:00:00Z",
+  "market_closedTime": "2021-12-11 15:36:44+00",
+  "conditionId": "0x9642ebfa140fa95ca9f2acb3ad92eff997a6201decc6b49c7cd6d95f9cda008d",
+  "slug": "nba-will-the-pelicans-beat-the-pistons-by-more-than-5pt5-points-in-their-december-10-matchup",
+  "question": "NBA: Will the Pelicans beat the Pistons by more than 5.5 points in their December 10 matchup?"
+}

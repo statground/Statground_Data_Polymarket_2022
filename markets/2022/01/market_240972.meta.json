@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240972",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-24T07:10:52.521000Z",
+  "market_createdAt": "2022-01-24T07:10:52.521Z",
+  "market_updatedAt": "2024-04-22T23:54:05.20174Z",
+  "market_startDate": "2022-01-24T16:36:27.668Z",
+  "market_endDate": "2022-02-13T00:00:00Z",
+  "market_closedTime": "2022-02-14 17:16:18+00",
+  "conditionId": "0xd1ea9b1b73c47625993250b815cc7f7e645640008a250000f86d3daa401d5dcd",
+  "slug": "will-the-cincinnati-bengals-win-the-21-22-superbowl",
+  "question": "Will the Cincinnati Bengals win the ‘21-’22 Superbowl?"
+}

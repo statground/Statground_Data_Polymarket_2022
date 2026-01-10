@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240032",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-14T20:43:39.077000Z",
+  "market_createdAt": "2021-12-14T20:43:39.077Z",
+  "market_updatedAt": "2024-04-23T00:44:34.951764Z",
+  "market_startDate": null,
+  "market_endDate": "2021-12-23T00:00:00Z",
+  "market_closedTime": "2021-12-23 21:15:04+00",
+  "conditionId": "0x0359266cb962e434b25ea1aea9537ea5e044cfa1c9056c3cb08c9c7772d9e4e9",
+  "slug": "will-eth-ethereum-be-above-4000-on-december-23-12pm-et",
+  "question": "Will $ETH (Ethereum) be above $4,000 on December 23, 12pm ET?"
+}

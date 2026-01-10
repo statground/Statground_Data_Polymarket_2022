@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242048",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-13T13:16:31.374000Z",
+  "market_createdAt": "2022-03-13T13:16:31.374Z",
+  "market_updatedAt": "2024-04-22T22:35:20.697646Z",
+  "market_startDate": "2022-03-13T17:58:49.524Z",
+  "market_endDate": "2022-03-13T00:00:00Z",
+  "market_closedTime": "2022-03-14 11:00:28+00",
+  "conditionId": "0xafc8adc2ec2b0aa75b3ef4a532239d39236ed17be3cd8fd8f6b3ff1a7162a66b",
+  "slug": "nba-will-the-suns-beat-the-lakers-by-more-than-8pt5-points-in-their-march-13-8-pm-et-matchup",
+  "question": "NBA: Will the Suns beat the Lakers by more than 8.5 points in their March 13 (9 PM ET) matchup?"
+}

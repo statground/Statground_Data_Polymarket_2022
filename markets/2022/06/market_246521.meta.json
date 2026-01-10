@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246521",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-10T11:52:44.240000Z",
+  "market_createdAt": "2022-06-10T11:52:44.24Z",
+  "market_updatedAt": "2023-01-31T08:08:21.85Z",
+  "market_startDate": "2022-06-10T15:09:35.42Z",
+  "market_endDate": "2022-06-12T00:00:00Z",
+  "market_closedTime": "2022-06-12 15:15:59+00",
+  "conditionId": "0x86250ee446e57e3c4b08adfecd35201b47770e8f4552ee9bbaa352bed121a2e5",
+  "slug": "formula-1-which-team-will-collect-more-points-at-the-2022-azerbaijan-gp-red-bull-or-ferrari",
+  "question": "Formula 1: Which team will collect more points at the 2022 Azerbaijan GP, Red Bull or Ferrari?"
+}

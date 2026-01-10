@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240719",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-13T23:22:47.729000Z",
+  "market_createdAt": "2022-01-13T23:22:47.729Z",
+  "market_updatedAt": "2024-04-23T00:13:31.74774Z",
+  "market_startDate": "2022-01-14T00:02:28.991Z",
+  "market_endDate": "2022-01-13T00:00:00Z",
+  "market_closedTime": "2022-01-15 00:29:08+00",
+  "conditionId": "0xfde4c47456c368cd8d8ba61d8af77dbd8619f8e56d7373bde4dace61a953ac94",
+  "slug": "nhl-will-the-penguins-beat-the-kings-by-more-than-1p5-goals-in-their-january-13-matchup",
+  "question": "NHL: Will the Penguins beat the Kings by more than 1.5 goals in their January 13 matchup?"
+}

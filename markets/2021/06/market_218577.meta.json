@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218577",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-21T16:30:01.158000Z",
+  "market_createdAt": "2021-06-21T16:30:01.158Z",
+  "market_updatedAt": "2024-04-22T23:09:18.360027Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-22T00:00:00Z",
+  "market_closedTime": "2021-06-23 14:55:55+00",
+  "conditionId": "0xf2ca8389a108948a0b1613903282922e5cfb92208a4398360fd22d1822add3bc",
+  "slug": "will-the-czech-republic-or-england-win-their-euro-2020-match-1",
+  "question": "Will the Czech Republic or England win their Euro 2020 match?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240941",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-21T21:04:09.651000Z",
+  "market_createdAt": "2022-01-21T21:04:09.651Z",
+  "market_updatedAt": "2024-04-22T23:50:14.437435Z",
+  "market_startDate": "2022-01-24T18:25:33.858Z",
+  "market_endDate": "2022-06-01T00:00:00Z",
+  "market_closedTime": "2022-06-11 16:19:48+00",
+  "conditionId": "0xda339f8146681642f1c7ddbc7c609a4b5343ef5b8524e38cafefe6d8477e2813",
+  "slug": "will-an-earthquake-measuring-80-or-above-occur-anywhere-on-earth-before-june-1-2022",
+  "question": "Will an earthquake with magnitude 8.0 or above occur anywhere on Earth before June 1, 2022?"
+}

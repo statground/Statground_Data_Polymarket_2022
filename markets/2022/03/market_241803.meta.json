@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241803",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-01T12:25:44.842000Z",
+  "market_createdAt": "2022-03-01T12:25:44.842Z",
+  "market_updatedAt": "2024-04-22T23:11:52.312251Z",
+  "market_startDate": "2022-03-01T18:00:46.757Z",
+  "market_endDate": "2022-03-01T00:00:00Z",
+  "market_closedTime": "2022-03-02 16:26:56+00",
+  "conditionId": "0xa1956ad476fa9b3848a26937da8d6f1a319729fa2dafc810406f25d2df754803",
+  "slug": "nhl-will-the-golden-knights-beat-the-sharks-by-more-than-15-goals-in-their-march-1-matchup-10-pm-et",
+  "question": "NHL: Will the Golden Knights beat the Sharks by more than 1.5 goals in their March 1 matchup (10 PM ET)?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243210",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-13T06:39:39.377000Z",
+  "market_createdAt": "2022-04-13T06:39:39.377Z",
+  "market_updatedAt": "2023-01-31T18:55:58.132Z",
+  "market_startDate": "2022-04-13T15:01:52.69Z",
+  "market_endDate": "2022-05-31T00:00:00Z",
+  "market_closedTime": "2022-05-15 18:16:10+00",
+  "conditionId": "0x251ec0ea3a0d314ec621ff7c08a74da3446ad45fad6092f529e0c0998a191e4d",
+  "slug": "2022-nba-playoffs-will-the-memphis-grizzlies-win-the-western-conference",
+  "question": "2022 NBA Playoffs: Will the Memphis Grizzlies win the Western Conference?"
+}

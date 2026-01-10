@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239168",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-31T08:03:14.915000Z",
+  "market_createdAt": "2021-10-31T08:03:14.915Z",
+  "market_updatedAt": "2024-04-22T23:39:11.502782Z",
+  "market_startDate": "2021-10-31T09:17:06.449Z",
+  "market_endDate": "2021-10-31T00:00:00Z",
+  "market_closedTime": "2021-11-01 10:29:03+00",
+  "conditionId": "0x6f305ac90454df908fb8350a740d6c6a0dd366ce05b1406185f0167600039bcc",
+  "slug": "nfl-will-the-49ers-beat-the-bears-by-more-than-3pt5-points-in-their-october-31st-matchup",
+  "question": "NFL: Will the 49ers beat the Bears by more than 3.5 points in their October 31st matchup?"
+}

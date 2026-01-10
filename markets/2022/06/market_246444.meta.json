@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246444",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-05T12:48:02.309000Z",
+  "market_createdAt": "2022-06-05T12:48:02.309Z",
+  "market_updatedAt": "2023-01-31T15:40:40.43Z",
+  "market_startDate": null,
+  "market_endDate": "2022-06-05T00:00:00Z",
+  "market_closedTime": "2022-06-06 06:16:17+00",
+  "conditionId": "0x30929074c25a495f3d8f4c7d5225368c109a421341b0ac3469c23b1728a5b1c2",
+  "slug": "2022-nba-finals-will-steph-curry-score-over-28pt5-points-in-game-2",
+  "question": "2022 NBA Finals: Will Steph Curry score over 28.5 points in Game 2?"
+}

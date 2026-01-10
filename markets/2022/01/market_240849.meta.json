@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240849",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-19T11:33:42.220000Z",
+  "market_createdAt": "2022-01-19T11:33:42.22Z",
+  "market_updatedAt": "2024-04-24T23:39:59.908441Z",
+  "market_startDate": "2022-01-19T20:00:09.836Z",
+  "market_endDate": "2022-01-19T00:00:00Z",
+  "market_closedTime": "2022-01-21 13:23:39+00",
+  "conditionId": "0xbb894e2f1b975d4e9ccc513142b6a0e3011ca85bb5e7290e87f3d774abf8cc0f",
+  "slug": "nba-will-the-spurs-beat-the-thunder-by-more-than-6p5-points-in-their-january-19-matchup",
+  "question": "NBA: Will the Spurs beat the Thunder by more than 6.5 points in their January 19 matchup?"
+}

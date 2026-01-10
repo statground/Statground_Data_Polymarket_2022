@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240267",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-01T20:51:50.573000Z",
+  "market_createdAt": "2022-01-01T20:51:50.573Z",
+  "market_updatedAt": "2024-04-22T23:02:34.473614Z",
+  "market_startDate": "2022-01-01T21:34:34.417Z",
+  "market_endDate": "2022-01-01T00:00:00Z",
+  "market_closedTime": "2022-01-03 15:13:55+00",
+  "conditionId": "0xe7e586c323352e3d6965bbf2d0130049621c608aee9c8ddb2cdde474cfbfa6dd",
+  "slug": "nba-will-the-jazz-beat-the-warriors-by-more-than-4pt5-points-in-their-january-1-matchup",
+  "question": "NBA: Will the Jazz beat the Warriors by more than 4.5 points in their January 1 matchup?"
+}

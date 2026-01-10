@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239848",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-06T15:10:40.470000Z",
+  "market_createdAt": "2021-12-06T15:10:40.47Z",
+  "market_updatedAt": "2024-04-22T22:47:07.71935Z",
+  "market_startDate": "2021-12-06T17:00:53.675Z",
+  "market_endDate": "2021-12-06T00:00:00Z",
+  "market_closedTime": "2021-12-07 18:19:03+00",
+  "conditionId": "0x22c62b4bb82d7305b8b2f890c4001907b8128af79eacd1f6bf8de3ecfed3b235",
+  "slug": "nba-will-the-pacers-beat-the-wizards-by-more-than-5pt5-points-in-their-december-6-matchup",
+  "question": "NBA: Will the Pacers beat the Wizards by more than 5.5 points in their December 6 matchup?"
+}

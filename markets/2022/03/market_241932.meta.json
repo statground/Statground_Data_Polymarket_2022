@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241932",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-06T16:20:07.833000Z",
+  "market_createdAt": "2022-03-06T16:20:07.833Z",
+  "market_updatedAt": "2024-04-23T00:23:01.155012Z",
+  "market_startDate": "2022-03-06T17:02:45.413Z",
+  "market_endDate": "2022-03-06T00:00:00Z",
+  "market_closedTime": "2022-03-07 12:22:10+00",
+  "conditionId": "0xf83a2b62f2b782bafe0b7e8a90753a67db76b2e821a9a815ff75f3f19a147060",
+  "slug": "nba-will-the-clippers-beat-the-knicks-by-more-than-4pt5-points-in-their-march-6-10-pm-et-matchup",
+  "question": "NBA: Will the Clippers beat the Knicks by more than 4.5 points in their March 6 (10 PM ET) matchup?"
+}

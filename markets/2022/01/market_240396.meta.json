@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240396",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T12:48:25.895000Z",
+  "market_createdAt": "2022-01-11T12:48:25.895Z",
+  "market_updatedAt": "2023-05-08T19:02:27.62Z",
+  "market_startDate": "2022-01-12T21:00:18.512Z",
+  "market_endDate": "2022-03-01T00:00:00Z",
+  "market_closedTime": "2022-03-02 16:20:59+00",
+  "conditionId": "0x87489d6664315b018fea1007d2f785b7cdf3ef988600ae02652b886504011b35",
+  "slug": "will-donald-trump-be-president-of-the-usa-on-march-1-2022",
+  "question": "Will Donald Trump be President of the USA on March 1, 2022?"
+}

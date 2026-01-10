@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242142",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-17T12:45:41.671000Z",
+  "market_createdAt": "2022-03-17T12:45:41.671Z",
+  "market_updatedAt": "2024-04-23T00:33:57.174367Z",
+  "market_startDate": "2022-03-17T17:42:08.427Z",
+  "market_endDate": "2022-03-17T00:00:00Z",
+  "market_closedTime": "2022-03-18 11:16:37+00",
+  "conditionId": "0xb4736c6473bd2326dc66ad156397ae75fc33ebe8599d9b9645b21c899c37de80",
+  "slug": "nhl-who-will-win-jackets-vspt-capitals-scheduled-for-march-17-700-pm-et",
+  "question": "NHL: Who will win Jackets vs. Capitals, scheduled for March 17, 7:00 PM ET?"
+}

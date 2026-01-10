@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243552",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-21T22:48:42.464000Z",
+  "market_createdAt": "2022-04-21T22:48:42.464Z",
+  "market_updatedAt": "2024-04-22T23:16:22.8972Z",
+  "market_startDate": "2022-04-21T23:37:27.89Z",
+  "market_endDate": "2022-04-29T00:00:00Z",
+  "market_closedTime": "2022-04-30 07:18:05+00",
+  "conditionId": "0xc3caa816f3ec943abcbf818e0cc4d5c97be798e904665f87b1afba6b9eb3e39f",
+  "slug": "will-the-price-of-polygon-matic-be-above-1pt45-on-april-29th-2022",
+  "question": "Will the price of Polygon (MATIC) be above $1.45 on April 29th, 2022?"
+}

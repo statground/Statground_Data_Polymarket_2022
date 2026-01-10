@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "236507",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-16T20:48:01.620000Z",
+  "market_createdAt": "2021-08-16T20:48:01.62Z",
+  "market_updatedAt": "2024-04-23T00:21:17.462261Z",
+  "market_startDate": "2021-08-16T22:18:09.966Z",
+  "market_endDate": "2022-02-22T00:00:00Z",
+  "market_closedTime": "2022-01-03 23:34:03+00",
+  "conditionId": "0xf7bf6f1ea1aa07d804f7cd963545a816abfffb54d3fb0e03fba7358786854916",
+  "slug": "will-ethereum-switch-to-proof-of-stake-eip-3675-by-february-22-2022",
+  "question": "Will Ethereum switch to Proof-of-Stake (EIP-3675) by February 22, 2022?"
+}

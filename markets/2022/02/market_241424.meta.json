@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241424",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-11T10:43:32.738000Z",
+  "market_createdAt": "2022-02-11T10:43:32.738Z",
+  "market_updatedAt": "2024-04-23T00:07:58.533396Z",
+  "market_startDate": "2022-02-11T20:03:28.875Z",
+  "market_endDate": "2022-02-11T00:00:00Z",
+  "market_closedTime": "2022-02-13 04:59:02+00",
+  "conditionId": "0x15c80ad9a2e47d94cc9f24ca6b875d6b4bc4650159d7fbe38c2c6ed9a90aa64f",
+  "slug": "nba-will-the-jazz-beat-the-magic-by-more-than-12p5-points-in-their-february-11-9-pm-et-matchup",
+  "question": "NBA: Will the Jazz beat the Magic by more than 12.5 points in their February 11 (9 PM ET) matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240883",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-19T21:54:07.080000Z",
+  "market_createdAt": "2022-01-19T21:54:07.08Z",
+  "market_updatedAt": "2023-01-31T19:26:50.39Z",
+  "market_startDate": "2022-01-20T20:06:17.995Z",
+  "market_endDate": "2022-01-22T00:00:00Z",
+  "market_closedTime": "2022-01-24 22:00:12+00",
+  "conditionId": "0x0f143dcd869229726de83e805affc40acbd85a8af9e0e29620565e3baff7ebfa",
+  "slug": "ufc-270-who-will-win-ngannou-vs-gane",
+  "question": "UFC 270: Who will win Ngannou vs. Gane?"
+}

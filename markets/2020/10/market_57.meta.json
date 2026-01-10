@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "57",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-10-21T21:00:05.999000Z",
+  "market_createdAt": "2020-10-21T21:00:05.999Z",
+  "market_updatedAt": "2024-04-22T22:41:15.600538Z",
+  "market_startDate": null,
+  "market_endDate": "2020-10-31T00:00:00Z",
+  "market_closedTime": "2020-10-31 00:23:23+00",
+  "conditionId": "0xde12c76b349c3b90ed4855ad22ee2e6f794b5c440de91388d86ace1dd0da358f",
+  "slug": "will-dharma-s-phase-1-retroactive-uni-distribution-proposal-pass",
+  "question": "Will Dharma’s Phase 1 Retroactive UNI Distribution proposal pass?"
+}

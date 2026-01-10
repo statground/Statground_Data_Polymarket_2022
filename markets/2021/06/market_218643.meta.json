@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218643",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-23T21:45:11.340000Z",
+  "market_createdAt": "2021-06-23T21:45:11.34Z",
+  "market_updatedAt": "2024-04-24T23:53:15.862095Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-23T00:00:00Z",
+  "market_closedTime": "2021-06-24 17:41:48+00",
+  "conditionId": "0x393998be414ae286d22a13b70fb39149eb42136613071db55fb07521554010da",
+  "slug": "in-game-trading-who-will-win-bucks-v-hawks-eastern-conference-finals-game-1",
+  "question": "(In-Game Trading) Who will win Bucks v. Hawks: Eastern Conference Finals Game 1?"
+}

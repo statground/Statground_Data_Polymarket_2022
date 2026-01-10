@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243324",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-16T08:07:26.419000Z",
+  "market_createdAt": "2022-04-16T08:07:26.419Z",
+  "market_updatedAt": "2023-01-31T20:44:45.046Z",
+  "market_startDate": "2022-04-16T15:22:55.235Z",
+  "market_endDate": "2022-04-16T00:00:00Z",
+  "market_closedTime": "2022-04-17 07:30:44+00",
+  "conditionId": "0x2a0d254d5eb073f8eb586a81c14cfcd807e06b65817f2933525bcfc6e18f74c1",
+  "slug": "mlb-who-will-win-atlanta-braves-vs-san-diego-padres-scheduled-for-april-16-406-pm-et",
+  "question": "MLB: Who will win Atlanta Braves vs. San Diego Padres, scheduled for April 16, 4:06 PM ET?"
+}

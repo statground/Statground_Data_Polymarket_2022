@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240785",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-17T12:13:53.008000Z",
+  "market_createdAt": "2022-01-17T12:13:53.008Z",
+  "market_updatedAt": "2024-04-22T23:49:02.466052Z",
+  "market_startDate": "2022-01-17T17:24:00.869Z",
+  "market_endDate": "2022-01-17T00:00:00Z",
+  "market_closedTime": "2022-01-19 21:31:36+00",
+  "conditionId": "0x74c27a63bda8cb7870fb8eedea9ab796fbb57415a0a93b8e480bdc2e2ebd657e",
+  "slug": "nba-will-the-cavaliers-beat-the-nets-by-more-than-2p5-points-in-their-january-17-matchup",
+  "question": "NBA: Will the Cavaliers beat the Nets by more than 2.5 points in their January 17 matchup?"
+}

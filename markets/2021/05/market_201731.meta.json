@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "201731",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-20T17:10:04.961000Z",
+  "market_createdAt": "2021-05-20T17:10:04.961Z",
+  "market_updatedAt": "2024-04-22T23:11:30.244992Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-24T00:00:00Z",
+  "market_closedTime": "2021-05-24 16:55:30+00",
+  "conditionId": "0x5aaaada9e7a523057e5d0745fc9b98faf69bc315650bf01bb162ff86a1045751",
+  "slug": "will-basquiats-untitled-one-eyed-man-or-xerox-face-sell-for-more-than-hk170m-at-christies",
+  "question": "Will Basquiat’s “Untitled (One Eyed Man or Xerox Face)” sell for more than HK$170M at Christie’s?"
+}

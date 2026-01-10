@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241417",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-11T10:00:42.389000Z",
+  "market_createdAt": "2022-02-11T10:00:42.389Z",
+  "market_updatedAt": "2024-04-23T00:22:41.533455Z",
+  "market_startDate": "2022-02-11T20:03:58.538Z",
+  "market_endDate": "2022-02-11T00:00:00Z",
+  "market_closedTime": "2022-02-13 04:45:18+00",
+  "conditionId": "0xcf202f76fbe162ca2b7ad209115132a2732e127e2f6be030cc5c130537eaeb86",
+  "slug": "nhl-will-the-lightning-beat-the-coyotes-by-more-than-1p5-goals-in-their-february-11-matchup-930-pm-et",
+  "question": "NHL: Will the Lightning beat the Coyotes by more than 1.5 goals in their February 11 matchup (9.30 PM ET)?"
+}

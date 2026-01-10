@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "226374",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-27T18:00:01.550000Z",
+  "market_createdAt": "2021-07-27T18:00:01.55Z",
+  "market_updatedAt": "2024-04-22T22:35:58.60884Z",
+  "market_startDate": "2021-07-27T20:47:16.552Z",
+  "market_endDate": "2021-09-01T00:00:00Z",
+  "market_closedTime": "2021-08-23 22:02:55+00",
+  "conditionId": "0xdac49f148a665056c5be50435f801979da021f8346ecd3eb9c01450fc6f2ca14",
+  "slug": "will-any-of-the-covid-vaccines-be-granted-full-fda-approval-by-september-1",
+  "question": "Will any of the COVID vaccines be granted full FDA approval by September 1?"
+}

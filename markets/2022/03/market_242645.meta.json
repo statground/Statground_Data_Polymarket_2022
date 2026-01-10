@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242645",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-30T12:17:59.506000Z",
+  "market_createdAt": "2022-03-30T12:17:59.506Z",
+  "market_updatedAt": "2024-04-22T23:34:57.721065Z",
+  "market_startDate": "2022-03-30T17:22:31.504Z",
+  "market_endDate": "2022-03-30T00:00:00Z",
+  "market_closedTime": "2022-03-31 07:00:30+00",
+  "conditionId": "0x5d8597c1b3b83a69930fbd9f9e56f1f744dc5e61505d407402d3f61e786bd74d",
+  "slug": "fifa-world-cup-qualifier-who-will-win-the-usa-vs-costa-rica-on-march-30",
+  "question": "FIFA World Cup Qualifier: Who will win USA vs. Costa Rica on March 30?"
+}

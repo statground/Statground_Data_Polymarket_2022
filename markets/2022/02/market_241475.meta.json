@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241475",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-14T09:59:28.836000Z",
+  "market_createdAt": "2022-02-14T09:59:28.836Z",
+  "market_updatedAt": "2024-04-22T23:58:20.281446Z",
+  "market_startDate": "2022-02-14T14:49:55.644Z",
+  "market_endDate": "2022-02-14T00:00:00Z",
+  "market_closedTime": "2022-02-15 19:01:45+00",
+  "conditionId": "0x3f4d342cd7ffe4048deaa8251bab8b9429453b0ba4a79e4b3068bbd5e7f326e8",
+  "slug": "nba-who-will-win-the-warriors-vs-clippers-scheduled-for-february-14-1030-pm-et",
+  "question": "NBA: Who will win the Warriors vs. Clippers, scheduled for February 14 (10.30 PM ET)?"
+}

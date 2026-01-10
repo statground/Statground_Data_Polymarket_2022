@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239930",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-08T10:28:06.279000Z",
+  "market_createdAt": "2021-12-08T10:28:06.279Z",
+  "market_updatedAt": "2024-04-22T23:58:29.050023Z",
+  "market_startDate": "2021-12-08T21:22:45.483Z",
+  "market_endDate": "2021-12-08T00:00:00Z",
+  "market_closedTime": "2021-12-10 13:10:17+00",
+  "conditionId": "0x336e1ca352d35be443fe8f935a981e60af43d54e589c96a9e17c8a78a06f5706",
+  "slug": "nba-will-the-sum-of-points-in-clippers-v-celtics-be-an-even-or-an-odd-number",
+  "question": "NBA: Will the sum of points in Clippers v Celtics be an even or an odd number?"
+}

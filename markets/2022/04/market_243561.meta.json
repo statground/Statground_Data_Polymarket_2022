@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243561",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-22T07:19:03.646000Z",
+  "market_createdAt": "2022-04-22T07:19:03.646Z",
+  "market_updatedAt": "2023-01-31T21:10:02.924Z",
+  "market_startDate": "2022-04-22T14:44:13.068Z",
+  "market_endDate": "2022-04-22T00:00:00Z",
+  "market_closedTime": "2022-04-23 07:17:20+00",
+  "conditionId": "0xa6768fb76b42e5fb9f01c12ce53de6902de4cec45b8a2a2d6b10cd77110793ba",
+  "slug": "nba-will-the-heat-beat-the-hawks-by-more-than-1pt5-points-in-their-april-22-700-pm-et-matchup",
+  "question": "NBA: Will the Heat beat the Hawks by more than 1.5 points in their April 22, 7:00 PM ET matchup?"
+}

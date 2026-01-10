@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239203",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-02T10:52:53.420000Z",
+  "market_createdAt": "2021-11-02T10:52:53.42Z",
+  "market_updatedAt": "2024-04-22T23:18:27.601985Z",
+  "market_startDate": "2021-11-02T17:02:53.924Z",
+  "market_endDate": "2021-11-02T00:00:00Z",
+  "market_closedTime": "2021-11-03 17:30:45+00",
+  "conditionId": "0x45b9d47cc05c4cd277fa78da1467e8a0462c9afd8f856138ffe93a30082b5ee6",
+  "slug": "nba-will-the-jazz-beat-the-kings-by-more-than-9pt5-points-in-their-november-2nd-matchup",
+  "question": "NBA: Will the Jazz beat the Kings by more than 9.5 points in their November 2nd matchup?"
+}

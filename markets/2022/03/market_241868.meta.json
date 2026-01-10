@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241868",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-03T17:17:39.169000Z",
+  "market_createdAt": "2022-03-03T17:17:39.169Z",
+  "market_updatedAt": "2024-04-23T00:59:42.451259Z",
+  "market_startDate": "2022-03-03T20:25:02.957Z",
+  "market_endDate": "2022-03-03T00:00:00Z",
+  "market_closedTime": "2022-03-04 16:15:15+00",
+  "conditionId": "0x2c47cbb400c1b7467699ff60b453bb4a7d114d7f60c55d6d14039154d14a122a",
+  "slug": "nhl-will-the-flames-beat-the-canadiens-by-more-than-2pt5-goals-in-their-march-3-matchup-9-pm-et",
+  "question": "NHL: Will the Flames beat the Canadiens by more than 2.5 goals in their March 3 matchup (9 PM ET)?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241386",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-09T09:57:23.924000Z",
+  "market_createdAt": "2022-02-09T09:57:23.924Z",
+  "market_updatedAt": "2024-04-22T22:54:38.832051Z",
+  "market_startDate": "2022-02-09T17:27:23.916Z",
+  "market_endDate": "2022-02-09T00:00:00Z",
+  "market_closedTime": "2022-02-11 07:08:33+00",
+  "conditionId": "0xe7d4fd1ad76c10f512d13c66d3fe8b13f535543d88a159cf6a48003a7d27781f",
+  "slug": "nba-will-the-raptors-beat-the-thunder-by-more-than-9p5-points-in-their-february-9-8-pm-et-matchup",
+  "question": "NBA: Will the Raptors beat the Thunder by more than 9.5 points in their February 9 (8 PM ET) matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247450",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-06T20:34:23.866000Z",
+  "market_createdAt": "2022-10-06T20:34:23.866Z",
+  "market_updatedAt": "2023-01-31T06:34:09.05Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-09T00:00:00Z",
+  "market_closedTime": "2022-10-09 06:45:47+00",
+  "conditionId": "0xb1f0692a58f43de95f686d459517407b00b95a1167cca35eddf4434e126cfa5e",
+  "slug": "nl-wild-card-phillies-vs-cardinals",
+  "question": "NL Wild Card: Phillies vs. Cardinals"
+}

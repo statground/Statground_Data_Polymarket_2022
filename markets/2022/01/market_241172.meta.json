@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241172",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-29T10:01:20.706000Z",
+  "market_createdAt": "2022-01-29T10:01:20.706Z",
+  "market_updatedAt": "2024-04-22T23:24:48.43745Z",
+  "market_startDate": "2022-01-29T18:11:52.053Z",
+  "market_endDate": "2022-01-29T00:00:00Z",
+  "market_closedTime": "2022-01-31 01:12:14+00",
+  "conditionId": "0x62795cb41b9f77fc17761ba62eda046ff27eeee2f2a4ad891360f4253f8404e2",
+  "slug": "nhl-will-the-panthers-beat-the-sharks-by-more-than-1p5-goals-in-their-january-29-matchup-6-pm-et",
+  "question": "NHL: Will the Panthers beat the Sharks by more than 1.5 goals in their January 29 matchup (6 PM ET)?"
+}

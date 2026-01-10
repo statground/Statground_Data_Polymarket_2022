@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246585",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-23T19:09:12.241000Z",
+  "market_createdAt": "2022-06-23T19:09:12.241Z",
+  "market_updatedAt": "2023-01-31T17:38:44.322Z",
+  "market_startDate": "2022-06-24T02:06:17.989Z",
+  "market_endDate": "2022-07-11T00:00:00Z",
+  "market_closedTime": "2022-07-11 19:15:31+00",
+  "conditionId": "0x3a693fa84fa104bc4b0171a7dcd081f2277ed7d27b09a4642276a7b64ab88758",
+  "slug": "will-thor-love-and-thunder-get-a-75-or-higher-tomatometer-score",
+  "question": "Will 'Thor: Love and Thunder' get a 75% or higher Tomatometer Score?"
+}

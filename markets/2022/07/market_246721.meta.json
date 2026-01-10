@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246721",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-14T14:58:23.568000Z",
+  "market_createdAt": "2022-07-14T14:58:23.568Z",
+  "market_updatedAt": "2023-01-31T06:45:18.966Z",
+  "market_startDate": "2022-07-14T15:06:18.49Z",
+  "market_endDate": "2022-07-17T00:00:00Z",
+  "market_closedTime": "2022-07-18 05:30:56+00",
+  "conditionId": "0xb95d896c332a6f5da32fb960eb5a0171c0a7146daae7bd344f9503769aa2a9a1",
+  "slug": "2022-open-championship-will-a-liv-golf-player-win-the-tournament",
+  "question": "2022 Open Championship: Will a LIV Golf player win the tournament?"
+}

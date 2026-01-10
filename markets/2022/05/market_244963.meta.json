@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244963",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-18T14:16:53.944000Z",
+  "market_createdAt": "2022-05-18T14:16:53.944Z",
+  "market_updatedAt": "2023-01-31T17:38:39.841Z",
+  "market_startDate": "2022-05-18T15:33:11.403Z",
+  "market_endDate": "2022-05-18T00:00:00Z",
+  "market_closedTime": "2022-05-19 00:45:44+00",
+  "conditionId": "0xd738c5edb7feff7d0f4c5fb212742a8bc2b00e1b78728e0b9ce56ea75ba33a39",
+  "slug": "uefa-europa-league-final-who-will-win-eintracht-vs-rangers",
+  "question": "UEFA Europa League final: Who will win Eintracht vs. Rangers?"
+}

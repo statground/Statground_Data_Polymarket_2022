@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242379",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-22T09:05:53.988000Z",
+  "market_createdAt": "2022-03-22T09:05:53.988Z",
+  "market_updatedAt": "2024-04-24T23:35:23.27569Z",
+  "market_startDate": "2022-03-22T16:29:57.196Z",
+  "market_endDate": "2022-03-22T00:00:00Z",
+  "market_closedTime": "2022-03-23 17:45:10+00",
+  "conditionId": "0xddeb144fdfea2257f92f198d6d7a85138c22e3ab8977e68b03855dba92934dd8",
+  "slug": "nhl-will-the-stars-beat-the-oilers-by-more-than-1pt5-goals-in-their-march-22-830-pm-et-matchup",
+  "question": "NHL: Will the Stars beat the Oilers by more than 1.5 goals in their March 22, 8:30 PM ET matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248047",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T21:43:12.015000Z",
+  "market_createdAt": "2022-11-18T21:43:12.015Z",
+  "market_updatedAt": "2023-01-31T17:34:32.489Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-18T00:00:00Z",
+  "market_closedTime": "2022-12-09 20:15:50+00",
+  "conditionId": "0x9bfe8d0b3c7f0fe0a7008edc237d15c951c49722ed60e9d8158a86d53781e944",
+  "slug": "will-brazil-win-the-2022-world-cup",
+  "question": "Will Brazil win the 2022 World Cup?"
+}

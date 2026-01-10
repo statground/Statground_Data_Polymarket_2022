@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240577",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T19:25:33.148000Z",
+  "market_createdAt": "2022-01-11T19:25:33.148Z",
+  "market_updatedAt": "2024-04-22T22:59:42.032689Z",
+  "market_startDate": "2022-01-12T21:17:00.131Z",
+  "market_endDate": "2022-03-01T00:00:00Z",
+  "market_closedTime": "2022-03-04 12:28:57+00",
+  "conditionId": "0x341cda6cfb0b9887cd088a68fce731aba8c8db7b154f62fdcbcf92eb5bb438ff",
+  "slug": "what-will-the-price-of-avalanche-avax-be-on-march-1st-2022",
+  "question": "What will the price of Avalanche ($AVAX) be on March 1st, 2022?"
+}

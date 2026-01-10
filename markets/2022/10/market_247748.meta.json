@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247748",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-24T20:20:31.529000Z",
+  "market_createdAt": "2022-10-24T20:20:31.529Z",
+  "market_updatedAt": "2023-01-31T17:38:40Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-08T00:00:00Z",
+  "market_closedTime": "2022-11-09 20:45:40+00",
+  "conditionId": "0xb438223302a1ce4fa9c877822f93cd9e27994a6f8aa2f90591d83ec9669e1258",
+  "slug": "will-us-10-yr-treasury-bond-yield-reach-5-by-november-8-2022",
+  "question": "Will US 10-yr treasury bond yield reach 5% by November 8, 2022?"
+}

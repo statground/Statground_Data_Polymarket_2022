@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "96122",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-23T18:00:07.534000Z",
+  "market_createdAt": "2021-02-23T18:00:07.534Z",
+  "market_updatedAt": "2024-04-24T23:31:33.912759Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-23T00:00:00Z",
+  "market_closedTime": "2021-02-24 20:57:42+00",
+  "conditionId": "0x2eda308b02c3eb75751a3ff8a6668d7ba73ac21b70411cc0276f11a139032ed8",
+  "slug": "will-the-celtics-or-the-mavericks-win-their-february-23rd-matchup",
+  "question": "Will the Celtics or the Mavericks win their February 23rd matchup?"
+}

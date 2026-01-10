@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241237",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-01T13:04:15.995000Z",
+  "market_createdAt": "2022-02-01T13:04:15.995Z",
+  "market_updatedAt": "2024-04-23T00:29:08.155447Z",
+  "market_startDate": "2022-02-01T23:19:34.569Z",
+  "market_endDate": "2022-02-01T00:00:00Z",
+  "market_closedTime": "2022-02-03 00:09:19+00",
+  "conditionId": "0xb9a54e6c81ce1434fa496601bd712d6d9a063162675eec181e84b4305ff9971c",
+  "slug": "nba-who-will-win-the-pistons-vs-pelicans-scheduled-for-february-1-7-pm-et",
+  "question": "NBA: Who will win the Pistons vs. Pelicans, scheduled for February 1 (7 PM ET)?"
+}

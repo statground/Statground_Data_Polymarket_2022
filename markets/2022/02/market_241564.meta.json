@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241564",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-16T19:15:52.849000Z",
+  "market_createdAt": "2022-02-16T19:15:52.849Z",
+  "market_updatedAt": "2024-04-24T23:27:56.739654Z",
+  "market_startDate": "2022-02-16T19:39:28.979Z",
+  "market_endDate": "2022-02-16T00:00:00Z",
+  "market_closedTime": "2022-02-17 20:22:55+00",
+  "conditionId": "0x2042d4aa5ed8aad93a630ee6cf902750dce9483773aad417289bda0802a88d11",
+  "slug": "nhl-will-the-avalanche-beat-the-golden-knights-by-more-than-1p5-goals-in-their-february-16-matchup-10-pm-et",
+  "question": "NHL: Will the Avalanche beat the Golden Knights by more than 1.5 goals in their February 16 matchup (10 PM ET)?"
+}

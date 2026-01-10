@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "228396",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-03T16:35:02.269000Z",
+  "market_createdAt": "2021-08-03T16:35:02.269Z",
+  "market_updatedAt": "2024-04-24T23:50:39.832955Z",
+  "market_startDate": "2021-08-03T17:18:41.118Z",
+  "market_endDate": "2022-01-01T00:00:00Z",
+  "market_closedTime": "2022-01-02 21:17:24+00",
+  "conditionId": "0x363041d4be922529ce5f4d8495b012ee2ab1105174a426f019d5572aac502443",
+  "slug": "will-andrew-cuomo-be-governor-of-new-york-on-january-1-2022",
+  "question": "Will Andrew Cuomo be Governor of New York on January 1, 2022?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239464",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-16T15:08:24.588000Z",
+  "market_createdAt": "2021-11-16T15:08:24.588Z",
+  "market_updatedAt": "2024-04-22T23:40:42.00309Z",
+  "market_startDate": "2021-11-16T18:39:15.535Z",
+  "market_endDate": "2021-11-27T00:00:00Z",
+  "market_closedTime": "2021-11-27 21:00:24+00",
+  "conditionId": "0x583ef7ebecaec6a3b4eaf0c01be112215110eaaeb35636acbd84da3f7ded2469",
+  "slug": "will-matthew-stafford-stay-in-first-as-nfls-player-with-most-passing-yards-on-november-27",
+  "question": "Will Matthew Stafford have the most passing yards in the 2021 NFL season on November 27th?"
+}

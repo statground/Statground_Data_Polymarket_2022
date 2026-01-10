@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238813",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-21T16:24:43.268000Z",
+  "market_createdAt": "2021-09-21T16:24:43.268Z",
+  "market_updatedAt": "2024-04-22T23:18:34.739291Z",
+  "market_startDate": "2021-09-27T17:25:57.91Z",
+  "market_endDate": "2021-09-28T00:00:00Z",
+  "market_closedTime": "2021-09-29 21:03:01+00",
+  "conditionId": "0x82a40c7a0405afad82387a8c73f1cc6e469f706bb538053ecef8de1a03ad849d",
+  "slug": "will-psg-or-manchester-city-win-their-champions-league-match-on-september-28",
+  "question": "Will PSG or Manchester City win their Champions League match on September 28?"
+}

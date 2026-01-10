@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243271",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-14T08:27:25.673000Z",
+  "market_createdAt": "2022-04-14T08:27:25.673Z",
+  "market_updatedAt": "2023-03-17T19:25:42.801Z",
+  "market_startDate": "2022-04-14T14:51:37.932Z",
+  "market_endDate": "2022-04-14T00:00:00Z",
+  "market_closedTime": "2022-04-15 07:31:50+00",
+  "conditionId": "0xbd203eda660a5786ada74c7814e584e5196f9d94d60e32b9156e6b2929b2dfe2",
+  "slug": "mlb-who-will-win-new-york-yankees-vs-toronto-blue-jays-scheduled-for-april-14-706-pm-et",
+  "question": "MLB: Who will win New York Yankees vs. Toronto Blue Jays, scheduled for April 14, 7:06 PM ET?"
+}

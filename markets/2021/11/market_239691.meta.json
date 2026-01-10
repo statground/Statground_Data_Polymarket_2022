@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239691",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-30T10:47:30.016000Z",
+  "market_createdAt": "2021-11-30T10:47:30.016Z",
+  "market_updatedAt": "2024-04-23T00:56:12.020119Z",
+  "market_startDate": "2021-11-30T18:23:22.04Z",
+  "market_endDate": "2021-11-30T00:00:00Z",
+  "market_closedTime": "2021-12-02 06:43:18+00",
+  "conditionId": "0xdf66b34fee808103b1f64c5ed94e56790d410d9f16885fe6e7b952c71ff34941",
+  "slug": "nba-will-the-nets-beat-the-knicks-by-more-than-5pt5-points-in-their-november-30th-matchup",
+  "question": "NBA: Will the Nets beat the Knicks by more than 5.5 points in their November 30th matchup?"
+}

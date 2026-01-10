@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "156369",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-26T19:30:07.653000Z",
+  "market_createdAt": "2021-04-26T19:30:07.653Z",
+  "market_updatedAt": "2024-04-26T02:44:54.749957Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-28T00:00:00Z",
+  "market_closedTime": "2021-04-30 06:21:53+00",
+  "conditionId": "0x78ef12f5773091eb5f20632a78b32ddac8c70055aa67189fb2daefc92df1a069",
+  "slug": "will-president-biden-mention-coronavirus-3-or-more-times-in-his-first-joint-address",
+  "question": "Will President Biden mention coronavirus 3 or more times in his first Joint Address?"
+}

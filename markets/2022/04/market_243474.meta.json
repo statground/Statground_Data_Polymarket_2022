@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243474",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-19T10:18:52.382000Z",
+  "market_createdAt": "2022-04-19T10:18:52.382Z",
+  "market_updatedAt": "2023-01-31T19:56:16.584Z",
+  "market_startDate": "2022-04-19T15:06:44.461Z",
+  "market_endDate": "2022-04-19T00:00:00Z",
+  "market_closedTime": "2022-04-20 07:30:58+00",
+  "conditionId": "0xe6f0b79397b246e3663c56017e732c62c07eaf72fb213aa74461afab904e2e38",
+  "slug": "mlb-who-will-win-phillies-vs-rockies-game-on-april-19",
+  "question": "MLB: Who will win Phillies vs. Rockies game on April 19?"
+}

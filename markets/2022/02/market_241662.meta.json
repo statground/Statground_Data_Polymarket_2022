@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241662",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-23T19:05:22.415000Z",
+  "market_createdAt": "2022-02-23T19:05:22.415Z",
+  "market_updatedAt": "2024-04-22T22:42:16.475358Z",
+  "market_startDate": "2022-02-23T19:08:54.645Z",
+  "market_endDate": "2022-02-23T00:00:00Z",
+  "market_closedTime": "2022-03-06 19:15:46+00",
+  "conditionId": "0xd4702ce44295a962a9c6bc52ecd00f653111b0b066fab2910ca778e3af40d52e",
+  "slug": "will-larva-labs-104-cryptopunks-sell-for-20m-or-more-at-sothebys",
+  "question": "Will Larva Lab’s 104 Cryptopunks sell for $20M or more at Sotheby’s?"
+}

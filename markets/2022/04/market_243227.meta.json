@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243227",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-13T15:00:50.115000Z",
+  "market_createdAt": "2022-04-13T15:00:50.115Z",
+  "market_updatedAt": "2023-01-31T19:08:42.043Z",
+  "market_startDate": "2022-04-13T17:12:45.099Z",
+  "market_endDate": "2022-04-25T00:00:00Z",
+  "market_closedTime": "2022-04-26 14:30:50+00",
+  "conditionId": "0x774518902f85e6c2aa37199e770a8ead8a86d89809452d466c89a1cc0228fa25",
+  "slug": "will-the-price-of-a-barrel-of-crude-oil-be-100-or-more-on-april-25-2022",
+  "question": "Will the price of a barrel of crude oil be $100 or more on April 25, 2022?"
+}

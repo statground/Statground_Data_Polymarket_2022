@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239150",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-30T13:27:48.597000Z",
+  "market_createdAt": "2021-10-30T13:27:48.597Z",
+  "market_updatedAt": "2024-04-22T23:00:27.111813Z",
+  "market_startDate": "2021-10-30T19:05:22.87Z",
+  "market_endDate": "2021-10-30T00:00:00Z",
+  "market_closedTime": "2021-10-31 16:32:45+00",
+  "conditionId": "0x0ee4315e9a22724980c81e523d74f9425aa269b90b179208335c297aa11b4e4a",
+  "slug": "who-will-win-the-wizards-v-celtics-game-on-october-30th",
+  "question": "Who will win the Wizards v. Celtics game on October 30th?"
+}

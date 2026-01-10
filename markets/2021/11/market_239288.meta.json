@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239288",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-07T13:53:45.805000Z",
+  "market_createdAt": "2021-11-07T13:53:45.805Z",
+  "market_updatedAt": "2024-04-23T00:48:25.745629Z",
+  "market_startDate": "2021-11-07T21:15:44.488Z",
+  "market_endDate": "2021-11-07T00:00:00Z",
+  "market_closedTime": "2021-11-08 13:34:09+00",
+  "conditionId": "0xecf901a5c42f3e993225d258c7a204b6aed0d772ef2bb6bafd663f00a2ea134f",
+  "slug": "nba-will-the-warriors-beat-the-rockets-by-more-than-12pt5-points-in-their-november-7th-matchup",
+  "question": "NBA: Will the Warriors beat the Rockets by more than 12.5 points in their November 7th matchup?"
+}

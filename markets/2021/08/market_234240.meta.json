@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "234240",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-12T17:54:01.620000Z",
+  "market_createdAt": "2021-08-12T17:54:01.62Z",
+  "market_updatedAt": "2024-04-22T23:53:10.071241Z",
+  "market_startDate": "2021-08-12T18:59:17.126Z",
+  "market_endDate": "2021-08-16T00:00:00Z",
+  "market_closedTime": "2021-08-16 19:36:16+00",
+  "conditionId": "0xf12d26e964ce66add3047e972746cb706e5e5071b5db42b1aa0cb18397a83e9c",
+  "slug": "will-hikaru-nakamura-win-the-2021-st-louis-rapid-and-blitz-chess-tournament",
+  "question": "Will Hikaru Nakamura win the 2021 St. Louis Rapid and Blitz Chess Tournament?"
+}

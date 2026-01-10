@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248146",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-28T16:50:35.606000Z",
+  "market_createdAt": "2022-11-28T16:50:35.606Z",
+  "market_updatedAt": "2023-01-31T11:08:30.733Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-02T00:00:00Z",
+  "market_closedTime": "2022-12-03 00:15:44+00",
+  "conditionId": "0x4e1a18b45ff57dc880b0198968ad7a33ad14e3692b789560e9be816e44c5ba0c",
+  "slug": "world-cup-friday-will-brazil-beat-cameroon",
+  "question": "World Cup: Friday - Will Brazil beat Cameroon?"
+}

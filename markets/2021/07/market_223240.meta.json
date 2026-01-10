@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "223240",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-09T17:15:01.507000Z",
+  "market_createdAt": "2021-07-09T17:15:01.507Z",
+  "market_updatedAt": "2024-04-23T00:07:57.335216Z",
+  "market_startDate": null,
+  "market_endDate": "2021-10-01T00:00:00Z",
+  "market_closedTime": "2021-10-02 00:11:53+00",
+  "conditionId": "0x103ea1b8567573ec32dd3b259ff7716e21d6b0a379f16b173f52f2070bf2aad2",
+  "slug": "will-there-be-at-least-850-unicorn-companies-worldwide-according-to-cbinsights-by-october-1st",
+  "question": "Will there be at least 850 unicorn companies worldwide according to CBInsights by October 1st?"
+}

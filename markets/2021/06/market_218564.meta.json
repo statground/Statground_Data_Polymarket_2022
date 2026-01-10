@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218564",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-18T19:35:01.533000Z",
+  "market_createdAt": "2021-06-18T19:35:01.533Z",
+  "market_updatedAt": "2024-04-24T23:29:45.95507Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-18T00:00:00Z",
+  "market_closedTime": "2021-06-19 20:23:22+00",
+  "conditionId": "0xe38a8271a7aaa0fc74508d56d1fd362aadd6f45d8f4581c72b2464b52ca4827b",
+  "slug": "who-will-win-76ers-v-hawks-conference-semifinal-game-6",
+  "question": "Who will win 76ers v. Hawks: Conference Semifinal Game 6? "
+}

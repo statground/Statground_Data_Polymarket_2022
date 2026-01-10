@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "203867",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-28T20:50:01.663000Z",
+  "market_createdAt": "2021-05-28T20:50:01.663Z",
+  "market_updatedAt": "2024-04-23T00:51:18.008205Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-20T00:00:00Z",
+  "market_closedTime": "2021-07-22 23:18:51+00",
+  "conditionId": "0x42859377cbb2860c1801c62753174173ee53a4f68d82d44195c2dda4c5bf8340",
+  "slug": "will-arizona-announce-the-incorrect-winner-was-declared-for-the-2020-us-presidential-election-in-maricopa-county-by-july-20",
+  "question": "Will Arizona announce the incorrect winner was declared for the 2020 US Presidential Election in Maricopa County by July 20?"
+}

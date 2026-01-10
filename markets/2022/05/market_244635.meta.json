@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244635",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-11T15:57:10.580000Z",
+  "market_createdAt": "2022-05-11T15:57:10.58Z",
+  "market_updatedAt": "2023-01-31T21:06:31.4Z",
+  "market_startDate": "2022-05-11T16:46:57.959Z",
+  "market_endDate": "2022-05-11T00:00:00Z",
+  "market_closedTime": "2022-05-12 05:32:16+00",
+  "conditionId": "0x8de152e417bdcab64547fb1d23c103def1e33c8f1441329b7860d8c67dd205e1",
+  "slug": "nhl-will-the-panthers-beat-the-capitals-by-more-than-1pt5-goals-in-their-may-11-matchup-730-pm-et",
+  "question": "NHL: Will the Panthers beat the Capitals by more than 1.5 goals in their May 11 matchup (7:30 PM ET)?"
+}

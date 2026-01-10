@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "226967",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-29T18:05:01.546000Z",
+  "market_createdAt": "2021-07-29T18:05:01.546Z",
+  "market_updatedAt": "2024-04-22T23:23:24.364651Z",
+  "market_startDate": "2021-07-29T18:59:11.506Z",
+  "market_endDate": "2021-08-11T00:00:00Z",
+  "market_closedTime": "2021-08-12 23:22:46+00",
+  "conditionId": "0x437c4c3ae01ae6c219f6354b959d7f7a298b291ec1af7fcb4671c6c0ea525af5",
+  "slug": "what-will-the-price-of-eth-be-on-august-11",
+  "question": "What will the price of $ETH be on August 11?"
+}

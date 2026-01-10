@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248040",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T20:51:31.101000Z",
+  "market_createdAt": "2022-11-18T20:51:31.101Z",
+  "market_updatedAt": "2023-01-31T18:22:24.351Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-06T00:00:00Z",
+  "market_closedTime": "2022-12-03 00:31:16+00",
+  "conditionId": "0x1068afd86d180d4e54ccbbbe376885065067a91499085afdb3ff4b53e4640642",
+  "slug": "will-cameroon-qualify-from-group-g",
+  "question": "Will Cameroon qualify from Group G?"
+}

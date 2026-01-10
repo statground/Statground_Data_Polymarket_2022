@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241378",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-08T07:07:06.225000Z",
+  "market_createdAt": "2022-02-08T07:07:06.225Z",
+  "market_updatedAt": "2024-04-24T23:16:21.759401Z",
+  "market_startDate": "2022-02-08T17:12:45.883Z",
+  "market_endDate": "2022-02-08T00:00:00Z",
+  "market_closedTime": "2022-02-10 15:16:54+00",
+  "conditionId": "0x3355c9c72f37a7de1c87cd7cf5bfa20eb423041fae16c1c132e966885240565b",
+  "slug": "nba-will-the-pelicans-beat-the-rockets-by-more-than-7p5-points-in-their-february-8-8-pm-et-matchup",
+  "question": "NBA: Will the Pelicans beat the Rockets by more than 7.5 points in their February 8 (8 PM ET) matchup?"
+}

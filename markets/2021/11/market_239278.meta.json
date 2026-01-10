@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239278",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-06T19:35:31.100000Z",
+  "market_createdAt": "2021-11-06T19:35:31.1Z",
+  "market_updatedAt": "2024-04-23T00:56:25.870444Z",
+  "market_startDate": "2021-11-07T01:02:53.257Z",
+  "market_endDate": "2021-11-07T00:00:00Z",
+  "market_closedTime": "2021-11-08 13:25:02+00",
+  "conditionId": "0x66abd0d82a16094ff434abf686b9815df1f11ab18d0936c48c08fc2c6a993a26",
+  "slug": "nfl-will-the-chiefs-beat-the-packers-by-more-than-6pt5-points-in-their-november-7th-matchup",
+  "question": "NFL: Will the Chiefs beat the Packers by more than 6.5 points in their November 7th matchup?"
+}

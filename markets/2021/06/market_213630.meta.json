@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "213630",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-08T19:10:01.184000Z",
+  "market_createdAt": "2021-06-08T19:10:01.184Z",
+  "market_updatedAt": "2024-04-23T00:35:40.350328Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-01T00:00:00Z",
+  "market_closedTime": "2021-06-20 21:02:52+00",
+  "conditionId": "0xb63dccd3ffb2875b42312c5a9e39c475b72efa55915ddce0dac984153e56e42a",
+  "slug": "will-italy-be-the-group-a-winner-in-the-euro-2020",
+  "question": "Will Italy be the Group A winner in the Euro 2020?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247765",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-25T20:03:14.468000Z",
+  "market_createdAt": "2022-10-25T20:03:14.468Z",
+  "market_updatedAt": "2023-01-31T20:44:33.83Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-30T00:00:00Z",
+  "market_closedTime": "2022-10-30 23:45:23+00",
+  "conditionId": "0xc3a61f9d70627e3a645c3071f5dc7a2f726d890676cb170cffff8d909d5cf624",
+  "slug": "nfl-sunday-patriots-vs-jets",
+  "question": "NFL Sunday: Patriots vs. Jets"
+}

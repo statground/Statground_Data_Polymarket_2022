@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241449",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-12T12:41:33.217000Z",
+  "market_createdAt": "2022-02-12T12:41:33.217Z",
+  "market_updatedAt": "2024-04-23T00:56:06.886184Z",
+  "market_startDate": null,
+  "market_endDate": "2022-04-01T00:00:00Z",
+  "market_closedTime": "2022-04-02 07:18:58+00",
+  "conditionId": "0xad846fff4feb71cdea07ffdb89bd9e8697e3511fdd7dcd71261637575bfdf5e4",
+  "slug": "beijing-2022-winter-olympics-will-russia-have-any-medals-stripped-for-doping",
+  "question": "Beijing 2022 Winter Olympics: Will Russia have any medals stripped for doping?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240405",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T13:28:52.104000Z",
+  "market_createdAt": "2022-01-11T13:28:52.104Z",
+  "market_updatedAt": "2023-01-31T17:27:03.023Z",
+  "market_startDate": "2022-01-12T20:41:54.073Z",
+  "market_endDate": "2022-02-04T00:00:00Z",
+  "market_closedTime": "2022-02-07 17:55:21+00",
+  "conditionId": "0x5987f742a1bf199c246a51b7dfb527d77c80d22c38416674e6f62343647d0727",
+  "slug": "will-the-u-3-unemployment-rate-in-january-be-above-4pt0",
+  "question": "Will the U-3 unemployment rate in January be above 4.0%?"
+}

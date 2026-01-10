@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248306",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-31T18:29:59.723000Z",
+  "market_createdAt": "2022-12-31T18:29:59.723Z",
+  "market_updatedAt": "2023-02-10T01:03:41.208Z",
+  "market_startDate": null,
+  "market_endDate": "2023-01-08T00:00:00Z",
+  "market_closedTime": "2023-01-09 02:01:31+00",
+  "conditionId": "0x8091de39d7661f0515a50b16220bb081cbee44b463ebeae8300e8784f485e3d2",
+  "slug": "will-joe-bidens-fivethirtyeight-approval-rating-be-43pt3-or-higher-on-january-7",
+  "question": "Will Joe Biden's FiveThirtyEight approval rating be 43.3% or higher on January 7?"
+}

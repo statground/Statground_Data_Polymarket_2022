@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248091",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-21T17:23:44.648000Z",
+  "market_createdAt": "2022-11-21T17:23:44.648Z",
+  "market_updatedAt": "2023-01-31T16:58:52.865Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-22T00:00:00Z",
+  "market_closedTime": "2022-11-22 20:20:05+00",
+  "conditionId": "0x9c7365fd5a9ddeef0f93b8998327ad6edec8915f6f8c4e055eda296f1ea221ff",
+  "slug": "world-cup-2022-tuesday-will-denmark-beat-tunisia",
+  "question": "World Cup: Tuesday - Will Denmark beat Tunisia?"
+}

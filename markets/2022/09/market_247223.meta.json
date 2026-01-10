@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247223",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-09T22:39:03.875000Z",
+  "market_createdAt": "2022-09-09T22:39:03.875Z",
+  "market_updatedAt": "2024-04-24T23:38:06.503551Z",
+  "market_startDate": "2022-09-10T16:22:39.695Z",
+  "market_endDate": "2022-09-13T00:00:00Z",
+  "market_closedTime": "2022-09-13 17:45:54+00",
+  "conditionId": "0x79793e84b7bb511328b3c4f8835ade61855fd73cb2c007b48a3fd54059ac7cfe",
+  "slug": "emmys-2022-will-succession-win-outstanding-drama-series",
+  "question": "Emmys 2022: Will ‘Succession’ win Outstanding Drama Series?"
+}

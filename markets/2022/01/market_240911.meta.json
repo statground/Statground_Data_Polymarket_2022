@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240911",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-21T11:05:55.422000Z",
+  "market_createdAt": "2022-01-21T11:05:55.422Z",
+  "market_updatedAt": "2024-04-23T00:42:32.622337Z",
+  "market_startDate": "2022-01-21T21:47:13.667Z",
+  "market_endDate": "2022-01-21T00:00:00Z",
+  "market_closedTime": "2022-01-25 20:50:44+00",
+  "conditionId": "0x1cd7fb3b6e5aac0c3b3233814d403b009b176506cba9bf52708170d2c0694323",
+  "slug": "nba-will-the-bucks-beat-the-bulls-by-more-than-8p5-points-in-their-january-21-matchup",
+  "question": "NBA: Will the Bucks beat the Bulls by more than 8.5 points in their January 21 matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243106",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-11T22:01:59.065000Z",
+  "market_createdAt": "2022-04-11T22:01:59.065Z",
+  "market_updatedAt": "2023-01-31T17:34:23.485Z",
+  "market_startDate": "2022-04-11T22:21:22.665Z",
+  "market_endDate": "2022-07-31T00:00:00Z",
+  "market_closedTime": "2022-08-01 23:45:50+00",
+  "conditionId": "0x8ad90ace175cad237fff5354b4d14ddb72ae78afd0892759c7c5c4c304cc9d8b",
+  "slug": "will-an-election-for-the-israeli-knesset-occur-before-august-1-2022",
+  "question": "Will an election for the Israeli Knesset occur before August 1, 2022?"
+}

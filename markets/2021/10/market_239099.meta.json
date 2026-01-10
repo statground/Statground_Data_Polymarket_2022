@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239099",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-26T22:43:14.114000Z",
+  "market_createdAt": "2021-10-26T22:43:14.114Z",
+  "market_updatedAt": "2024-04-24T23:35:09.866358Z",
+  "market_startDate": "2021-10-27T18:16:21.103Z",
+  "market_endDate": "2021-10-27T00:00:00Z",
+  "market_closedTime": "2021-10-28 10:00:24+00",
+  "conditionId": "0x520ca8c28a65a7af9fb1fd5a200e078702388c5d653c605c2a45df99531033b8",
+  "slug": "will-the-hawks-beat-the-pelicans-by-more-than-5pt5-points-in-their-october-27th-matchup",
+  "question": "Will the Hawks beat the Pelicans by more than 5.5 points in their October 27th matchup?"
+}

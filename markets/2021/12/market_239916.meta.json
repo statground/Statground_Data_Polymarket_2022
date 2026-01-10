@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239916",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-08T09:57:48.711000Z",
+  "market_createdAt": "2021-12-08T09:57:48.711Z",
+  "market_updatedAt": "2024-04-22T23:09:29.775121Z",
+  "market_startDate": "2021-12-08T20:53:22.514Z",
+  "market_endDate": "2021-12-08T00:00:00Z",
+  "market_closedTime": "2021-12-09 16:07:08+00",
+  "conditionId": "0xe641b28e1f006d92dba1def5158737ed0d39178dbad449e9af00466992c89890",
+  "slug": "nba-will-the-cavaliers-beat-the-bulls-by-more-than-2pt5-points-in-their-december-8-matchup",
+  "question": "NBA: Will the Cavaliers beat the Bulls by more than 2.5 points in their December 8 matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242273",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-19T09:06:19.049000Z",
+  "market_createdAt": "2022-03-19T09:06:19.049Z",
+  "market_updatedAt": "2024-04-24T23:21:27.290086Z",
+  "market_startDate": "2022-03-19T17:14:29.814Z",
+  "market_endDate": "2022-03-19T00:00:00Z",
+  "market_closedTime": "2022-03-20 20:56:27+00",
+  "conditionId": "0x242b8a45419d3b51e341aad6bacdde43bc68324522d1fd9e1b32fbf4c14cfd7a",
+  "slug": "nba-who-will-win-bucks-vspt-timberwolves-scheduled-for-march-19-510-pm-et",
+  "question": "NBA: Who will win Bucks vs. Timberwolves, scheduled for March 19, 5:10 PM ET?"
+}

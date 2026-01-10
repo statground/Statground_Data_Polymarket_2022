@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238664",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-26T19:58:01.250000Z",
+  "market_createdAt": "2021-08-26T19:58:01.25Z",
+  "market_updatedAt": "2024-04-23T00:37:44.337122Z",
+  "market_startDate": "2021-08-26T20:04:01.443Z",
+  "market_endDate": "2021-08-26T00:00:00Z",
+  "market_closedTime": "2021-08-27 16:21:52+00",
+  "conditionId": "0x815036d00fc540f27d713e41908d4458a35500ed3405958a982b882df02447e0",
+  "slug": "will-president-biden-say-trump-during-his-august-26-speech-qa",
+  "question": "Will President Biden say “Trump” during his August 26 speech + Q&A?"
+}

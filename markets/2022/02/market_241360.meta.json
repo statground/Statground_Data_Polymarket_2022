@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241360",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-07T11:17:56.692000Z",
+  "market_createdAt": "2022-02-07T11:17:56.692Z",
+  "market_updatedAt": "2024-04-24T23:38:36.04993Z",
+  "market_startDate": "2022-02-07T17:43:57.373Z",
+  "market_endDate": "2022-02-07T00:00:00Z",
+  "market_closedTime": "2022-02-09 17:54:09+00",
+  "conditionId": "0xda43c61873e5b5cd755efcdef148df5a62008d4caa073985f32ac831214c59f3",
+  "slug": "nba-who-will-win-the-jazz-vs-knicks-scheduled-for-february-7-10-pm-et",
+  "question": "NBA: Who will win the Jazz vs. Knicks, scheduled for February 7 (10 PM ET)?"
+}

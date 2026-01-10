@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247448",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-05T17:31:22.228000Z",
+  "market_createdAt": "2022-10-05T17:31:22.228Z",
+  "market_updatedAt": "2023-01-31T17:46:56.686Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-31T00:00:00Z",
+  "market_closedTime": "2023-01-02 22:02:35+00",
+  "conditionId": "0xa8253e1affd5da66d11396cdbe9b4ded5e5b315e7d64c1462337d9ebf20004c5",
+  "slug": "will-russia-use-a-nuclear-weapon-before-2023",
+  "question": "Will Russia use a nuclear weapon before 2023?"
+}

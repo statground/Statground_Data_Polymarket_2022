@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "228996",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-05T18:40:01.248000Z",
+  "market_createdAt": "2021-08-05T18:40:01.248Z",
+  "market_updatedAt": "2024-04-22T22:24:02.829967Z",
+  "market_startDate": "2021-08-09T19:06:58.497Z",
+  "market_endDate": "2021-10-14T00:00:00Z",
+  "market_closedTime": "2021-10-15 22:08:33+00",
+  "conditionId": "0x5696a012856f1eaacfb6158dc4f231bdd29a2bb7ce03c20842838e57b16557ec",
+  "slug": "will-a-second-union-vote-be-approved-by-the-nlrb-at-the-bessemer-amazon-warehouse-before-october-15-2021",
+  "question": "Will a second union vote be approved by the NLRB at the Bessemer Amazon Warehouse before October 15, 2021? "
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240649",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-12T19:57:06.991000Z",
+  "market_createdAt": "2022-01-12T19:57:06.991Z",
+  "market_updatedAt": "2024-04-23T00:58:37.800433Z",
+  "market_startDate": "2022-01-18T22:02:06.501Z",
+  "market_endDate": "2022-02-10T00:00:00Z",
+  "market_closedTime": "2022-02-10 23:23:09+00",
+  "conditionId": "0xd2632230d071b557335951455ff2785e3d693a09f78917c77d48687071c1fb17",
+  "slug": "will-the-us-annual-inflation-on-january-2022-exceed-7p2",
+  "question": "Will the U.S. annual inflation on January 2022 exceed 7.2%?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240154",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-23T10:55:13.830000Z",
+  "market_createdAt": "2021-12-23T10:55:13.83Z",
+  "market_updatedAt": "2024-04-22T22:51:13.668088Z",
+  "market_startDate": "2021-12-23T18:06:04.296Z",
+  "market_endDate": "2021-12-23T00:00:00Z",
+  "market_closedTime": "2021-12-24 17:33:48+00",
+  "conditionId": "0xf3d4cb9ad047f46f3c4b9d0f66962ca7d4ae91bf7a857f8451df8dae61d3edb8",
+  "slug": "nba-will-the-wizards-beat-the-knicks-by-more-than-1pt5-points-in-their-december-23-matchup",
+  "question": "NBA: Will the Wizards beat the Knicks by more than 1.5 points in their December 23 matchup?"
+}

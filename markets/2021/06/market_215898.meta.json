@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "215898",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-11T17:20:01.259000Z",
+  "market_createdAt": "2021-06-11T17:20:01.259Z",
+  "market_updatedAt": "2024-04-22T23:52:29.038905Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-12T00:00:00Z",
+  "market_closedTime": "2021-06-13 17:17:53+00",
+  "conditionId": "0x33e1ad9b52a090431ac38dc0821e2613cace2040e48d37677f25a2261b5d97cb",
+  "slug": "who-will-win-ufc-263-edwards-vs-diaz",
+  "question": "Who will win UFC 263: Edwards vs. Diaz?"
+}

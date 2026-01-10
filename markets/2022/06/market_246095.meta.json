@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246095",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-02T08:04:50.037000Z",
+  "market_createdAt": "2022-06-02T08:04:50.037Z",
+  "market_updatedAt": "2023-01-31T03:49:15.603Z",
+  "market_startDate": "2022-06-02T14:56:26.538Z",
+  "market_endDate": "2022-06-02T00:00:00Z",
+  "market_closedTime": "2022-06-03 06:46:12+00",
+  "conditionId": "0x461c0f88af45b00bb6a8ea01a696c9d44e03e05af25fae80dab13e5542a2da08",
+  "slug": "nba-will-the-warriors-beat-the-celtics-by-more-than-3pt5-points-in-their-june-2-900-pm-et-matchup",
+  "question": "NBA: Will the Warriors beat the Celtics by more than 3.5 points in their June 2, 9:00 PM ET matchup?"
+}

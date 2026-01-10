@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243866",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-28T02:12:03.456000Z",
+  "market_createdAt": "2022-04-28T02:12:03.456Z",
+  "market_updatedAt": "2023-01-31T19:34:54.164Z",
+  "market_startDate": "2022-04-28T03:03:59.799Z",
+  "market_endDate": "2022-04-30T00:00:00Z",
+  "market_closedTime": "2022-04-29 07:18:13+00",
+  "conditionId": "0x653c12fa29046474c414b884d71d8805e511197dd656092f6f1d397b6bfeaa9e",
+  "slug": "2022-nfl-draft-will-charles-cross-be-in-the-top-7-picks",
+  "question": "2022 NFL Draft: Will Charles Cross be in the top 7 picks?"
+}

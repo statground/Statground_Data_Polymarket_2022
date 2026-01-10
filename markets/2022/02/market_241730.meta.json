@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241730",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-26T03:38:39.606000Z",
+  "market_createdAt": "2022-02-26T03:38:39.606Z",
+  "market_updatedAt": "2024-04-23T00:53:54.091763Z",
+  "market_startDate": "2022-02-26T17:10:53.655Z",
+  "market_endDate": "2022-03-01T00:00:00Z",
+  "market_closedTime": "2022-03-02 17:31:15+00",
+  "conditionId": "0x538df3560eb3ed5c0591276bda73fa115332de3d4966310144bd68a2a821cbf1",
+  "slug": "will-president-biden-mention-russiaputin-12-or-more-times-in-his-1st-state-of-the-union-address",
+  "question": "Will President Biden mention Russia/Putin 12 or more times in his 1st State of the Union address?"
+}

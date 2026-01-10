@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239402",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-13T00:40:53.440000Z",
+  "market_createdAt": "2021-11-13T00:40:53.44Z",
+  "market_updatedAt": "2024-04-23T00:14:28.700384Z",
+  "market_startDate": "2021-11-15T17:17:35.471Z",
+  "market_endDate": "2021-11-25T00:00:00Z",
+  "market_closedTime": "2021-11-26 21:04:46+00",
+  "conditionId": "0xff872841b984c2c5e2d414f72da632b51adf0c56472dc6e7515d98b930a5c15b",
+  "slug": "will-germany-or-united-kingdom-report-a-higher-7-day-covid-19-case-average-per-capita-on-november-24",
+  "question": "Will Germany or United Kingdom report a higher 7-day COVID-19 case average per capita on November 24?"
+}

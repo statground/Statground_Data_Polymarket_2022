@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242632",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-30T09:03:15.489000Z",
+  "market_createdAt": "2022-03-30T09:03:15.489Z",
+  "market_updatedAt": "2024-04-22T23:04:21.17682Z",
+  "market_startDate": "2022-03-30T17:11:31.019Z",
+  "market_endDate": "2022-03-30T00:00:00Z",
+  "market_closedTime": "2022-03-31 09:00:48+00",
+  "conditionId": "0x711f6268042658529ee9e15fd573745536d8b1b3b768f3c2dfbc0e3206937a36",
+  "slug": "nhl-will-the-rangers-beat-the-wings-by-more-than-1pt5-goals-in-their-march-30-730-pm-et-matchup",
+  "question": "NHL: Will the Rangers beat the Wings by more than 1.5 goals in their March 30, 7:30 PM ET matchup?"
+}

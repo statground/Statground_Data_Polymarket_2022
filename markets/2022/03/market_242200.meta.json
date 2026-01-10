@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242200",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-18T12:03:40.712000Z",
+  "market_createdAt": "2022-03-18T12:03:40.712Z",
+  "market_updatedAt": "2024-04-22T22:50:43.969503Z",
+  "market_startDate": "2022-03-18T16:17:15.993Z",
+  "market_endDate": "2022-03-18T00:00:00Z",
+  "market_closedTime": "2022-03-19 13:30:23+00",
+  "conditionId": "0x0f394f278539dd8e8cebd9576c363037b695c74f43ad84f869c7f536361c6da5",
+  "slug": "nhl-will-the-avalanche-beat-the-sharks-by-more-than-1pt5-goals-in-their-march-18-1030-pm-et-matchup",
+  "question": "NHL: Will the Avalanche beat the Sharks by more than 1.5 goals in their March 18, 10:30 PM ET matchup?"
+}

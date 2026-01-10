@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238822",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-21T19:58:21.809000Z",
+  "market_createdAt": "2021-09-21T19:58:21.809Z",
+  "market_updatedAt": "2024-04-22T23:04:39.333162Z",
+  "market_startDate": "2021-09-21T22:07:27.529Z",
+  "market_endDate": "2021-10-01T00:00:00Z",
+  "market_closedTime": "2021-10-01 18:44:11+00",
+  "conditionId": "0x49570144f3f61cf30c6b6294d28aefcce260abe359d3f7794ae3c438eea8df1a",
+  "slug": "what-will-the-eth-floor-price-of-cryptopunks-be-on-october-1-2021",
+  "question": "What will the ETH floor price of CryptoPunks be on October 1, 2021?"
+}

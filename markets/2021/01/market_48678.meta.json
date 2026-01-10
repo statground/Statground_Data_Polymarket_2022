@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "48678",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-01-21T18:45:06.811000Z",
+  "market_createdAt": "2021-01-21T18:45:06.811Z",
+  "market_updatedAt": "2023-01-31T16:54:57.721Z",
+  "market_startDate": null,
+  "market_endDate": "2021-01-25T00:00:00Z",
+  "market_closedTime": "2021-01-24 23:41:09+00",
+  "conditionId": "0xb6efcb062820c882a6a7c4753c1160fe7d00e46608c5b945e7881f091f2316e5",
+  "slug": "will-the-green-bay-packers-or-the-tampa-bay-buccaneers-win-the-nfc-championship",
+  "question": "Will the Green Bay Packers or the Tampa Bay Buccaneers win the NFC Championship?"
+}

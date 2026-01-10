@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "125089",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-13T18:00:05.138000Z",
+  "market_createdAt": "2021-04-13T18:00:05.138Z",
+  "market_updatedAt": "2024-04-25T00:13:50.091321Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-27T00:00:00Z",
+  "market_closedTime": "2021-04-27 19:04:24+00",
+  "conditionId": "0x81e759f2ae15dfef66c97210789692a2baf368fc2115f7e197666bed9156ec8c",
+  "slug": "will-uni-uniswap-be-above-36-on-april-27-2021",
+  "question": "Will $UNI (Uniswap) be above $36 on April 27, 2021?"
+}

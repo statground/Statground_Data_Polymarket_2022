@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246504",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-08T17:07:00.317000Z",
+  "market_createdAt": "2022-06-08T17:07:00.317Z",
+  "market_updatedAt": "2023-01-31T09:21:07.247Z",
+  "market_startDate": "2022-06-08T17:27:56.875Z",
+  "market_endDate": "2022-09-09T00:00:00Z",
+  "market_closedTime": "2022-06-17 19:30:32+00",
+  "conditionId": "0xc6ce68133f048b910a440726004a41bc972244a12c0d414e66f6533cc99cb076",
+  "slug": "will-synthetix-capture-more-single-day-fees-than-bitcoin-by-september-8-from-kain-pt-eth",
+  "question": "[From kain.eth] Will Synthetix capture more single day fees than Bitcoin by September 8?"
+}

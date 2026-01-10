@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239381",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-12T11:23:51.216000Z",
+  "market_createdAt": "2021-11-12T11:23:51.216Z",
+  "market_updatedAt": "2024-04-26T02:50:33.656866Z",
+  "market_startDate": "2021-11-12T20:18:56.748Z",
+  "market_endDate": "2021-11-12T00:00:00Z",
+  "market_closedTime": "2021-11-14 00:00:59+00",
+  "conditionId": "0x020663dd07bb30844f151ca3d1394ed63c0663befa6119838cd46c60a6411313",
+  "slug": "nba-will-the-nuggets-beat-the-hawks-by-more-than-4pt5-points-in-their-november-12th-matchup",
+  "question": "NBA: Will the Nuggets beat the Hawks by more than 4.5 points in their November 12th matchup?"
+}

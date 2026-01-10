@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239633",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-27T19:26:00.463000Z",
+  "market_createdAt": "2021-11-27T19:26:00.463Z",
+  "market_updatedAt": "2024-04-24T23:51:36.359652Z",
+  "market_startDate": "2021-11-28T16:55:14.375Z",
+  "market_endDate": "2021-12-14T00:00:00Z",
+  "market_closedTime": "2021-12-11 18:18:59+00",
+  "conditionId": "0xe79335c3da84e12cc32f2834db282858c9dd768493ef207a9de326dffd1a0f6e",
+  "slug": "world-chess-championship-2021-will-there-be-tiebreaks",
+  "question": "World Chess Championship 2021: Will there be tiebreaks?"
+}

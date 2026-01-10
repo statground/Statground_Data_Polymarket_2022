@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "229339",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-06T22:10:01.236000Z",
+  "market_createdAt": "2021-08-06T22:10:01.236Z",
+  "market_updatedAt": "2024-04-22T22:54:58.259039Z",
+  "market_startDate": "2021-08-09T17:47:23.232Z",
+  "market_endDate": "2021-11-30T00:00:00Z",
+  "market_closedTime": "2021-12-01 20:28:20+00",
+  "conditionId": "0xbbe3671096b94190bf5545a5691d041314c45f2c70cde974a901a724fc6054e9",
+  "slug": "will-donald-trump-be-president-of-the-usa-on-november-30-2021",
+  "question": "Will Donald Trump be President of the USA on November 30, 2021? "
+}

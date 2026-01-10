@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "147391",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-22T21:50:02.846000Z",
+  "market_createdAt": "2021-04-22T21:50:02.846Z",
+  "market_updatedAt": "2024-04-23T00:21:13.670401Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-24T00:00:00Z",
+  "market_closedTime": "2021-04-25 23:32:31+00",
+  "conditionId": "0x5820fb20525b1edda6e07cfffbbd6d11b564c02f7d26754121cf9ba8717775b1",
+  "slug": "who-will-win-ufc-261-zhang-vs-namajunas",
+  "question": "Who will win UFC 261: Zhang vs. Namajunas?"
+}

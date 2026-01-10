@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "107963",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-03-22T16:55:03.200000Z",
+  "market_createdAt": "2021-03-22T16:55:03.2Z",
+  "market_updatedAt": "2024-04-26T02:47:15.93716Z",
+  "market_startDate": null,
+  "market_endDate": "2021-03-22T00:00:00Z",
+  "market_closedTime": "2021-03-23 21:47:35+00",
+  "conditionId": "0x2af898838ea6042e8d3567640dc198ff9e8fd8ff414bdcdc7c5a3ba741063132",
+  "slug": "what-will-beeple-s-ocean-front-sell-for-in-its-nifty-gateway-auction",
+  "question": "What will Beeple's “Ocean Front” sell for in its Nifty Gateway auction?"
+}

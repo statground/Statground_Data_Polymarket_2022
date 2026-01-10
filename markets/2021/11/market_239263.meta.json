@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239263",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-06T13:26:59.202000Z",
+  "market_createdAt": "2021-11-06T13:26:59.202Z",
+  "market_updatedAt": "2024-04-23T00:53:34.053321Z",
+  "market_startDate": "2021-11-06T18:44:23.201Z",
+  "market_endDate": "2021-11-06T00:00:00Z",
+  "market_closedTime": "2021-11-07 21:08:12+00",
+  "conditionId": "0x1e55b3544c7fbb3309cf842f5cc0ac26af96132a18e92eac3394b4c689ed1e41",
+  "slug": "nba-will-the-heat-beat-the-jazz-by-more-than-3pt5-points-in-their-november-6th-matchup",
+  "question": "NBA: Will the Heat beat the Jazz by more than 3.5 points in their November 6th matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243400",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-18T08:25:31.588000Z",
+  "market_createdAt": "2022-04-18T08:25:31.588Z",
+  "market_updatedAt": "2023-01-31T21:06:36.863Z",
+  "market_startDate": "2022-04-18T14:06:34.783Z",
+  "market_endDate": "2022-04-18T00:00:00Z",
+  "market_closedTime": "2022-04-19 07:31:07+00",
+  "conditionId": "0x87079d0234f49e9f934e81c1dad1d4cb6e4f5158d62ec2ca790e97459ba7d1ef",
+  "slug": "nba-will-the-warriors-beat-the-nuggets-by-more-than-6pt5-points-in-their-april-18-1000-pm-et-matchup",
+  "question": "NBA: Will the Warriors beat the Nuggets by more than 6.5 points in their April 18, 10:00 PM ET matchup?"
+}

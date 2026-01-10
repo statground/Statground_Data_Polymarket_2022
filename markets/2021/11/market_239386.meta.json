@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239386",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-12T12:07:57.637000Z",
+  "market_createdAt": "2021-11-12T12:07:57.637Z",
+  "market_updatedAt": "2024-04-23T00:22:34.640745Z",
+  "market_startDate": "2021-11-12T20:21:03.913Z",
+  "market_endDate": "2021-11-14T00:00:00Z",
+  "market_closedTime": "2021-11-16 01:48:03+00",
+  "conditionId": "0xf86a1135af81e9bbe2bc0012ab0d3a70b39f9ede29493fded4154aa5f2684696",
+  "slug": "nfl-will-the-bills-beat-the-jets-by-more-than-12pt5-points-in-their-november-14th-matchup",
+  "question": "NFL: Will the Bills beat the Jets by more than 12.5 points in their November 14th matchup?"
+}

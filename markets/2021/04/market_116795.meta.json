@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "116795",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-05T19:20:02.208000Z",
+  "market_createdAt": "2021-04-05T19:20:02.208Z",
+  "market_updatedAt": "2024-04-25T00:13:33.457339Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-17T00:00:00Z",
+  "market_closedTime": "2021-04-19 14:47:25+00",
+  "conditionId": "0x98c0a4f64a0bdec3221bb20c205cf1498d47a6d92bd05a3bdb28542386ba3a04",
+  "slug": "will-jake-paul-win-his-boxing-match-against-ben-askren",
+  "question": "Will Jake Paul win his boxing match against Ben Askren?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "225263",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-23T20:45:01.531000Z",
+  "market_createdAt": "2021-07-23T20:45:01.531Z",
+  "market_updatedAt": "2024-04-24T23:44:45.897813Z",
+  "market_startDate": "2021-07-23T22:59:21.72Z",
+  "market_endDate": "2021-08-05T00:00:00Z",
+  "market_closedTime": "2021-08-03 04:38:39+00",
+  "conditionId": "0xb711311bb568f3a88eeac288d50fa5e73d80c496ba6b0c51740f5598423a120b",
+  "slug": "will-the-us-womens-soccer-team-win-the-gold-medal-at-the-2020-olympics",
+  "question": "Will the U.S. Women’s Soccer team win the Gold Medal at the 2020 Olympics?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240476",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T16:43:12.226000Z",
+  "market_createdAt": "2022-01-11T16:43:12.226Z",
+  "market_updatedAt": "2024-04-23T00:36:05.113927Z",
+  "market_startDate": "2022-01-12T20:56:25.695Z",
+  "market_endDate": "2022-03-02T00:00:00Z",
+  "market_closedTime": "2022-03-03 17:00:46+00",
+  "conditionId": "0x7df2036862ca524db5f29af28abcc776912b3d54b95061bee8a102bef647493c",
+  "slug": "will-spain-have-a-higher-covid-19-case-average-per-capita-than-the-us-france-and-italy-on-march-1st",
+  "question": "Will Spain have a higher COVID-19 Case Average per capita than the US, France, and Italy on March 1st?"
+}

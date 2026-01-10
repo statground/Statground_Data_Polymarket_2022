@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240823",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-18T16:04:18.948000Z",
+  "market_createdAt": "2022-01-18T16:04:18.948Z",
+  "market_updatedAt": "2024-04-22T23:23:31.862511Z",
+  "market_startDate": "2022-01-18T21:25:22.16Z",
+  "market_endDate": "2022-01-18T00:00:00Z",
+  "market_closedTime": "2022-01-20 22:50:41+00",
+  "conditionId": "0x0e28d79e6a7915c7286660e6ded189c45dff04a23844c32a0bb57aeadd71538e",
+  "slug": "nhl-will-the-islanders-beat-the-flyers-by-more-than-1p5-goals-in-their-january-18-matchup",
+  "question": "NHL: Will the Islanders beat the Flyers by more than 1.5 goals in their January 18 matchup?"
+}

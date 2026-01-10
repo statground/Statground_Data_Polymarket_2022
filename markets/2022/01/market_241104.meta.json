@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241104",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-27T12:22:17.347000Z",
+  "market_createdAt": "2022-01-27T12:22:17.347Z",
+  "market_updatedAt": "2024-04-22T23:03:49.866853Z",
+  "market_startDate": "2022-01-27T21:17:38.269Z",
+  "market_endDate": "2022-01-27T00:00:00Z",
+  "market_closedTime": "2022-01-29 17:12:55+00",
+  "conditionId": "0x2fe6b235d752d5a714f12348cba22c06773d51ec8ef3cd1e3b0543db2e3ccda6",
+  "slug": "nba-who-will-win-the-76ers-vs-lakers-scheduled-for-january-2p7-730-pm-et",
+  "question": "NBA: Who will win the 76ers vs. Lakers, scheduled for January 27 (7.30 PM ET)?"
+}

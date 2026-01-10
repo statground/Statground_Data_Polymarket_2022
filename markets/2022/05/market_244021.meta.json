@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244021",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-02T21:37:05.816000Z",
+  "market_createdAt": "2022-05-02T21:37:05.816Z",
+  "market_updatedAt": "2023-01-31T15:30:21.136Z",
+  "market_startDate": "2022-05-02T22:25:28.549Z",
+  "market_endDate": "2022-05-03T00:00:00Z",
+  "market_closedTime": "2022-06-09 22:15:33+00",
+  "conditionId": "0x43c9390e90d569dbe0430d29e3924595d7a90ba9f77d9ebef45dd58bfa784dee",
+  "slug": "will-matt-dolan-win-2nd-place-in-the-republican-primary-for-the-2022-united-states-senate-election-in-ohio",
+  "question": "Will Matt Dolan win 2nd place in the Republican primary for the 2022 United States Senate election in Ohio?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241468",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-13T16:38:30.493000Z",
+  "market_createdAt": "2022-02-13T16:38:30.493Z",
+  "market_updatedAt": "2024-04-26T02:50:19.208896Z",
+  "market_startDate": "2022-02-13T17:12:36.185Z",
+  "market_endDate": "2022-02-13T00:00:00Z",
+  "market_closedTime": "2022-02-14 11:49:32+00",
+  "conditionId": "0x10a2d3b284b2f26404bdf3c481df3c3deabb25c9ba4c3bcc69d4349132a7dac3",
+  "slug": "nba-will-the-timberwolves-beat-the-pacers-by-more-than-6p5-points-in-their-february-13-3-pm-et-matchup",
+  "question": "NBA: Will the Timberwolves beat the Pacers by more than 6.5 points in their February 13 (3 PM ET) matchup?"
+}

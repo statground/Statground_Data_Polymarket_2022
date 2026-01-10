@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240169",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-23T19:37:50.185000Z",
+  "market_createdAt": "2021-12-23T19:37:50.185Z",
+  "market_updatedAt": "2024-04-23T00:31:31.576378Z",
+  "market_startDate": "2021-12-26T08:52:56.23Z",
+  "market_endDate": "2021-12-26T00:00:00Z",
+  "market_closedTime": "2021-12-27 14:23:02+00",
+  "conditionId": "0xac55743e738aa09aae0fb20bf26215bc339505ca4a5b2199c8042288e2a13e76",
+  "slug": "nfl-will-the-seahawks-beat-the-bears-by-more-than-6pt5-points-in-their-december-26-matchup",
+  "question": "NFL: Will the Seahawks beat the Bears by more than 6.5 points in their December 26 matchup?"
+}

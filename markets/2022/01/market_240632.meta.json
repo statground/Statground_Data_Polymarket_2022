@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240632",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-12T16:37:17.046000Z",
+  "market_createdAt": "2022-01-12T16:37:17.046Z",
+  "market_updatedAt": "2024-04-23T00:50:10.609818Z",
+  "market_startDate": "2022-01-12T21:06:51.454Z",
+  "market_endDate": "2022-01-12T00:00:00Z",
+  "market_closedTime": "2022-01-14 06:36:38+00",
+  "conditionId": "0xe38b269c349cb433bb3852a54be731c6fcb85872888da6e87c250d4a581beac0",
+  "slug": "nba-will-the-hawks-beat-the-heat-by-more-than-2pt5-points-in-their-january-12-matchup",
+  "question": "NBA: Will the Hawks beat the Heat by more than 2.5 points in their January 12 matchup?"
+}

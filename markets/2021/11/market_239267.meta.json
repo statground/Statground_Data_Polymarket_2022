@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239267",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-06T13:41:07.838000Z",
+  "market_createdAt": "2021-11-06T13:41:07.838Z",
+  "market_updatedAt": "2024-04-23T00:12:39.226898Z",
+  "market_startDate": "2021-11-06T18:46:40.108Z",
+  "market_endDate": "2021-11-06T00:00:00Z",
+  "market_closedTime": "2021-11-07 21:08:54+00",
+  "conditionId": "0x89d55dde476f8f5e7ee5a1b153c396ab278c7971bebb02a5b3ec60e186858a54",
+  "slug": "nba-will-the-trail-blazers-beat-the-lakers-by-more-than-4pt5-points-in-their-november-6th-matchup",
+  "question": "NBA: Will the Trail Blazers beat the Lakers by more than 4.5 points in their November 6th matchup?"
+}

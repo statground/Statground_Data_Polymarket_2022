@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239839",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-05T17:10:40.200000Z",
+  "market_createdAt": "2021-12-05T17:10:40.2Z",
+  "market_updatedAt": "2024-04-23T00:58:22.229435Z",
+  "market_startDate": "2021-12-05T20:43:28.152Z",
+  "market_endDate": "2021-12-05T00:00:00Z",
+  "market_closedTime": "2021-12-06 19:33:11+00",
+  "conditionId": "0x6511a6a754a0539e300a472d819605b91cd353844aca1e1fa8b159c1a3df9238",
+  "slug": "nba-will-the-raptors-beat-the-wizards-by-more-than-1pt5-points-in-their-december-5-matchup",
+  "question": "NBA: Will the Raptors beat the Wizards by more than 1.5 points in their December 5 matchup?"
+}

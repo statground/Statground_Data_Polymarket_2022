@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239387",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-12T12:17:58.582000Z",
+  "market_createdAt": "2021-11-12T12:17:58.582Z",
+  "market_updatedAt": "2024-04-23T00:09:19.922353Z",
+  "market_startDate": "2021-11-12T20:21:31.23Z",
+  "market_endDate": "2021-11-14T00:00:00Z",
+  "market_closedTime": "2021-11-16 01:48:25+00",
+  "conditionId": "0xf92ce714df79912576051d57669c7e7e848d0e09a9bc316793cfa492bd3902a0",
+  "slug": "nfl-will-the-patriots-beat-the-browns-by-more-than-3pt5-points-in-their-november-14th-matchup",
+  "question": "NFL: Will the Patriots beat the Browns by more than 3.5 points in their November 14th matchup?"
+}

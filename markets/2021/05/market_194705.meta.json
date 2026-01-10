@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "194705",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-12T15:50:19.158000Z",
+  "market_createdAt": "2021-05-12T15:50:19.158Z",
+  "market_updatedAt": "2024-04-24T23:27:26.903003Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-12T00:00:00Z",
+  "market_closedTime": "2021-05-13 14:34:13+00",
+  "conditionId": "0x7e539bcc25e89f2fb1d5aa7ebee223f164eb7fb6332df6b035f95fa4b4751895",
+  "slug": "will-george-condo-s-reclining-blue-form-sell-for-more-than-3-5-million-at-sotheby-s",
+  "question": "Will George Condo’s “Reclining Blue Form” sell for more than $3.5 million at Sotheby’s?"
+}

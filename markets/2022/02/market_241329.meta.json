@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241329",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-04T15:23:03.133000Z",
+  "market_createdAt": "2022-02-04T15:23:03.133Z",
+  "market_updatedAt": "2024-04-22T22:56:40.810494Z",
+  "market_startDate": "2022-02-04T18:03:07.565Z",
+  "market_endDate": "2022-02-04T00:00:00Z",
+  "market_closedTime": "2022-02-07 18:07:39+00",
+  "conditionId": "0x82fee51cbccb87c4ece31652078cc40e530c1cfdce2a257cf8b2329d6367daf9",
+  "slug": "nba-will-the-jazz-beat-the-nets-by-more-than-55-points-in-their-february-4-9-pm-et-matchup",
+  "question": "NBA: Will the Jazz beat the Nets by more than 5.5 points in their February 4 (9 PM ET) matchup?"
+}

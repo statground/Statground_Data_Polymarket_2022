@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243169",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-12T08:33:28.256000Z",
+  "market_createdAt": "2022-04-12T08:33:28.256Z",
+  "market_updatedAt": "2023-01-31T11:08:30.692Z",
+  "market_startDate": "2022-04-12T14:23:23.882Z",
+  "market_endDate": "2022-04-12T00:00:00Z",
+  "market_closedTime": "2022-04-13 07:30:41+00",
+  "conditionId": "0x8a9ed66c3af81defe012f52f9a7429c4ce1bae311c02ca68d3d9220bdd9f4d9a",
+  "slug": "mlb-who-will-win-san-diego-padres-vs-san-francisco-giants-scheduled-for-april-12-946-pm-et",
+  "question": "MLB: Who will win San Diego Padres vs. San Francisco Giants, scheduled for April 12, 9:46 PM ET?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243821",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-26T20:03:16.840000Z",
+  "market_createdAt": "2022-04-26T20:03:16.84Z",
+  "market_updatedAt": "2023-01-31T20:59:05.269Z",
+  "market_startDate": "2022-04-26T21:11:14.653Z",
+  "market_endDate": "2022-05-11T00:00:00Z",
+  "market_closedTime": "2022-05-11 17:15:37+00",
+  "conditionId": "0xb90928a6f85b371e9342cc219c0991dd5e3e86adaa5d61f9625947693d224729",
+  "slug": "will-us-inflation-be-more-than-0pt4-from-march-to-april-2022",
+  "question": "Will U.S. inflation be more than 0.4% from March to April 2022?"
+}

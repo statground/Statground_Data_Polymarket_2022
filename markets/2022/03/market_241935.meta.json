@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241935",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-06T16:28:48.315000Z",
+  "market_createdAt": "2022-03-06T16:28:48.315Z",
+  "market_updatedAt": "2024-04-24T23:30:53.211315Z",
+  "market_startDate": "2022-03-06T17:03:42.944Z",
+  "market_endDate": "2022-03-06T00:00:00Z",
+  "market_closedTime": "2022-03-07 13:30:32+00",
+  "conditionId": "0x2b501a40a2c33158bcefdbc0077a5aa1572e58b6bd7e9b89784cccd42122456d",
+  "slug": "nhl-will-the-golden-knights-beat-the-senators-by-more-than-1pt5-goals-in-their-march-6-matchup-8-pm-et",
+  "question": "NHL: Will the Golden Knights beat the Senators by more than 1.5 goals in their March 6 matchup (8 PM ET)?"
+}

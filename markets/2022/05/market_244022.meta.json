@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244022",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-02T21:37:57.233000Z",
+  "market_createdAt": "2022-05-02T21:37:57.233Z",
+  "market_updatedAt": "2023-01-31T17:53:56.922Z",
+  "market_startDate": "2022-05-02T22:25:56.999Z",
+  "market_endDate": "2022-06-12T00:00:00Z",
+  "market_closedTime": "2022-06-14 04:00:41+00",
+  "conditionId": "0x1c8151e1a5546a21a357cd77ccb9c5c7a0060dcf549fbf073f9b2edce5ef0eea",
+  "slug": "will-the-russian-ruble-rub-fall-below-0pt012-by-june-12",
+  "question": "Will the Russian Ruble (RUB) fall below $0.012 by June 12?"
+}

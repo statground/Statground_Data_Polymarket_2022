@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240653",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-12T21:27:23.611000Z",
+  "market_createdAt": "2022-01-12T21:27:23.611Z",
+  "market_updatedAt": "2024-04-22T23:18:22.445439Z",
+  "market_startDate": "2022-01-25T19:04:53.386Z",
+  "market_endDate": "2023-01-01T00:00:00Z",
+  "market_closedTime": "2023-01-03 04:15:37+00",
+  "conditionId": "0xc5a0011add9d6a2db0da4c79b8b6477c7d95ea84b02298e3095425f899a3d4ff",
+  "slug": "will-btc-or-eth-perform-better-in-2022",
+  "question": "Will $BTC or $ETH perform better in 2022?"
+}

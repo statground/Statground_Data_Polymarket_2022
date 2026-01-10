@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239257",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-05T12:53:10.942000Z",
+  "market_createdAt": "2021-11-05T12:53:10.942Z",
+  "market_updatedAt": "2024-04-25T00:10:14.410555Z",
+  "market_startDate": "2021-11-05T19:54:36.942Z",
+  "market_endDate": "2021-11-05T00:00:00Z",
+  "market_closedTime": "2021-11-06 11:13:58+00",
+  "conditionId": "0x7fb688a9799504b7e75807aeb6bfdf7b69e8b07244d5796c0f3e9d8605ac0389",
+  "slug": "nba-will-the-warriors-beat-the-pelicans-by-more-than-8pt5-points-in-their-november-5th-matchup",
+  "question": "NBA: Will the Warriors beat the Pelicans by more than 8.5 points in their November 5th matchup?"
+}

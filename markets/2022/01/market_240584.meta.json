@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240584",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T22:50:46.433000Z",
+  "market_createdAt": "2022-01-11T22:50:46.433Z",
+  "market_updatedAt": "2024-04-25T00:03:23.90631Z",
+  "market_startDate": "2022-01-12T21:13:47.44Z",
+  "market_endDate": "2022-04-25T00:00:00Z",
+  "market_closedTime": "2022-04-13 06:02:10+00",
+  "conditionId": "0x58f116d073147fb76c861986325229d9adde02e96e1d6e5eb806c61e4100e4ab",
+  "slug": "will-valerie-pecresse-win-the-2022-french-presidential-election",
+  "question": "Will Valerie Pecresse win the 2022 French presidential election?"
+}

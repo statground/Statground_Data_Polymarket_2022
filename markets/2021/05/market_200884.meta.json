@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "200884",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-18T20:50:02.416000Z",
+  "market_createdAt": "2021-05-18T20:50:02.416Z",
+  "market_updatedAt": "2024-04-22T23:57:11.289188Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-15T00:00:00Z",
+  "market_closedTime": "2021-05-31 19:26:20+00",
+  "conditionId": "0x8b67c1ffc26158d20f742b5090eec7a907f949945ce7b6364a24202308eecbca",
+  "slug": "will-patricio-oward-have-a-top-3-finish-at-the-indy-500",
+  "question": "Will Patricio O'Ward have a top 3 finish at the Indy 500?"
+}

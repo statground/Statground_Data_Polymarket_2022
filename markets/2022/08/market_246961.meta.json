@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246961",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-10T16:58:12.711000Z",
+  "market_createdAt": "2022-08-10T16:58:12.711Z",
+  "market_updatedAt": "2023-04-20T00:00:42.242Z",
+  "market_startDate": "2022-08-10T17:03:44.269Z",
+  "market_endDate": "2022-08-20T00:00:00Z",
+  "market_closedTime": "2022-08-13 17:01:00+00",
+  "conditionId": "0xd04d42e505b7990f4a47a060651c5af76aacfef7d20ee4b8dcc82e0eb20632d3",
+  "slug": "will-eth-hit-2000-by-august-19",
+  "question": "Will ETH hit $2000 by August 19?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248026",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T20:24:59.169000Z",
+  "market_createdAt": "2022-11-18T20:24:59.169Z",
+  "market_updatedAt": "2023-01-31T20:55:17.957Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-06T00:00:00Z",
+  "market_closedTime": "2022-12-01 19:31:22+00",
+  "conditionId": "0x9235e62f2c543ded686d20963d07ee22f86493a7ed3f79251512ad6ab3787892",
+  "slug": "will-denmark-qualify-from-group-d",
+  "question": "Will Denmark qualify from Group D?"
+}

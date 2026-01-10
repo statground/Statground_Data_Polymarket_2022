@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240567",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T19:13:53.433000Z",
+  "market_createdAt": "2022-01-11T19:13:53.433Z",
+  "market_updatedAt": "2024-04-25T00:07:53.257749Z",
+  "market_startDate": "2022-01-12T21:18:25.066Z",
+  "market_endDate": "2022-05-01T00:00:00Z",
+  "market_closedTime": "2022-05-02 22:16:14+00",
+  "conditionId": "0x6ef6170d4dd8d37497241962c156a52419106d2fe18e399f37c3d10c97664bec",
+  "slug": "will-starknet-have-a-token-by-may-1st-2022",
+  "question": "Will StarkNet have a token by May 1st, 2022?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243641",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-24T07:40:55.052000Z",
+  "market_createdAt": "2022-04-24T07:40:55.052Z",
+  "market_updatedAt": "2023-01-31T21:05:57.599Z",
+  "market_startDate": "2022-04-24T15:31:34.44Z",
+  "market_endDate": "2022-04-24T00:00:00Z",
+  "market_closedTime": "2022-04-25 14:56:56+00",
+  "conditionId": "0x9192c93f6bfa165898e71c0cb28a8134c79bd517e706e8c8df7835f3d0e0d2ae",
+  "slug": "nba-will-the-bucks-beat-the-bulls-by-more-than-4pt5-points-in-their-april-24-100-pm-et-matchup",
+  "question": "NBA: Will the Bucks beat the Bulls by more than 4.5 points in their April 24, 1:00 PM ET matchup?"
+}

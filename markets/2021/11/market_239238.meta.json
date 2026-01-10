@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239238",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-04T12:13:21.708000Z",
+  "market_createdAt": "2021-11-04T12:13:21.708Z",
+  "market_updatedAt": "2024-04-23T00:10:53.319681Z",
+  "market_startDate": "2021-11-04T16:37:44.034Z",
+  "market_endDate": "2021-11-04T00:00:00Z",
+  "market_closedTime": "2021-11-05 18:58:41+00",
+  "conditionId": "0xe4df1c73e19215b31160320f974e0febc6a5b7a13e0095a3d1469edebb8ee63c",
+  "slug": "nba-will-the-lakers-beat-the-thunder-by-more-than-12py5-points-in-their-november-4th-matchup",
+  "question": "NBA: Will the Lakers beat the Thunder by more than 12.5 points in their November 4th matchup?"
+}

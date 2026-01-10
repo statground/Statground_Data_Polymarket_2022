@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239506",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-19T14:58:12.079000Z",
+  "market_createdAt": "2021-11-19T14:58:12.079Z",
+  "market_updatedAt": "2024-04-22T23:03:39.024435Z",
+  "market_startDate": "2021-11-19T19:41:59.76Z",
+  "market_endDate": "2021-11-19T00:00:00Z",
+  "market_closedTime": "2021-11-20 18:18:48+00",
+  "conditionId": "0xd6bae612ac51f6a8e6f62f578662c4b05dd2acf4ca1fb802c71a7f0cf0a748d1",
+  "slug": "nba-will-the-warriors-beat-the-pistons-by-more-than-7pt5-points-in-their-november-19th-matchup",
+  "question": "NBA: Will the Warriors beat the Pistons by more than 7.5 points in their November 19th matchup?"
+}

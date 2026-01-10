@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240025",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-14T16:16:35.107000Z",
+  "market_createdAt": "2021-12-14T16:16:35.107Z",
+  "market_updatedAt": "2024-04-22T23:11:10.727847Z",
+  "market_startDate": "2021-12-14T17:57:08.869Z",
+  "market_endDate": "2021-12-14T00:00:00Z",
+  "market_closedTime": "2021-12-15 20:18:54+00",
+  "conditionId": "0x75c1d7d40677df7d5350e83553d8b92a8ed9e84430f6c7a0afca670206dac60b",
+  "slug": "nba-will-the-suns-beat-the-blazers-by-more-than-1pt5-points-in-their-december-14-matchup",
+  "question": "NBA: Will the Suns beat the Blazers by more than 1.5 points in their December 14 matchup?"
+}

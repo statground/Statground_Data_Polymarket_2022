@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240468",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T16:37:07.792000Z",
+  "market_createdAt": "2022-01-11T16:37:07.792Z",
+  "market_updatedAt": "2024-04-22T22:37:43.841224Z",
+  "market_startDate": "2022-01-12T20:53:37.279Z",
+  "market_endDate": "2022-02-01T00:00:00Z",
+  "market_closedTime": "2022-02-09 17:40:55+00",
+  "conditionId": "0x778b73568e7f9e8a95f96f1ed82a73a1c1bf096adac4c5529a9de2eea6a3a2c0",
+  "slug": "will-opensea-launch-a-token-by-february-1st-2022",
+  "question": "Will OpenSea launch a token by February 1st, 2022?"
+}

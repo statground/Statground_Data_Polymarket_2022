@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241442",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-12T11:06:58.612000Z",
+  "market_createdAt": "2022-02-12T11:06:58.612Z",
+  "market_updatedAt": "2024-04-23T00:16:02.556128Z",
+  "market_startDate": "2022-02-12T16:28:29.626Z",
+  "market_endDate": "2022-02-12T00:00:00Z",
+  "market_closedTime": "2022-02-13 11:45:31+00",
+  "conditionId": "0xe7d990b2a95628d190b416cf694e4b22f1566b2da81e213bc0c5bac852db6c0c",
+  "slug": "nba-will-the-mavericks-beat-the-clippers-by-more-than-6p5-points-in-their-february-12-830-pm-et-matchup",
+  "question": "NBA: Will the Mavericks beat the Clippers by more than 6.5 points in their February 12 (8.30 PM ET) matchup?"
+}

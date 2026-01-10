@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240006",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-12T13:49:38.698000Z",
+  "market_createdAt": "2021-12-12T13:49:38.698Z",
+  "market_updatedAt": "2024-04-22T23:53:50.912731Z",
+  "market_startDate": "2021-12-12T19:53:30.214Z",
+  "market_endDate": "2021-12-12T00:00:00Z",
+  "market_closedTime": "2021-12-13 20:39:28+00",
+  "conditionId": "0xb512cf0e1b67a3e15caf489034d0490df0a1aba165f9038d026c270864536183",
+  "slug": "nba-will-the-sum-of-points-in-spurs-v-pelicans-be-an-even-or-an-odd-number",
+  "question": "NBA: Will the sum of points in Spurs v. Pelicans be an even or an odd number?"
+}

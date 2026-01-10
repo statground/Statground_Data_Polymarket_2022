@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241436",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-12T10:52:45.543000Z",
+  "market_createdAt": "2022-02-12T10:52:45.543Z",
+  "market_updatedAt": "2024-04-22T22:57:15.899367Z",
+  "market_startDate": "2022-02-12T16:27:42.976Z",
+  "market_endDate": "2022-02-12T00:00:00Z",
+  "market_closedTime": "2022-02-13 12:52:43+00",
+  "conditionId": "0x69141041c44694fb4d47ba802f9529dd662ff349f975a1b1cff83d6c09ecb04a",
+  "slug": "nba-who-will-win-the-kings-vs-wizards-scheduled-for-february-12-7-pm-et",
+  "question": "NBA: Who will win the Kings vs. Wizards, scheduled for February 12 (7 PM ET)?"
+}

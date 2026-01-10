@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239013",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-14T22:09:55.981000Z",
+  "market_createdAt": "2021-10-14T22:09:55.981Z",
+  "market_updatedAt": "2024-04-23T00:26:52.33301Z",
+  "market_startDate": "2021-10-14T23:24:59.435Z",
+  "market_endDate": "2021-11-15T00:00:00Z",
+  "market_closedTime": "2021-10-20 16:37:00+00",
+  "conditionId": "0x5f5ec20a00ba0b11c7bcb4d24a3335fd79e1546066b9c5669e1b13b9c259aeba",
+  "slug": "will-bitcoin-reach-an-all-time-high-by-november-15",
+  "question": "Will Bitcoin reach an all-time high by November 15th?"
+}

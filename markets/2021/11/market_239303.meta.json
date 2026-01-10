@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239303",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-08T20:21:36.369000Z",
+  "market_createdAt": "2021-11-08T20:21:36.369Z",
+  "market_updatedAt": "2024-04-23T00:47:48.459412Z",
+  "market_startDate": "2021-11-08T21:34:56.061Z",
+  "market_endDate": "2021-11-14T00:00:00Z",
+  "market_closedTime": "2021-11-15 05:59:26+00",
+  "conditionId": "0x2bee6c45ab74d8684ef5ebfdeff75f9b7f8554d367cd2b73608d783a220b4a42",
+  "slug": "will-new-world-be-a-top-3-game-on-steam-on-november-14-5pm-et",
+  "question": "Will New World be a Top 3 game on Steam on November 14, 5PM ET?"
+}

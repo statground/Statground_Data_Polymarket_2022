@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "202088",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-24T16:25:03.542000Z",
+  "market_createdAt": "2021-05-24T16:25:03.542Z",
+  "market_updatedAt": "2024-04-25T00:08:48.487421Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-30T00:00:00Z",
+  "market_closedTime": "2021-05-31 19:31:04+00",
+  "conditionId": "0xae63eac39f693a78d0aad627ca0d6a661670e6dbb2238b5d9ee9ccc4aa554066",
+  "slug": "who-will-win-suns-vs-lakers-game-4",
+  "question": "Who will win Suns vs. Lakers: Game 4?"
+}

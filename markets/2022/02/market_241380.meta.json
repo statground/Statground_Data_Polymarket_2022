@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241380",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-09T08:51:04.431000Z",
+  "market_createdAt": "2022-02-09T08:51:04.431Z",
+  "market_updatedAt": "2024-04-23T00:57:39.446005Z",
+  "market_startDate": "2022-02-09T17:26:45.592Z",
+  "market_endDate": "2022-02-09T00:00:00Z",
+  "market_closedTime": "2022-02-11 07:09:23+00",
+  "conditionId": "0x8f5562c2ad0cec088c12c2c818d6c2851754c6f1c6ac43789f321853db222342",
+  "slug": "nba-who-will-win-the-cavaliers-vs-spurs-scheduled-for-february-9-7-pm-et",
+  "question": "NBA: Who will win the Cavaliers vs. Spurs, scheduled for February 9 (7 PM ET)?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "207743",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-03T17:25:04.454000Z",
+  "market_createdAt": "2021-06-03T17:25:04.454Z",
+  "market_updatedAt": "2024-04-22T22:51:50.08948Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-15T00:00:00Z",
+  "market_closedTime": "2021-06-24 22:47:34+00",
+  "conditionId": "0xe77ffef52dbee1a1bdd7d8caf5ed7f115387fff50fe7cd08cd2c60e23c7530de",
+  "slug": "will-vice-president-harris-cast-another-tie-breaking-vote-by-july-15-2021",
+  "question": "Will Vice President Harris cast another tie-breaking vote by July 15, 2021?"
+}

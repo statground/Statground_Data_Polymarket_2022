@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240793",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-17T16:55:39.669000Z",
+  "market_createdAt": "2022-01-17T16:55:39.669Z",
+  "market_updatedAt": "2024-04-24T23:15:49.29933Z",
+  "market_startDate": "2022-01-17T17:49:53.899Z",
+  "market_endDate": "2022-01-17T00:00:00Z",
+  "market_closedTime": "2022-01-19 22:20:44+00",
+  "conditionId": "0x45da0da30fc4eeb9b76fbc69f5bd42f10fa08813e08599ce89eca34a60693048",
+  "slug": "nba-will-the-jazz-beat-the-lakers-by-more-than-5p5-points-in-their-january-17-matchup",
+  "question": "NBA: Will the Jazz beat the Lakers by more than 5.5 points in their January 17 matchup?"
+}

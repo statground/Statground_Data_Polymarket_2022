@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240599",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-12T00:00:13.998000Z",
+  "market_createdAt": "2022-01-12T00:00:13.998Z",
+  "market_updatedAt": "2024-04-24T23:40:31.773029Z",
+  "market_startDate": "2022-01-12T21:11:04.097Z",
+  "market_endDate": "2022-11-15T00:00:00Z",
+  "market_closedTime": "2022-11-09 21:52:53+00",
+  "conditionId": "0x3f16cebbc563832360e4b215329a501103f87e2f06d54bd87021d7f60aa843d7",
+  "slug": "2022-us-senate-elections-will-a-democrat-or-republican-win-in-pennsylvania",
+  "question": "Senate: Will a Democrat (Fetterman) or Republican (Oz) win in Pennsylvania?"
+}

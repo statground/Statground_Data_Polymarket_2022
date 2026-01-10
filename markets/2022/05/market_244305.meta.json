@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244305",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-06T15:09:18.301000Z",
+  "market_createdAt": "2022-05-06T15:09:18.301Z",
+  "market_updatedAt": "2024-04-24T23:52:40.596252Z",
+  "market_startDate": "2022-05-06T19:16:15.115Z",
+  "market_endDate": "2022-05-07T00:00:00Z",
+  "market_closedTime": "2022-05-08 07:46:14+00",
+  "conditionId": "0x4febe655e6251d8063a7a25cca7df3d47a3e88e010b9bffd168dc72478c5ee73",
+  "slug": "will-canelo-lvarez-kotkortd-dmitry-bivol",
+  "question": "Will Canelo Álvarez KO/TKO/RTD Dmitry Bivol?"
+}

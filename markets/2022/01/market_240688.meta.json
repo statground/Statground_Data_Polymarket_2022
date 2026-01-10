@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240688",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-13T00:39:06.699000Z",
+  "market_createdAt": "2022-01-13T00:39:06.699Z",
+  "market_updatedAt": "2024-04-22T23:48:22.095624Z",
+  "market_startDate": null,
+  "market_endDate": "2022-04-01T00:00:00Z",
+  "market_closedTime": "2022-04-02 12:00:29+00",
+  "conditionId": "0x46e43276f1b09af057939384ceb1585a0bb9d5e5dea9f1a5891c34bd77858f0e",
+  "slug": "will-bitcoin-or-ethereum-perform-better-in-march-2022",
+  "question": "Will Bitcoin or Ethereum perform better in March 2022?"
+}

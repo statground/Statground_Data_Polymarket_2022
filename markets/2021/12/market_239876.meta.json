@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239876",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-07T11:11:16.980000Z",
+  "market_createdAt": "2021-12-07T11:11:16.98Z",
+  "market_updatedAt": "2024-04-22T23:26:25.48041Z",
+  "market_startDate": "2021-12-07T18:32:10.053Z",
+  "market_endDate": "2021-12-07T00:00:00Z",
+  "market_closedTime": "2021-12-08 18:53:13+00",
+  "conditionId": "0xcd87661926a9a95bae7815cabbd56d89afc16564e15831b412adad6108629777",
+  "slug": "nba-will-the-lakers-beat-the-celtics-by-more-than-2pt5-points-in-their-december-7-matchup",
+  "question": "NBA: Will the Lakers beat the Celtics by more than 2.5 points in their December 7 matchup?"
+}

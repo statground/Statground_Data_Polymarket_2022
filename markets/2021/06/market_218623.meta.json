@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218623",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-22T20:05:00.997000Z",
+  "market_createdAt": "2021-06-22T20:05:00.997Z",
+  "market_updatedAt": "2024-04-23T00:44:55.370924Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-30T00:00:00Z",
+  "market_closedTime": "2021-06-30 21:37:22+00",
+  "conditionId": "0xfc01808d4a4eda3185d81387d5320db0f03af29af7cbbc27cea1687ef74def0d",
+  "slug": "will-fewociouss-i-taught-myself-how-to-fly-have-a-final-sale-price-of-more-than-700k-at-christies",
+  "question": "Will FEWOCiOUS’s “I Taught Myself How To Fly” have a final sale price of more than $700K at Christie’s?"
+}

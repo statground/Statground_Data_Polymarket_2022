@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238897",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-27T19:10:39.671000Z",
+  "market_createdAt": "2021-09-27T19:10:39.671Z",
+  "market_updatedAt": "2024-04-22T22:44:41.359458Z",
+  "market_startDate": "2021-09-27T19:17:26.092Z",
+  "market_endDate": "2021-09-27T00:00:00Z",
+  "market_closedTime": "2021-09-28 17:19:30+00",
+  "conditionId": "0x94baf580de2295d9f7c9b04773f86578481094fa521fecbf1178962303aebcdf",
+  "slug": "in-game-trading-will-the-cowboys-beat-the-eagles-by-more-than-3pt5-points-in-their-week-three-matchup",
+  "question": "(In-game Trading) Will the Cowboys beat the Eagles by more than 3.5 points in their week three matchup?"
+}

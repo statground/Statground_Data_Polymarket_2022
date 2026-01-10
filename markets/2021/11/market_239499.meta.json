@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239499",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-18T11:20:28.839000Z",
+  "market_createdAt": "2021-11-18T11:20:28.839Z",
+  "market_updatedAt": "2024-04-22T23:32:16.915556Z",
+  "market_startDate": "2021-11-18T17:26:13.271Z",
+  "market_endDate": "2021-11-18T00:00:00Z",
+  "market_closedTime": "2021-11-19 19:59:42+00",
+  "conditionId": "0x7c34eabc667b37fb8b338d62bb6240df9a815a133829f8fa4db2ede4732461dc",
+  "slug": "nba-will-the-nuggets-beat-the-76ers-by-more-than-7pt5-points-in-their-november-18th-matchup",
+  "question": "NBA: Will the Nuggets beat the 76ers by more than 7.5 points in their November 18th matchup?"
+}

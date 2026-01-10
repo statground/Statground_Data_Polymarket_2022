@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "106175",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-03-19T20:30:02.570000Z",
+  "market_createdAt": "2021-03-19T20:30:02.57Z",
+  "market_updatedAt": "2024-04-25T00:03:11.43612Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-29T00:00:00Z",
+  "market_closedTime": "2021-04-25 15:00:53+00",
+  "conditionId": "0x50948a3c80d37d722123aef62e39a068daa7a959cffed5954629a92312279c7f",
+  "slug": "will-225-m-covid-19-vaccine-doses-have-been-administered-in-the-us-by-biden-s-100th-day-in-office",
+  "question": "Will 225M COVID-19 vaccine doses have been administered in the US by Biden's 100th day in office? "
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "200261",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-17T19:10:03.985000Z",
+  "market_createdAt": "2021-05-17T19:10:03.985Z",
+  "market_updatedAt": "2023-01-31T17:26:57.393Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-19T00:00:00Z",
+  "market_closedTime": "2021-05-20 14:54:17+00",
+  "conditionId": "0x58f82d79d753b80a17777c599e30f442c35fd365f147e5763cbeb277007b14c9",
+  "slug": "will-the-spurs-or-the-grizzlies-win-their-nba-play-in-tournament-matchup",
+  "question": "Will the Spurs or the Grizzlies win their NBA play-in tournament matchup?"
+}

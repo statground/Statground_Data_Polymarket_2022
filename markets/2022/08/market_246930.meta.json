@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246930",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-06T00:47:15.585000Z",
+  "market_createdAt": "2022-08-06T00:47:15.585Z",
+  "market_updatedAt": "2023-01-31T03:49:15.798Z",
+  "market_startDate": "2022-08-06T01:44:30.426Z",
+  "market_endDate": "2022-08-23T00:00:00Z",
+  "market_closedTime": "2022-08-24 16:31:10+00",
+  "conditionId": "0x042d1eb7133c8ddeb0216b7ea1f0d4e832f259b70382ee2579c85a4c65be141c",
+  "slug": "will-carlina-rivera-win-the-democratic-nomination-for-the-ny-10-house-election",
+  "question": "Will Carlina Rivera win the Democratic nomination for the NY-10 House election?"
+}

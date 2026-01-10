@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248096",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-21T17:53:19.372000Z",
+  "market_createdAt": "2022-11-21T17:53:19.372Z",
+  "market_updatedAt": "2023-01-31T18:22:24.41Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-23T00:00:00Z",
+  "market_closedTime": "2022-11-23 21:15:43+00",
+  "conditionId": "0x655dfde83d37cbac229b3c9f381d9e02cb687a48a5c030f6ed4f5bd1f4ae2b2d",
+  "slug": "world-cup-2022-wednesday-will-spain-beat-costa-rica",
+  "question": "World Cup: Wednesday - Will Spain beat Costa Rica?"
+}

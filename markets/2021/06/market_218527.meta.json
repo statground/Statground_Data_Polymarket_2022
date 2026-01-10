@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218527",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-16T19:20:01.226000Z",
+  "market_createdAt": "2021-06-16T19:20:01.226Z",
+  "market_updatedAt": "2023-01-31T01:23:46.431Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-01T00:00:00Z",
+  "market_closedTime": "2021-07-01 22:26:30+00",
+  "conditionId": "0x72112a4f0cf080eac4c9db6905aca24b90368e817ca5ffb3a68b55d93c2b6021",
+  "slug": "will-the-price-of-titan-be-above-5-on-july-1",
+  "question": "Will the price of $TITAN be above $5 on July 1?"
+}

@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_id": "3750",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2022-07-27T14:40:36.469000Z",
+  "event_createdAt": "2022-07-27T14:40:36.469Z",
+  "event_creationDate": "2021-12-07T00:00:00Z",
+  "event_startDate": "2021-12-09T00:00:00Z",
+  "event_endDate": "2021-12-09T00:00:00Z",
+  "event_updatedAt": "2024-04-25T19:47:38.214423Z",
+  "markets_len": 1,
+  "market_ids": [
+    "239887"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "1"
+  ],
+  "series_slug": "nfl"
+}

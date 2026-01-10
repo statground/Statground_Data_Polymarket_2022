@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242118",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-16T00:33:57.392000Z",
+  "market_createdAt": "2022-03-16T00:33:57.392Z",
+  "market_updatedAt": "2024-04-22T23:40:46.811466Z",
+  "market_startDate": "2022-03-16T01:01:02.563Z",
+  "market_endDate": "2022-07-01T00:00:00Z",
+  "market_closedTime": "2022-03-28 17:13:44+00",
+  "conditionId": "0x4de50ade1921b858e9889d64a8b0f1545145e95222cb2253a9df8a3bffcc3c69",
+  "slug": "will-mrbeasts-next-youtube-video-get-over-50m-views-in-its-first-week",
+  "question": "Will MrBeast's next Youtube video get over 50M views in its first week?"
+}

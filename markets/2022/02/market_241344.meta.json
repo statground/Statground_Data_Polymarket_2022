@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241344",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-05T11:28:39.832000Z",
+  "market_createdAt": "2022-02-05T11:28:39.832Z",
+  "market_updatedAt": "2024-04-22T22:24:59.667308Z",
+  "market_startDate": "2022-02-05T19:39:22.568Z",
+  "market_endDate": "2022-02-05T00:00:00Z",
+  "market_closedTime": "2022-02-07 18:21:14+00",
+  "conditionId": "0x8d434b34da88d38427c8a7b846127631ee39b201326b96bcae949a7b2ff2331e",
+  "slug": "nba-will-the-kings-beat-the-thunder-by-more-than-6p5-points-in-their-february-5-10-pm-et-matchup",
+  "question": "NBA: Will the Kings beat the Thunder by more than 6.5 points in their February 5 (10 PM ET) matchup?"
+}

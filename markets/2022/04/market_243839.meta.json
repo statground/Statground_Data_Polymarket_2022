@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243839",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-27T08:16:32.775000Z",
+  "market_createdAt": "2022-04-27T08:16:32.775Z",
+  "market_updatedAt": "2023-01-31T12:43:31.108Z",
+  "market_startDate": "2022-04-27T15:43:29.308Z",
+  "market_endDate": "2022-04-27T00:00:00Z",
+  "market_closedTime": "2022-04-28 07:01:59+00",
+  "conditionId": "0x5cbdab8c05139d9440aa8be2f25c1047678533ed65f77a982281e17186f04329",
+  "slug": "nba-will-the-bucks-beat-the-bulls-by-more-than-11pt5-points-in-their-april-27-730-pm-et-matchup",
+  "question": "NBA: Will the Bucks beat the Bulls by more than 11.5 points in their April 27, 7:30 PM ET matchup?"
+}

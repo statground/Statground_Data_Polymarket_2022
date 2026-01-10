@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246512",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-09T18:16:22.538000Z",
+  "market_createdAt": "2022-06-09T18:16:22.538Z",
+  "market_updatedAt": "2023-01-31T14:11:07.965Z",
+  "market_startDate": "2022-06-09T18:22:17.273Z",
+  "market_endDate": "2022-06-11T00:00:00Z",
+  "market_closedTime": "2022-06-12 08:31:04+00",
+  "conditionId": "0xc5585a45fe6a2ebe392a05c92ca09d104b36c6e4e238bfd6a6cf4d27dff5cb12",
+  "slug": "ufc-275-who-will-win-valentina-shevchenko-or-talia-santos",
+  "question": "UFC 275: Who will win - Valentina Shevchenko or Talia Santos?"
+}

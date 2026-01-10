@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239461",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-16T12:44:29.738000Z",
+  "market_createdAt": "2021-11-16T12:44:29.738Z",
+  "market_updatedAt": "2024-04-22T23:11:39.321404Z",
+  "market_startDate": "2021-11-16T18:13:50.673Z",
+  "market_endDate": "2021-11-24T00:00:00Z",
+  "market_closedTime": "2021-11-25 20:14:40+00",
+  "conditionId": "0xad86242ab78a96fc4b54e789a564b22c58441f3203e1d1b11a65ea1f85bbd76a",
+  "slug": "will-eth-ethereum-be-above-4500-on-november-24th-12pm-et",
+  "question": "Will $ETH (Ethereum) be above $4,500 on November 24th, 12pm ET?"
+}

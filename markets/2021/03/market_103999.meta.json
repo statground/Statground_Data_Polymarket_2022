@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "103999",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-03-15T18:05:05.786000Z",
+  "market_createdAt": "2021-03-15T18:05:05.786Z",
+  "market_updatedAt": "2024-04-25T00:03:49.330196Z",
+  "market_startDate": null,
+  "market_endDate": "2021-03-22T00:00:00Z",
+  "market_closedTime": "2021-03-23 19:14:57+00",
+  "conditionId": "0x7ab4f99e7a46721153a82679c5bb094bb31dc3a369b9efe24603d3087faff940",
+  "slug": "how-many-more-tweets-will-be-on-the-mtgreenee-account-on-march-22-2021-1",
+  "question": "How many more tweets will be on the @mtgreenee account on March 22, 2021?"
+}

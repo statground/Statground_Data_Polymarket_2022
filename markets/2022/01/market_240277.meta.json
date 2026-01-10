@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240277",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-02T00:12:12.196000Z",
+  "market_createdAt": "2022-01-02T00:12:12.196Z",
+  "market_updatedAt": "2024-04-23T00:50:12.586447Z",
+  "market_startDate": "2022-01-02T19:33:07.849Z",
+  "market_endDate": "2022-01-11T00:00:00Z",
+  "market_closedTime": "2022-01-12 18:51:50+00",
+  "conditionId": "0xb3e5a3e2bf711cc13e0060ac6d92d4ed9324c357c29d20ce1570d939fc80ab1e",
+  "slug": "will-cryptocoms-cro-price-be-above-060-at-noon-on-january-11",
+  "question": "Will Crypto.com's $CRO price be above $0.60 at noon on January 11?"
+}

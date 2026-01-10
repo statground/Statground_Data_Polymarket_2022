@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241039",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-26T12:27:00.800000Z",
+  "market_createdAt": "2022-01-26T12:27:00.8Z",
+  "market_updatedAt": "2024-04-24T23:59:55.449285Z",
+  "market_startDate": "2022-01-26T18:59:34.38Z",
+  "market_endDate": "2022-01-26T00:00:00Z",
+  "market_closedTime": "2022-01-27 23:53:25+00",
+  "conditionId": "0x84702a960bd9d6b68dcf7bb2a28949a8fd3d5800944f3ae3382a5a6cfa354546",
+  "slug": "nhl-will-the-maple-leafs-beat-the-ducks-by-more-than-1p5-goals-in-their-january-26-matchup-7-pm-et",
+  "question": "NHL: Will the Maple Leafs beat the Ducks by more than 1.5 goals in their January 26 matchup? (7 PM ET)?"
+}

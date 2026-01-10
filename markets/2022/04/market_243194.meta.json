@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243194",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-13T02:00:35.006000Z",
+  "market_createdAt": "2022-04-13T02:00:35.006Z",
+  "market_updatedAt": "2023-01-31T19:35:11.021Z",
+  "market_startDate": "2022-04-13T17:19:05.757Z",
+  "market_endDate": "2022-05-29T00:00:00Z",
+  "market_closedTime": "2022-06-21 09:30:43+00",
+  "conditionId": "0x485cbd7067b6a173b49c0699a5e3e2437a57ffe1a6eb695a5567fa86b97920c9",
+  "slug": "will-gustavo-petro-win-the-2022-colombian-presidential-election",
+  "question": "Will Gustavo Petro win the 2022 Colombian presidential election?"
+}

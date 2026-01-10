@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242343",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-21T09:02:01.037000Z",
+  "market_createdAt": "2022-03-21T09:02:01.037Z",
+  "market_updatedAt": "2024-04-22T22:48:07.035396Z",
+  "market_startDate": "2022-03-21T17:06:59.641Z",
+  "market_endDate": "2022-03-21T00:00:00Z",
+  "market_closedTime": "2022-03-22 11:30:48+00",
+  "conditionId": "0x8473af1d6283136cdd49f431da521138596af4e85b9fd130de7c38ab1c32ebb7",
+  "slug": "nhl-will-the-wild-beat-the-knights-by-more-than-1pt5-goals-in-their-march-21-800-pm-et-matchup",
+  "question": "NHL: Will the Wild beat the Knights by more than 1.5 goals in their March 21, 8:00 PM ET matchup?"
+}

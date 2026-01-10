@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243030",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-07T21:18:00.915000Z",
+  "market_createdAt": "2022-04-07T21:18:00.915Z",
+  "market_updatedAt": "2023-01-31T19:06:07.954Z",
+  "market_startDate": null,
+  "market_endDate": "2022-05-01T00:00:00Z",
+  "market_closedTime": "2022-04-26 14:26:06+00",
+  "conditionId": "0xf9028f7f4ed8c98e68aefd8c27759e053825e39cb36f91d4d1b00ea2a0ddd072",
+  "slug": "will-100-million-americans-have-received-at-least-one-booster-shot-of-the-covid-19-vaccine-by-may-1",
+  "question": "Will 100 million Americans have received at least one 'booster shot' of the COVID-19 vaccine by May 1?"
+}

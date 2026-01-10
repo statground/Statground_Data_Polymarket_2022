@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243130",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-12T00:25:56.930000Z",
+  "market_createdAt": "2022-04-12T00:25:56.93Z",
+  "market_updatedAt": "2023-01-31T20:14:17.036Z",
+  "market_startDate": "2022-04-12T14:21:16.262Z",
+  "market_endDate": "2022-04-13T00:00:00Z",
+  "market_closedTime": "2022-04-14 06:32:48+00",
+  "conditionId": "0xb5660806c2dae4c4dd2172ca599c68378789d9920682cacdb6923c0b61cb4ab8",
+  "slug": "nba-will-the-pelicans-beat-the-spurs-by-more-than-4pt5-points-in-their-april-13-930-pm-et-matchup",
+  "question": "NBA: Will the Pelicans beat the Spurs by more than 4.5 points in their April 13 (9:30 PM ET) matchup?"
+}

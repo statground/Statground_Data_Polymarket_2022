@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239354",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-10T19:54:27.842000Z",
+  "market_createdAt": "2021-11-10T19:54:27.842Z",
+  "market_updatedAt": "2024-04-23T00:47:15.599996Z",
+  "market_startDate": null,
+  "market_endDate": "2021-11-18T00:00:00Z",
+  "market_closedTime": "2021-11-18 00:46:16+00",
+  "conditionId": "0x910065993cb12281446d4eac0ae540ae3e129ecab47dedf6d8097c92242adc8e",
+  "slug": "will-ethereum-name-service-ens-be-listed-for-trading-on-coinbase-by-november-18th",
+  "question": "Will Ethereum Name Service ($ENS) be listed for trading on Coinbase by November 18th?"
+}

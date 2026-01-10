@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239353",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-10T19:24:58.225000Z",
+  "market_createdAt": "2021-11-10T19:24:58.225Z",
+  "market_updatedAt": "2024-04-22T22:40:43.65557Z",
+  "market_startDate": "2021-11-10T20:22:13.526Z",
+  "market_endDate": "2021-11-11T00:00:00Z",
+  "market_closedTime": "2021-11-12 19:44:49+00",
+  "conditionId": "0x85cd37dd5d3192bcbc43118c1c70322a8910b613ec8b3c701bd2482115489f62",
+  "slug": "will-alfred-sisleys-la-seine-argenteuil-lot-5c-sell-for-more-than-3m-at-christies-on-november-11",
+  "question": "Will Alfred Sisley's “La Seine à Argenteuil” (Lot 5C) sell for more than $3m at Christie’s on November 11?"
+}

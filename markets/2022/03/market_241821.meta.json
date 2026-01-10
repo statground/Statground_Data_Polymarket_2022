@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241821",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-02T14:33:26.303000Z",
+  "market_createdAt": "2022-03-02T14:33:26.303Z",
+  "market_updatedAt": "2024-04-22T23:00:44.094848Z",
+  "market_startDate": "2022-03-02T15:55:49.545Z",
+  "market_endDate": "2022-03-02T00:00:00Z",
+  "market_closedTime": "2022-03-03 18:17:38+00",
+  "conditionId": "0xbb44e7693a67a502126bef1e536712446c475f7ab0ee7901864a335d43f9a21c",
+  "slug": "nba-will-the-suns-beat-the-trail-blazers-by-more-than-13pt5-points-in-their-march-2-10-pm-et-matchup",
+  "question": "NBA: Will the Suns beat the Trail Blazers by more than 13.5 points in their March 2 (10 PM ET) matchup?"
+}

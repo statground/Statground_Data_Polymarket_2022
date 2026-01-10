@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240670",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-12T23:36:15.158000Z",
+  "market_createdAt": "2022-01-12T23:36:15.158Z",
+  "market_updatedAt": "2024-04-22T22:24:29.088655Z",
+  "market_startDate": "2022-01-13T01:06:20.459Z",
+  "market_endDate": "2022-01-26T00:00:00Z",
+  "market_closedTime": "2022-01-19 05:14:27+00",
+  "conditionId": "0x90ac86094d57bda84ee8384a163755b9a8437686d37b84eb52f97ac07ef541b6",
+  "slug": "will-novak-djokovic-compete-in-the-2022-australian-open",
+  "question": "Will Novak Djokovic compete in the 2022 Australian Open?"
+}

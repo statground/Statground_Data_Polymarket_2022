@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241870",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-03T17:34:29.553000Z",
+  "market_createdAt": "2022-03-03T17:34:29.553Z",
+  "market_updatedAt": "2024-04-22T23:45:57.405152Z",
+  "market_startDate": "2022-03-03T19:43:11.063Z",
+  "market_endDate": "2022-03-03T00:00:00Z",
+  "market_closedTime": "2022-03-04 16:02:01+00",
+  "conditionId": "0xda316f7112e23e51690fc0a39faa29c8ac8782f2607eb3b6a0429a81d1899837",
+  "slug": "nba-will-the-celtics-beat-the-grizzlies-by-more-than-1pt5-points-in-their-march-3-7pt30-pm-et-matchup",
+  "question": "NBA: Will the Celtics beat the Grizzlies by more than 1.5 points in their March 3 (7.30 PM ET) matchup?"
+}

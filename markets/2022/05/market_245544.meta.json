@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "245544",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-27T07:45:46.801000Z",
+  "market_createdAt": "2022-05-27T07:45:46.801Z",
+  "market_updatedAt": "2023-01-31T16:56:16.218Z",
+  "market_startDate": "2022-05-27T14:47:05.186Z",
+  "market_endDate": "2022-05-27T00:00:00Z",
+  "market_closedTime": "2022-05-28 06:45:35+00",
+  "conditionId": "0x9c469c147c63774a66383de6fdb0ee2ae53b560c9e3285c84d8b0209099ba2bd",
+  "slug": "nba-will-the-celtics-beat-the-heat-by-more-than-8pt5-points-in-their-may-27-830-pm-et-matchup",
+  "question": "NBA: Will the Celtics beat the Heat by more than 8.5 points in their May 27, 8:30 PM ET matchup?"
+}

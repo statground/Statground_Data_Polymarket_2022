@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242384",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-22T09:08:06.283000Z",
+  "market_createdAt": "2022-03-22T09:08:06.283Z",
+  "market_updatedAt": "2024-04-23T00:24:16.59647Z",
+  "market_startDate": "2022-03-22T16:26:41.826Z",
+  "market_endDate": "2022-03-22T00:00:00Z",
+  "market_closedTime": "2022-03-23 07:00:38+00",
+  "conditionId": "0x2f00633d866839664104be05c2fe62e234575f3d5ad8fd077ec9d73503de85ee",
+  "slug": "nba-who-will-win-hawks-vs-knicks-scheduled-for-march-22-730-pm-et",
+  "question": "NBA: Who will win Hawks vs. Knicks, scheduled for March 22, 7:30 PM ET?"
+}

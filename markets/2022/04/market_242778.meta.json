@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242778",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-03T09:04:51.844000Z",
+  "market_createdAt": "2022-04-03T09:04:51.844Z",
+  "market_updatedAt": "2024-04-24T23:49:32.033965Z",
+  "market_startDate": "2022-04-03T16:43:11.176Z",
+  "market_endDate": "2022-04-03T00:00:00Z",
+  "market_closedTime": "2022-04-04 07:18:52+00",
+  "conditionId": "0xd022f4533d7b174ef1173ef3c2905a99a1cbf3a2e71aad34c7d24020174ea5ec",
+  "slug": "nhl-will-the-panthers-beat-the-sabres-by-more-than-1pt5-goals-in-their-april-3-100-pm-et-matchup",
+  "question": "NHL: Will the Panthers beat the Sabres by more than 1.5 goals in their April 3, 1:00 PM ET matchup?"
+}

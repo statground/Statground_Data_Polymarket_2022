@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239298",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-08T10:35:42.001000Z",
+  "market_createdAt": "2021-11-08T10:35:42.001Z",
+  "market_updatedAt": "2024-04-23T00:55:21.310974Z",
+  "market_startDate": "2021-11-08T20:28:23.156Z",
+  "market_endDate": "2021-11-08T00:00:00Z",
+  "market_closedTime": "2021-11-09 17:01:19+00",
+  "conditionId": "0x984859230d80e380673cd3e21690a01ec827ca50c0e4a8fc810a40fc24e8f8de",
+  "slug": "nba-will-the-warriors-beat-the-hawks-by-more-than-3pt5-points-in-their-november-8th-matchup",
+  "question": "NBA: Will the Warriors beat the Hawks by more than 3.5 points in their November 8th matchup?"
+}

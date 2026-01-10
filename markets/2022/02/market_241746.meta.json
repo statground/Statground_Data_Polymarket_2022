@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241746",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-27T14:47:39.036000Z",
+  "market_createdAt": "2022-02-27T14:47:39.036Z",
+  "market_updatedAt": "2024-04-22T23:42:35.487981Z",
+  "market_startDate": "2022-02-27T16:52:32.395Z",
+  "market_endDate": "2022-02-27T00:00:00Z",
+  "market_closedTime": "2022-02-28 13:19:45+00",
+  "conditionId": "0xdeaebbe6d2252530b29316b4f9e75555396087a0409790dfa5e3214e12d55b57",
+  "slug": "nhl-will-the-rangers-beat-the-canucks-by-more-than-1p5-goals-in-their-february-27-matchup-730pm-et",
+  "question": "NHL: Will the Rangers beat the Canucks by more than 1.5 goals in their February 27 matchup (7.30PM ET)?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239024",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-19T16:58:34.618000Z",
+  "market_createdAt": "2021-10-19T16:58:34.618Z",
+  "market_updatedAt": "2024-04-22T22:45:25.044625Z",
+  "market_startDate": "2021-10-24T23:51:41.352Z",
+  "market_endDate": "2021-10-24T00:00:00Z",
+  "market_closedTime": "2021-10-25 02:42:51+00",
+  "conditionId": "0xbfffcffe8dc6b40f5780925fa7c120c87e5fa9d39f0c1dfccc86d5e2555b074c",
+  "slug": "will-the-knicks-or-magic-win-their-october-24th-matchup",
+  "question": "Will the Knicks or Magic win their October 24th matchup?"
+}

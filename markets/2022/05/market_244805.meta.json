@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244805",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-13T19:51:08.846000Z",
+  "market_createdAt": "2022-05-13T19:51:08.846Z",
+  "market_updatedAt": "2023-01-31T12:44:58.093Z",
+  "market_startDate": "2022-05-13T20:47:38.101Z",
+  "market_endDate": "2022-05-22T00:00:00Z",
+  "market_closedTime": "2022-05-16 18:01:24+00",
+  "conditionId": "0x80cc2bd50ba12db484f020d2ca4ef0f5a73c2549ac73b56cf9149e59a08c0778",
+  "slug": "age-of-empires-iv-will-marinelord-make-the-golden-league-final-bracket",
+  "question": "Age of Empires IV: Will MarineLorD make the Golden League Final Bracket?"
+}

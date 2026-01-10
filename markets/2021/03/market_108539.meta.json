@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "108539",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-03-23T14:55:04.765000Z",
+  "market_createdAt": "2021-03-23T14:55:04.765Z",
+  "market_updatedAt": "2024-04-24T23:52:19.864644Z",
+  "market_startDate": null,
+  "market_endDate": "2021-03-23T00:00:00Z",
+  "market_closedTime": "2021-03-24 14:52:54+00",
+  "conditionId": "0xd2127a0a31d66fa2e261d2aa43a0193d6c92c704ee4b799bdc54888c6f69fbb5",
+  "slug": "will-daily-atmospheric-co-2-be-above-418-25-ppm-on-march-23-2021",
+  "question": "Will daily atmospheric CO2 be above 418.25 ppm on March 23, 2021?"
+}

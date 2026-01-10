@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "223109",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-09T06:40:01.270000Z",
+  "market_createdAt": "2021-07-09T06:40:01.27Z",
+  "market_updatedAt": "2024-04-22T23:03:46.016054Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-13T00:00:00Z",
+  "market_closedTime": "2021-07-14 16:54:49+00",
+  "conditionId": "0xc8eb61c5f392cfac60acdc80ecc80d2ab7d79d0a28fb6554c35ebdb6ba8b3848",
+  "slug": "will-black-widow-gross-more-than-87pt5m-domestically-on-opening-weekend",
+  "question": "Will Black Widow gross more than $87.5M domestically on opening weekend?"
+}

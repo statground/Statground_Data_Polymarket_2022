@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243818",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-26T19:52:39.777000Z",
+  "market_createdAt": "2022-04-26T19:52:39.777Z",
+  "market_updatedAt": "2023-01-31T18:41:17.316Z",
+  "market_startDate": "2022-04-26T20:05:06.099Z",
+  "market_endDate": "2022-05-06T00:00:00Z",
+  "market_closedTime": "2022-05-06 23:00:33+00",
+  "conditionId": "0xc3b53a4b4a8e67475c924384ffa75f2fc7bdf54579c61a2d4292233dda5fa4a2",
+  "slug": "will-the-price-of-dogecoin-doge-be-above-0pt142069-on-may-6-2022",
+  "question": "Will the price of Dogecoin (DOGE) be above $0.142069 on May 6, 2022?"
+}

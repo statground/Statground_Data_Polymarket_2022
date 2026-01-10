@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "212366",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-07T17:00:08.111000Z",
+  "market_createdAt": "2021-06-07T17:00:08.111Z",
+  "market_updatedAt": "2024-04-23T00:50:36.024255Z",
+  "market_startDate": null,
+  "market_endDate": "2018-06-13T20:21:00Z",
+  "market_closedTime": "2021-06-18 18:09:54+00",
+  "conditionId": "0xd42a332ca7e0274544c4b8fc42254151a57552dcd27d65675093b5a622cc5e29",
+  "slug": "will-any-nba-conference-semifinal-series-go-to-a-game-7",
+  "question": "Will any NBA Conference Semifinal Series go to a Game 7?"
+}

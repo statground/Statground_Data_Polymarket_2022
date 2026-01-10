@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242357",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-21T19:20:17.133000Z",
+  "market_createdAt": "2022-03-21T19:20:17.133Z",
+  "market_updatedAt": "2024-04-23T00:42:35.191631Z",
+  "market_startDate": "2022-03-21T19:50:50.66Z",
+  "market_endDate": "2022-05-01T00:00:00Z",
+  "market_closedTime": "2022-05-03 00:00:36+00",
+  "conditionId": "0xa211ec419d6dbf6431d508afe4018fdc053427f1fa994045e2dddbc1001d6966",
+  "slug": "will-the-russian-ruble-rub-fall-below-0pt005-by-may-1",
+  "question": "Will the Russian Ruble (RUB) fall below $0.005 by May 1?"
+}

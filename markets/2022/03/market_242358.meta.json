@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242358",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-21T20:05:40.128000Z",
+  "market_createdAt": "2022-03-21T20:05:40.128Z",
+  "market_updatedAt": "2024-04-23T00:17:22.192628Z",
+  "market_startDate": "2022-03-21T20:28:28.953Z",
+  "market_endDate": "2022-04-22T00:00:00Z",
+  "market_closedTime": "2022-04-23 07:18:20+00",
+  "conditionId": "0x6d926895d9b2e10d91947cc752c36f227e93e917e0dd327cd854f7a6fd9d7824",
+  "slug": "will-the-floor-price-of-mutant-apes-be-below-10-eth-on-4222022",
+  "question": "Will the floor price of Mutant Apes be below 10 ETH on April 22?"
+}

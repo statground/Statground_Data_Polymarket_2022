@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239646",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-28T16:09:26.615000Z",
+  "market_createdAt": "2021-11-28T16:09:26.615Z",
+  "market_updatedAt": "2024-04-22T23:28:43.054545Z",
+  "market_startDate": "2021-11-28T16:49:55.648Z",
+  "market_endDate": "2021-11-28T00:00:00Z",
+  "market_closedTime": "2021-11-29 14:04:36+00",
+  "conditionId": "0xdb6c7616b1398cd8aecddcdb600a5a7950e3c6d8821395453e3ff92ad679d353",
+  "slug": "nfl-will-the-chargers-beat-the-broncos-by-more-than-2pt5-points-in-their-november-28th-matchup",
+  "question": "NFL: Will the Chargers beat the Broncos by more than 2.5 points in their November 28th matchup?"
+}

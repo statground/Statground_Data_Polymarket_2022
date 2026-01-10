@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248068",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T22:25:25.646000Z",
+  "market_createdAt": "2022-11-18T22:25:25.646Z",
+  "market_updatedAt": "2023-01-31T19:22:08.298Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-18T00:00:00Z",
+  "market_closedTime": "2022-12-03 00:32:36+00",
+  "conditionId": "0xbeb2d0f6c0fc51756cb6b6d7bafc70614b72d0b69c2db6e45986205ecae6e27b",
+  "slug": "will-ghana-win-the-2022-world-cup",
+  "question": "Will Ghana win the 2022 World Cup?"
+}

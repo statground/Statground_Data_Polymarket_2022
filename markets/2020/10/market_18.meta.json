@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "18",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-10-02T19:20:04.234000Z",
+  "market_createdAt": "2020-10-02T19:20:04.234Z",
+  "market_updatedAt": "2024-04-22T23:52:06.957229Z",
+  "market_startDate": null,
+  "market_endDate": "2020-11-04T00:00:00Z",
+  "market_closedTime": "2020-10-27 00:40:55+00",
+  "conditionId": "0x3e0524de013d9dc359f5eb370773f25de2f03d3200294cfd0fa7dac2f399d101",
+  "slug": "will-a-new-supreme-court-justice-be-confirmed-before-nov-3rd-2020",
+  "question": "Will a new Supreme Court Justice be confirmed before Nov 3rd, 2020?"
+}

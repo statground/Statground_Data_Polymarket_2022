@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238715",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-07T22:56:01.409000Z",
+  "market_createdAt": "2021-09-07T22:56:01.409Z",
+  "market_updatedAt": "2024-04-23T00:17:39.404491Z",
+  "market_startDate": "2021-09-07T23:13:12.296Z",
+  "market_endDate": "2021-09-21T00:00:00Z",
+  "market_closedTime": "2021-09-21 22:11:22+00",
+  "conditionId": "0xccec06daf152042c638f64e2068abc7ad4c53bc5466dc1487d571c35df86784b",
+  "slug": "what-will-the-floor-price-of-blitmaps-be-on-september-21-2021",
+  "question": "What will the ETH floor price of Blitmaps be on September 21, 2021?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241762",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-28T13:00:23.360000Z",
+  "market_createdAt": "2022-02-28T13:00:23.36Z",
+  "market_updatedAt": "2024-04-22T23:22:29.119112Z",
+  "market_startDate": "2022-02-28T15:00:06.526Z",
+  "market_endDate": "2022-02-28T00:00:00Z",
+  "market_closedTime": "2022-03-01 23:31:15+00",
+  "conditionId": "0xe80cf2674e1ab6c46b104f58fd050f8dcd18eebcb4340f3b813edd1528911a8a",
+  "slug": "nba-who-will-win-the-timberwolves-vs-cavaliers-scheduled-for-february-28-7-pm-et",
+  "question": "NBA: Who will win the Timberwolves vs. Cavaliers, scheduled for February 28 (7 PM ET)?"
+}

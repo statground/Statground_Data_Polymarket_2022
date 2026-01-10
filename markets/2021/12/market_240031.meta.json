@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240031",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-14T20:20:14.816000Z",
+  "market_createdAt": "2021-12-14T20:20:14.816Z",
+  "market_updatedAt": "2024-04-26T02:50:25.066379Z",
+  "market_startDate": "2021-12-15T22:37:26.893Z",
+  "market_endDate": "2021-12-21T00:00:00Z",
+  "market_closedTime": "2021-12-22 18:39:19+00",
+  "conditionId": "0x775c2fedcc8995f0cd679b7a260ea8689c7cfc5d63bd4cfae62bc5c7de084e28",
+  "slug": "will-dogecoin-doge-price-be-0pt19-or-more-at-noon-on-december-21-2021",
+  "question": "Will Dogecoin (DOGE) price be $0.19 or more at noon on December 21, 2021?"
+}

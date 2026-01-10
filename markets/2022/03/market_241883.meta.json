@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241883",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-03T22:13:40.531000Z",
+  "market_createdAt": "2022-03-03T22:13:40.531Z",
+  "market_updatedAt": "2024-04-22T23:18:56.848705Z",
+  "market_startDate": "2022-03-03T22:27:47.685Z",
+  "market_endDate": "2022-03-03T00:00:00Z",
+  "market_closedTime": "2022-03-04 16:01:05+00",
+  "conditionId": "0xf4443ca7f2baee8a54c3b19604a2fafd4f4c4ec5a219904bcda5ff0229b6c342",
+  "slug": "nba-who-will-win-the-clippers-vs-lakers-scheduled-for-march-3-10-pm-et",
+  "question": "NBA: Who will win the Clippers vs Lakers, scheduled for March 3 (10 PM ET)?"
+}

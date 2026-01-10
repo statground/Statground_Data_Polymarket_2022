@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243257",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-14T07:54:25.969000Z",
+  "market_createdAt": "2022-04-14T07:54:25.969Z",
+  "market_updatedAt": "2023-01-31T21:10:01.51Z",
+  "market_startDate": "2022-04-14T14:53:43.816Z",
+  "market_endDate": "2022-04-14T00:00:00Z",
+  "market_closedTime": "2022-04-15 07:33:10+00",
+  "conditionId": "0x454fcd0c8457828848c8d0d3524393157a6902ef8a53d986d8e817a85a2eca50",
+  "slug": "nhl-will-the-hurricanes-beat-the-wings-by-more-than-2pt5-goals-in-their-april-14-700-pm-et-matchup",
+  "question": "NHL: Will the Hurricanes beat the Wings by more than 2.5 goals in their April 14, 7:00 PM ET matchup?"
+}

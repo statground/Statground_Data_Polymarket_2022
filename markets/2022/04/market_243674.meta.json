@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243674",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-25T19:54:10.767000Z",
+  "market_createdAt": "2022-04-25T19:54:10.767Z",
+  "market_updatedAt": "2023-01-31T21:23:01.068Z",
+  "market_startDate": "2022-04-25T22:19:05.545Z",
+  "market_endDate": "2022-05-04T00:00:00Z",
+  "market_closedTime": "2022-05-05 06:47:19+00",
+  "conditionId": "0x8ee02e24f4421779c40979386d49f9f46b4cdb80758371267a01c07a9eec5499",
+  "slug": "will-a-barrel-of-crude-oil-close-at-100-or-more-on-may-4-2022",
+  "question": "Will a barrel of crude oil close at $100 or more on May 4, 2022?"
+}

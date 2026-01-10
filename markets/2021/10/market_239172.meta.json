@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239172",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-31T08:07:43.246000Z",
+  "market_createdAt": "2021-10-31T08:07:43.246Z",
+  "market_updatedAt": "2024-04-24T23:35:13.512683Z",
+  "market_startDate": "2021-10-31T09:18:37.387Z",
+  "market_endDate": "2021-10-31T00:00:00Z",
+  "market_closedTime": "2021-11-01 10:24:59+00",
+  "conditionId": "0xa9fc16eee0188b00df83c4f5b1540e3ef05a832b873501bca572b7079052d85e",
+  "slug": "nfl-will-the-seahawks-beat-the-jaguars-by-more-than-3pt5-points-in-their-october-31st-matchup",
+  "question": "NFL: Will the Seahawks beat the Jaguars by more than 3.5 points in their October 31st matchup?"
+}

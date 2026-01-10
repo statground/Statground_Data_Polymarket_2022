@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239370",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-11T18:32:17.469000Z",
+  "market_createdAt": "2021-11-11T18:32:17.469Z",
+  "market_updatedAt": "2024-04-23T00:14:53.212924Z",
+  "market_startDate": "2021-11-11T20:07:08.452Z",
+  "market_endDate": "2021-11-11T00:00:00Z",
+  "market_closedTime": "2021-11-12 19:55:09+00",
+  "conditionId": "0x09f35968813529986070b3a7e8dda4f33fe403f2eca7afc0d94e1f4adf42601a",
+  "slug": "nba-will-the-76ers-beat-the-raptors-by-more-than-2pt5-points-in-their-november-11th-matchup",
+  "question": "NBA: Will the 76ers beat the Raptors by more than 2.5 points in their November 11th matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243070",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-10T16:32:59.889000Z",
+  "market_createdAt": "2022-04-10T16:32:59.889Z",
+  "market_updatedAt": "2023-01-31T21:06:30.751Z",
+  "market_startDate": null,
+  "market_endDate": "2022-04-10T00:00:00Z",
+  "market_closedTime": "2022-04-11 09:17:07+00",
+  "conditionId": "0x0310ba23898bbb30efd4f6516b8d24e37fcbadba6e380ab461921de00d3eea67",
+  "slug": "nhl-will-the-wild-beat-the-kings-by-more-than-1pt5-goals-in-their-april-10-matchup-5-pm-et",
+  "question": "NHL: Will the Wild beat the Kings by more than 1.5 goals in their April 10 matchup (5 PM ET)?"
+}

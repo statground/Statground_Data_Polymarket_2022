@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "61325",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-01-27T13:50:03.893000Z",
+  "market_createdAt": "2021-01-27T13:50:03.893Z",
+  "market_updatedAt": "2024-04-23T00:13:55.877076Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-01T00:00:00Z",
+  "market_closedTime": "2021-05-02 16:27:12+00",
+  "conditionId": "0x96095d76cfbd15c6ccd4be3a17f82008382c86d3c72b299eea5ccdd040e3b175",
+  "slug": "will-the-tokyo-summer-olympics-be-cancelled-or-postponed",
+  "question": "Will the Tokyo Summer Olympics be cancelled or postponed by May 1, 2021?"
+}

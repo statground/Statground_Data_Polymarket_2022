@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "224602",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-16T16:55:01.172000Z",
+  "market_createdAt": "2021-07-16T16:55:01.172Z",
+  "market_updatedAt": "2024-04-23T00:47:33.955451Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-30T00:00:00Z",
+  "market_closedTime": "2021-07-20 16:33:50+00",
+  "conditionId": "0xa67cf7ce06c9d46b57ba2f8f53e8afdc5f570aa2a1d5d58aa1cbc15ad6893860",
+  "slug": "will-jeff-bezos-reach-outer-space-by-july-30",
+  "question": "Will Jeff Bezos reach outer space by July 30?"
+}

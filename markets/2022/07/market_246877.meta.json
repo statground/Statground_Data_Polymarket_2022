@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246877",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-29T20:16:45.544000Z",
+  "market_createdAt": "2022-07-29T20:16:45.544Z",
+  "market_updatedAt": "2023-01-31T20:14:15.41Z",
+  "market_startDate": "2022-07-29T21:41:18.281Z",
+  "market_endDate": "2022-08-05T00:00:00Z",
+  "market_closedTime": "2022-08-05 18:45:39+00",
+  "conditionId": "0xd7bf8243592f3e2d3e04e22da7e3ab938a783a4470fc133f63c28b4f4c15af54",
+  "slug": "will-eth-be-above-1700-on-august-5",
+  "question": "Will $ETH be above $1,700 on August 5?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240641",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-12T16:56:21.818000Z",
+  "market_createdAt": "2022-01-12T16:56:21.818Z",
+  "market_updatedAt": "2024-07-17T20:42:12.475369Z",
+  "market_startDate": "2023-02-23T16:36:44.318Z",
+  "market_endDate": "2024-09-10T00:00:00Z",
+  "market_closedTime": "2024-07-17 20:42:12.475369+00",
+  "conditionId": "0x7e912d337aec54d321a4d415bd05e5a6676c3f04617f07def1281be7e0af3e91",
+  "slug": "will-joe-rogan-win-the-us-2024-republican-presidential-nomination",
+  "question": "[Single Market] Will Joe Rogan win the U.S. 2024 Republican presidential nomination?"
+}

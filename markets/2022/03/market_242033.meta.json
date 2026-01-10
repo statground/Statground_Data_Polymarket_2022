@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242033",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-12T20:00:35.164000Z",
+  "market_createdAt": "2022-03-12T20:00:35.164Z",
+  "market_updatedAt": "2024-04-23T00:21:28.446161Z",
+  "market_startDate": "2022-03-12T21:35:54.176Z",
+  "market_endDate": "2022-03-12T00:00:00Z",
+  "market_closedTime": "2022-03-13 11:47:20+00",
+  "conditionId": "0x391fd08e9f4e29a0ad7df5da1e8b4fc8a0f48bacaed386e921c2c889d11d0ce9",
+  "slug": "nba-will-the-cavaliers-beat-the-bulls-by-more-than-5pt5-points-in-their-march-12-8-pm-et-matchup",
+  "question": "NBA: Will the Cavaliers beat the Bulls by more than 5.5 points in their March 12 (8 PM ET) matchup?"
+}

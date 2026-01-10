@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243224",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-13T13:56:55.603000Z",
+  "market_createdAt": "2022-04-13T13:56:55.603Z",
+  "market_updatedAt": "2023-01-31T12:14:07.041Z",
+  "market_startDate": "2022-04-13T15:37:09.215Z",
+  "market_endDate": "2022-04-13T00:00:00Z",
+  "market_closedTime": "2022-04-14 06:33:00+00",
+  "conditionId": "0x7bc57ba1bdcdd5f3a48a1bc2a7af4d1602d3f923c47bf16322979064e231545e",
+  "slug": "nhl-will-the-blue-jackets-beat-the-canadiens-by-more-than-1pt5-goals-in-their-april-13-matchup-7-pm-et",
+  "question": "NHL: Will the Blue Jackets beat the Canadiens by more than 1.5 goals in their April 13 matchup (7 PM ET)?"
+}

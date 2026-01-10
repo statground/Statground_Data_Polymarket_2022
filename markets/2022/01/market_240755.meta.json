@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240755",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-15T17:58:16.983000Z",
+  "market_createdAt": "2022-01-15T17:58:16.983Z",
+  "market_updatedAt": "2024-04-22T23:38:43.343432Z",
+  "market_startDate": "2022-01-15T19:13:33.367Z",
+  "market_endDate": "2022-01-15T00:00:00Z",
+  "market_closedTime": "2022-01-17 16:38:40+00",
+  "conditionId": "0xa1c33ad71a7a9584e3f91dc7f289415493647278fc9f7291d06837797a364b0d",
+  "slug": "nba-will-the-nets-beat-the-pelicans-by-more-than-6p5-points-in-their-january-15-matchup",
+  "question": "NBA: Will the Nets beat the Pelicans by more than 6.5 points in their January 15 matchup?"
+}

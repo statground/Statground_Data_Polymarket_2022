@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241886",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-04T15:22:06.409000Z",
+  "market_createdAt": "2022-03-04T15:22:06.409Z",
+  "market_updatedAt": "2024-04-22T22:34:24.617816Z",
+  "market_startDate": "2022-03-04T17:33:16.048Z",
+  "market_endDate": "2022-03-04T00:00:00Z",
+  "market_closedTime": "2022-03-05 14:16:02+00",
+  "conditionId": "0xb3ed516a4faa124f38966391e5ed8dc228fd81bd70bed37535d4d7f8bdd0def9",
+  "slug": "nba-who-will-win-the-pacers-vspt-pistons-scheduled-for-march-4-7-pm-et",
+  "question": "NBA: Who will win the Pacers vs. Pistons, scheduled for March 4 (7 PM ET)?"
+}

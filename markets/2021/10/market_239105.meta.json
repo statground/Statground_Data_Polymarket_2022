@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239105",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-27T18:26:25.374000Z",
+  "market_createdAt": "2021-10-27T18:26:25.374Z",
+  "market_updatedAt": "2024-04-26T02:50:23.374253Z",
+  "market_startDate": "2021-10-27T19:52:44.056Z",
+  "market_endDate": "2021-10-27T00:00:00Z",
+  "market_closedTime": "2021-10-28 10:01:00+00",
+  "conditionId": "0x8effbababb84c78da0ce84e8d68f6d3bcf226bc53b63c5c8ef3fc2b8a8bd92ee",
+  "slug": "who-will-win-the-pacers-v-raptors-game-on-october-27th",
+  "question": "Who will win the Pacers v. Raptors game on October 27th?"
+}

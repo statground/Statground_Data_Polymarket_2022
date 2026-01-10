@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239097",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-26T22:41:49.508000Z",
+  "market_createdAt": "2021-10-26T22:41:49.508Z",
+  "market_updatedAt": "2024-04-22T22:37:26.918751Z",
+  "market_startDate": "2021-10-27T22:46:21.4Z",
+  "market_endDate": "2021-10-27T00:00:00Z",
+  "market_closedTime": "2021-10-28 09:55:38+00",
+  "conditionId": "0x8119db795dbee0c86ed184ba579bcf8d6f1f41e4007811278f9358051b0c0ad9",
+  "slug": "will-the-hornets-beat-the-magic-by-more-than-5pt5-points-in-their-october-27th-matchup",
+  "question": "Will the Hornets beat the Magic by more than 5.5 points in their October 27th matchup?"
+}

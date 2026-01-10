@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "202085",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-24T16:20:03.013000Z",
+  "market_createdAt": "2021-05-24T16:20:03.013Z",
+  "market_updatedAt": "2024-04-22T22:52:00.52169Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-29T00:00:00Z",
+  "market_closedTime": "2021-05-31 19:22:32+00",
+  "conditionId": "0x5d665dc53a062e50a3cb00fc9731614a68cf7183c7e34919b554823d7ce761bc",
+  "slug": "who-will-win-jazz-vs-grizzlies-game-3",
+  "question": "Who will win Jazz vs. Grizzlies: Game 3?"
+}

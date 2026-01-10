@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241819",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-02T14:28:13.974000Z",
+  "market_createdAt": "2022-03-02T14:28:13.974Z",
+  "market_updatedAt": "2024-04-22T23:28:00.198625Z",
+  "market_startDate": "2022-03-02T15:52:47.31Z",
+  "market_endDate": "2022-03-02T00:00:00Z",
+  "market_closedTime": "2022-03-04 01:30:47+00",
+  "conditionId": "0x514a2525ee59e5b640856c3312ca0a8a8b74ea9d5e126715c520cf60b54ee625",
+  "slug": "nba-will-the-76ers-beat-the-knicks-by-more-than-10pt5-points-in-their-march-2-7pt30-pm-et-matchup",
+  "question": "NBA: Will the 76ers beat the Knicks by more than 10.5 points in their March 2 (7.30 PM ET) matchup?"
+}

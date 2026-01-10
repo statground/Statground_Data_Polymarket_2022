@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241355",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-07T10:29:05.474000Z",
+  "market_createdAt": "2022-02-07T10:29:05.474Z",
+  "market_updatedAt": "2024-04-22T23:50:40.157842Z",
+  "market_startDate": "2022-02-07T21:31:43.317Z",
+  "market_endDate": "2022-02-07T00:00:00Z",
+  "market_closedTime": "2022-02-09 17:53:31+00",
+  "conditionId": "0xe695bf0b2e78b1a727ef787a631ba0f3e489fe91b3a16953e74a4ed86d6399e8",
+  "slug": "nhl-will-the-senators-beat-the-devils-by-more-than-15-goals-in-their-february-7-matchup-7-pm-et",
+  "question": "NHL: Will the Senators beat the Devils by more than 1.5 goals in their February 7 matchup (7 PM ET)?"
+}

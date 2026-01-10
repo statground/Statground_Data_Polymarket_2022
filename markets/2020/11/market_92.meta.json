@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "92",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-11-07T21:35:04.885000Z",
+  "market_createdAt": "2020-11-07T21:35:04.885Z",
+  "market_updatedAt": "2024-04-25T00:13:13.125528Z",
+  "market_startDate": null,
+  "market_endDate": "2022-01-22",
+  "market_closedTime": "2020-12-11 18:33:32+00",
+  "conditionId": "0xa3d1b46ac7ebfaf90925fddf1b8eb5d2e6ac074acbae28b927a96519c19d12a0",
+  "slug": "what-will-airbnb-s-market-cap-be-at-close-on-its-1st-day-publicly-trading",
+  "question": "What will Airbnb's market cap be at close on its 1st day publicly trading?"
+}

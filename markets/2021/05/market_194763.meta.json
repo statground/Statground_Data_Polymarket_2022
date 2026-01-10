@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "194763",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-12T16:45:11.952000Z",
+  "market_createdAt": "2021-05-12T16:45:11.952Z",
+  "market_updatedAt": "2024-04-22T23:22:01.296117Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-12T00:00:00Z",
+  "market_closedTime": "2021-05-13 14:39:17+00",
+  "conditionId": "0x7d06e0a0c5930b3e7d778509102a6b6fe0d0e2b3b4364caec3f6baa8e329e62a",
+  "slug": "will-andy-warhol-s-marilyn-monroe-sell-for-more-than-3-million-at-sotheby-s",
+  "question": "Will Andy Warhol’s “Marilyn Monroe” sell for more than $3 million at Sotheby’s?"
+}

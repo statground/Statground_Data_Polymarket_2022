@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242529",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-26T09:13:46.565000Z",
+  "market_createdAt": "2022-03-26T09:13:46.565Z",
+  "market_updatedAt": "2024-04-24T23:40:13.945884Z",
+  "market_startDate": "2022-03-26T19:38:37.855Z",
+  "market_endDate": "2022-03-26T00:00:00Z",
+  "market_closedTime": "2022-03-27 17:21:16+00",
+  "conditionId": "0x40386eaece073535dd0e915d8c4752ff032f517e60c29ad44b43bea69bc809c4",
+  "slug": "nba-will-the-raptors-beat-the-pacers-by-more-than-9pt5-points-in-their-march-26-740-pm-et-matchup",
+  "question": "NBA: Will the Raptors beat the Pacers by more than 9.5 points in their March 26, 7:40 PM ET matchup?"
+}

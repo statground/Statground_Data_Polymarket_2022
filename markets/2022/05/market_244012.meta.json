@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244012",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-02T13:54:31.604000Z",
+  "market_createdAt": "2022-05-02T13:54:31.604Z",
+  "market_updatedAt": "2023-01-31T21:06:30.689Z",
+  "market_startDate": "2022-05-02T15:29:14.747Z",
+  "market_endDate": "2022-05-15T00:00:00Z",
+  "market_closedTime": "2022-05-16 09:07:18+00",
+  "conditionId": "0x5dde04652e6f3e2c4de434d39ab7ef5e27e256bd87870caca0b096df063ea8af",
+  "slug": "2022-nhl-stanley-cup-playoffs-round-1-who-will-win-rangers-vs-penguins",
+  "question": "2022 NHL Stanley Cup Playoffs, Round 1: Who will win Rangers vs. Penguins?"
+}

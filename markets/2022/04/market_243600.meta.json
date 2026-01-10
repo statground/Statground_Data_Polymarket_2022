@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243600",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-23T07:51:28.972000Z",
+  "market_createdAt": "2022-04-23T07:51:28.972Z",
+  "market_updatedAt": "2023-01-31T21:05:50.825Z",
+  "market_startDate": "2022-04-23T16:34:18.41Z",
+  "market_endDate": "2022-04-23T00:00:00Z",
+  "market_closedTime": "2022-04-24 07:17:37+00",
+  "conditionId": "0xc1f34a3603a8ca4406a232377b1d2e08e4775817e12159fee3198a392caa8d9e",
+  "slug": "nhl-will-the-stars-beat-the-kraken-by-more-than-1pt5-goals-in-their-april-23-800-pm-et-matchup",
+  "question": "NHL: Will the Stars beat the Kraken by more than 1.5 goals in their April 23, 8:00 PM ET matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242049",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-13T13:24:58.286000Z",
+  "market_createdAt": "2022-03-13T13:24:58.286Z",
+  "market_updatedAt": "2024-04-24T23:39:00.106913Z",
+  "market_startDate": "2022-03-13T17:59:25.54Z",
+  "market_endDate": "2022-03-13T00:00:00Z",
+  "market_closedTime": "2022-03-14 12:00:35+00",
+  "conditionId": "0x22c420ec4391e6b177ab6d78a854d9a4b5a0d289aa6f0bb227ce12e3bc363d98",
+  "slug": "nhl-will-the-wild-beat-the-predators-by-more-than-1pt5-goals-in-their-march-13-matchup-6-pm-et",
+  "question": "NHL: Will the Wild beat the Predators by more than 1.5 goals in their March 13 matchup (7 PM ET)?"
+}

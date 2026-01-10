@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241028",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-25T21:04:08.422000Z",
+  "market_createdAt": "2022-01-25T21:04:08.422Z",
+  "market_updatedAt": "2024-04-26T02:47:39.693274Z",
+  "market_startDate": "2022-01-25T21:54:54.154Z",
+  "market_endDate": "2022-04-01T00:00:00Z",
+  "market_closedTime": "2022-04-01 21:01:04+00",
+  "conditionId": "0xde68b673946d7cd0ca9ec44cbdbc4f06a7d2278f7ed50f4a3bb074a9f4833c71",
+  "slug": "will-a-vaccine-specifically-targeting-the-omicron-variant-be-available-for-access-by-the-us-population-before-april-1-2022",
+  "question": "Will a vaccine targeting the Omicron variant be available in the US before April 1, 2022?"
+}

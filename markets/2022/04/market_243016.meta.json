@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243016",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-07T09:44:43.105000Z",
+  "market_createdAt": "2022-04-07T09:44:43.105Z",
+  "market_updatedAt": "2024-04-23T00:35:23.523876Z",
+  "market_startDate": "2022-04-07T16:44:18.992Z",
+  "market_endDate": "2022-04-07T00:00:00Z",
+  "market_closedTime": "2022-04-08 06:46:11+00",
+  "conditionId": "0xb927d2a042fdba85b45cb45f50ab3dbe521bd085aad02aff5d7906cb3455aa22",
+  "slug": "nba-will-the-hornets-beat-the-magic-by-more-than-13pt5-points-in-their-april-7-710-pm-et-matchup",
+  "question": "NBA: Will the Hornets beat the Magic by more than 13.5 points in their April 7, 7:10 PM ET matchup?"
+}

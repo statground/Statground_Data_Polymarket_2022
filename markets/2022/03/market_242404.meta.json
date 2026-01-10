@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242404",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-23T09:01:03.471000Z",
+  "market_createdAt": "2022-03-23T09:01:03.471Z",
+  "market_updatedAt": "2024-04-24T23:26:55.71987Z",
+  "market_startDate": "2022-03-23T19:09:36.109Z",
+  "market_endDate": "2022-03-23T00:00:00Z",
+  "market_closedTime": "2022-03-24 17:15:28+00",
+  "conditionId": "0x2e3918365596b330ff56c61f3831d562c7b1db0759a31634e2ed0b8375eff891",
+  "slug": "nhl-who-will-win-avalanche-vs-canucks-scheduled-for-march-23-930-pm-et",
+  "question": "NHL: Who will win Avalanche vs. Canucks, scheduled for March 23, 9:30 PM ET?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239273",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-06T19:22:50.515000Z",
+  "market_createdAt": "2021-11-06T19:22:50.515Z",
+  "market_updatedAt": "2024-04-23T00:51:55.152174Z",
+  "market_startDate": "2021-11-07T00:59:54.003Z",
+  "market_endDate": "2021-11-07T00:00:00Z",
+  "market_closedTime": "2021-11-08 12:51:55+00",
+  "conditionId": "0xc163aae6514601621a49221834179702fa6ef30a84bd8c1db4bd9d369d6492f6",
+  "slug": "nfl-will-the-bills-beat-the-jaguars-by-more-than-13pt5-points-in-their-november-7th-matchup",
+  "question": "NFL: Will the Bills beat the Jaguars by more than 13.5 points in their November 7th matchup?"
+}

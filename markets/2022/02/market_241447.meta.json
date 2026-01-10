@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241447",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-12T12:06:22.119000Z",
+  "market_createdAt": "2022-02-12T12:06:22.119Z",
+  "market_updatedAt": "2024-04-23T00:36:43.774633Z",
+  "market_startDate": "2022-02-12T16:58:39.732Z",
+  "market_endDate": "2022-02-17T00:00:00Z",
+  "market_closedTime": "2022-02-18 02:30:35+00",
+  "conditionId": "0xbbd856a7cb3c0994fcbee5d65c5c76fc8ae3a444f6dd3e62bf5f95cd3582f763",
+  "slug": "fide-world-chess-grand-prix-2022-will-hikaru-nakamura-win-leg-1",
+  "question": "FIDE World Chess Grand Prix 2022: Will Hikaru Nakamura win Leg #1?"
+}

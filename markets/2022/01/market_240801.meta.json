@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240801",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-17T17:14:52.755000Z",
+  "market_createdAt": "2022-01-17T17:14:52.755Z",
+  "market_updatedAt": "2024-04-24T23:22:19.658259Z",
+  "market_startDate": "2022-01-17T18:00:46.51Z",
+  "market_endDate": "2022-01-17T00:00:00Z",
+  "market_closedTime": "2022-01-20 17:44:27+00",
+  "conditionId": "0xde064cc8766098b20d77ffa074496f40515b52723cfc604d0b280579bf1a1c6f",
+  "slug": "nhl-will-the-knights-beat-the-penguins-by-more-than-1p5-goals-in-their-january-17-matchup",
+  "question": "NHL: Will the Knights beat the Penguins by more than 1.5 goals in their January 17 matchup?"
+}

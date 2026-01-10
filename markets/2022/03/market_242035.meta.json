@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242035",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-12T20:04:43.107000Z",
+  "market_createdAt": "2022-03-12T20:04:43.107Z",
+  "market_updatedAt": "2024-04-22T23:04:40.89162Z",
+  "market_startDate": "2022-03-12T21:36:12.706Z",
+  "market_endDate": "2022-03-12T00:00:00Z",
+  "market_closedTime": "2022-03-13 11:47:00+00",
+  "conditionId": "0xeb1d17cd7066b74a4ae45bb6e875a90d71cb344e0ffe195d326d48d1b9a9f69e",
+  "slug": "nba-will-the-bucks-beat-the-warriors-by-more-than-1pt5-points-in-their-march-12-8pt30-pm-et-matchup",
+  "question": "NBA: Will the Bucks beat the Warriors by more than 1.5 points in their March 12 (8.30 PM ET) matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242211",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-18T12:07:17.048000Z",
+  "market_createdAt": "2022-03-18T12:07:17.048Z",
+  "market_updatedAt": "2024-04-22T22:44:23.87694Z",
+  "market_startDate": "2022-03-18T16:13:07.051Z",
+  "market_endDate": "2022-03-18T00:00:00Z",
+  "market_closedTime": "2022-03-19 11:30:27+00",
+  "conditionId": "0x5070fd0bb088773b4364483c4d7702565869a775715daebd7a05ecf13fcaa6da",
+  "slug": "nba-who-will-win-suns-vspt-bulls-scheduled-for-march-18-1010-pm-et",
+  "question": "NBA: Who will win Suns vs. Bulls, scheduled for March 18, 10:10 PM ET?"
+}

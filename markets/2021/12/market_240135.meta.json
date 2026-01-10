@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240135",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-22T08:00:40.691000Z",
+  "market_createdAt": "2021-12-22T08:00:40.691Z",
+  "market_updatedAt": "2024-04-23T00:38:03.313382Z",
+  "market_startDate": "2021-12-22T19:08:14.905Z",
+  "market_endDate": "2021-12-22T00:00:00Z",
+  "market_closedTime": "2021-12-23 17:11:26+00",
+  "conditionId": "0xff63fdebbf15839325d1b3446f4851351b70924fbc68c3f6f1caa75d7b535fac",
+  "slug": "nba-will-the-hawks-beat-the-magic-by-more-than-8pt5-points-in-their-december-22-matchup",
+  "question": "NBA: Will the Hawks beat the Magic by more than 8.5 points in their December 22 matchup?"
+}

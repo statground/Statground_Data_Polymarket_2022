@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "95111",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-22T16:15:04.169000Z",
+  "market_createdAt": "2021-02-22T16:15:04.169Z",
+  "market_updatedAt": "2024-04-22T23:39:06.144754Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-31T00:00:00Z",
+  "market_closedTime": "2021-08-02 14:45:43+00",
+  "conditionId": "0x57cf4662c0ee26f713278cd11b51c09dc9f8e62ee35531210a3c9d622dd922ad",
+  "slug": "will-eip-1559-be-implemented-by-july-31-2021",
+  "question": "Will EIP-1559 be implemented by July 31, 2021?"
+}

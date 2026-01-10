@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248288",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-22T17:42:39.996000Z",
+  "market_createdAt": "2022-12-22T17:42:39.996Z",
+  "market_updatedAt": "2023-02-10T01:03:37.759Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-25T00:00:00Z",
+  "market_closedTime": "2022-12-26 08:00:27+00",
+  "conditionId": "0x957317f0e45d7eab8b03741f44e3a60afb33c63b314e26f33eb179c747bb15d6",
+  "slug": "nfl-sunday-buccaneers-vs-cardinals",
+  "question": "NFL Sunday: Buccaneers vs. Cardinals"
+}

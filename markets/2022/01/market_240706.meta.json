@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240706",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-13T21:25:45.704000Z",
+  "market_createdAt": "2022-01-13T21:25:45.704Z",
+  "market_updatedAt": "2024-04-24T23:51:38.491784Z",
+  "market_startDate": "2022-01-13T22:37:08.465Z",
+  "market_endDate": "2022-01-19T00:00:00Z",
+  "market_closedTime": "2022-01-16 01:58:19+00",
+  "conditionId": "0x4f8955c900be731eb352498cde5c51d0e99340a49f5760413ba6eb8dae002893",
+  "slug": "nba-will-the-memphis-grizzlies-current-winning-streak-end-with-12-or-13-games-in-a-row",
+  "question": "NBA: Will the Memphis Grizzlies' current winning streak end with 12 or 13 games in a row?"
+}

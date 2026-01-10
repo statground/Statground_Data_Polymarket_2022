@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243696",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-26T08:07:02.994000Z",
+  "market_createdAt": "2022-04-26T08:07:02.994Z",
+  "market_updatedAt": "2023-01-31T19:08:42.021Z",
+  "market_startDate": "2022-04-26T15:20:17.894Z",
+  "market_endDate": "2022-04-26T00:00:00Z",
+  "market_closedTime": "2022-04-27 06:46:51+00",
+  "conditionId": "0xf4610ddc9a389353aa7b3d514ee328837e59e9eaaab3448a31e3a82706b4ad2c",
+  "slug": "nba-will-the-grizzlies-beat-the-timberwolves-by-more-than-6pt5-points-in-their-april-26-730-pm-et-matchup",
+  "question": "NBA: Will the Grizzlies beat the Timberwolves by more than 6.5 points in their April 26, 7:30 PM ET matchup?"
+}

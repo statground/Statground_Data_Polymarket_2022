@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "123696",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-12T20:30:01.659000Z",
+  "market_createdAt": "2021-04-12T20:30:01.659Z",
+  "market_updatedAt": "2024-04-23T00:55:32.053747Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-13T00:00:00Z",
+  "market_closedTime": "2021-04-13 21:36:29+00",
+  "conditionId": "0xd0d9b9790c4a6130e8281fa6b7efc87f3ab7b3a34ca9a99233b1d92b3e0cbf0e",
+  "slug": "will-psg-or-bayern-advance-to-the-semi-final-of-the-champions-league",
+  "question": "Will PSG or Bayern advance to the semi-final of the Champions League?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "68069",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-01-30T22:10:03.857000Z",
+  "market_createdAt": "2021-01-30T22:10:03.857Z",
+  "market_updatedAt": "2024-04-23T00:08:13.688214Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-10T00:00:00Z",
+  "market_closedTime": "2021-02-10 17:33:42+00",
+  "conditionId": "0x502c973382fe3f3e4d900bd2ce1a2a6afc2fe5077bc0644f3ca9bf3f78e0e09b",
+  "slug": "will-link-be-above-30-on-february-10th-1",
+  "question": "Will LINK be above $30 on February 10th?"
+}

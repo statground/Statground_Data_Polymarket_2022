@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242124",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-16T10:59:32.100000Z",
+  "market_createdAt": "2022-03-16T10:59:32.1Z",
+  "market_updatedAt": "2024-04-22T23:09:00.063765Z",
+  "market_startDate": "2022-03-16T17:12:46.249Z",
+  "market_endDate": "2022-03-16T00:00:00Z",
+  "market_closedTime": "2022-03-17 13:00:44+00",
+  "conditionId": "0xa9d0a688b14e5594b5faa73c7e3406813dd7156af4cd86bcc4027bd33ecccef2",
+  "slug": "nhl-will-the-lightning-beat-the-kraken-by-more-than-1pt5-goals-in-their-march-16-matchup-10-pm-et",
+  "question": "NHL: Will the Lightning beat the Kraken by more than 1.5 goals in their March 16 matchup (10 PM ET)?"
+}

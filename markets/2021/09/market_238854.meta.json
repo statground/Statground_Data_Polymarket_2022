@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238854",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-22T19:48:02.953000Z",
+  "market_createdAt": "2021-09-22T19:48:02.953Z",
+  "market_updatedAt": "2024-04-24T07:41:27.77898Z",
+  "market_startDate": "2021-09-22T20:58:05.073Z",
+  "market_endDate": "2021-10-04T00:00:00Z",
+  "market_closedTime": "2021-10-04 21:23:39+00",
+  "conditionId": "0xffd8062e51342af3e2333539d48d65f8d16b51be33f94338515c557435982973",
+  "slug": "will-magnus-carlsen-win-the-2021-meltwater-champions-chess-tour-finals",
+  "question": "Will Magnus Carlsen win the 2021 Meltwater Champions Chess Tour Finals?"
+}

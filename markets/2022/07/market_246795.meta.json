@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246795",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-22T16:19:17.904000Z",
+  "market_createdAt": "2022-07-22T16:19:17.904Z",
+  "market_updatedAt": "2023-01-31T19:58:10.694Z",
+  "market_startDate": "2022-07-22T16:37:08.727Z",
+  "market_endDate": "2022-07-29T00:00:00Z",
+  "market_closedTime": "2022-07-29 22:30:33+00",
+  "conditionId": "0x50ce210d4274f21f26d28643635d917bc75bec8b72f08628bbaeab71384e9529",
+  "slug": "will-eth-be-above-1600-on-july-29",
+  "question": "Will $ETH be above $1,600 on July 29?"
+}

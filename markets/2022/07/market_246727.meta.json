@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246727",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-15T16:42:52.195000Z",
+  "market_createdAt": "2022-07-15T16:42:52.195Z",
+  "market_updatedAt": "2023-01-31T16:49:29.853Z",
+  "market_startDate": "2022-07-15T18:26:45.364Z",
+  "market_endDate": "2022-07-22T00:00:00Z",
+  "market_closedTime": "2022-07-22 19:15:39+00",
+  "conditionId": "0xc1d4df83ecc5ecbc8c7efedcf9858b2ecb5d3473fb85b8c4b0a7abb6482ea3ae",
+  "slug": "will-eth-be-above-1200-on-july-22",
+  "question": "Will $ETH be above $1,200 on July 22?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240960",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-23T12:41:06.155000Z",
+  "market_createdAt": "2022-01-23T12:41:06.155Z",
+  "market_updatedAt": "2024-04-24T23:35:56.803469Z",
+  "market_startDate": "2022-01-23T17:38:48.176Z",
+  "market_endDate": "2022-01-23T00:00:00Z",
+  "market_closedTime": "2022-01-25 00:11:49+00",
+  "conditionId": "0x9d4012191c08ef91d3d79e9eaeb4f68749672d8b837e2cfd8897516eeab700a4",
+  "slug": "nhl-will-the-panthers-beat-the-krakens-by-more-than-1p5-goals-in-their-january-23-matchup",
+  "question": "NHL: Will the Panthers beat the Krakens by more than 1.5 goals in their January 23 matchup?"
+}

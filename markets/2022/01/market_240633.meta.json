@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240633",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-12T16:40:01.099000Z",
+  "market_createdAt": "2022-01-12T16:40:01.099Z",
+  "market_updatedAt": "2024-04-22T23:53:52.424622Z",
+  "market_startDate": "2022-01-12T21:06:55.476Z",
+  "market_endDate": "2022-01-12T00:00:00Z",
+  "market_closedTime": "2022-01-14 06:37:28+00",
+  "conditionId": "0x91c40077a57041ede81a38486bc56a32319882f39fcfdb4191183f37a16f6da8",
+  "slug": "nba-will-the-spurs-beat-the-rockets-by-more-than-5pt5-points-in-their-january-12-matchup",
+  "question": "NBA: Will the Spurs beat the Rockets by more than 5.5 points in their January 12 matchup?"
+}

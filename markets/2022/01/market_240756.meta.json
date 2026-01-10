@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240756",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-15T18:00:45.174000Z",
+  "market_createdAt": "2022-01-15T18:00:45.174Z",
+  "market_updatedAt": "2024-04-25T00:04:12.96619Z",
+  "market_startDate": "2022-01-15T19:13:43.091Z",
+  "market_endDate": "2022-01-15T00:00:00Z",
+  "market_closedTime": "2022-01-17 16:36:42+00",
+  "conditionId": "0xe328882499fa106f0968606b5c642fc0528e98d6d3fce9ff30090a87ca4391d6",
+  "slug": "nba-will-the-heat-beat-the-76ers-by-more-than-2p5-points-in-their-january-15-matchup",
+  "question": "NBA: Will the Heat beat the 76ers by more than 2.5 points in their January 15 matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246797",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-22T16:42:11.453000Z",
+  "market_createdAt": "2022-07-22T16:42:11.453Z",
+  "market_updatedAt": "2023-01-31T19:35:06.203Z",
+  "market_startDate": "2022-07-22T17:29:43.967Z",
+  "market_endDate": "2022-07-23T00:00:00Z",
+  "market_closedTime": "2022-07-24 02:00:45+00",
+  "conditionId": "0x51bdc8cb4cd1884481380b8f375b3c80d7d8d36048f308f04ea17f0a2709fd04",
+  "slug": "ufc-fight-night-london-who-will-win-blaydes-vs-aspinall",
+  "question": "UFC Fight Night London: Who will win - Blaydes vs. Aspinall?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239352",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-10T19:18:57.970000Z",
+  "market_createdAt": "2021-11-10T19:18:57.97Z",
+  "market_updatedAt": "2023-01-31T21:24:42.051Z",
+  "market_startDate": "2021-11-10T20:21:51.529Z",
+  "market_endDate": "2021-11-11T00:00:00Z",
+  "market_closedTime": "2021-11-12 19:24:33+00",
+  "conditionId": "0xc157de2e3b2c32cedd9e2f9f4b114c3c3c949aa415cf9f64f0e4b80c095b2b71",
+  "slug": "will-claude-monets-le-bassin-dargenteuil-lot-15c-sell-for-more-than-25m-at-christies-on-november-11",
+  "question": "Will Claude Monet's “Le bassin d'Argenteuil” (Lot 15C) sell for more than $25m at Christie’s on November 11?"
+}

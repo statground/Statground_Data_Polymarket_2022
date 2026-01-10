@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "100",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-11-13T18:40:06.566000Z",
+  "market_createdAt": "2020-11-13T18:40:06.566Z",
+  "market_updatedAt": "2024-04-22T22:34:49.090398Z",
+  "market_startDate": null,
+  "market_endDate": "2021-01-01T00:00:00Z",
+  "market_closedTime": "2020-12-14 16:18:30+00",
+  "conditionId": "0xe5cf4bf60005716b8da1ce87c3d5ab12ffe2eadfbcbac22ab39666514131a908",
+  "slug": "will-indoor-dining-be-prohibited-in-nyc-at-any-point-before-2021",
+  "question": "Will indoor dining be prohibited in NYC at any point before 2021?"
+}

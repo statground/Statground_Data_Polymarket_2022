@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "219168",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-25T18:45:29.027000Z",
+  "market_createdAt": "2021-06-25T18:45:29.027Z",
+  "market_updatedAt": "2024-04-23T00:48:14.530146Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-29T00:00:00Z",
+  "market_closedTime": "2021-06-29 21:57:02+00",
+  "conditionId": "0xb9d7db0826b2a2e791746e1799f3604d3ee9c3a4223ceeb927b1ec1862440926",
+  "slug": "will-sweden-or-ukraine-win-their-euro-2020-match",
+  "question": "Will Sweden or Ukraine qualify for the Euro 2020 Quarterfinals?"
+}

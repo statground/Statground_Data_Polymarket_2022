@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246990",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-15T16:53:17.278000Z",
+  "market_createdAt": "2022-08-15T16:53:17.278Z",
+  "market_updatedAt": "2023-02-01T04:12:28.783Z",
+  "market_startDate": null,
+  "market_endDate": "2022-08-17T00:00:00Z",
+  "market_closedTime": null,
+  "conditionId": "0x6b3751822822bf12e650c2920db73d7e2066792127d7ce69b7f684ed3e496aaf",
+  "slug": "mlb-who-will-win-los-angeles-dodgers-v-milwaukee-brewers-scheduled-for-august-17-810-pm-et",
+  "question": "MLB: Who will win Los Angeles Dodgers v. Milwaukee Brewers, scheduled for August 17, 8:10 PM ET?"
+}

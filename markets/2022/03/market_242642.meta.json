@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242642",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-30T11:00:12.607000Z",
+  "market_createdAt": "2022-03-30T11:00:12.607Z",
+  "market_updatedAt": "2024-04-24T23:37:42.834958Z",
+  "market_startDate": "2022-03-30T17:19:26.179Z",
+  "market_endDate": "2022-03-31T00:00:00Z",
+  "market_closedTime": "2022-04-01 01:48:10+00",
+  "conditionId": "0xe3b8e910eacf0bc361e516a108e39e4ef7771391e0c941566efa2e04541be3e4",
+  "slug": "cricket-who-will-win-pakistan-vs-australia-2nd-odi-starting-march-31",
+  "question": "Cricket: Who will win Pakistan vs. Australia, 2nd ODI, starting March 31?"
+}

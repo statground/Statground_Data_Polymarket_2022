@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248281",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-21T20:53:46.398000Z",
+  "market_createdAt": "2022-12-21T20:53:46.398Z",
+  "market_updatedAt": "2023-02-10T01:03:37.406Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-21T00:00:00Z",
+  "market_closedTime": "2022-12-22 07:31:09+00",
+  "conditionId": "0xb64675e1b7d39a31c8eddaaf8b7fe4a7f18155ce64fb8d2b11cc142e4af3fc2b",
+  "slug": "nba-wednesday-bucks-vs-cavaliers",
+  "question": "NBA Wednesday: Bucks vs. Cavaliers"
+}

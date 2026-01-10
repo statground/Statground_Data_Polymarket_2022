@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246922",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-05T16:20:37.547000Z",
+  "market_createdAt": "2022-08-05T16:20:37.547Z",
+  "market_updatedAt": "2023-04-20T00:05:42.248Z",
+  "market_startDate": "2022-08-05T16:30:17.941Z",
+  "market_endDate": "2022-08-15T00:00:00Z",
+  "market_closedTime": "2022-08-16 06:30:36+00",
+  "conditionId": "0x9c5a8205057e60b8a919c4c9abcb5d4834015635365233a249c6ef633540656e",
+  "slug": "will-the-price-of-a-barrel-of-crude-oil-be-90-or-more-on-august-15-2022",
+  "question": "Will the price of a barrel of crude oil be $90 or more on August 15, 2022?"
+}

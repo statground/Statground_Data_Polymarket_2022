@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243522",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-21T07:41:07.051000Z",
+  "market_createdAt": "2022-04-21T07:41:07.051Z",
+  "market_updatedAt": "2023-01-31T20:10:16.898Z",
+  "market_startDate": "2022-04-21T14:15:16.111Z",
+  "market_endDate": "2022-04-21T00:00:00Z",
+  "market_closedTime": "2022-04-22 07:17:07+00",
+  "conditionId": "0xa400ddf71e6c21adfeea2d1d27ae520fb5e72ab8f4c4c274f694c2c6e512be9e",
+  "slug": "nhl-will-the-flames-beat-the-stars-by-more-than-1pt5-goals-in-their-april-21-900-pm-et-matchup",
+  "question": "NHL: Will the Flames beat the Stars by more than 1.5 goals in their April 21, 9:00 PM ET matchup?"
+}

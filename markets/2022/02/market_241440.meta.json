@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241440",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-12T11:04:26.267000Z",
+  "market_createdAt": "2022-02-12T11:04:26.267Z",
+  "market_updatedAt": "2024-04-23T00:31:16.662985Z",
+  "market_startDate": "2022-02-12T16:28:15.105Z",
+  "market_endDate": "2022-02-12T00:00:00Z",
+  "market_closedTime": "2022-02-13 13:46:23+00",
+  "conditionId": "0x301bf11a78063aef0995930cf29f4024f9587bb50651d76cfc0049ed7d2e8f7a",
+  "slug": "nba-will-the-kings-beat-the-wizards-by-more-than-1p5-points-in-their-february-12-7pm-et-matchup",
+  "question": "NBA: Will the Kings beat the Wizards by more than 1.5 points in their February 12 (7PM ET) matchup?"
+}

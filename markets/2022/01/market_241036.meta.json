@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241036",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-26T12:23:36.664000Z",
+  "market_createdAt": "2022-01-26T12:23:36.664Z",
+  "market_updatedAt": "2024-04-22T22:26:17.578153Z",
+  "market_startDate": null,
+  "market_endDate": "2022-01-26T00:00:00Z",
+  "market_closedTime": "2022-01-27 23:57:19+00",
+  "conditionId": "0x287c73c61c69cb7bd4295075bf25d6ff8df26223af46abb925dc48af9132f776",
+  "slug": "nba-who-will-win-the-grizzlies-vs-spurs-scheduled-for-january-26-830-pm-et",
+  "question": "NBA: Who will win the Grizzlies vs. Spurs, scheduled for January 26 (8.30 PM ET)?"
+}

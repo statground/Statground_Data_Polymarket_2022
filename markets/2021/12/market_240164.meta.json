@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240164",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-23T19:27:05.318000Z",
+  "market_createdAt": "2021-12-23T19:27:05.318Z",
+  "market_updatedAt": "2024-04-22T23:16:18.643916Z",
+  "market_startDate": "2021-12-26T08:50:08.141Z",
+  "market_endDate": "2021-12-26T00:00:00Z",
+  "market_closedTime": "2021-12-27 14:19:52+00",
+  "conditionId": "0xd024618ec5841f665850fb195fe20e1c7eb06d306d1d195098bdcfe9b8f41c07",
+  "slug": "nfl-will-the-falcons-beat-the-lions-by-more-than-5pt5-points-in-their-december-26-matchup",
+  "question": "NFL: Will the Falcons beat the Lions by more than 5.5 points in their December 26 matchup?"
+}

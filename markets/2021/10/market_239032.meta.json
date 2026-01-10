@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239032",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-19T17:25:31.622000Z",
+  "market_createdAt": "2021-10-19T17:25:31.622Z",
+  "market_updatedAt": "2024-04-25T00:04:25.485954Z",
+  "market_startDate": "2021-10-19T21:21:30.535Z",
+  "market_endDate": "2021-10-20T00:00:00Z",
+  "market_closedTime": "2021-10-21 01:37:52+00",
+  "conditionId": "0x97b3aaf819c13b13d70ed6b7e34db1ab668b5a7298577025164a2d95055b532d",
+  "slug": "who-will-win-the-bulls-v-pistons-game-on-october-20th",
+  "question": "Who will win the Bulls v. Pistons game on October 20th?"
+}

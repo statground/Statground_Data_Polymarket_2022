@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242347",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-21T09:07:48.634000Z",
+  "market_createdAt": "2022-03-21T09:07:48.634Z",
+  "market_updatedAt": "2024-04-22T23:39:17.846979Z",
+  "market_startDate": null,
+  "market_endDate": "2022-03-21T00:00:00Z",
+  "market_closedTime": "2022-03-22 10:24:28+00",
+  "conditionId": "0x9e25f46246e1e07e3b9138f02299fb70812dee15abce4657cce8a472c8fb3acf",
+  "slug": "nba-will-the-celtics-beat-the-thunder-by-more-than-13pt5-points-in-their-march-21-810-pm-et-matchup",
+  "question": "NBA: Will the Celtics beat the Thunder by more than 13.5 points in their March 21, 8:10 PM ET matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242613",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-29T14:53:13.126000Z",
+  "market_createdAt": "2022-03-29T14:53:13.126Z",
+  "market_updatedAt": "2024-04-22T23:25:29.401138Z",
+  "market_startDate": "2022-03-29T15:51:38.566Z",
+  "market_endDate": "2022-03-29T00:00:00Z",
+  "market_closedTime": "2022-03-30 08:00:39+00",
+  "conditionId": "0xc2b1e202984286c2125cbd0840aa2ae6f04b92e5c40f49e2f46e9a3a37309597",
+  "slug": "nba-will-the-mavericks-beat-the-lakers-by-more-than-11pt5-points-in-their-march-29-7pt30-pm-et-matchup",
+  "question": "NBA: Will the Mavericks beat the Lakers by more than 11.5 points in their March 29 (7.30 PM ET) matchup?"
+}

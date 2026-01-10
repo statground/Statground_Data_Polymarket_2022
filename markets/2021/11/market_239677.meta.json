@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239677",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-29T11:25:16.319000Z",
+  "market_createdAt": "2021-11-29T11:25:16.319Z",
+  "market_updatedAt": "2024-04-24T23:15:08.339714Z",
+  "market_startDate": "2021-11-29T17:46:50.911Z",
+  "market_endDate": "2021-12-09T00:00:00Z",
+  "market_closedTime": "2021-12-09 19:33:20+00",
+  "conditionId": "0x1f38e9804d2db984d50d9d0bf1afea59c0dd0ac4876cbc97f79303ff9d8dd567",
+  "slug": "will-the-ethereum-eth-market-cap-be-above-520-billion-on-december-9",
+  "question": "Will the Ethereum ($ETH) Market Cap be above $520 billion on December 9?"
+}

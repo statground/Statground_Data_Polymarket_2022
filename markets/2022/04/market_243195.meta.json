@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243195",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-13T02:02:34.715000Z",
+  "market_createdAt": "2022-04-13T02:02:34.715Z",
+  "market_updatedAt": "2023-01-31T19:35:07.195Z",
+  "market_startDate": "2022-04-13T17:20:36.019Z",
+  "market_endDate": "2022-05-29T00:00:00Z",
+  "market_closedTime": "2022-06-24 16:13:43+00",
+  "conditionId": "0x2d6f996ff14f87af200e076dfa6256b8797debaf1be8a95b35675841d2a2bee0",
+  "slug": "will-federico-gutirrez-win-the-2022-colombian-presidential-election",
+  "question": "Will Federico Gutiérrez win the 2022 Colombian presidential election?"
+}

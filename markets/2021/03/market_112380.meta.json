@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "112380",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-03-29T17:45:05.217000Z",
+  "market_createdAt": "2021-03-29T17:45:05.217Z",
+  "market_updatedAt": "2024-04-23T00:21:09.979732Z",
+  "market_startDate": null,
+  "market_endDate": null,
+  "market_closedTime": "2021-04-20 21:27:36+00",
+  "conditionId": "0x98b7b18ca298b323cc9b3a5c61380238458deec6e04a57b3f6f284458be3e3dd",
+  "slug": "how-many-charges-will-derek-chauvin-be-convicted-of",
+  "question": "How many charges will Derek Chauvin be convicted of?"
+}

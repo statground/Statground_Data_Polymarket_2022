@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241155",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-28T17:49:24.973000Z",
+  "market_createdAt": "2022-01-28T17:49:24.973Z",
+  "market_updatedAt": "2024-04-23T00:58:44.099009Z",
+  "market_startDate": "2022-01-28T18:21:24.536Z",
+  "market_endDate": "2022-03-01T00:00:00Z",
+  "market_closedTime": "2022-03-03 02:30:48+00",
+  "conditionId": "0x1129742c11d8c00dc0a57a4747667f963185b4a24252fd8e481cdc1eadca9b77",
+  "slug": "will-ust-terrausd-lose-its-peg-by-march-1st",
+  "question": "Will UST (TerraUSD) lose its peg by March 1st?"
+}

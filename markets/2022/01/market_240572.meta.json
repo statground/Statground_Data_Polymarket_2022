@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240572",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T19:20:28.799000Z",
+  "market_createdAt": "2022-01-11T19:20:28.799Z",
+  "market_updatedAt": "2024-04-22T23:55:15.774845Z",
+  "market_startDate": "2022-01-12T21:16:40.635Z",
+  "market_endDate": "2022-03-01T00:00:00Z",
+  "market_closedTime": "2022-03-04 12:26:11+00",
+  "conditionId": "0x93cb5e6841cf5df9645805ea3732992b91cffda16841ff4bcfeedc36a67aceda",
+  "slug": "what-will-the-price-of-cardano-ada-be-on-march-1st-2022",
+  "question": "What will the price of Cardano ($ADA) be on March 1st, 2022?"
+}

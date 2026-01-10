@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242643",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-30T11:02:21.321000Z",
+  "market_createdAt": "2022-03-30T11:02:21.321Z",
+  "market_updatedAt": "2024-04-23T00:01:41.095111Z",
+  "market_startDate": "2022-03-30T17:17:02.052Z",
+  "market_endDate": "2022-03-30T00:00:00Z",
+  "market_closedTime": "2022-03-31 08:00:38+00",
+  "conditionId": "0x1ceed592bea54512dbd29b4402dc3fd3b054589f0852d3a77ec67f9cac4747ba",
+  "slug": "nba-will-the-celtics-beat-the-heat-by-more-than-4pt5-points-in-their-march-30-7pt30-pm-et-matchup",
+  "question": "NBA: Will the Celtics beat the Heat by more than 4.5 points in their March 30 (7.30 PM ET) matchup?"
+}

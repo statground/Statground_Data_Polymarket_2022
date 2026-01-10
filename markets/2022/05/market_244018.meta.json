@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244018",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-02T20:18:45.443000Z",
+  "market_createdAt": "2022-05-02T20:18:45.443Z",
+  "market_updatedAt": "2023-01-31T20:31:17.012Z",
+  "market_startDate": "2022-05-02T21:48:17.058Z",
+  "market_endDate": "2022-05-17T00:00:00Z",
+  "market_closedTime": "2022-05-19 00:30:39+00",
+  "conditionId": "0x9e6e8c76dfa4ac035d5346a6165f88ac66f44b46d2dbfcf4f96f31f96ff4c9e0",
+  "slug": "will-madison-cawthorn-win-the-republican-nomination-for-the-nc-11-house-election",
+  "question": "Will Madison Cawthorn win the Republican nomination for the NC-11 House election?"
+}

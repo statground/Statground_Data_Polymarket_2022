@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243029",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-07T20:16:57.270000Z",
+  "market_createdAt": "2022-04-07T20:16:57.27Z",
+  "market_updatedAt": "2023-01-31T20:44:46.725Z",
+  "market_startDate": "2022-04-07T20:54:42.28Z",
+  "market_endDate": "2022-04-21T00:00:00Z",
+  "market_closedTime": "2022-04-22 07:17:45+00",
+  "conditionId": "0xe9557e6c75c391f952c3a032c4be34c792768598da8ac61d5f932423e19a2fda",
+  "slug": "will-annual-inflation-in-the-european-union-be-7pt8-or-more-in-march",
+  "question": "Will annual inflation in the European Union be 7.8% or more in March?"
+}

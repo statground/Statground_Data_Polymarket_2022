@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239094",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-26T19:10:07.905000Z",
+  "market_createdAt": "2021-10-26T19:10:07.905Z",
+  "market_updatedAt": "2024-04-23T00:38:53.619316Z",
+  "market_startDate": "2021-10-26T19:35:44.361Z",
+  "market_endDate": "2021-11-07T00:00:00Z",
+  "market_closedTime": "2021-11-03 16:50:33+00",
+  "conditionId": "0x88a65652e10fec94ee84feb8d8e89937a19d32c3aab051a8d9cff8e6e144bf43",
+  "slug": "who-will-win-mlb-2021-world-series",
+  "question": "Who will win the MLB 2021 World Series?"
+}

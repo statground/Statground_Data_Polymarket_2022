@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243048",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-08T16:01:43.990000Z",
+  "market_createdAt": "2022-04-08T16:01:43.99Z",
+  "market_updatedAt": "2023-01-31T16:58:06.408Z",
+  "market_startDate": "2022-04-08T18:08:51.761Z",
+  "market_endDate": "2022-04-08T00:00:00Z",
+  "market_closedTime": "2022-04-10 06:45:39+00",
+  "conditionId": "0x5c9c4f6d0aca95c08d4eef1f1b8f14fee30fd3f378b2b46ebb8ed89cd71efd37",
+  "slug": "mlb-who-will-win-angels-vs-astros-scheduled-for-april-8-938pm-et",
+  "question": "MLB: Who will win Angels vs. Astros, scheduled for April 8 (9:38PM ET)?"
+}

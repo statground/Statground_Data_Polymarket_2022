@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240979",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-24T09:04:15.914000Z",
+  "market_createdAt": "2022-01-24T09:04:15.914Z",
+  "market_updatedAt": "2024-04-22T22:51:40.972106Z",
+  "market_startDate": "2022-01-24T20:15:20.798Z",
+  "market_endDate": "2022-01-24T00:00:00Z",
+  "market_closedTime": "2022-01-26 02:34:10+00",
+  "conditionId": "0xee6d33a9a5503d52e7eaf64b742f4a6a34b47a4ad5670be5ef3d17755acd96f4",
+  "slug": "nhl-will-the-wild-beat-the-canadiens-by-more-than-1p5-goals-in-their-january-24-matchup",
+  "question": "NHL: Will the Wild beat the Canadiens by more than 1.5 goals in their January 24 matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246197",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-03T08:00:24.245000Z",
+  "market_createdAt": "2022-06-03T08:00:24.245Z",
+  "market_updatedAt": "2023-01-31T18:02:05.62Z",
+  "market_startDate": "2022-06-03T15:18:49.04Z",
+  "market_endDate": "2022-06-03T00:00:00Z",
+  "market_closedTime": "2022-06-04 06:45:44+00",
+  "conditionId": "0x67b20617ad6bbd3972de0821f38b963e646e67d53f84b68245b551667fd4cd09",
+  "slug": "nhl-who-will-win-lightning-vs-rangers-scheduled-for-june-3-810-pm-et",
+  "question": "NHL: Who will win Lightning vs. Rangers, scheduled for June 3, 8:10 PM ET?"
+}

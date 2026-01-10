@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246889",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-02T17:30:03.664000Z",
+  "market_createdAt": "2022-08-02T17:30:03.664Z",
+  "market_updatedAt": "2023-01-31T21:16:35.441Z",
+  "market_startDate": "2022-08-02T20:46:58.495Z",
+  "market_endDate": "2022-08-16T00:00:00Z",
+  "market_closedTime": "2022-08-16 19:30:40+00",
+  "conditionId": "0x65715753a9cd14b314d6ca1f01b3ed8f743387e9207c9fdf8865009be3c17d62",
+  "slug": "538-will-voters-prefer-republicans-or-democrats-on-august-15",
+  "question": "538: Will voters prefer Republicans or Democrats on August 15?"
+}

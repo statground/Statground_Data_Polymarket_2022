@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240596",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T23:57:01.857000Z",
+  "market_createdAt": "2022-01-11T23:57:01.857Z",
+  "market_updatedAt": "2023-01-31T21:24:46.44Z",
+  "market_startDate": "2022-01-12T21:10:54.817Z",
+  "market_endDate": "2022-11-15T00:00:00Z",
+  "market_closedTime": "2022-12-07 15:18:31+00",
+  "conditionId": "0x72074e3d16a787b756309f02ea6c3352e9880653f4acc07ee045c3faeba67821",
+  "slug": "2022-us-senate-elections-will-a-democrat-or-republican-win-in-georgia",
+  "question": "Senate: Will a Democrat (Warnock) or Republican (Walker) win in Georgia?"
+}

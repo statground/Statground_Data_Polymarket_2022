@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244375",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-07T01:37:40.753000Z",
+  "market_createdAt": "2022-05-07T01:37:40.753Z",
+  "market_updatedAt": "2023-01-31T20:31:17.085Z",
+  "market_startDate": "2022-05-07T01:48:46.347Z",
+  "market_endDate": "2022-07-14T00:00:00Z",
+  "market_closedTime": "2022-07-06 18:15:42+00",
+  "conditionId": "0x79b406c05998867b335c5068bdafeb50ed599c60dc93e962101b88f5ff399518",
+  "slug": "will-maryna-viazovska-win-the-2022-fields-medal",
+  "question": "Will Maryna Viazovska win the 2022 Fields Medal?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242822",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-04T17:30:40.123000Z",
+  "market_createdAt": "2022-04-04T17:30:40.123Z",
+  "market_updatedAt": "2024-04-23T00:48:50.55108Z",
+  "market_startDate": "2022-04-04T17:59:23.713Z",
+  "market_endDate": "2022-12-31T00:00:00Z",
+  "market_closedTime": "2022-04-07 20:46:12+00",
+  "conditionId": "0x83a2737359c19c80266fda711ee914efe06eadbfac61563b1ab10420d48412ce",
+  "slug": "will-mitt-romney-vote-to-confirm-ketanji-brown-jackson-to-scotus-by-december-31-2022",
+  "question": "Will Mitt Romney vote to confirm Ketanji Brown Jackson to SCOTUS by December 31, 2022?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240287",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-03T14:14:39.695000Z",
+  "market_createdAt": "2022-01-03T14:14:39.695Z",
+  "market_updatedAt": "2024-04-22T23:16:05.175328Z",
+  "market_startDate": "2022-01-03T20:25:07.429Z",
+  "market_endDate": "2022-01-03T00:00:00Z",
+  "market_closedTime": "2022-01-04 20:42:57+00",
+  "conditionId": "0x01b413af2a64fe5d0c4d436ff94c7f4154d6ecc2e0c2fb2307cf1a9d4651f3b9",
+  "slug": "nba-will-the-nets-beat-the-grizzlies-by-more-than-6pt5-points-in-their-january-3-matchup",
+  "question": "NBA: Will the Nets beat the Grizzlies by more than 6.5 points in their January 3 matchup?"
+}

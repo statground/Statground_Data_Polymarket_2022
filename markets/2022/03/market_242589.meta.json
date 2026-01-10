@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242589",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-28T20:55:41.108000Z",
+  "market_createdAt": "2022-03-28T20:55:41.108Z",
+  "market_updatedAt": "2024-04-24T23:57:05.602087Z",
+  "market_startDate": "2022-03-28T21:41:59.8Z",
+  "market_endDate": "2022-04-30T00:00:00Z",
+  "market_closedTime": "2022-05-01 07:03:18+00",
+  "conditionId": "0x685e50df26a1f4fe875274d5f7c258ec13d85d64ee76f66c17fbba4c971e12e4",
+  "slug": "will-the-academy-take-away-will-smiths-oscar-by-april-30",
+  "question": "Will the Academy strip Will Smith’s Oscar by April 30?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239192",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-01T10:56:19.164000Z",
+  "market_createdAt": "2021-11-01T10:56:19.164Z",
+  "market_updatedAt": "2024-04-23T00:38:08.873728Z",
+  "market_startDate": "2021-11-01T18:00:02.211Z",
+  "market_endDate": "2021-11-01T00:00:00Z",
+  "market_closedTime": "2021-11-02 13:39:06+00",
+  "conditionId": "0xb8033a0439ad51513b41b4b6e14140535d38f572803e25e6526746b38677dc04",
+  "slug": "nba-will-the-celtics-beat-the-bulls-by-more-than-2pt5-points-in-their-november-1st-matchup",
+  "question": "NBA: Will the Celtics beat the Bulls by more than 2.5 points in their November 1st matchup?"
+}

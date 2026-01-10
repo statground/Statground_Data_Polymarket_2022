@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242017",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-11T13:31:36.959000Z",
+  "market_createdAt": "2022-03-11T13:31:36.959Z",
+  "market_updatedAt": "2024-04-22T23:00:14.308525Z",
+  "market_startDate": "2022-03-11T20:34:16.099Z",
+  "market_endDate": "2022-03-11T00:00:00Z",
+  "market_closedTime": "2022-03-12 13:45:32+00",
+  "conditionId": "0x2ca375a7ad71497d5b3172e7b70dda0d6db0e25088fa386b48f72d05c5552415",
+  "slug": "nhl-will-the-penguins-beat-the-golden-knights-by-more-than-1pt5-goals-in-their-march-11-matchup-7-pm-et",
+  "question": "NHL: Will the Penguins beat the Golden Knights by more than 1.5 goals in their March 11 matchup (7 PM ET)?"
+}

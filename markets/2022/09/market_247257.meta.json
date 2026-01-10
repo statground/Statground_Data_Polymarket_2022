@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247257",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-12T21:04:03.103000Z",
+  "market_createdAt": "2022-09-12T21:04:03.103Z",
+  "market_updatedAt": "2023-01-31T20:14:17.036Z",
+  "market_startDate": "2022-09-13T15:52:30.827Z",
+  "market_endDate": "2022-09-14T00:00:00Z",
+  "market_closedTime": "2022-09-15 01:45:59+00",
+  "conditionId": "0x1725eaeb1d8fab2164754628e7d9bd2c4a70ed0e7ee6a0a495b3f3e0013f677c",
+  "slug": "champions-league-who-will-win-the-juventus-vs-benfica-game-on-september-14",
+  "question": "Champions League: Who will win the Juventus vs. Benfica game on September 14?"
+}

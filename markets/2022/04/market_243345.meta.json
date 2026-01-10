@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243345",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-16T09:00:03.495000Z",
+  "market_createdAt": "2022-04-16T09:00:03.495Z",
+  "market_updatedAt": "2023-01-31T19:56:14.429Z",
+  "market_startDate": "2022-04-16T15:21:07.521Z",
+  "market_endDate": "2022-04-16T00:00:00Z",
+  "market_closedTime": "2022-04-17 07:32:14+00",
+  "conditionId": "0xf51a27ed935eb37e0a48fe203c0027bc7a2a5469c8f84f2bab456cf65ec63618",
+  "slug": "nba-who-will-win-warriors-vs-nuggets-scheduled-for-april-16-830-pm-et",
+  "question": "NBA: Who will win Warriors vs. Nuggets, scheduled for April 16, 8:30 PM ET?"
+}

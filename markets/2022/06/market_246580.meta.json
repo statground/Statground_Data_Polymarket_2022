@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246580",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-22T18:16:15.463000Z",
+  "market_createdAt": "2022-06-22T18:16:15.463Z",
+  "market_updatedAt": "2023-01-31T21:06:36.794Z",
+  "market_startDate": "2022-06-22T20:00:16.701Z",
+  "market_endDate": "2022-06-23T00:00:00Z",
+  "market_closedTime": "2022-06-24 03:15:43+00",
+  "conditionId": "0xf8521df0429e02e59c9a06f57ddf66de8ac72ac966f53158765090a1066c5f2a",
+  "slug": "2022-nba-draft-will-jabari-smith-jr-be-the-1-pick",
+  "question": "2022 NBA Draft: Will Jabari Smith Jr. be the #1 Pick?"
+}

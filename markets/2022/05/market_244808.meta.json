@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244808",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-13T19:55:36.788000Z",
+  "market_createdAt": "2022-05-13T19:55:36.788Z",
+  "market_updatedAt": "2023-01-31T19:34:09.716Z",
+  "market_startDate": "2022-05-13T20:49:05.703Z",
+  "market_endDate": "2022-05-22T00:00:00Z",
+  "market_closedTime": "2022-05-16 18:01:42+00",
+  "conditionId": "0x7791ef657164b315b8d846f665a3ac3dadd2953c72fe57f6d708ab9566cbec31",
+  "slug": "age-of-empires-iv-will-theviper-make-the-golden-league-final-bracket",
+  "question": "Age of Empires IV: Will TheViper make the Golden League Final Bracket?"
+}

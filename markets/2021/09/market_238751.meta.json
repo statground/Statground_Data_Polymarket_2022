@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238751",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-14T17:20:01.344000Z",
+  "market_createdAt": "2021-09-14T17:20:01.344Z",
+  "market_updatedAt": "2024-04-23T00:34:27.890429Z",
+  "market_startDate": "2021-09-14T18:14:22.653Z",
+  "market_endDate": "2021-09-18T00:00:00Z",
+  "market_closedTime": "2021-09-20 02:45:24+00",
+  "conditionId": "0x85eef842454c6ecc29f8216de0ae4e5b940096b72d5803bdafd62ed93e05d3a3",
+  "slug": "will-richard-rapport-win-the-2021-norway-chess-tournament",
+  "question": "Will Richard Rapport win the 2021 Norway Chess tournament?"
+}

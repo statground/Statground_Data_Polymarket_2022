@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246586",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-23T19:26:33.756000Z",
+  "market_createdAt": "2022-06-23T19:26:33.756Z",
+  "market_updatedAt": "2023-01-31T20:58:54.456Z",
+  "market_startDate": "2022-06-24T02:01:05.809Z",
+  "market_endDate": "2022-06-27T00:00:00Z",
+  "market_closedTime": "2022-06-28 05:18:18+00",
+  "conditionId": "0xe2f13339ef709e18fcf8173886164cede45d805f20d95165484569e5d83dab8c",
+  "slug": "will-elvis-gross-more-than-38-million-domestically-on-its-opening-weekend",
+  "question": "Will ‘Elvis’ gross more than $38 million domestically on its opening weekend?"
+}

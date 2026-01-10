@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239060",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-20T19:52:02.011000Z",
+  "market_createdAt": "2021-10-20T19:52:02.011Z",
+  "market_updatedAt": "2024-04-24T23:39:02.87742Z",
+  "market_startDate": "2021-10-24T04:22:26.734Z",
+  "market_endDate": "2021-10-25T00:00:00Z",
+  "market_closedTime": "2021-10-26 08:46:30+00",
+  "conditionId": "0xfde306528abbe3ae285239d50969a8f74747afd22e7270a58bd0a2da12c943ed",
+  "slug": "will-the-saints-beat-the-seahawks-by-more-than-5pt5-points-in-their-october-25th-matchup",
+  "question": "Will the Saints beat the Seahawks by more than 5.5 points in their October 25th matchup?"
+}

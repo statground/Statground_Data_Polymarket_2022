@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244028",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-03T08:04:52.712000Z",
+  "market_createdAt": "2022-05-03T08:04:52.712Z",
+  "market_updatedAt": "2023-01-31T21:16:38.633Z",
+  "market_startDate": "2022-05-03T16:58:14.754Z",
+  "market_endDate": "2022-05-03T00:00:00Z",
+  "market_closedTime": "2022-05-04 06:47:06+00",
+  "conditionId": "0x970ebe1a225da3f9ab12ba9d79182f497534cc0fe6ef11900e49c723e942f8c7",
+  "slug": "nhl-will-the-avalanche-beat-the-predators-by-more-than-1pt5-goals-in-their-may-3-930-pm-et-matchup",
+  "question": "NHL: Will the Avalanche beat the Predators by more than 1.5 goals in their May 3, 9:30 PM ET matchup?"
+}

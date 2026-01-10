@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243632",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-24T07:20:15.210000Z",
+  "market_createdAt": "2022-04-24T07:20:15.21Z",
+  "market_updatedAt": "2023-01-31T19:32:22.862Z",
+  "market_startDate": "2022-04-24T15:28:55.644Z",
+  "market_endDate": "2022-04-24T00:00:00Z",
+  "market_closedTime": "2022-04-25 16:22:51+00",
+  "conditionId": "0xa52e862a1924cec022eb64cae0b4b59fc1ddc6a2e6b1c508caf91d9d9e1378b1",
+  "slug": "nhl-will-the-capitals-beat-the-leafs-by-more-than-1pt5-goals-in-their-april-24-700-pm-et-matchup",
+  "question": "NHL: Will the Capitals beat the Leafs by more than 1.5 goals in their April 24, 7:00 PM ET matchup?"
+}

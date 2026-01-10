@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246971",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-10T22:29:57.215000Z",
+  "market_createdAt": "2022-08-10T22:29:57.215Z",
+  "market_updatedAt": "2023-01-31T21:16:38.633Z",
+  "market_startDate": "2022-08-10T22:59:56.957Z",
+  "market_endDate": "2022-08-20T00:00:00Z",
+  "market_closedTime": "2022-08-21 08:16:33+00",
+  "conditionId": "0x829e4d801d9c9046d85a8775fd93d76e0fdd7f089a797d428fb6db95077fa89a",
+  "slug": "ufc-278-will-usman-kotko-edwards",
+  "question": "UFC 278: Will Usman KO/TKO Edwards?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247312",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-20T19:56:26.625000Z",
+  "market_createdAt": "2022-09-20T19:56:26.625Z",
+  "market_updatedAt": "2023-04-10T23:55:41.551Z",
+  "market_startDate": null,
+  "market_endDate": "2023-04-09T00:00:00Z",
+  "market_closedTime": "2023-04-10 00:45:17+00",
+  "conditionId": "0x69d110a0dffd6cbb27a13394b4c213ff2559e6cd2b3e40f7618bd233afbab5d3",
+  "slug": "will-miles-bridges-play-an-nba-game-in-the-2022-23-regular-season",
+  "question": "Will Miles Bridges play an NBA game in the 2022-23 regular season?"
+}

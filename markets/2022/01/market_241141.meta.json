@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241141",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-28T12:24:01.479000Z",
+  "market_createdAt": "2022-01-28T12:24:01.479Z",
+  "market_updatedAt": "2024-04-22T22:42:58.906211Z",
+  "market_startDate": "2022-01-28T20:32:30.248Z",
+  "market_endDate": "2022-01-28T00:00:00Z",
+  "market_closedTime": "2022-01-30 01:31:08+00",
+  "conditionId": "0x8cd0d3a0c4978eca8699996e659c8410d267827fe9a36a3709dbe1265f4a87ab",
+  "slug": "nba-will-the-hornets-beat-the-lakers-by-more-than-6p5-points-in-their-january-28-730-pm-et-matchup",
+  "question": "NBA: Will the Hornets beat the Lakers by more than 6.5 points in their January 28 (7.30 PM ET) matchup?"
+}

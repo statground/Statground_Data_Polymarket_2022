@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242295",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-19T09:15:31.111000Z",
+  "market_createdAt": "2022-03-19T09:15:31.111Z",
+  "market_updatedAt": "2023-01-31T18:46:09.011Z",
+  "market_startDate": "2022-03-19T18:43:25.382Z",
+  "market_endDate": "2022-03-19T00:00:00Z",
+  "market_closedTime": "2022-03-20 22:22:31+00",
+  "conditionId": "0xd4fe503057b124eac324bce2311eb38d72a98d819aa55f10929482a1e0670fc5",
+  "slug": "ncaab-will-the-gonzaga-bulldogs-beat-the-memphis-tigers-by-more-than-10pt5-points-in-their-march-19-940-pm-et-matchup",
+  "question": "NCAAB: Will the Gonzaga Bulldogs beat the Memphis Tigers by more than 10.5 points in their March 19, 9:40 PM ET matchup?"
+}

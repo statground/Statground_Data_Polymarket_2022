@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241108",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-27T12:34:05.969000Z",
+  "market_createdAt": "2022-01-27T12:34:05.969Z",
+  "market_updatedAt": "2024-04-23T00:56:46.18656Z",
+  "market_startDate": "2022-01-27T21:18:12.877Z",
+  "market_endDate": "2022-01-27T00:00:00Z",
+  "market_closedTime": "2022-01-30 19:24:20+00",
+  "conditionId": "0x01ee8383772b7a65deba8d96e97abb5fa4e14a229b208dce44acc1771e252ace",
+  "slug": "nba-will-the-76ers-beat-the-lakers-by-more-than-2p5-points-in-their-january-27-730-pm-et-matchup",
+  "question": "NBA: Will the 76ers beat the Lakers by more than 2.5 points in their January 27 (7.30 PM ET) matchup?"
+}

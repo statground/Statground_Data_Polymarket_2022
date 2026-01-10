@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "232941",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-11T20:28:01.439000Z",
+  "market_createdAt": "2021-08-11T20:28:01.439Z",
+  "market_updatedAt": "2023-01-31T21:16:51.165Z",
+  "market_startDate": "2021-08-11T21:05:03.698Z",
+  "market_endDate": "2021-09-01T00:00:00Z",
+  "market_closedTime": "2021-09-01 19:09:44+00",
+  "conditionId": "0x8c260aff6bc8686a962f9742970e181d042893d20a0832021da989a856dc9cd8",
+  "slug": "will-vitalik-buterin-have-a-cryptopunk-twitter-profile-picture-before-september-1-2021",
+  "question": "Will Vitalik Buterin have a CryptoPunk Twitter profile picture before September 1, 2021?"
+}

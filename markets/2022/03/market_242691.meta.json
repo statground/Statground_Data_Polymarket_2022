@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242691",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-31T22:22:50.352000Z",
+  "market_createdAt": "2022-03-31T22:22:50.352Z",
+  "market_updatedAt": "2024-04-24T23:16:04.874283Z",
+  "market_startDate": "2022-03-31T23:21:16.184Z",
+  "market_endDate": "2022-04-19T00:00:00Z",
+  "market_closedTime": "2022-04-20 07:33:02+00",
+  "conditionId": "0x6426417e5b4e6b98aaf2c8f5ee99ed8977ebab11885ba82ca655d0b141753c89",
+  "slug": "will-fantastic-beasts-the-secrets-of-dumbledore-get-a-80-or-higher-tomatometer-score",
+  "question": "Will 'Fantastic Beasts: The Secrets of Dumbledore' get a 80% or higher Tomatometer Score?"
+}

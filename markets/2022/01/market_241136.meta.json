@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241136",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-28T12:05:40.483000Z",
+  "market_createdAt": "2022-01-28T12:05:40.483Z",
+  "market_updatedAt": "2024-04-24T23:15:13.849039Z",
+  "market_startDate": "2022-01-28T16:59:01.334Z",
+  "market_endDate": "2022-01-28T00:00:00Z",
+  "market_closedTime": "2022-01-30 19:41:10+00",
+  "conditionId": "0x02939bc08092b7423e32e6f0e561ba3bfed31259281158ec7e8271bcf4a92065",
+  "slug": "nba-who-will-win-the-trail-blazers-vs-rockets-scheduled-for-january-28-8-pm-et",
+  "question": "NBA: Who will win the Trail Blazers vs. Rockets, scheduled for January 28 (8 PM ET)?"
+}

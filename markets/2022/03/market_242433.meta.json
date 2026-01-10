@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242433",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-24T17:26:04.353000Z",
+  "market_createdAt": "2022-03-24T17:26:04.353Z",
+  "market_updatedAt": "2023-01-31T15:14:39.035Z",
+  "market_startDate": "2022-03-24T18:45:53.183Z",
+  "market_endDate": "2022-04-30T00:00:00Z",
+  "market_closedTime": "2022-04-23 07:15:38+00",
+  "conditionId": "0x3991e8381e4e68c925fe21cc3f2bd569ea048336a45774252028084ddb4a840f",
+  "slug": "will-there-be-more-than-5-million-ukrainian-refugees-by-april-30-2022",
+  "question": "Will there be more than 5 million Ukrainian refugees by April 30, 2022?"
+}

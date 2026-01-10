@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247248",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-12T19:09:52.312000Z",
+  "market_createdAt": "2022-09-12T19:09:52.312Z",
+  "market_updatedAt": "2023-01-31T21:06:35.237Z",
+  "market_startDate": "2022-09-13T15:57:59.715Z",
+  "market_endDate": "2022-09-15T00:00:00Z",
+  "market_closedTime": "2022-09-16 06:30:43+00",
+  "conditionId": "0xcf1acb128f3597025abd5bdb3524d6cdd030b1fec45280a21894210256c4ed4c",
+  "slug": "mlb-who-will-win-cincinnati-reds-v-st-louis-cardinals-scheduled-for-september-15-745-pm-et",
+  "question": "MLB: Who will win Cincinnati Reds v. St. Louis Cardinals, scheduled for September 15, 7:45 PM ET?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248285",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-22T17:27:01.575000Z",
+  "market_createdAt": "2022-12-22T17:27:01.575Z",
+  "market_updatedAt": "2023-02-10T01:03:41.282Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-24T00:00:00Z",
+  "market_closedTime": "2022-12-25 06:15:25+00",
+  "conditionId": "0x9601905222bfb48b61b505a251d645faf017a312ebc7ade4b447c3632b682910",
+  "slug": "nfl-saturday-raiders-vs-steelers",
+  "question": "NFL Saturday: Raiders vs. Steelers"
+}

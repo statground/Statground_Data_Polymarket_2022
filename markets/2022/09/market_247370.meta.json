@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247370",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-27T14:59:25.433000Z",
+  "market_createdAt": "2022-09-27T14:59:25.433Z",
+  "market_updatedAt": "2023-01-31T18:44:43.396Z",
+  "market_startDate": null,
+  "market_endDate": "2022-09-29T00:00:00Z",
+  "market_closedTime": "2022-09-30 06:45:44+00",
+  "conditionId": "0x64d2cd1a158c04d62a4aa0f774538d1961aade5b71e1c6d07307022eab970b1f",
+  "slug": "nfl-thursday-dolphins-vs-bengals",
+  "question": "NFL Thursday: Dolphins vs. Bengals"
+}

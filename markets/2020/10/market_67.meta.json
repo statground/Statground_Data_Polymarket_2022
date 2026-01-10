@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "67",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-10-28T20:20:03.681000Z",
+  "market_createdAt": "2020-10-28T20:20:03.681Z",
+  "market_updatedAt": "2024-04-22T23:24:05.935857Z",
+  "market_startDate": null,
+  "market_endDate": "2022-01-26",
+  "market_closedTime": "2020-11-24 21:09:49+00",
+  "conditionId": "0x080a58fb24fbea95a744adb41c1eb2d321be81cd571d17185ecbe0eda19cf21a",
+  "slug": "which-party-will-win-pennsylvania-in-the-2020-presidential-election",
+  "question": "Which party will win Pennsylvania in the 2020 presidential election?"
+}

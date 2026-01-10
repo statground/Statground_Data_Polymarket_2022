@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247353",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-23T17:27:45.628000Z",
+  "market_createdAt": "2022-09-23T17:27:45.628Z",
+  "market_updatedAt": "2023-12-13T18:21:17.48Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-01T00:00:00Z",
+  "market_closedTime": "2022-11-02 06:45:38+00",
+  "conditionId": "0x1ad33a82162442c728e0838bafc13d7d9fa144c51ff44c7a87c16b9cb885c318",
+  "slug": "will-ethereum-eth-dip-below-1000-by-nov-1",
+  "question": "Will $ETH dip below $1000 by Nov 1?"
+}

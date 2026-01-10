@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242688",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-31T21:15:48.642000Z",
+  "market_createdAt": "2022-03-31T21:15:48.642Z",
+  "market_updatedAt": "2023-01-31T19:43:56.675Z",
+  "market_startDate": "2022-03-31T23:22:16.465Z",
+  "market_endDate": "2022-06-02T00:00:00Z",
+  "market_closedTime": "2022-06-07 01:45:34+00",
+  "conditionId": "0xd84fb74bfd64873d707c80e9153769e7d74d6ea1989c332aa9813eb691f4d8e7",
+  "slug": "will-the-progressive-conservative-party-win-a-majority-in-the-2022-ontario-general-election",
+  "question": "Will the Progressive Conservative Party win a majority in the 2022 Ontario General Election?"
+}

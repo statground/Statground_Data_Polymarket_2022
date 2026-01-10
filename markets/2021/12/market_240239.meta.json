@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240239",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-29T13:33:31.455000Z",
+  "market_createdAt": "2021-12-29T13:33:31.455Z",
+  "market_updatedAt": "2024-04-23T00:51:45.070487Z",
+  "market_startDate": "2021-12-29T16:46:59.753Z",
+  "market_endDate": "2021-12-29T00:00:00Z",
+  "market_closedTime": "2021-12-30 22:13:43+00",
+  "conditionId": "0x2b51fd266be04dbd3e64bc504a735d2bece5502412fa736d367c391826b7c9fc",
+  "slug": "nba-will-the-pacers-beat-the-hornets-by-more-than-2pt5-points-in-their-december-29-matchup",
+  "question": "NBA: Will the Pacers beat the Hornets by more than 2.5 points in their December 29 matchup?"
+}

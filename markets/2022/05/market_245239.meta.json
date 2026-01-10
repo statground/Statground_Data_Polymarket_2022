@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "245239",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-23T08:02:38.436000Z",
+  "market_createdAt": "2022-05-23T08:02:38.436Z",
+  "market_updatedAt": "2023-01-31T17:54:08.74Z",
+  "market_startDate": "2022-05-23T14:46:36.511Z",
+  "market_endDate": "2022-05-23T00:00:00Z",
+  "market_closedTime": "2022-05-24 07:45:34+00",
+  "conditionId": "0xc175603d30497766dc2f1f257ac3f3b2f9d2f3d91da1a253d9e063cbd3868bf1",
+  "slug": "nhl-who-will-win-avalanche-vs-blues-scheduled-for-may-23-930-pm-et",
+  "question": "NHL: Who will win Avalanche vs. Blues, scheduled for May 23, 9:30 PM ET?"
+}

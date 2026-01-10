@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244946",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-18T06:43:46.208000Z",
+  "market_createdAt": "2022-05-18T06:43:46.208Z",
+  "market_updatedAt": "2023-01-31T15:54:29.739Z",
+  "market_startDate": "2022-05-18T15:58:16.853Z",
+  "market_endDate": "2022-05-18T00:00:00Z",
+  "market_closedTime": "2022-05-19 07:30:53+00",
+  "conditionId": "0x32817f85ea1b9732f7c918ecafd0ebfb2d86165b93a36cd8a7c692c7e6f8e0b0",
+  "slug": "nba-who-will-win-warriors-vs-mavericks-scheduled-for-may-18-900-pm-et",
+  "question": "NBA: Who will win Warriors vs. Mavericks, scheduled for May 18, 9:00 PM ET?"
+}

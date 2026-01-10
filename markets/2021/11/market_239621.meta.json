@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239621",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-26T09:42:18.459000Z",
+  "market_createdAt": "2021-11-26T09:42:18.459Z",
+  "market_updatedAt": "2024-04-25T00:09:43.890359Z",
+  "market_startDate": "2021-11-26T19:22:29.996Z",
+  "market_endDate": "2021-11-26T00:00:00Z",
+  "market_closedTime": "2021-11-27 20:55:08+00",
+  "conditionId": "0x8c08110c2f744e628a4121224e1d8412eccb4c3a92644bded60d946959bddc47",
+  "slug": "nba-will-the-bucks-beat-the-nuggets-by-more-than-3pt5-points-in-their-november-26th-matchup",
+  "question": "NBA: Will the Bucks beat the Nuggets by more than 3.5 points in their November 26th matchup?"
+}

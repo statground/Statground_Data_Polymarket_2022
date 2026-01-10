@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239851",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-06T15:25:49.310000Z",
+  "market_createdAt": "2021-12-06T15:25:49.31Z",
+  "market_updatedAt": "2024-04-22T23:32:22.496423Z",
+  "market_startDate": "2021-12-06T17:44:46.824Z",
+  "market_endDate": "2021-12-06T00:00:00Z",
+  "market_closedTime": "2021-12-07 18:22:31+00",
+  "conditionId": "0x8a3837a0980d88b307d7a33ec548ecf0adc1425c3210fc5bc7af4815d3ac3d75",
+  "slug": "nba-will-the-bucks-beat-the-cavaliers-by-more-than-6pt5-points-in-their-december-6-matchup",
+  "question": "NBA: Will the Bucks beat the Cavaliers by more than 6.5 points in their December 6 matchup?"
+}

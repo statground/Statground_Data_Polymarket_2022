@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241789",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-01T01:01:35.508000Z",
+  "market_createdAt": "2022-03-01T01:01:35.508Z",
+  "market_updatedAt": "2024-04-23T00:48:43.050548Z",
+  "market_startDate": "2022-03-01T01:26:49.196Z",
+  "market_endDate": "2022-03-10T00:00:00Z",
+  "market_closedTime": "2022-03-03 19:00:39+00",
+  "conditionId": "0xdfeac31fe245cf0b177d5210c30dbb52d5b74962368f48259b1b3499c27cf58d",
+  "slug": "will-the-ukrainian-government-receive-more-than-25m-in-crypto-donations-by-march-10",
+  "question": "Will the Ukrainian Government receive more than $25M in Crypto donations by March 10?"
+}

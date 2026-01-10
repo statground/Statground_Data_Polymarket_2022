@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241384",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-09T09:35:54.752000Z",
+  "market_createdAt": "2022-02-09T09:35:54.752Z",
+  "market_updatedAt": "2024-04-23T00:40:56.486355Z",
+  "market_startDate": "2022-02-09T17:27:08.313Z",
+  "market_endDate": "2022-02-09T00:00:00Z",
+  "market_closedTime": "2022-02-10 19:29:36+00",
+  "conditionId": "0x7328deeac3e33dc459537c3f7a9d475e41b253d98693d4f9d91ef523b04869fd",
+  "slug": "nba-will-the-cavaliers-beat-the-spurs-by-more-than-6p5-points-in-their-february-9-7-pm-et-matchup",
+  "question": "NBA: Will the Cavaliers beat the Spurs by more than 6.5 points in their February 9 (7 PM ET) matchup?"
+}

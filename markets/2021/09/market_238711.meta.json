@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238711",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-07T18:50:01.557000Z",
+  "market_createdAt": "2021-09-07T18:50:01.557Z",
+  "market_updatedAt": "2023-01-31T11:02:35.402Z",
+  "market_startDate": "2021-09-08T17:49:14.077Z",
+  "market_endDate": "2021-10-31T00:00:00Z",
+  "market_closedTime": "2021-10-14 16:53:01+00",
+  "conditionId": "0x0e7347e8b07ac2326bcf2716a7104b4df401cf5c009854466ebff5f179b99076",
+  "slug": "will-september-2021-average-global-temperature-be-the-highest-september-temperature-on-record",
+  "question": "Will September 2021 average global temperature be the highest September temperature on record?"
+}

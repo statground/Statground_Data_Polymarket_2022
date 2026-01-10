@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241494",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-15T08:12:19.356000Z",
+  "market_createdAt": "2022-02-15T08:12:19.356Z",
+  "market_updatedAt": "2024-04-23T00:26:58.820084Z",
+  "market_startDate": "2022-02-15T17:32:32.432Z",
+  "market_endDate": "2022-02-15T00:00:00Z",
+  "market_closedTime": "2022-02-16 20:12:01+00",
+  "conditionId": "0x091bad08fb35c888096d3d158eb97a941cee462c4593dfb6dc4fc636e0816eff",
+  "slug": "nba-who-will-win-the-cavaliers-vs-hawks-scheduled-for-february-15-730-pm-et",
+  "question": "NBA: Who will win the Cavaliers vs. Hawks, scheduled for February 15 (7.30 PM ET)?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240358",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T01:20:52.661000Z",
+  "market_createdAt": "2022-01-11T01:20:52.661Z",
+  "market_updatedAt": "2024-04-22T23:39:32.270484Z",
+  "market_startDate": "2022-01-12T21:06:52.448Z",
+  "market_endDate": "2022-05-22T00:00:00Z",
+  "market_closedTime": "2022-05-22 19:46:09+00",
+  "conditionId": "0xe4379668f9589c5f19077c31c0db5bca1e60220b590a5186093f7d70e16c84ac",
+  "slug": "will-manchester-city-win-the-2021-22-english-premier-league",
+  "question": "Will Manchester City win the 2021-22 English Premier League?"
+}

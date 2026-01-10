@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242019",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-11T15:11:15.011000Z",
+  "market_createdAt": "2022-03-11T15:11:15.011Z",
+  "market_updatedAt": "2024-04-22T23:24:27.166179Z",
+  "market_startDate": null,
+  "market_endDate": "2022-03-11T00:00:00Z",
+  "market_closedTime": "2022-03-12 13:15:30+00",
+  "conditionId": "0x23a17c8b2d4bb72adafd969b0a700b161b2b52126579709bd78447fd4aea96f6",
+  "slug": "nhl-will-the-canucks-beat-the-capitals-by-more-than-1pt5-goals-in-their-march-11-matchup-10-pm-et",
+  "question": "NHL: Will the Canucks beat the Capitals by more than 1.5 goals in their March 11 matchup (10 PM ET)?"
+}

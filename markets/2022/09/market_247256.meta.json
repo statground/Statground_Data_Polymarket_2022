@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247256",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-12T20:59:49.358000Z",
+  "market_createdAt": "2022-09-12T20:59:49.358Z",
+  "market_updatedAt": "2023-01-31T13:53:28.224Z",
+  "market_startDate": "2022-09-13T15:51:15.762Z",
+  "market_endDate": "2022-09-13T00:00:00Z",
+  "market_closedTime": "2022-09-14 01:31:18+00",
+  "conditionId": "0xf23353f0618555865ee481edd62af03e68224c6464bbf76747153614561039d7",
+  "slug": "champions-league-who-will-win-the-liverpool-vs-ajax-game-on-september-13",
+  "question": "Champions League: Who will win the Liverpool vs. Ajax game on September 13?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239443",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-15T11:21:09.494000Z",
+  "market_createdAt": "2021-11-15T11:21:09.494Z",
+  "market_updatedAt": "2024-04-22T23:54:52.872453Z",
+  "market_startDate": "2021-11-15T18:30:32.349Z",
+  "market_endDate": "2021-11-15T00:00:00Z",
+  "market_closedTime": "2021-11-17 00:39:33+00",
+  "conditionId": "0x2bbcb5f322b5590a19033e18296175d1c625232fb0d3eb9c909889f4245c1add",
+  "slug": "nfl-will-the-rams-beat-the-49ers-by-more-than-3pt5-points-in-their-november-15th-matchup",
+  "question": "NFL: Will the Rams beat the 49ers by more than 3.5 points in their November 15th matchup?"
+}

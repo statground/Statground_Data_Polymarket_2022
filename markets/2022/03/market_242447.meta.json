@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242447",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-24T18:43:28.183000Z",
+  "market_createdAt": "2022-03-24T18:43:28.183Z",
+  "market_updatedAt": "2024-04-23T00:33:46.352005Z",
+  "market_startDate": "2022-03-25T02:01:23.843Z",
+  "market_endDate": "2022-03-28T00:00:00Z",
+  "market_closedTime": "2022-03-28 10:13:35+00",
+  "conditionId": "0x7863e144a61f373d40d9c76469608409a132bceb016eb3d452462ee20e157918",
+  "slug": "formula-1-who-will-finish-ahead-at-the-saudi-arabia-grand-prix-max-verstappen-or-charles-leclerc",
+  "question": "Formula 1: Who will finish ahead at the Saudi Arabia Grand Prix: Max Verstappen or Charles Leclerc?"
+}

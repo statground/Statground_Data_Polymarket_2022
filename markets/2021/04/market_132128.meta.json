@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "132128",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-16T16:50:02.336000Z",
+  "market_createdAt": "2021-04-16T16:50:02.336Z",
+  "market_updatedAt": "2024-04-22T22:45:20.461346Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-15T00:00:00Z",
+  "market_closedTime": "2021-04-22 01:16:38+00",
+  "conditionId": "0x5a0401edeed6c041da6ed669d44967384daf177a3b4b5ca87c27ec980e928280",
+  "slug": "will-vice-president-harris-cast-a-tie-breaking-vote-by-may-15-2021-1",
+  "question": "Will Vice President Harris cast a tie-breaking vote by May 15, 2021?"
+}

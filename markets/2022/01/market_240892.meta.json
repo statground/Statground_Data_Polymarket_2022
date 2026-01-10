@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240892",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-20T16:34:33.139000Z",
+  "market_createdAt": "2022-01-20T16:34:33.139Z",
+  "market_updatedAt": "2024-04-24T23:36:11.340481Z",
+  "market_startDate": "2022-01-20T20:23:29.405Z",
+  "market_endDate": "2022-01-20T00:00:00Z",
+  "market_closedTime": "2022-01-24 21:54:58+00",
+  "conditionId": "0x0b4841116bc98b2768f0a5e0ee42dc1f0354136521a3fefb8000cd7e1c79e551",
+  "slug": "nhl-will-the-panthers-beat-the-oilers-by-more-than-1p5-goals-in-their-january-20-matchup",
+  "question": "NHL: Will the Panthers beat the Oilers by more than 1.5 goals in their January 20 matchup?"
+}

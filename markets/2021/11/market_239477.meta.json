@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239477",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-17T13:51:01.812000Z",
+  "market_createdAt": "2021-11-17T13:51:01.812Z",
+  "market_updatedAt": "2024-04-23T00:48:06.814772Z",
+  "market_startDate": "2021-11-17T19:23:34.108Z",
+  "market_endDate": "2021-11-17T00:00:00Z",
+  "market_closedTime": "2021-11-19 01:59:31+00",
+  "conditionId": "0xa983de7cae55e78c64348de4da966071e903a11507eb23144a0b27fc0aecb573",
+  "slug": "nba-will-the-knicks-beat-the-magic-by-more-than-11pt5-points-in-their-november-17th-matchup",
+  "question": "NBA: Will the Knicks beat the Magic by more than 11.5 points in their November 17th matchup?"
+}

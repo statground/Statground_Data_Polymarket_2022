@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240187",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-27T10:45:16.719000Z",
+  "market_createdAt": "2021-12-27T10:45:16.719Z",
+  "market_updatedAt": "2024-04-24T23:31:05.516676Z",
+  "market_startDate": "2021-12-27T19:04:49.22Z",
+  "market_endDate": "2021-12-27T00:00:00Z",
+  "market_closedTime": "2021-12-28 19:48:25+00",
+  "conditionId": "0x002cee569017e515dff96ad105bfe5569a4077d460c8c1fa5eab5be49932bcbb",
+  "slug": "nba-will-the-hornets-beat-the-rockets-by-more-than-6pt5-points-in-their-december-27-matchup",
+  "question": "NBA: Will the Hornets beat the Rockets by more than 6.5 points in their December 27 matchup?"
+}

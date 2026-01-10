@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241680",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-24T13:10:46.082000Z",
+  "market_createdAt": "2022-02-24T13:10:46.082Z",
+  "market_updatedAt": "2024-04-23T00:57:41.096269Z",
+  "market_startDate": "2022-02-24T14:29:44.709Z",
+  "market_endDate": "2022-02-24T00:00:00Z",
+  "market_closedTime": "2022-02-25 18:01:55+00",
+  "conditionId": "0xe920e837a87b7b0fc8c919ceee92bf0e6cabce5e407bcd17c438f2eaa330df28",
+  "slug": "nba-who-will-win-the-grizzlies-vs-timberwolves-scheduled-for-february-24-8pm-et",
+  "question": "NBA: Who will win the Grizzlies vs. Timberwolves, scheduled for February 24 (8PM ET)?"
+}

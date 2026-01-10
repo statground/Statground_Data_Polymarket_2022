@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240344",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T00:53:39.349000Z",
+  "market_createdAt": "2022-01-11T00:53:39.349Z",
+  "market_updatedAt": "2024-04-22T23:23:39.746329Z",
+  "market_startDate": "2022-01-12T20:46:17.58Z",
+  "market_endDate": "2022-02-13T00:00:00Z",
+  "market_closedTime": "2022-01-25 19:47:37+00",
+  "conditionId": "0x8c26fa116df5d019efeb2b0f2c9514393c4ac162d36e6e3f484b6266bff48bdb",
+  "slug": "will-the-tampa-bay-buccaneers-win-the-21-22-superbowl",
+  "question": "Will the Tampa Bay Buccaneers win the ‘21-’22 Superbowl?"
+}

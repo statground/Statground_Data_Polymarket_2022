@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244676",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-12T15:48:56.978000Z",
+  "market_createdAt": "2022-05-12T15:48:56.978Z",
+  "market_updatedAt": "2023-01-31T19:35:09.503Z",
+  "market_startDate": "2022-05-12T20:43:29.906Z",
+  "market_endDate": "2022-05-26T00:00:00Z",
+  "market_closedTime": "2022-05-27 08:09:17+00",
+  "conditionId": "0xdf5a748be2aafc9e06d6437692cbd5d3b9ca4d2188770b58cee90e5d00d6e672",
+  "slug": "will-the-price-of-a-barrel-of-crude-oil-be-105-or-more-on-may-26-2022",
+  "question": "Will the price of a barrel of crude oil be $105 or more on May 26, 2022?"
+}

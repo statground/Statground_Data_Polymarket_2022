@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239653",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-28T16:34:48.431000Z",
+  "market_createdAt": "2021-11-28T16:34:48.431Z",
+  "market_updatedAt": "2024-04-26T02:49:43.864228Z",
+  "market_startDate": "2021-11-28T16:51:57.38Z",
+  "market_endDate": "2021-11-28T00:00:00Z",
+  "market_closedTime": "2021-11-29 14:01:00+00",
+  "conditionId": "0xecaf117970d05c59977ef10126aca34b92cbdf099b9e5ac009043f2e8ff914e6",
+  "slug": "nfl-will-the-sum-of-points-in-chargers-v-broncos-be-an-even-or-an-odd-number",
+  "question": "NFL: Will the sum of points in Chargers v Broncos be an even or an odd number?"
+}

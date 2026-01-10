@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246932",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-08T16:58:44.525000Z",
+  "market_createdAt": "2022-08-08T16:58:44.525Z",
+  "market_updatedAt": "2023-02-01T04:12:28.676Z",
+  "market_startDate": "2022-08-10T17:01:45.716Z",
+  "market_endDate": "2022-08-09T00:00:00Z",
+  "market_closedTime": "2022-08-10 13:37:02+00",
+  "conditionId": "0x177cda40ffe00e6d89c1af8c2cc280581361a4350ac8766d16eaebf8c02167ad",
+  "slug": "mlb-who-will-win-atlanta-braves-v-boston-red-sox-scheduled-for-august-9-710-pm-et",
+  "question": "MLB: Who will win Atlanta Braves v. Boston Red Sox, scheduled for August 9, 7:10 PM ET?"
+}

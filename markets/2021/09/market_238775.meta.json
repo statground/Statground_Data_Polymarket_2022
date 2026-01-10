@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238775",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-15T19:04:03.861000Z",
+  "market_createdAt": "2021-09-15T19:04:03.861Z",
+  "market_updatedAt": "2023-01-31T03:42:55.478Z",
+  "market_startDate": "2021-09-17T04:52:59.898Z",
+  "market_endDate": "2021-09-19T00:00:00Z",
+  "market_closedTime": "2021-09-20 02:52:14+00",
+  "conditionId": "0x738effbdfff768b39451e0b240dc3b440eb012b980437dc316c77a28b9cdb1e0",
+  "slug": "49ers-35-v-eagles-spread",
+  "question": "49ers (-3.5) v. Eagles Spread"
+}

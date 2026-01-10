@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "57340",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-01-25T18:10:03.561000Z",
+  "market_createdAt": "2021-01-25T18:10:03.561Z",
+  "market_updatedAt": "2023-01-31T21:24:42.051Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-01T00:00:00Z",
+  "market_closedTime": "2021-02-01 22:05:59+00",
+  "conditionId": "0xf73eed12df505d39083594f9681d40f26956d480054fa812f2915e21f0f3b809",
+  "slug": "how-many-more-tweets-will-be-on-the-donald-j-trump-jr-account-by-february-1-2021",
+  "question": "How many more tweets will be on the @DonaldJTrumpJr account by February 1, 2021?"
+}

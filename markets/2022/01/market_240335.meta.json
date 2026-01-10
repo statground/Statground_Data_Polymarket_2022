@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240335",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T00:37:58.495000Z",
+  "market_createdAt": "2022-01-11T00:37:58.495Z",
+  "market_updatedAt": "2024-04-24T23:57:32.949214Z",
+  "market_startDate": "2022-01-12T20:42:17.12Z",
+  "market_endDate": "2022-06-19T00:00:00Z",
+  "market_closedTime": "2022-05-16 18:00:50+00",
+  "conditionId": "0x8018f36b23d9f1646801b0a81d3f2cddf76bb253663154adc945de03b4f044a1",
+  "slug": "will-the-milwaukee-bucks-win-the-nba-21-22-championship",
+  "question": "Will the Milwaukee Bucks win the NBA ‘21-’22 Championship?"
+}

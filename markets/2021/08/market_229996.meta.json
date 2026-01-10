@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "229996",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-07T20:10:01.116000Z",
+  "market_createdAt": "2021-08-07T20:10:01.116Z",
+  "market_updatedAt": "2024-04-24T23:57:24.861137Z",
+  "market_startDate": "2021-08-08T18:36:26.445Z",
+  "market_endDate": "2021-09-03T00:00:00Z",
+  "market_closedTime": "2021-09-06 19:23:03+00",
+  "conditionId": "0x8c575517d67efab96f56838d81e1678c0ce701da7bccfe90f96027df81c671f5",
+  "slug": "what-will-the-price-of-matic-be-on-september-3-2021",
+  "question": "What will the price of $MATIC be on September 3, 2021? "
+}

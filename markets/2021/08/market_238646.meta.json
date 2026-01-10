@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238646",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-24T17:42:01.142000Z",
+  "market_createdAt": "2021-08-24T17:42:01.142Z",
+  "market_updatedAt": "2024-04-23T00:58:01.371934Z",
+  "market_startDate": "2021-08-26T21:58:23.363Z",
+  "market_endDate": "2021-10-04T00:00:00Z",
+  "market_closedTime": "2021-09-26 23:57:08+00",
+  "conditionId": "0x519561eb812b30da5835160000ad89e4af71a2e4920f3239f834d94a09d38627",
+  "slug": "will-the-new-york-yankees-win-the-al-east",
+  "question": "Will the New York Yankees win the 2021 AL East?"
+}

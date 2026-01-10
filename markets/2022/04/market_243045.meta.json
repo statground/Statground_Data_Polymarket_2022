@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243045",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-08T15:38:45.159000Z",
+  "market_createdAt": "2022-04-08T15:38:45.159Z",
+  "market_updatedAt": "2023-01-31T16:56:16.043Z",
+  "market_startDate": "2022-04-08T18:08:06.405Z",
+  "market_endDate": "2022-04-10T00:00:00Z",
+  "market_closedTime": "2022-04-11 03:15:48+00",
+  "conditionId": "0xb86d1752e0a54d7dd44ec3f3e2d160abf491c97f92e056e0f963e9ac23390ab2",
+  "slug": "premier-league-who-will-win-the-man-city-vs-liverpool-game-on-april-10",
+  "question": "Premier League: Who will win the Man City vs. Liverpool game on April 10?"
+}

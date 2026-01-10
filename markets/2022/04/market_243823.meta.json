@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243823",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-26T20:15:25.476000Z",
+  "market_createdAt": "2022-04-26T20:15:25.476Z",
+  "market_updatedAt": "2023-01-31T21:15:18.597Z",
+  "market_startDate": null,
+  "market_endDate": "2022-05-01T00:00:00Z",
+  "market_closedTime": "2022-05-02 04:01:00+00",
+  "conditionId": "0xa57f5e63026b99ab99e579c7ce0653030d21b9b68489715a7580b62e3128b4ec",
+  "slug": "will-chloe-and-harrison-win-proof-of-love",
+  "question": "Will Chloe and Harrison win \"Proof of Love\"?"
+}

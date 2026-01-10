@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239610",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-25T18:56:20.734000Z",
+  "market_createdAt": "2021-11-25T18:56:20.734Z",
+  "market_updatedAt": "2024-04-23T00:16:12.824992Z",
+  "market_startDate": null,
+  "market_endDate": "2021-12-14T00:00:00Z",
+  "market_closedTime": "2021-12-11 18:18:19+00",
+  "conditionId": "0x47c2b92c064ab180a67d70ff7059e9037f77887ec699c286af1cb5c36d7f5fdb",
+  "slug": "world-chess-championship-2021-will-there-be-more-or-less-than-12-draws",
+  "question": "World Chess Championship 2021: Will there be more or less than 12 draws?"
+}

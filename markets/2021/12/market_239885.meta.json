@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239885",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-07T11:37:10.808000Z",
+  "market_createdAt": "2021-12-07T11:37:10.808Z",
+  "market_updatedAt": "2024-04-22T22:53:53.896856Z",
+  "market_startDate": "2021-12-09T18:46:53.542Z",
+  "market_endDate": "2021-12-09T00:00:00Z",
+  "market_closedTime": "2021-12-10 13:06:17+00",
+  "conditionId": "0x4850bf54f7585816bd1c88dc94ab8fb7da1ac495238dd58e8af07f49399f3bb1",
+  "slug": "nfl-will-the-vikings-beat-the-steelers-by-more-than-3pt5-points-in-their-december-9-matchup",
+  "question": "NFL: Will the Vikings beat the Steelers by more than 3.5 points in their December 9 matchup?"
+}

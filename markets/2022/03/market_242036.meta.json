@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242036",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-12T20:06:07.512000Z",
+  "market_createdAt": "2022-03-12T20:06:07.512Z",
+  "market_updatedAt": "2024-04-25T00:09:53.856736Z",
+  "market_startDate": "2022-03-12T21:36:22.003Z",
+  "market_endDate": "2022-03-12T00:00:00Z",
+  "market_closedTime": "2022-03-13 11:48:08+00",
+  "conditionId": "0xbb79d31a806e1296035132a1c29bab0c04efb7f2a7c4388c4bf903408c86a0eb",
+  "slug": "nba-will-the-wizards-beat-the-trail-blazers-by-more-than-6pt5-points-in-their-march-12-10-pm-et-matchup",
+  "question": "NBA: Will the Wizards beat the Trail Blazers by more than 6.5 points in their March 12 (10 PM ET) matchup?"
+}

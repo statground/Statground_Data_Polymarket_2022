@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240745",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-14T14:34:29.659000Z",
+  "market_createdAt": "2022-01-14T14:34:29.659Z",
+  "market_updatedAt": "2024-04-23T00:31:51.013381Z",
+  "market_startDate": "2022-01-14T22:53:58.759Z",
+  "market_endDate": "2022-01-14T00:00:00Z",
+  "market_closedTime": "2022-01-16 18:03:34+00",
+  "conditionId": "0x8c5e0f24faad86b47ea0694b671cac532f51bcc04946dc79534f22063cc0396f",
+  "slug": "nhl-will-the-wild-beat-the-ducks-by-more-than-1p5-goals-in-their-january-14-matchup",
+  "question": "NHL: Will the Wild beat the Ducks by more than 1.5 goals in their January 14 matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241581",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-17T16:23:17.598000Z",
+  "market_createdAt": "2022-02-17T16:23:17.598Z",
+  "market_updatedAt": "2024-04-23T00:29:04.781444Z",
+  "market_startDate": "2022-02-17T18:18:00.217Z",
+  "market_endDate": "2022-02-17T00:00:00Z",
+  "market_closedTime": "2022-02-18 20:31:33+00",
+  "conditionId": "0xd12b2edb45fb1f5237f6f89e9167293cb2a74c5bc2e238d45ad64523765fb317",
+  "slug": "nhl-will-the-canucks-beat-the-sharks-by-more-than-1p5-goals-in-their-february-17-matchup-1030-pm-et",
+  "question": "NHL: Will the Canucks beat the Sharks by more than 1.5 goals in their February 17 matchup (10.30 PM ET)?"
+}

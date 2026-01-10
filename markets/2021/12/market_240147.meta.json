@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240147",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-23T10:28:32.492000Z",
+  "market_createdAt": "2021-12-23T10:28:32.492Z",
+  "market_updatedAt": "2024-04-23T00:47:43.025185Z",
+  "market_startDate": "2021-12-23T17:59:19.03Z",
+  "market_endDate": "2021-12-23T00:00:00Z",
+  "market_closedTime": "2021-12-26 01:16:19+00",
+  "conditionId": "0x7ae21496f842073f19a468b4c1b035d5a75cd1117e51faf22a6396f709b9c547",
+  "slug": "nba-will-the-nuggets-beat-the-hornets-by-more-than-3pt5-points-in-their-december-23-matchup",
+  "question": "NBA: Will the Nuggets beat the Hornets by more than 3.5 points in their December 23 matchup?"
+}

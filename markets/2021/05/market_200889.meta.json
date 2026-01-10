@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "200889",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-18T20:50:02.429000Z",
+  "market_createdAt": "2021-05-18T20:50:02.429Z",
+  "market_updatedAt": "2024-04-22T22:58:19.410068Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-15T00:00:00Z",
+  "market_closedTime": "2021-05-31 19:25:56+00",
+  "conditionId": "0xa971ffeff08b322dfd13a67919deebbf876610d2225a0ceb854f8adc933dd4e0",
+  "slug": "will-scott-dixon-win-the-indy-500",
+  "question": "Will Scott Dixon win the Indy 500?"
+}

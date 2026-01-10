@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242828",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-04T19:16:17.467000Z",
+  "market_createdAt": "2022-04-04T19:16:17.467Z",
+  "market_updatedAt": "2023-01-31T21:06:36.607Z",
+  "market_startDate": "2022-04-04T20:00:40.273Z",
+  "market_endDate": "2022-04-16T00:00:00Z",
+  "market_closedTime": "2022-04-13 08:45:41+00",
+  "conditionId": "0xe29143a219c632a14c570ddf1513ae62098260d15f9c53ba6ce689e509eb4e23",
+  "slug": "will-the-brooklyn-nets-make-the-2022-nba-playoffs",
+  "question": "Will the Brooklyn Nets make the 2022 NBA playoffs?"
+}

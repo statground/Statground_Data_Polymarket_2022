@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244807",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-13T19:54:25.823000Z",
+  "market_createdAt": "2022-05-13T19:54:25.823Z",
+  "market_updatedAt": "2023-01-31T20:59:48.726Z",
+  "market_startDate": "2022-05-13T20:48:42.381Z",
+  "market_endDate": "2022-05-22T00:00:00Z",
+  "market_closedTime": "2022-05-16 17:00:32+00",
+  "conditionId": "0x0ffe7dcb82626ce56522ecaa6e8b85df617adbb1b35dd98d3d091951cb440125",
+  "slug": "age-of-empires-iv-will-beastyqt-make-the-golden-league-final-bracket",
+  "question": "Age of Empires IV: Will Beastyqt make the Golden League Final Bracket?"
+}

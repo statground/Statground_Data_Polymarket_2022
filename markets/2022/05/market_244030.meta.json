@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244030",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-03T08:09:28.932000Z",
+  "market_createdAt": "2022-05-03T08:09:28.932Z",
+  "market_updatedAt": "2023-01-31T18:53:29.109Z",
+  "market_startDate": "2022-05-03T16:54:26.929Z",
+  "market_endDate": "2022-05-03T00:00:00Z",
+  "market_closedTime": "2022-05-04 06:46:02+00",
+  "conditionId": "0xfd2f6625925dacc2b45e4da53c6ee6744f7526decec551eb6a267861729bb97d",
+  "slug": "nba-who-will-win-celtics-vs-bucks-scheduled-for-may-3-700-pm-et",
+  "question": "NBA: Who will win Celtics vs. Bucks, scheduled for May 3, 7:00 PM ET?"
+}

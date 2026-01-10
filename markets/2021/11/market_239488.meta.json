@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239488",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-17T14:27:35.907000Z",
+  "market_createdAt": "2021-11-17T14:27:35.907Z",
+  "market_updatedAt": "2024-04-23T00:47:58.792715Z",
+  "market_startDate": "2021-11-17T19:26:32.059Z",
+  "market_endDate": "2021-11-21T00:00:00Z",
+  "market_closedTime": "2021-11-22 18:49:49+00",
+  "conditionId": "0x2eed71abe10d838cd1c23df4cd803c33300930bbbd5afeaa07d69ecfaea1e678",
+  "slug": "nfl-will-the-bengals-beat-the-raiders-by-more-than-1pt5-points-in-their-november-21st-matchup",
+  "question": "NFL: Will the Bengals beat the Raiders by more than 1.5 points in their November 21st matchup?"
+}

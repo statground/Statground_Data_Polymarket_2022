@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247139",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-25T19:18:29.230000Z",
+  "market_createdAt": "2022-08-25T19:18:29.23Z",
+  "market_updatedAt": "2023-01-31T18:22:18.314Z",
+  "market_startDate": "2022-08-26T14:55:47.879Z",
+  "market_endDate": "2022-08-28T00:00:00Z",
+  "market_closedTime": "2022-08-28 22:30:50+00",
+  "conditionId": "0x16682d96369cfc46dfaab7113f247670c07d8b42060aecd0c231fd5041303b08",
+  "slug": "formula-1-which-team-will-collect-more-points-at-the-2022-belgian-grand-prix-mercedes-or-ferrari",
+  "question": "Formula 1: Which team will collect more points at the 2022 Belgian Grand Prix, Mercedes or Ferrari?"
+}

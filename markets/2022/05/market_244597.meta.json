@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244597",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-09T20:32:59.863000Z",
+  "market_createdAt": "2022-05-09T20:32:59.863Z",
+  "market_updatedAt": "2023-01-31T21:05:57.599Z",
+  "market_startDate": "2022-05-09T20:47:56.583Z",
+  "market_endDate": "2022-05-10T00:00:00Z",
+  "market_closedTime": "2022-05-10 20:15:47+00",
+  "conditionId": "0x1e429054e89f5037cce923a2cd9f7dfb879bbadc0954dfa378123bef6a13e12a",
+  "slug": "will-biden-say-recession-in-his-tuesday-speech-on-inflation",
+  "question": "Will Biden say \"recession\" in his Tuesday remarks on inflation?"
+}

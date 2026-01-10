@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241267",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-02T18:30:30.602000Z",
+  "market_createdAt": "2022-02-02T18:30:30.602Z",
+  "market_updatedAt": "2023-01-31T19:22:06.714Z",
+  "market_startDate": "2022-02-02T20:16:02.202Z",
+  "market_endDate": "2022-03-31T00:00:00Z",
+  "market_closedTime": "2022-04-01 17:30:32+00",
+  "conditionId": "0xcacd2f2d7a1ac57431fc5dcd4cf5737293cbd5d08e9ff607249ad2714bcedcaf",
+  "slug": "will-the-joe-rogan-experience-episode-featuring-robert-malone-still-be-available-on-spotify-on-march-31-2022",
+  "question": "Will The Joe Rogan Experience episode featuring Robert Malone still be available on Spotify on March 31, 2022?"
+}

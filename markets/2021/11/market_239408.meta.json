@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239408",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-13T02:02:54.582000Z",
+  "market_createdAt": "2021-11-13T02:02:54.582Z",
+  "market_updatedAt": "2024-04-22T23:17:55.931964Z",
+  "market_startDate": "2021-11-15T18:22:24.418Z",
+  "market_endDate": "2021-11-29T00:00:00Z",
+  "market_closedTime": "2021-11-30 05:23:45+00",
+  "conditionId": "0xd1f2a1dc206f64c6b17af243311b2b7acb633102462210be0999d59bb98d183a",
+  "slug": "will-a-replacement-for-jerome-powell-as-the-feds-chairman-be-announced-by-29-november-2021",
+  "question": "Will a replacement for Jerome Powell as the Fed's chairman be announced by Noon ET, November 29, 2021?"
+}

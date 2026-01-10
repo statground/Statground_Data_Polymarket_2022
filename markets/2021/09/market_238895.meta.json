@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238895",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-27T18:23:34.791000Z",
+  "market_createdAt": "2021-09-27T18:23:34.791Z",
+  "market_updatedAt": "2024-04-26T02:47:43.257565Z",
+  "market_startDate": "2021-09-27T18:35:17.56Z",
+  "market_endDate": "2021-09-29T00:00:00Z",
+  "market_closedTime": "2021-09-29 21:03:29+00",
+  "conditionId": "0x4d45c623ce4a04cc1ce283174c08735422acd77bd5f1c1f3c9d543cd26dd1a64",
+  "slug": "what-will-the-price-of-dydx-be-on-september-29-2021",
+  "question": "What will the price of $DYDX be on September 29, 2021?"
+}

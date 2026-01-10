@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246678",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-11T12:56:15.332000Z",
+  "market_createdAt": "2022-07-11T12:56:15.332Z",
+  "market_updatedAt": "2023-01-31T17:53:53.586Z",
+  "market_startDate": "2022-07-11T14:18:07.341Z",
+  "market_endDate": "2022-07-18T00:00:00Z",
+  "market_closedTime": "2022-07-19 07:00:53+00",
+  "conditionId": "0x4cae4a3558ab5741dc7f3f3010b64e74cb9527cd1d1d039125331dce9f43a043",
+  "slug": "will-the-price-of-a-barrel-of-crude-oil-be-100-or-more-on-july-18-2022",
+  "question": "Will the price of a barrel of crude oil be $100 or more on July 18, 2022?"
+}

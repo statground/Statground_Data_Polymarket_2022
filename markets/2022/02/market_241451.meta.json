@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241451",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-12T13:12:13.653000Z",
+  "market_createdAt": "2022-02-12T13:12:13.653Z",
+  "market_updatedAt": "2024-04-24T23:29:19.28972Z",
+  "market_startDate": "2022-02-12T17:05:22.489Z",
+  "market_endDate": "2022-02-17T00:00:00Z",
+  "market_closedTime": "2022-02-18 21:00:21+00",
+  "conditionId": "0x24c49098497d53013d7d53826992a6b910f971099a32c2414563b3f2c4005f5f",
+  "slug": "spotify-which-song-will-be-streamed-more-in-the-week-ending-on-feb-17-bussin-or-mamiii",
+  "question": "Spotify: Which song will be streamed more in the week ending on Feb 17: \"Bussin\" or \"MAMIII\"?"
+}

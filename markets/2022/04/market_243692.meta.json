@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243692",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-26T07:57:54.227000Z",
+  "market_createdAt": "2022-04-26T07:57:54.227Z",
+  "market_updatedAt": "2023-01-31T04:57:11.294Z",
+  "market_startDate": "2022-04-26T15:17:44.916Z",
+  "market_endDate": "2022-04-26T00:00:00Z",
+  "market_closedTime": "2022-04-27 06:46:21+00",
+  "conditionId": "0xf0b3c4384a3e27bf3b71957950e22914c0dbc384d90c117defd96eb67127240b",
+  "slug": "nba-who-will-win-heat-vs-hawks-scheduled-for-april-26-700-pm-et",
+  "question": "NBA: Who will win Heat vs. Hawks, scheduled for April 26, 7:00 PM ET?"
+}

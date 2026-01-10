@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240645",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-12T17:36:35.995000Z",
+  "market_createdAt": "2022-01-12T17:36:35.995Z",
+  "market_updatedAt": "2023-01-31T16:56:20.396Z",
+  "market_startDate": "2022-01-12T21:08:56.435Z",
+  "market_endDate": "2022-12-31T00:00:00Z",
+  "market_closedTime": "2023-01-03 02:01:31+00",
+  "conditionId": "0x31becf2a36a43c4115f14c16a3d802c0dbfd5dfd1d5b05383caae522c0e517d2",
+  "slug": "will-metamask-launch-a-token-by-december-31st-2022",
+  "question": "Will MetaMask launch a token by December 31st, 2022?"
+}

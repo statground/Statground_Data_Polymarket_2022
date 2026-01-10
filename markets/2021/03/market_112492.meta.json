@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "112492",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-03-29T22:35:02.231000Z",
+  "market_createdAt": "2021-03-29T22:35:02.231Z",
+  "market_updatedAt": "2024-04-24T23:57:27.460202Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-26T00:00:00Z",
+  "market_closedTime": "2021-04-25 23:21:17+00",
+  "conditionId": "0x1628f4479d8fad9f341dc0f2ea515570602f5b01ef0c6e87bc55c2b5426a1ab1",
+  "slug": "will-1-billion-doses-of-a-covid-19-vaccine-have-been-administered-globally-by-april-26-2021-1",
+  "question": "Will 1 billion doses of a COVID-19 vaccine have been administered globally by April 26, 2021?"
+}

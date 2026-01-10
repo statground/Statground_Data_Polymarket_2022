@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240337",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T00:40:50.609000Z",
+  "market_createdAt": "2022-01-11T00:40:50.609Z",
+  "market_updatedAt": "2024-04-24T23:16:33.589083Z",
+  "market_startDate": "2022-01-12T20:43:14.72Z",
+  "market_endDate": "2022-06-19T00:00:00Z",
+  "market_closedTime": "2022-05-05 05:15:31+00",
+  "conditionId": "0xbe7b1fe9746d8e3fd0dda8d82ff535dea4d9be4d800adc5823b7aabc1d306f76",
+  "slug": "will-the-utah-jazz-win-the-nba-21-22-championship",
+  "question": "Will the Utah Jazz win the NBA ‘21-’22 Championship?"
+}

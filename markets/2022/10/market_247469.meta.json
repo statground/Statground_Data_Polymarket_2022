@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247469",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-11T20:08:47.993000Z",
+  "market_createdAt": "2022-10-11T20:08:47.993Z",
+  "market_updatedAt": "2023-01-31T19:34:54.42Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-31T00:00:00Z",
+  "market_closedTime": "2022-11-01 06:45:34+00",
+  "conditionId": "0x9c71fdc95f9a59f983ad0b6483d9e369b657e91db2b4ef79369d7e04dc0b1ed9",
+  "slug": "will-kanyewest-tweet-again-before-november",
+  "question": "Will @kanyewest tweet again before November?"
+}

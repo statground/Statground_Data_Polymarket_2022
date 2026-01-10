@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239469",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-17T13:09:51.751000Z",
+  "market_createdAt": "2021-11-17T13:09:51.751Z",
+  "market_updatedAt": "2024-04-22T22:39:16.384616Z",
+  "market_startDate": "2021-11-17T19:16:30.825Z",
+  "market_endDate": "2021-11-17T00:00:00Z",
+  "market_closedTime": "2021-11-19 01:47:25+00",
+  "conditionId": "0x743b61b542736edd2b8b143cd8c2cafb141893e516c46bb6024827a96e065804",
+  "slug": "nba-will-the-hawks-beat-the-celtics-by-more-than-4pt5-points-in-their-november-17th-matchup",
+  "question": "NBA: Will the Hawks beat the Celtics by more than 4.5 points in their November 17th matchup?"
+}

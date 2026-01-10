@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246969",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-10T19:02:22.718000Z",
+  "market_createdAt": "2022-08-10T19:02:22.718Z",
+  "market_updatedAt": "2023-01-26T21:36:08.201Z",
+  "market_startDate": "2022-08-10T22:25:44.757Z",
+  "market_endDate": "2022-09-13T00:00:00Z",
+  "market_closedTime": "2022-09-13 15:30:47+00",
+  "conditionId": "0xe18cc5bdba5793d31c5b4494db0c42c1aed1786bf15e5c76bb489cdefc5002ed",
+  "slug": "will-us-inflation-be-more-than-0pt1-from-july-to-august-2022",
+  "question": "Will U.S. inflation be more than 0.1% from July to August 2022?"
+}

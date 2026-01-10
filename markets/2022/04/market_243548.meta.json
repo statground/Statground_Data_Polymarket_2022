@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243548",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-21T19:07:58.552000Z",
+  "market_createdAt": "2022-04-21T19:07:58.552Z",
+  "market_updatedAt": "2024-04-22T23:16:13.627517Z",
+  "market_startDate": "2022-04-21T20:13:09.033Z",
+  "market_endDate": "2022-12-02T00:00:00Z",
+  "market_closedTime": "2022-12-03 20:23:59+00",
+  "conditionId": "0x1eadb13d2336f7b830b6522edb13a6418d5ef1d911456c59cef4f88e7683fefc",
+  "slug": "will-there-be-19-or-more-named-storms-during-the-2022-atlantic-hurricane-season",
+  "question": "Will there be 19 or more named storms during the 2022 Atlantic Hurricane Season?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239698",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-30T13:49:11.009000Z",
+  "market_createdAt": "2021-11-30T13:49:11.009Z",
+  "market_updatedAt": "2024-04-22T23:40:28.138989Z",
+  "market_startDate": "2021-12-01T17:50:12.229Z",
+  "market_endDate": "2021-12-24T00:00:00Z",
+  "market_closedTime": "2021-12-26 01:22:21+00",
+  "conditionId": "0xdb687221e3de9451fddb34bbdaf9ed0429976cffab691e6f695c99fab3891d7e",
+  "slug": "will-it-snow-in-new-yorks-central-park-on-the-christmas-eve-dec-24",
+  "question": "Will it snow in New Yorks' Central Park on Christmas Eve (Dec 24)?"
+}

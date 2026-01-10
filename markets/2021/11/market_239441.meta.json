@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239441",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-15T11:11:08.965000Z",
+  "market_createdAt": "2021-11-15T11:11:08.965Z",
+  "market_updatedAt": "2024-04-22T23:31:39.728412Z",
+  "market_startDate": "2021-11-15T18:28:26.877Z",
+  "market_endDate": "2021-11-15T00:00:00Z",
+  "market_closedTime": "2021-11-16 10:40:28+00",
+  "conditionId": "0x989992196606fdffe07c327ef6bcf5573b8770d0c1e21a6c7e0bd28aae045497",
+  "slug": "nba-who-will-win-the-trail-blazers-v-raptors-game-on-november-15th",
+  "question": "NBA: Who will win the Trail Blazers v. Raptors game on November 15th?"
+}

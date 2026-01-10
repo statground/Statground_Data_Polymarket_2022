@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241605",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-19T00:25:51.950000Z",
+  "market_createdAt": "2022-02-19T00:25:51.95Z",
+  "market_updatedAt": "2024-04-24T23:23:07.576514Z",
+  "market_startDate": "2022-02-19T02:29:17.98Z",
+  "market_endDate": "2022-07-01T00:00:00Z",
+  "market_closedTime": "2022-07-02 16:45:38+00",
+  "conditionId": "0x0ba57f4ad50574673f11ffd5ce73122044e210810423821e09ec7e23f4110c26",
+  "slug": "will-kanyewest-tweet-again-by-july-1-2022",
+  "question": "Will @kanyewest tweet again by July 1, 2022?"
+}

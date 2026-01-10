@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240762",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-15T18:48:35.799000Z",
+  "market_createdAt": "2022-01-15T18:48:35.799Z",
+  "market_updatedAt": "2024-04-25T00:01:55.197063Z",
+  "market_startDate": "2022-01-15T20:28:57.089Z",
+  "market_endDate": "2022-01-15T00:00:00Z",
+  "market_closedTime": "2022-01-17 16:37:24+00",
+  "conditionId": "0x8d9d952f17315a5fa7ae4b47d47b9e44fd70bd7375c7d5527a0e529adb7a6708",
+  "slug": "nhl-will-the-panthers-beat-the-blue-jackets-by-more-than-1p5-goals-in-their-january-15-matchup",
+  "question": "NHL: Will the Panthers beat the Blue Jackets by more than 1.5 goals in their January 15 matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "97",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-11-11T18:15:05.601000Z",
+  "market_createdAt": "2020-11-11T18:15:05.601Z",
+  "market_updatedAt": "2023-01-31T20:01:15.149Z",
+  "market_startDate": null,
+  "market_endDate": "2020-01-01T00:00:00Z",
+  "market_closedTime": "2021-01-02 21:20:34+00",
+  "conditionId": "0x466c0923487b199c6d60d533bcabde40fe6ba848d96116fb9465ab55fc50ca5d",
+  "slug": "will-any-art-piece-on-superrare-sell-for-more-than-100k-before-2021",
+  "question": "Will any art piece on Superrare sell for more than $100k before 2021?"
+}

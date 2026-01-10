@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "64199",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-01-28T21:25:03.114000Z",
+  "market_createdAt": "2021-01-28T21:25:03.114Z",
+  "market_updatedAt": "2024-04-24T23:43:05.998021Z",
+  "market_startDate": "2021-01-28T00:00:00Z",
+  "market_endDate": "2021-02-07T00:00:00Z",
+  "market_closedTime": "2021-02-07 21:01:30+00",
+  "conditionId": "0x0dba8481a8ed6bccfa28d70ed35c4d4fceac7539d8be3412fe2cba199fa5a5b0",
+  "slug": "how-many-subscribers-will-rwallstreetbets-have-on-february-7-2021",
+  "question": "How many subscribers will /r/wallstreetbets have on February 7, 2021?"
+}

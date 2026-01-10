@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238698",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-01T19:10:01.188000Z",
+  "market_createdAt": "2021-09-01T19:10:01.188Z",
+  "market_updatedAt": "2024-04-26T02:48:02.037929Z",
+  "market_startDate": "2021-09-01T20:49:52.858Z",
+  "market_endDate": null,
+  "market_closedTime": "2022-01-04 00:22:03+00",
+  "conditionId": "0x2f9a72a3f7f9e6317116bd35165c986504271c8e1914f2a17d97ea946773d6c8",
+  "slug": "will-theranos-exec-elizabeth-holmes-be-found-guilty-of-fraud",
+  "question": "Will Theranos executive Elizabeth Holmes be found guilty of fraud?"
+}

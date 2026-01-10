@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242549",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-27T09:04:57.133000Z",
+  "market_createdAt": "2022-03-27T09:04:57.133Z",
+  "market_updatedAt": "2024-04-23T00:10:11.504167Z",
+  "market_startDate": "2022-03-27T17:13:30.035Z",
+  "market_endDate": "2022-03-27T00:00:00Z",
+  "market_closedTime": "2022-03-28 17:14:20+00",
+  "conditionId": "0xc2641c0b4b2548ffc3cb3b1dbc41b122d8ff0f323a4ac4542b005fbce936ab1c",
+  "slug": "nhl-will-the-avalanche-beat-the-wild-by-more-than-1pt5-goals-in-their-march-27-600-pm-et-matchup",
+  "question": "NHL: Will the Avalanche beat the Wild by more than 1.5 goals in their March 27, 6:00 PM ET matchup?"
+}

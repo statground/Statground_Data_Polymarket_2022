@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "221218",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-02T18:55:01.025000Z",
+  "market_createdAt": "2021-07-02T18:55:01.025Z",
+  "market_updatedAt": "2024-04-25T00:12:08.040479Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-30T00:00:00Z",
+  "market_closedTime": "2021-07-28 22:47:35+00",
+  "conditionId": "0x4cde7be76c55ca29c306ea5a6d2b9ea0671364811c095abad7212976690361cc",
+  "slug": "will-facebook-report-having-more-than-36-billion-map-in-2q-2021",
+  "question": "Will Facebook report having more than 3.6 billion Monthly Active People in Q2 2021?"
+}

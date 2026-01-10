@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239736",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-01T13:19:51.476000Z",
+  "market_createdAt": "2021-12-01T13:19:51.476Z",
+  "market_updatedAt": "2024-04-22T23:28:19.626209Z",
+  "market_startDate": "2021-12-01T19:36:35.836Z",
+  "market_endDate": "2021-12-01T00:00:00Z",
+  "market_closedTime": "2021-12-02 19:44:19+00",
+  "conditionId": "0xfae00b31dcfd6a2cd0d41b258114732a28736fc4f40c8750a12dbe31559e26ab",
+  "slug": "nba-will-the-mavericks-beat-the-pelicans-by-more-than-3pt5-points-in-their-december-1-matchup",
+  "question": "NBA: Will the Mavericks beat the Pelicans by more than 3.5 points in their December 1 matchup?"
+}

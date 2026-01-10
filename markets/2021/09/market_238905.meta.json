@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238905",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-29T03:00:44.822000Z",
+  "market_createdAt": "2021-09-29T03:00:44.822Z",
+  "market_updatedAt": "2024-04-23T00:58:29.72806Z",
+  "market_startDate": null,
+  "market_endDate": "2021-11-25T00:00:00Z",
+  "market_closedTime": "2021-11-26 15:49:49+00",
+  "conditionId": "0xdd4a955786b5cf0fa70af52a20b18a24ca81e7f8f758d34d0e9c79f255d34ca8",
+  "slug": "will-jlo-and-ben-affleck-get-engaged-by-thanksgiving-1",
+  "question": "Will J.Lo and Ben Affleck get engaged by Thanksgiving?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242435",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-24T17:35:00.180000Z",
+  "market_createdAt": "2022-03-24T17:35:00.18Z",
+  "market_updatedAt": "2024-04-24T23:56:09.905885Z",
+  "market_startDate": null,
+  "market_endDate": "2022-03-24T00:00:00Z",
+  "market_closedTime": "2022-03-25 15:29:35+00",
+  "conditionId": "0x5be899679877b4aa3145eecd2f0d5d11036bb5dc7a61a5b037a85a5ed3c2cc58",
+  "slug": "nba-who-will-win-the-bulls-vs-pelicans-scheduled-for-march-24-8-pm-et",
+  "question": "NBA: Who will win the Bulls vs. Pelicans, scheduled for March 24 (8 PM ET)?"
+}

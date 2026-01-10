@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241897",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-04T16:58:39.482000Z",
+  "market_createdAt": "2022-03-04T16:58:39.482Z",
+  "market_updatedAt": "2024-04-24T23:43:37.738944Z",
+  "market_startDate": "2022-03-04T17:43:34.755Z",
+  "market_endDate": "2022-03-04T00:00:00Z",
+  "market_closedTime": "2022-03-05 14:31:32+00",
+  "conditionId": "0xae69db56d5cc478ef419095d34a10f4e43248298f002394a700ebe915f2a7281",
+  "slug": "nhl-will-the-stars-beat-the-jets-by-more-than-1pt5-goals-in-their-march-4-matchup-8-pm-et",
+  "question": "NHL: Will the Stars beat the Jets by more than 1.5 goals in their March 4 matchup (8 PM ET)?"
+}

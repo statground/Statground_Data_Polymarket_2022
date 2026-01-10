@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248067",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T22:23:49.663000Z",
+  "market_createdAt": "2022-11-18T22:23:49.663Z",
+  "market_updatedAt": "2023-01-31T21:16:33.645Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-18T00:00:00Z",
+  "market_closedTime": "2022-11-30 01:32:40+00",
+  "conditionId": "0x7c7d67ec151eeb4e24d34316931af4281ac4f7080ae756d9fb4bfea35ba3adf8",
+  "slug": "will-wales-win-the-2022-world-cup",
+  "question": "Will Wales win the 2022 World Cup?"
+}

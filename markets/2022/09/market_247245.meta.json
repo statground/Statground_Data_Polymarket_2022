@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247245",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-12T18:34:04.949000Z",
+  "market_createdAt": "2022-09-12T18:34:04.949Z",
+  "market_updatedAt": "2023-01-31T12:37:57.891Z",
+  "market_startDate": "2022-09-12T18:53:45.422Z",
+  "market_endDate": "2022-09-12T00:00:00Z",
+  "market_closedTime": "2022-09-13 06:00:52+00",
+  "conditionId": "0xe6fd8f2c12900baeb66817d726acba2b8413f090d902906fff8438795192d459",
+  "slug": "mlb-who-will-win-chicago-cubs-v-new-york-mets-scheduled-for-september-12-710-pm-et",
+  "question": "MLB: Who will win Chicago Cubs v. New York Mets, scheduled for September 12, 7:10 PM ET?"
+}

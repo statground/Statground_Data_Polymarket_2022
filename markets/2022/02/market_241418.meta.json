@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241418",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-11T10:00:50.290000Z",
+  "market_createdAt": "2022-02-11T10:00:50.29Z",
+  "market_updatedAt": "2024-04-22T23:18:35.948824Z",
+  "market_startDate": "2022-02-11T20:02:52.18Z",
+  "market_endDate": "2022-02-11T00:00:00Z",
+  "market_closedTime": "2022-02-13 04:53:24+00",
+  "conditionId": "0x6dd085e422272db1274faf6c7210c8a7abab4892cacd8bea98a9725bbc7e1406",
+  "slug": "nba-who-will-win-the-bulls-vs-timberwolves-scheduled-for-february-11-8-pm-et",
+  "question": "NBA: Who will win the Bulls vs. Timberwolves, scheduled for February 11 (8 PM ET)?"
+}

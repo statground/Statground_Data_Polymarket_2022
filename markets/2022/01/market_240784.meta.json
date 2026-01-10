@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240784",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-17T09:53:33.923000Z",
+  "market_createdAt": "2022-01-17T09:53:33.923Z",
+  "market_updatedAt": "2024-04-23T00:38:57.269885Z",
+  "market_startDate": "2022-01-17T17:23:52.404Z",
+  "market_endDate": "2022-01-17T00:00:00Z",
+  "market_closedTime": "2022-01-19 21:30:44+00",
+  "conditionId": "0x64b86d2d69dd7ee6853a0c082aaa72a00a770cf6fba4f9f001d971f0efec8612",
+  "slug": "nba-will-the-76ers-beat-the-wizards-by-more-than-2p5-points-in-their-january-17-matchup",
+  "question": "NBA: Will the 76ers beat the Wizards by more than 2.5 points in their January 17 matchup?"
+}

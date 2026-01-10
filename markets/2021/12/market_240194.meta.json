@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240194",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-27T10:54:49.027000Z",
+  "market_createdAt": "2021-12-27T10:54:49.027Z",
+  "market_updatedAt": "2024-04-22T22:58:04.182656Z",
+  "market_startDate": "2021-12-27T19:09:10.513Z",
+  "market_endDate": "2021-12-27T00:00:00Z",
+  "market_closedTime": "2021-12-28 19:55:09+00",
+  "conditionId": "0x4d5ab56cdc5fa5d660b9cf064e7b9e7142ad370f68735987631efa91c860f7fc",
+  "slug": "nfl-will-the-dolphins-beat-the-saints-by-more-than-2pt5-points-in-their-december-27-matchup",
+  "question": "NFL: Will the Dolphins beat the Saints by more than 2.5 points in their December 27 matchup?"
+}

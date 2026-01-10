@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242968",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-06T15:10:11.110000Z",
+  "market_createdAt": "2022-04-06T15:10:11.11Z",
+  "market_updatedAt": "2024-04-22T23:02:14.098272Z",
+  "market_startDate": null,
+  "market_endDate": "2022-04-06T00:00:00Z",
+  "market_closedTime": "2022-04-07 07:18:14+00",
+  "conditionId": "0xf19ec2cd8b6427fce988aee94fc85c7d3ae0401037d3abec8b5a09dd32e1d322",
+  "slug": "will-the-nets-beat-the-knicks-by-more-than-6pt5-points-in-their-april-6-7pt30-pm-et-matchup",
+  "question": "Will the Nets beat the Knicks by more than 6.5 points in their April 6 (7.30 PM ET) matchup?"
+}

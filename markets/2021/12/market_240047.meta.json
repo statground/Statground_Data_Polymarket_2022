@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240047",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-15T09:59:25.274000Z",
+  "market_createdAt": "2021-12-15T09:59:25.274Z",
+  "market_updatedAt": "2024-04-22T22:34:59.928695Z",
+  "market_startDate": "2021-12-15T21:39:07.813Z",
+  "market_endDate": "2021-12-15T00:00:00Z",
+  "market_closedTime": "2021-12-16 17:30:04+00",
+  "conditionId": "0x765531e58b088626157ce8c5dfbea9a4f6a2d7a356430b0623e1d5f43b450ae4",
+  "slug": "nba-will-the-trail-blazers-beat-the-grizzlies-by-more-than-1pt5-points-in-their-december-15-matchup",
+  "question": "NBA: Will the Trail Blazers beat the Grizzlies by more than 1.5 points in their December 15 matchup?"
+}

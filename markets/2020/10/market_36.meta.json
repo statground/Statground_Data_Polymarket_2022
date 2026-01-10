@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "36",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-10-02T20:00:04.856000Z",
+  "market_createdAt": "2020-10-02T20:00:04.856Z",
+  "market_updatedAt": "2024-04-23T00:08:40.528604Z",
+  "market_startDate": null,
+  "market_endDate": "2020-11-04T00:00:00Z",
+  "market_closedTime": "2020-11-05 16:21:29+00",
+  "conditionId": "0xd903891c2b9046cae14615afc4c5245370143503f7b2dfc13919acee07a1696d",
+  "slug": "what-will-the-price-of-bitcoin-be-on-november-4th-2020",
+  "question": "What will the price of Bitcoin be on November 4th, 2020?"
+}

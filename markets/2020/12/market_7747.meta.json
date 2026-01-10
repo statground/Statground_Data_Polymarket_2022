@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "7747",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-12-14T19:20:22.455000Z",
+  "market_createdAt": "2020-12-14T19:20:22.455Z",
+  "market_updatedAt": "2024-04-23T00:36:21.531478Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-01T00:00:00Z",
+  "market_closedTime": "2021-02-01 16:04:11+00",
+  "conditionId": "0xe4efc9fa3b52765ddd4fb07523d9ec9be09e453324ebdaafa61f4cb44d8bf289",
+  "slug": "which-party-will-control-the-senate",
+  "question": "Which party will control the senate?"
+}

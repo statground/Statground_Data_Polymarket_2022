@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240841",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-19T11:13:21.177000Z",
+  "market_createdAt": "2022-01-19T11:13:21.177Z",
+  "market_updatedAt": "2024-04-23T00:55:33.894836Z",
+  "market_startDate": "2022-01-19T19:56:06.921Z",
+  "market_endDate": "2022-01-19T00:00:00Z",
+  "market_closedTime": "2022-01-25 20:48:06+00",
+  "conditionId": "0xe2fd9b97be8a14fbc94b636ae86d742fa7919af29d6abf042587a8caf3c5ba72",
+  "slug": "nba-will-the-wizards-beat-the-nets-by-more-than-1p5-points-in-their-january-19-matchup",
+  "question": "NBA: Will the Wizards beat the Nets by more than 1.5 points in their January 19 matchup?"
+}

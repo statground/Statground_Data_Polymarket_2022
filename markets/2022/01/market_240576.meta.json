@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240576",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T19:24:41.074000Z",
+  "market_createdAt": "2022-01-11T19:24:41.074Z",
+  "market_updatedAt": "2024-04-22T23:31:53.555297Z",
+  "market_startDate": "2022-01-12T21:16:56.776Z",
+  "market_endDate": "2022-03-01T00:00:00Z",
+  "market_closedTime": "2022-03-04 22:03:11+00",
+  "conditionId": "0xe50ba86eb6ad0fd14158b01bf79323e7d4fa5a80e38c5d6c945fee605ad05d7f",
+  "slug": "what-will-the-price-of-dogecoin-doge-be-on-march-1st-2022",
+  "question": "What will the price of Dogecoin ($DOGE) be on March 1st, 2022?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238908",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-29T16:09:03.307000Z",
+  "market_createdAt": "2021-09-29T16:09:03.307Z",
+  "market_updatedAt": "2024-04-23T00:42:07.110554Z",
+  "market_startDate": "2021-09-29T17:53:40.729Z",
+  "market_endDate": "2021-10-16T00:00:00Z",
+  "market_closedTime": "2021-10-16 19:34:59+00",
+  "conditionId": "0x45ec86a218ceee06cd220ad50d50c9408e7368f50ac95404acc4d92d5c04ab08",
+  "slug": "will-joe-bidens-approval-rating-be-45-or-higher-at-the-end-of-october-15",
+  "question": "Will Joe Biden's approval rating be 45.0% or higher at the end of October 15?"
+}

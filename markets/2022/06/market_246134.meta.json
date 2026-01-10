@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246134",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-02T18:36:19.427000Z",
+  "market_createdAt": "2022-06-02T18:36:19.427Z",
+  "market_updatedAt": "2023-01-31T19:58:12.335Z",
+  "market_startDate": "2022-06-02T20:03:02.543Z",
+  "market_endDate": "2022-06-19T00:00:00Z",
+  "market_closedTime": "2022-06-17 16:00:56+00",
+  "conditionId": "0x49af8813e7d7522167c0e26595ceca4c1f04d3c793186fda78d556fb9a360b29",
+  "slug": "will-jayson-tatum-win-the-2022-nba-finals-mvp",
+  "question": "Will Jayson Tatum win the 2022 NBA Finals MVP?"
+}

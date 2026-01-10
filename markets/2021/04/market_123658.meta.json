@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "123658",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-12T19:55:02.170000Z",
+  "market_createdAt": "2021-04-12T19:55:02.17Z",
+  "market_updatedAt": "2024-04-23T00:01:18.718941Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-14T00:00:00Z",
+  "market_closedTime": "2021-04-14 21:28:12+00",
+  "conditionId": "0x154873e92a447a367332bc3bbcb21822b3f86350158245f79db78950e04c31a6",
+  "slug": "will-dortmund-or-man-city-win-the-second-leg-of-their-champions-league-quarter-final-draw",
+  "question": "Will Dortmund or Man City win the second leg of their Champions League quarter-final draw?"
+}

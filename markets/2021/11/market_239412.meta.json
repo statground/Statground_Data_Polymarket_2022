@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239412",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-13T12:36:14.882000Z",
+  "market_createdAt": "2021-11-13T12:36:14.882Z",
+  "market_updatedAt": "2024-04-22T23:50:19.079238Z",
+  "market_startDate": "2021-11-13T19:48:55.572Z",
+  "market_endDate": "2021-11-13T00:00:00Z",
+  "market_closedTime": "2021-11-14 19:48:09+00",
+  "conditionId": "0x2a7c6441b8dab3da5950c3ba1d86e27ec2d3ad03583895d1e12b89b57425bf3d",
+  "slug": "nba-will-the-jazz-beat-the-heat-by-more-than-7pt5-points-in-their-november-13th-matchup",
+  "question": "NBA: Will the Jazz beat the Heat by more than 7.5 points in their November 13th matchup?"
+}

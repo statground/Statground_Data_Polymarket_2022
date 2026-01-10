@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240397",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T12:49:37.831000Z",
+  "market_createdAt": "2022-01-11T12:49:37.831Z",
+  "market_updatedAt": "2023-05-08T19:02:27.749Z",
+  "market_startDate": "2022-01-12T21:00:23.013Z",
+  "market_endDate": "2022-05-01T00:00:00Z",
+  "market_closedTime": "2022-05-04 21:00:45+00",
+  "conditionId": "0x884b46ddf722e2b670751711c2a9548b7b6c5efd0cba3409857249cdeafe6f80",
+  "slug": "will-donald-trump-be-president-of-the-usa-on-may-1-2022",
+  "question": "Will Donald Trump be President of the USA on May 1, 2022?"
+}

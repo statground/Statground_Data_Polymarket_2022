@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240556",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T19:00:31.807000Z",
+  "market_createdAt": "2022-01-11T19:00:31.807Z",
+  "market_updatedAt": "2024-04-25T00:07:47.661613Z",
+  "market_startDate": "2022-01-12T21:13:17.67Z",
+  "market_endDate": "2022-03-31T00:00:00Z",
+  "market_closedTime": "2022-04-02 01:00:38+00",
+  "conditionId": "0x423ba3dd87d8c92b26e4cf0a93785d1c5291c643e77b5481b1f7eaeb4542b9e2",
+  "slug": "will-cozy-finance-airdrop-a-native-token-by-march-31st-2022",
+  "question": "Will Cozy Finance airdrop a native token by March 31st, 2022?"
+}

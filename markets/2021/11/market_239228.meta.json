@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239228",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-03T15:45:49.133000Z",
+  "market_createdAt": "2021-11-03T15:45:49.133Z",
+  "market_updatedAt": "2024-04-23T00:50:39.327981Z",
+  "market_startDate": "2021-11-03T16:53:28.583Z",
+  "market_endDate": "2021-11-03T00:00:00Z",
+  "market_closedTime": "2021-11-04 16:59:05+00",
+  "conditionId": "0xbc5d53bda27e74ec31cd5db6c44181d492158f68298829f4f4fac8ad03883199",
+  "slug": "nba-who-will-win-the-spurs-v-mavericks-game-on-november-3rd",
+  "question": "NBA: Who will win the Spurs v. Mavericks game on November 3rd?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239568",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-22T18:07:56.242000Z",
+  "market_createdAt": "2021-11-22T18:07:56.242Z",
+  "market_updatedAt": "2024-04-26T02:45:07.39602Z",
+  "market_startDate": "2021-11-22T18:27:41.363Z",
+  "market_endDate": "2021-12-02T00:00:00Z",
+  "market_closedTime": "2021-11-24 18:33:10+00",
+  "conditionId": "0x400804f208474b73632745dda239a3bc8429708f2c848b00141ae6a4a65a7a43",
+  "slug": "will-lebron-james-be-suspended-for-3-or-more-games",
+  "question": "Will Lebron James be suspended for 3 or more games?"
+}

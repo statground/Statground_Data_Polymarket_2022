@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241877",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-03T18:29:17.852000Z",
+  "market_createdAt": "2022-03-03T18:29:17.852Z",
+  "market_updatedAt": "2024-04-25T00:03:52.015467Z",
+  "market_startDate": null,
+  "market_endDate": "2022-03-03T00:00:00Z",
+  "market_closedTime": "2022-03-04 16:00:25+00",
+  "conditionId": "0xd3f2cdb0d04e90ea1553c5144ffcf00d517e3ebdecb7773953f6134f59b3691b",
+  "slug": "nba-who-will-win-the-bulls-vspt-hawks-scheduled-for-march-3-7pm-et",
+  "question": "NBA: Who will win the Bulls vs. Hawks, scheduled for March 3 (7PM ET)?"
+}

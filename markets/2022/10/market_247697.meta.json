@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247697",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-18T20:44:51.245000Z",
+  "market_createdAt": "2022-10-18T20:44:51.245Z",
+  "market_updatedAt": "2023-01-31T20:55:51.887Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-24T00:00:00Z",
+  "market_closedTime": "2022-10-25 16:59:07+00",
+  "conditionId": "0x67b5bc7eac103e8b49a6eb70eb2f9564abeddff6ab15adf614a9461c1d661188",
+  "slug": "nfl-monday-bears-vs-patriots",
+  "question": "NFL Monday: Bears vs. Patriots"
+}

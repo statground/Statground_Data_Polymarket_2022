@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240024",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-14T16:13:39.233000Z",
+  "market_createdAt": "2021-12-14T16:13:39.233Z",
+  "market_updatedAt": "2024-04-23T00:22:45.008844Z",
+  "market_startDate": "2021-12-14T17:56:40.661Z",
+  "market_endDate": "2021-12-14T00:00:00Z",
+  "market_closedTime": "2021-12-15 20:18:20+00",
+  "conditionId": "0x6058d2f41fb31eae7f78052b612954338e888fdfb51f1e680af5f3b9a7318f9e",
+  "slug": "nba-will-the-nets-beat-the-raptors-by-more-than-7pt5-points-in-their-december-14-matchup",
+  "question": "NBA: Will the Nets beat the Raptors by more than 7.5 points in their December 14 matchup?"
+}

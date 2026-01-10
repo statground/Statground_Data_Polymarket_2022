@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239480",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-17T14:11:14.828000Z",
+  "market_createdAt": "2021-11-17T14:11:14.828Z",
+  "market_updatedAt": "2024-04-23T00:11:35.908115Z",
+  "market_startDate": "2021-11-17T19:24:19.384Z",
+  "market_endDate": "2021-11-21T00:00:00Z",
+  "market_closedTime": "2021-11-22 18:45:09+00",
+  "conditionId": "0x5ecca214e57968a395c42f6b91770ebfd7f95153d6ca61e821253d7a49c74106",
+  "slug": "nfl-will-the-browns-beat-the-lions-by-more-than-9pt5-points-in-their-november-21st-matchup",
+  "question": "NFL: Will the Browns beat the Lions by more than 9.5 points in their November 21st matchup?"
+}

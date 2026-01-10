@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241249",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-01T14:06:59.530000Z",
+  "market_createdAt": "2022-02-01T14:06:59.53Z",
+  "market_updatedAt": "2024-04-23T00:22:02.404226Z",
+  "market_startDate": "2022-02-01T23:23:40.019Z",
+  "market_endDate": "2022-02-01T00:00:00Z",
+  "market_closedTime": "2022-02-03 00:18:25+00",
+  "conditionId": "0xca80c42b4bc1527cd17bbfffffaace0613c15c7ad190b80f5327b89c71935c02",
+  "slug": "nba-will-the-warriors-beat-the-spurs-by-more-than-25-points-in-their-february-1-830-pm-et-matchup",
+  "question": "NBA: Will the Warriors beat the Spurs by more than 2.5 points in their February 1 (8.30 PM ET) matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240138",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-22T08:04:28.915000Z",
+  "market_createdAt": "2021-12-22T08:04:28.915Z",
+  "market_updatedAt": "2024-04-22T23:56:07.351215Z",
+  "market_startDate": "2021-12-22T19:10:23.083Z",
+  "market_endDate": "2021-12-22T00:00:00Z",
+  "market_closedTime": "2021-12-23 17:04:44+00",
+  "conditionId": "0x22f5936e1f2e0c5c4e2263130b165e0b7f9be43eb9b2ae9123b86326ec003ae0",
+  "slug": "nba-will-the-clippers-beat-the-kings-by-more-than-5pt5-points-in-their-december-22-matchup",
+  "question": "NBA: Will the Clippers beat the Kings by more than 5.5 points in their December 22 matchup?"
+}

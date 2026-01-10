@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "222700",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-07T21:10:01.026000Z",
+  "market_createdAt": "2021-07-07T21:10:01.026Z",
+  "market_updatedAt": "2024-04-23T00:16:43.53315Z",
+  "market_startDate": null,
+  "market_endDate": "2021-09-01T00:00:00Z",
+  "market_closedTime": "2021-09-02 16:49:01+00",
+  "conditionId": "0xac912f749bd1bd450ce6b41af84f01507a9103dfb5b2b8516889e8079821a037",
+  "slug": "will-a-new-post-appear-on-donald-trumps-official-facebook-or-twitter-accounts-by-september-1",
+  "question": "Will Donald Trump’s Facebook or Twitter accounts post by September 1?"
+}

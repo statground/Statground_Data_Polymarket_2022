@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238941",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-04T17:59:49.397000Z",
+  "market_createdAt": "2021-10-04T17:59:49.397Z",
+  "market_updatedAt": "2024-04-24T23:44:34.239152Z",
+  "market_startDate": "2021-10-04T18:17:47.876Z",
+  "market_endDate": "2021-10-11T00:00:00Z",
+  "market_closedTime": "2021-10-12 03:42:34+00",
+  "conditionId": "0x4eff306d5de7b821c72ae60b61dda1e0609083cc2302d4c049919a324ce7ddf6",
+  "slug": "will-the-ravens-beat-the-colts-by-more-than-7pt5-points-in-their-week-five-matchup",
+  "question": "(In-Game Trading) Will the Ravens beat the Colts by more than 7.5 points in their week five matchup?"
+}

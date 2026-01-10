@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248036",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T20:44:26.577000Z",
+  "market_createdAt": "2022-11-18T20:44:26.577Z",
+  "market_updatedAt": "2023-01-31T20:39:11.664Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-06T00:00:00Z",
+  "market_closedTime": "2022-11-29 02:31:22+00",
+  "conditionId": "0xc4b0517ac87cabeba62b4be15b54ed2aaa53cc3628ee78fdc64caab06175184b",
+  "slug": "will-canada-qualify-from-group-f",
+  "question": "Will Canada qualify from Group F?"
+}

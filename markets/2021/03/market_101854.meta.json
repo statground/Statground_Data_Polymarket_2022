@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "101854",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-03-08T22:40:01.764000Z",
+  "market_createdAt": "2021-03-08T22:40:01.764Z",
+  "market_updatedAt": "2024-04-24T23:43:31.344987Z",
+  "market_startDate": null,
+  "market_endDate": null,
+  "market_closedTime": "2021-05-24 19:31:34+00",
+  "conditionId": "0x80834c60d4fa5e0b31f9aee0058064472cc3d0106467a9937fb737880d39c069",
+  "slug": "will-any-knicks-game-have-greater-than-20-attendance-before-the-nba-season-ends",
+  "question": "Will any Knicks game have greater than 20% attendance before the NBA season ends?"
+}

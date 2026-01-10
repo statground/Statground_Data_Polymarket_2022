@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240728",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-14T01:10:39.761000Z",
+  "market_createdAt": "2022-01-14T01:10:39.761Z",
+  "market_updatedAt": "2024-04-23T00:09:54.940911Z",
+  "market_startDate": "2022-01-15T18:43:47.62Z",
+  "market_endDate": "2022-01-15T00:00:00Z",
+  "market_closedTime": "2022-01-19 16:35:17+00",
+  "conditionId": "0x2442aa38b5113000a1e55c735c3f1353b2aab1328c142b58d66e74c9ab41c509",
+  "slug": "nfl-will-the-bills-beat-the-patriots-by-more-than-2p5-points-in-their-january-15-matchup",
+  "question": "NFL: Will the Bills beat the Patriots by more than 2.5 points in their January 15 matchup?"
+}

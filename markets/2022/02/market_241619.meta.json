@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241619",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-19T14:50:02.079000Z",
+  "market_createdAt": "2022-02-19T14:50:02.079Z",
+  "market_updatedAt": "2024-04-22T22:25:04.168764Z",
+  "market_startDate": null,
+  "market_endDate": "2022-02-19T00:00:00Z",
+  "market_closedTime": "2022-02-20 19:01:36+00",
+  "conditionId": "0x071ecad0cbd543d2282d4b02e5e921c27d70f3214565a97dab499e27b0cf2010",
+  "slug": "nba-all-star-2022-will-jalen-green-win-the-att-slam-dunk-contest",
+  "question": "NBA All-Star 2022: Will Jalen Green win the AT&T Slam Dunk contest?"
+}

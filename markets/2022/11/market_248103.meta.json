@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248103",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-21T18:56:58.359000Z",
+  "market_createdAt": "2022-11-21T18:56:58.359Z",
+  "market_updatedAt": "2023-01-31T20:59:05.439Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-25T00:00:00Z",
+  "market_closedTime": "2022-11-25 15:15:41+00",
+  "conditionId": "0x148c6569eeb238796d8189520e9d9b9589ea368f64bf2265f41cdbad9a5fe72a",
+  "slug": "world-cup-2022-friday-will-wales-beat-iran",
+  "question": "World Cup: Friday - Will Wales beat Iran?"
+}

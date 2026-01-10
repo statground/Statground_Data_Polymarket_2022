@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247204",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-07T19:40:21.736000Z",
+  "market_createdAt": "2022-09-07T19:40:21.736Z",
+  "market_updatedAt": "2023-01-31T21:06:36.733Z",
+  "market_startDate": "2022-09-08T19:57:31.343Z",
+  "market_endDate": "2022-09-11T00:00:00Z",
+  "market_closedTime": "2022-09-11 10:30:49+00",
+  "conditionId": "0x0d9f015031a2535ddc234e77cfbc8997f1a19a1c698479a36fc0b7dbc4ddfbba",
+  "slug": "ufc-279-who-will-win-chimaev-vs-diaz",
+  "question": "UFC 279: Who will win - Chimaev vs Diaz"
+}

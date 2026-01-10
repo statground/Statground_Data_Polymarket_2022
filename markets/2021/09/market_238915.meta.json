@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238915",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-29T17:30:50.003000Z",
+  "market_createdAt": "2021-09-29T17:30:50.003Z",
+  "market_updatedAt": "2024-04-26T02:49:33.166997Z",
+  "market_startDate": "2021-10-01T22:16:50.981Z",
+  "market_endDate": "2021-10-03T00:00:00Z",
+  "market_closedTime": "2021-10-04 04:08:05+00",
+  "conditionId": "0x4d67fd2d7805f9546c06ed4e1b5fc53683095ae07834b3b6558128fcb5014581",
+  "slug": "in-game-trading-will-the-buccaneers-beat-the-patriots-by-more-than-75-points-in-their-week-four-matchup",
+  "question": "(In-game Trading) Will the Buccaneers beat the Patriots by more than 7.5 points in their week four matchup?"
+}

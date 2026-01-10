@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246574",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-20T21:41:02.312000Z",
+  "market_createdAt": "2022-06-20T21:41:02.312Z",
+  "market_updatedAt": "2023-01-31T21:09:58.998Z",
+  "market_startDate": "2022-06-20T21:47:03.831Z",
+  "market_endDate": "2022-06-30T00:00:00Z",
+  "market_closedTime": "2022-07-01 00:45:45+00",
+  "conditionId": "0x819cf2687825d28bd97a086dd9840743c0c160236783dc1024c5a1d885ef8b37",
+  "slug": "will-the-floor-price-of-ryder-ripps-bayc-rrbayc-be-above-1-eth-on-june-30",
+  "question": "Will the floor price of Ryder Ripps BAYC (RR/BAYC) be above 1 ETH on June 30?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239599",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-24T18:55:55.790000Z",
+  "market_createdAt": "2021-11-24T18:55:55.79Z",
+  "market_updatedAt": "2023-01-31T21:16:31.431Z",
+  "market_startDate": "2021-11-24T21:28:13.163Z",
+  "market_endDate": "2021-12-02T00:00:00Z",
+  "market_closedTime": "2021-12-03 23:52:38+00",
+  "conditionId": "0x6f726012bea76eb7bc1afe2cdff6964004af8a9fbc22d9f19c436323c50c00b9",
+  "slug": "will-the-floor-price-of-chain-runners-be-above-1pt25-eth-on-december-2",
+  "question": "Will the floor price of Chain Runners be above 1.25 ETH on December 2?"
+}

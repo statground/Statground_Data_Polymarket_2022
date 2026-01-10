@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238948",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-05T17:19:08.182000Z",
+  "market_createdAt": "2021-10-05T17:19:08.182Z",
+  "market_updatedAt": "2024-04-26T02:45:22.834574Z",
+  "market_startDate": "2021-10-05T18:13:54.455Z",
+  "market_endDate": "2021-10-05T00:00:00Z",
+  "market_closedTime": "2021-10-06 04:09:40+00",
+  "conditionId": "0x794f2f70f63dee1335bd6044f0b467f6b7487739a962a1bc4b96542f972debf8",
+  "slug": "in-game-trading-will-the-yankees-or-red-sox-win-the-al-wild-card-game-on-october-5th",
+  "question": "(In-game Trading) Will the Yankees or Red Sox win the AL Wild Card game on October 5th?"
+}

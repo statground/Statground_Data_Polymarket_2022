@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239718",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-01T09:47:58.070000Z",
+  "market_createdAt": "2021-12-01T09:47:58.07Z",
+  "market_updatedAt": "2024-04-22T22:38:02.557021Z",
+  "market_startDate": "2021-12-02T19:23:40.828Z",
+  "market_endDate": "2021-12-17T00:00:00Z",
+  "market_closedTime": "2021-12-17 17:15:14+00",
+  "conditionId": "0x8f0fe48ea63faf6aca6ba366afe30a2e7030954a0b5ccdba762436159ce7e1a1",
+  "slug": "will-year-to-year-inflation-in-the-european-union-be-5pt2-or-more-in-november",
+  "question": "Will year-to-year inflation in the European Union be 5.2% or more in November?"
+}

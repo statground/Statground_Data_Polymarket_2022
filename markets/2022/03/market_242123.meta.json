@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242123",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-16T10:38:21.808000Z",
+  "market_createdAt": "2022-03-16T10:38:21.808Z",
+  "market_updatedAt": "2024-04-23T00:59:15.390216Z",
+  "market_startDate": "2022-03-16T17:12:30.249Z",
+  "market_endDate": "2022-03-16T00:00:00Z",
+  "market_closedTime": "2022-03-17 12:45:44+00",
+  "conditionId": "0x2a0f44c299354b0f2dbdcb5681c82d0533c1358b2655a5d15f52c6d519b3ff0f",
+  "slug": "nhl-will-the-flames-beat-the-devils-by-more-than-1pt5-goals-in-their-march-16-matchup-10-pm-et",
+  "question": "NHL: Will the Flames beat the Devils by more than 1.5 goals in their March 16 matchup (10 PM ET)?"
+}

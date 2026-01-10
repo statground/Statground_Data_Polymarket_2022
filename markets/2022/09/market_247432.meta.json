@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247432",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-30T20:57:57.047000Z",
+  "market_createdAt": "2022-09-30T20:57:57.047Z",
+  "market_updatedAt": "2023-01-31T20:31:17.16Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-02T00:00:00Z",
+  "market_closedTime": "2022-10-03 05:15:51+00",
+  "conditionId": "0x50962197baddea3ff7a6162ecb4806c4cdfd1b055c00f7691de0b0905033fc50",
+  "slug": "formula-1-will-max-verstappen-win-the-2022-singapore-grand-prix",
+  "question": "Formula 1: Will Max Verstappen win the 2022 Singapore Grand Prix?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239313",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-09T16:38:31.769000Z",
+  "market_createdAt": "2021-11-09T16:38:31.769Z",
+  "market_updatedAt": "2024-04-22T23:40:16.289324Z",
+  "market_startDate": "2021-11-09T16:57:24.226Z",
+  "market_endDate": "2021-11-20T00:00:00Z",
+  "market_closedTime": "2021-11-19 20:44:05+00",
+  "conditionId": "0x47b746292bb90cd50326f9669b3b09ceaecc0d2679733f994c7576cb3146eb89",
+  "slug": "will-the-build-back-better-act-pass-the-house-of-representatives-by-november-19-2021",
+  "question": "Will The Build Back Better Act pass the House of Representatives by November 19, 2021?"
+}

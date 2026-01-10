@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243870",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-28T02:30:20.683000Z",
+  "market_createdAt": "2022-04-28T02:30:20.683Z",
+  "market_updatedAt": "2023-01-31T14:44:58.223Z",
+  "market_startDate": "2022-04-28T03:05:42.789Z",
+  "market_endDate": "2022-04-30T00:00:00Z",
+  "market_closedTime": "2022-05-01 07:00:42+00",
+  "conditionId": "0xefdae5ab9ed43f8eeba3a0a77a924d83f240b1a1dfb8fb10c0c06b856a0c9d2c",
+  "slug": "2022-nfl-draft-will-breece-hall-be-the-first-rb-drafted",
+  "question": "2022 NFL Draft: Will Breece Hall be the first RB drafted?"
+}

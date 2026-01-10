@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239703",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-30T14:54:01.633000Z",
+  "market_createdAt": "2021-11-30T14:54:01.633Z",
+  "market_updatedAt": "2023-01-31T21:15:18.686Z",
+  "market_startDate": "2021-12-01T17:43:37.898Z",
+  "market_endDate": "2022-01-01T00:00:00Z",
+  "market_closedTime": "2022-01-01 18:40:58+00",
+  "conditionId": "0xe681cf6b2afad7020355ba997fb8b58c01f0d25910c8322aab382142728c7136",
+  "slug": "will-california-or-florida-have-a-higher-7-day-covid-19-case-average-on-christmas-eve",
+  "question": "Will California or Florida have a higher 7-day COVID-19 case average on Christmas Eve?"
+}

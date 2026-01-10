@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "223889",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-11T23:00:01.120000Z",
+  "market_createdAt": "2021-07-11T23:00:01.12Z",
+  "market_updatedAt": "2024-04-23T00:26:20.022531Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-11T00:00:00Z",
+  "market_closedTime": "2021-07-12 22:25:55+00",
+  "conditionId": "0xdea89af61dcc7c53899ebf1c690a821c4ada4457e2a5963b03e3fb4d4fe4706a",
+  "slug": "in-game-trading-who-will-win-bucks-v-suns-nba-finals-game-3",
+  "question": "(In-Game Trading) Who will win Bucks v. Suns: NBA Finals Game 3?"
+}

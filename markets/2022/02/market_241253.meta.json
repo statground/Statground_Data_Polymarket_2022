@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241253",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-02T12:20:12.168000Z",
+  "market_createdAt": "2022-02-02T12:20:12.168Z",
+  "market_updatedAt": "2024-04-23T00:57:54.428382Z",
+  "market_startDate": "2022-02-02T17:40:08.865Z",
+  "market_endDate": "2022-02-02T00:00:00Z",
+  "market_closedTime": "2022-02-04 21:09:00+00",
+  "conditionId": "0x43d30b85579f038f218ab107e9f0923f212e8e1d72f33cda27fec63ae776260b",
+  "slug": "nhl-will-the-flames-beat-the-coyotes-by-more-than-1p5-goals-in-their-february-2-matchup-930-pm-et",
+  "question": "NHL: Will the Flames beat the Coyotes by more than 1.5 goals in their February 2 matchup (9.30 PM ET)?"
+}

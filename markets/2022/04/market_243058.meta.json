@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243058",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-09T16:43:34.143000Z",
+  "market_createdAt": "2022-04-09T16:43:34.143Z",
+  "market_updatedAt": "2023-01-31T19:34:53.759Z",
+  "market_startDate": "2022-04-09T17:41:08.823Z",
+  "market_endDate": "2022-04-09T00:00:00Z",
+  "market_closedTime": "2022-04-10 06:47:01+00",
+  "conditionId": "0x32dc1bae312faa20c64fd3ca676dca29729c744f62d2204473284902d339b6b2",
+  "slug": "nba-will-the-clippers-beat-the-kings-by-more-than-11pt5-points-in-their-april-9-930-pm-et-matchup",
+  "question": "NBA: Will the Clippers beat the Kings by more than 11.5 points in their April 9 (9:30 PM ET) matchup?"
+}

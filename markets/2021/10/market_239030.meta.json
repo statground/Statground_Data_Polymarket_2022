@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239030",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-19T17:21:28.536000Z",
+  "market_createdAt": "2021-10-19T17:21:28.536Z",
+  "market_updatedAt": "2024-04-26T02:48:24.783887Z",
+  "market_startDate": "2021-10-19T21:20:15.971Z",
+  "market_endDate": "2021-10-20T00:00:00Z",
+  "market_closedTime": "2021-10-21 02:43:38+00",
+  "conditionId": "0x38f3bf77ecbd247abd643c9b64018e5c9840ade9684388ed9ef1b2fd712d6afb",
+  "slug": "who-will-win-the-celtics-v-knicks-game-on-october-20th",
+  "question": "(In-game Trading) Who will win the Celtics v. Knicks game on October 20th?"
+}

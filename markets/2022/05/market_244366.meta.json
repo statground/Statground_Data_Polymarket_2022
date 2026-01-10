@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244366",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-06T19:26:14.820000Z",
+  "market_createdAt": "2022-05-06T19:26:14.82Z",
+  "market_updatedAt": "2023-01-31T13:15:27.215Z",
+  "market_startDate": null,
+  "market_endDate": "2022-05-16T00:00:00Z",
+  "market_closedTime": "2022-05-17 06:15:45+00",
+  "conditionId": "0xcc119e0a78bd322cb70819cbed58543d336fd63dd1b0ee209327b1e41d0038af",
+  "slug": "will-andy-warhols-self-portrait-sell-for-more-than-16-million-at-sothebys",
+  "question": "Will Andy Warhol's Self Portrait sell for more than $16 million at Sotheby's?"
+}

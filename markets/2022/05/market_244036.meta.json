@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244036",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-03T08:23:05.722000Z",
+  "market_createdAt": "2022-05-03T08:23:05.722Z",
+  "market_updatedAt": "2023-01-30T07:47:20.31Z",
+  "market_startDate": "2022-05-03T16:51:08.804Z",
+  "market_endDate": "2022-05-03T00:00:00Z",
+  "market_closedTime": "2022-05-04 06:45:46+00",
+  "conditionId": "0xca06c9f5242974c4775723353be5f844674578ea555f36e598c2a25ff8bcabf0",
+  "slug": "mlb-who-will-win-minnesota-twins-vs-baltimore-orioles-scheduled-for-may-3-706-pm-et",
+  "question": "MLB: Who will win Minnesota Twins vs. Baltimore Orioles, scheduled for May 3, 7:06 PM ET?"
+}

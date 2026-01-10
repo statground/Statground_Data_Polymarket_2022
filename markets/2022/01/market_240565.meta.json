@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240565",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T19:11:28.306000Z",
+  "market_createdAt": "2022-01-11T19:11:28.306Z",
+  "market_updatedAt": "2024-04-24T23:22:57.723725Z",
+  "market_startDate": "2022-01-12T21:18:16.28Z",
+  "market_endDate": "2022-05-01T00:00:00Z",
+  "market_closedTime": "2022-05-02 22:16:06+00",
+  "conditionId": "0xa1872db75095c589b90b51fab8baa1f680ece7649d45d99918fabf13e2ad35e0",
+  "slug": "will-arbitrum-have-a-token-by-may-1st-2022",
+  "question": "Will Arbitrum have a token by May 1st, 2022?"
+}

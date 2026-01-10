@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247140",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-25T19:26:02.919000Z",
+  "market_createdAt": "2022-08-25T19:26:02.919Z",
+  "market_updatedAt": "2023-01-31T20:31:46.484Z",
+  "market_startDate": "2022-08-26T14:58:21.173Z",
+  "market_endDate": "2022-08-28T00:00:00Z",
+  "market_closedTime": "2022-08-28 22:31:08+00",
+  "conditionId": "0x04f427d7486dcfefc87ac91ca469f5ae3dfd33c7c41920bfb82cc3641b3febd4",
+  "slug": "formula-1-will-max-verstappen-win-the-2022-belgian-grand-prix",
+  "question": "Formula 1: Will Max Verstappen win the 2022 Belgian Grand Prix?"
+}

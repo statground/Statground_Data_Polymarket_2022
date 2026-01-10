@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241688",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-24T15:37:31.310000Z",
+  "market_createdAt": "2022-02-24T15:37:31.31Z",
+  "market_updatedAt": "2024-04-22T22:35:18.854165Z",
+  "market_startDate": "2022-03-04T15:59:55.043Z",
+  "market_endDate": "2022-04-20T00:00:00Z",
+  "market_closedTime": "2022-04-21 00:01:08+00",
+  "conditionId": "0x5010ce086d7cc7b07499d4c780f97ab8600313dfd4573caf4ab4e0b8656b428c",
+  "slug": "who-will-have-a-higher-net-worth-on-april-20th-mark-zuckerberg-or-michael-bloomberg",
+  "question": "Who will have a higher net worth on April 20th: Mark Zuckerberg or Michael Bloomberg?"
+}

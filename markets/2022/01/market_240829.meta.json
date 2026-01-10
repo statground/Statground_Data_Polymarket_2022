@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240829",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-18T18:36:08.668000Z",
+  "market_createdAt": "2022-01-18T18:36:08.668Z",
+  "market_updatedAt": "2024-04-22T23:32:50.518455Z",
+  "market_startDate": "2022-01-18T22:15:05.396Z",
+  "market_endDate": "2022-02-02T00:00:00Z",
+  "market_closedTime": "2022-02-04 23:39:20+00",
+  "conditionId": "0x4e44ffda97e9821bb0c0a387afa8c5858ea4091a9bb582b109c3c9b1b7f41d85",
+  "slug": "will-cobra-kai-season-4-be-the-1-netflix-show-worldwide-on-the-week-ending-january-30",
+  "question": "Will 'Cobra Kai: Season 4' be the #1 Netflix show worldwide on the week ending January 30?"
+}

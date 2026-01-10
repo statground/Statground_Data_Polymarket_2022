@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240370",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T01:38:53.929000Z",
+  "market_createdAt": "2022-01-11T01:38:53.929Z",
+  "market_updatedAt": "2024-04-23T00:21:44.537335Z",
+  "market_startDate": "2022-01-12T20:54:27.345Z",
+  "market_endDate": "2022-06-20T00:00:00Z",
+  "market_closedTime": "2022-06-06 22:30:37+00",
+  "conditionId": "0x2dd575d85f3d26f5061846dffc0dc0cdf24d04fbec8c755912b6e5936d4094c2",
+  "slug": "will-the-carolina-hurricanes-win-the-nhl-2021-22-stanley-cup",
+  "question": "Will the Carolina Hurricanes win the NHL 2021-22 Stanley Cup?"
+}

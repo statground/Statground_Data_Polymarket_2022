@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239364",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-10T21:44:41.310000Z",
+  "market_createdAt": "2021-11-10T21:44:41.31Z",
+  "market_updatedAt": "2024-04-23T00:40:15.859663Z",
+  "market_startDate": "2021-11-10T22:30:26.386Z",
+  "market_endDate": "2021-11-11T00:00:00Z",
+  "market_closedTime": "2021-11-12 19:42:53+00",
+  "conditionId": "0xb76f66320764eee45d8d23e2fc84b2c11ca292b471d0f056e89726cd4900b947",
+  "slug": "will-joan-miros-peinture-pome-lot-71c-sell-for-more-than-12m-at-christies-on-november-11",
+  "question": "Will Joan Miro's \"Peinture poème” (Lot 71C) sell for more than $12m at Christie’s on November 11?"
+}

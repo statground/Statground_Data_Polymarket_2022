@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240279",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-02T00:33:57.443000Z",
+  "market_createdAt": "2022-01-02T00:33:57.443Z",
+  "market_updatedAt": "2024-04-22T22:38:35.561861Z",
+  "market_startDate": "2022-01-02T19:31:24.831Z",
+  "market_endDate": "2022-01-09T00:00:00Z",
+  "market_closedTime": "2022-01-10 15:26:53+00",
+  "conditionId": "0x06fa2a763c442589dc2253957b4bb8fcc4639551576d712091c274ed81bfea8d",
+  "slug": "will-the-polygon-matic-market-cap-be-above-19-billion-on-january-9",
+  "question": "Will the Polygon ($MATIC) Market Cap be above $19 billion on January 9?"
+}

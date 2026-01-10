@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240852",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-19T11:38:18.302000Z",
+  "market_createdAt": "2022-01-19T11:38:18.302Z",
+  "market_updatedAt": "2024-04-22T23:49:38.547694Z",
+  "market_startDate": "2022-01-19T20:03:32.83Z",
+  "market_endDate": "2022-01-19T00:00:00Z",
+  "market_closedTime": "2022-01-21 13:25:17+00",
+  "conditionId": "0xa295d06296a56371e8920fd3cc380a5b65617c86643852d6c8c46224177d9c1a",
+  "slug": "nba-will-the-kings-beat-the-pistons-by-more-than-5p5-points-in-their-january-19-matchup",
+  "question": "NBA: Will the Kings beat the Pistons by more than 5.5 points in their January 19 matchup?"
+}

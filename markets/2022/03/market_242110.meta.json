@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242110",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-15T18:22:47.766000Z",
+  "market_createdAt": "2022-03-15T18:22:47.766Z",
+  "market_updatedAt": "2024-04-26T03:11:55.685823Z",
+  "market_startDate": "2022-03-15T18:42:41.351Z",
+  "market_endDate": "2023-03-14T00:00:00Z",
+  "market_closedTime": "2023-03-18 04:00:14+00",
+  "conditionId": "0x0ea37da314e0fd0b6abb8068db294c49ffa81774904e7758e9f2c933d1d29090",
+  "slug": "who-will-win-the-1m-bet-on-terras-luna-price-being-over-92pt40-do-kwon-or-algod",
+  "question": "Who will win the $1M bet on LUNA's price being over $92.40: Do Kwon or Sensei Algod?"
+}

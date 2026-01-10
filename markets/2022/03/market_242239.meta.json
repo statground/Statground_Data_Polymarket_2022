@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242239",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-18T12:16:16.853000Z",
+  "market_createdAt": "2022-03-18T12:16:16.853Z",
+  "market_updatedAt": "2023-01-31T18:34:09.768Z",
+  "market_startDate": "2022-03-18T16:19:25.078Z",
+  "market_endDate": "2022-03-18T00:00:00Z",
+  "market_closedTime": "2022-03-19 12:30:27+00",
+  "conditionId": "0x3aebc673f58e9cb5a8680b0fb69ae373e52c64ad881e4a42f4af6d41c09c2141",
+  "slug": "ncaab-who-will-win-michigan-st-spartans-vspt-davidson-wildcats-scheduled-for-march-18-940-pm-et",
+  "question": "NCAAB: Who will win Michigan St Spartans vs. Davidson Wildcats, scheduled for March 18, 9:40 PM ET?"
+}

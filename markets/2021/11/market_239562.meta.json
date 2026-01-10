@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239562",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-22T16:49:05.119000Z",
+  "market_createdAt": "2021-11-22T16:49:05.119Z",
+  "market_updatedAt": "2024-04-24T23:44:13.069017Z",
+  "market_startDate": "2021-11-22T19:35:40.492Z",
+  "market_endDate": "2021-11-22T00:00:00Z",
+  "market_closedTime": "2021-11-23 13:46:40+00",
+  "conditionId": "0x18e2c0089a29a2d8c8a65698c8b151777182c744fe06ab9f3d72123295a2e20f",
+  "slug": "nba-will-the-suns-beat-the-spurs-by-more-than-5pt5-points-in-their-november-22-matchup",
+  "question": "NBA: Will the Suns beat the Spurs by more than 5.5 points in their November 22 matchup?"
+}

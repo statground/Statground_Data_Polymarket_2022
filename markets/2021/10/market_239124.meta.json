@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239124",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-28T22:50:27.510000Z",
+  "market_createdAt": "2021-10-28T22:50:27.51Z",
+  "market_updatedAt": "2024-04-23T00:10:29.5572Z",
+  "market_startDate": "2021-10-29T18:19:41.617Z",
+  "market_endDate": "2021-11-15T00:00:00Z",
+  "market_closedTime": "2021-11-16 10:38:34+00",
+  "conditionId": "0x8602d8d7ee82da75583d5feff35679c18e9d7c9cd9ebd1468f220e0be90ecbe6",
+  "slug": "will-shiba-inu-shib-reach-market-cap-of-50-billion-by-november-15th",
+  "question": "Will Shiba Inu ($SHIB) reach market cap of $50 billion at any point on or before November 15th?"
+}

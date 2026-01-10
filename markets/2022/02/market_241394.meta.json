@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241394",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-09T17:30:04.001000Z",
+  "market_createdAt": "2022-02-09T17:30:04.001Z",
+  "market_updatedAt": "2024-04-23T00:45:01.25881Z",
+  "market_startDate": "2022-02-11T19:09:43.411Z",
+  "market_endDate": "2022-03-27T00:00:00Z",
+  "market_closedTime": "2022-03-28 09:54:49+00",
+  "conditionId": "0xff5edea413a8de0d338a031fc015f146f78e445b00bd6c97379e1620f5a57e34",
+  "slug": "oscars-2022-will-the-power-of-the-dog-win-the-best-picture",
+  "question": "Oscars 2022: Will 'The Power Of The Dog\" win the Best Picture?"
+}

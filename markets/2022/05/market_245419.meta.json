@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "245419",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-25T18:01:22.855000Z",
+  "market_createdAt": "2022-05-25T18:01:22.855Z",
+  "market_updatedAt": "2023-01-31T13:42:59.009Z",
+  "market_startDate": "2022-05-25T18:14:48.482Z",
+  "market_endDate": "2022-06-03T00:00:00Z",
+  "market_closedTime": "2022-06-03 19:15:53+00",
+  "conditionId": "0x5f3aeb3932616c00b25221b143104bed4adfc079bdff15da42b4639b381726ff",
+  "slug": "will-the-floor-price-of-goblintowns-be-above-1-eth-on-june-3",
+  "question": "Will the floor price of Goblintowns be above 1 ETH on June 3?"
+}

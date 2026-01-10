@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248203",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-14T18:17:20.603000Z",
+  "market_createdAt": "2022-12-14T18:17:20.603Z",
+  "market_updatedAt": "2023-02-10T01:03:37.407Z",
+  "market_startDate": null,
+  "market_endDate": "2023-02-15T00:00:00Z",
+  "market_closedTime": "2022-12-22 19:15:59+00",
+  "conditionId": "0x8f6fa8af6176b37ebd99317b6a9caf28ee61f29a807dcbd56074a01eb4d975b8",
+  "slug": "will-sbf-be-extradited-to-the-us-by-february-15-2023",
+  "question": "Will SBF be extradited to the US by February 15, 2023?"
+}

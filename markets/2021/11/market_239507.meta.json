@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239507",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-19T15:09:08.615000Z",
+  "market_createdAt": "2021-11-19T15:09:08.615Z",
+  "market_updatedAt": "2024-04-22T23:04:50.187493Z",
+  "market_startDate": "2021-11-19T19:42:13.041Z",
+  "market_endDate": "2021-11-19T00:00:00Z",
+  "market_closedTime": "2021-11-20 18:11:54+00",
+  "conditionId": "0x5a0895f798a6c2010b9fb34e861217f7538de2e79c022dd78335d36173bd2951",
+  "slug": "nba-will-the-hornets-beat-the-pacers-by-more-than-2pt5-points-in-their-november-19th-matchup",
+  "question": "NBA: Will the Hornets beat the Pacers by more than 2.5 points in their November 19th matchup?"
+}

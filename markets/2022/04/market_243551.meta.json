@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243551",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-21T20:19:46.156000Z",
+  "market_createdAt": "2022-04-21T20:19:46.156Z",
+  "market_updatedAt": "2024-04-23T00:20:43.482726Z",
+  "market_startDate": "2022-04-21T20:37:50.903Z",
+  "market_endDate": "2022-04-23T00:00:00Z",
+  "market_closedTime": "2022-04-24 07:17:43+00",
+  "conditionId": "0x1f3aa0b585ab91dee60cb2f7a1195b5f37db3eae7a920b67cf6a15c2fdd9c654",
+  "slug": "wbc-heavyweight-world-champion-who-will-win-tyson-fury-or-dillian-whyte",
+  "question": "WBC Heavyweight World Champion: Who will win - Tyson Fury or Dillian Whyte?"
+}

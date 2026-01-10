@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240958",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-23T12:21:17.060000Z",
+  "market_createdAt": "2022-01-23T12:21:17.06Z",
+  "market_updatedAt": "2024-04-22T23:18:06.631382Z",
+  "market_startDate": "2022-01-23T17:37:48.148Z",
+  "market_endDate": "2022-01-23T00:00:00Z",
+  "market_closedTime": "2022-01-25 05:41:01+00",
+  "conditionId": "0xfbe8d8a09643bff74213416c79386506b5ec4fdb148754f37e358221e4a6dcaf",
+  "slug": "nhl-will-the-penguins-beat-the-jets-by-more-than-1p5-goals-in-their-january-23-matchup",
+  "question": "NHL: Will the Penguins beat the Jets by more than 1.5 goals in their January 23 matchup?"
+}

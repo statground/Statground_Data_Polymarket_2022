@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239428",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-14T13:00:24.209000Z",
+  "market_createdAt": "2021-11-14T13:00:24.209Z",
+  "market_updatedAt": "2024-04-23T00:11:29.726151Z",
+  "market_startDate": "2021-11-15T19:10:46.539Z",
+  "market_endDate": "2021-11-16T00:00:00Z",
+  "market_closedTime": "2021-11-18 00:42:16+00",
+  "conditionId": "0x2f7ba70615657ec4b7025471368d5361b607772a891fb3383e0525317fc73ba9",
+  "slug": "who-will-win-the-argentina-v-brazil-soccer-game-on-november-16",
+  "question": "Who will win the Argentina v. Brazil soccer game on November 16?"
+}

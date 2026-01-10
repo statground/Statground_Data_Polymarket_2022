@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241655",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-23T17:45:08.373000Z",
+  "market_createdAt": "2022-02-23T17:45:08.373Z",
+  "market_updatedAt": "2024-04-22T22:45:09.298795Z",
+  "market_startDate": "2022-02-23T18:19:11.95Z",
+  "market_endDate": "2022-02-23T00:00:00Z",
+  "market_closedTime": "2022-02-24 21:21:11+00",
+  "conditionId": "0x940c0995effef31ccd2bab31a40aec33558593402e17bfbdca1fc3753ff75b6f",
+  "slug": "nhl-will-the-sabres-beat-the-canadiens-by-more-than-1p5-goals-in-their-february-23-matchup-700-pm-et",
+  "question": "NHL: Will the Sabres beat the Canadiens by more than 1.5 goals in their February 23 matchup (7:00 PM ET)?"
+}

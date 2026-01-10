@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241429",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-11T22:07:55.118000Z",
+  "market_createdAt": "2022-02-11T22:07:55.118Z",
+  "market_updatedAt": "2024-04-24T23:58:21.723388Z",
+  "market_startDate": "2022-02-11T22:28:49.265Z",
+  "market_endDate": "2022-02-13T00:00:00Z",
+  "market_closedTime": "2022-02-14 11:41:02+00",
+  "conditionId": "0x9ee1e13c2ca7eaef535271afc79ce18cf8f1da2a442ca8a875878a4ba7652012",
+  "slug": "will-the-rams-beat-the-bengals-by-more-than-3pt5-points-in-super-bowl-lvi",
+  "question": "Super Bowl LVI: Will the Rams beat the Bengals by more than 3.5 points?"
+}

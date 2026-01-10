@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239358",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-10T20:45:58.065000Z",
+  "market_createdAt": "2021-11-10T20:45:58.065Z",
+  "market_updatedAt": "2024-04-22T22:52:42.058551Z",
+  "market_startDate": "2021-11-10T22:29:09.744Z",
+  "market_endDate": "2021-11-11T00:00:00Z",
+  "market_closedTime": "2021-11-12 19:46:43+00",
+  "conditionId": "0x6ebdde5eeb6cd92d5c250cba32ce4448f9a320ed90574e94aa3b5f00969d1481",
+  "slug": "will-pablo-picassos-homme-la-pipe-lot-58c-sell-for-more-than-20m-at-christies-on-november-11",
+  "question": "Will Pablo Picasso's “Homme à la pipe” (Lot 58C) sell for more than $20m at Christie’s on November 11?"
+}

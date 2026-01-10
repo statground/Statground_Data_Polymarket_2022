@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246784",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-21T19:51:53.449000Z",
+  "market_createdAt": "2022-07-21T19:51:53.449Z",
+  "market_updatedAt": "2023-01-31T09:58:25.39Z",
+  "market_startDate": "2022-07-21T23:38:16.885Z",
+  "market_endDate": "2022-10-01T00:00:00Z",
+  "market_closedTime": "2022-10-01 20:15:50+00",
+  "conditionId": "0x63f35f579a2cdfdfaa9b9f9974eae04e2431d0429627cc82560a6660ad18a88c",
+  "slug": "will-joe-biden-be-president-of-the-usa-on-october-1-2022",
+  "question": "Will Joe Biden be President of the USA on October 1, 2022?"
+}

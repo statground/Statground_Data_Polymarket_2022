@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241327",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-04T15:20:55.061000Z",
+  "market_createdAt": "2022-02-04T15:20:55.061Z",
+  "market_updatedAt": "2024-04-23T00:22:46.299206Z",
+  "market_startDate": "2022-02-04T18:02:45.685Z",
+  "market_endDate": "2022-02-04T00:00:00Z",
+  "market_closedTime": "2022-02-07 02:53:16+00",
+  "conditionId": "0x6ecf39a4ad5fb0aedcfd335d9b2d31d580b0fd1cde087364fb4280071a9c023a",
+  "slug": "nba-will-the-raptors-beat-the-hawks-by-more-than-15-points-in-their-february-4-730-pm-et-matchup",
+  "question": "NBA: Will the Raptors beat the Hawks by more than 1.5 points in their February 4 (7.30 PM ET) matchup?"
+}

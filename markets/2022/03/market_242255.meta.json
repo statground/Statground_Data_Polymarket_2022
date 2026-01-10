@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242255",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-19T09:00:22.488000Z",
+  "market_createdAt": "2022-03-19T09:00:22.488Z",
+  "market_updatedAt": "2024-04-23T00:17:43.445864Z",
+  "market_startDate": "2022-03-19T17:17:56.632Z",
+  "market_endDate": "2022-03-19T00:00:00Z",
+  "market_closedTime": "2022-03-20 21:23:31+00",
+  "conditionId": "0x829c01fe441a0ad57385035aa390781cb3eb0c18cf7f23384688aa52aabcf173",
+  "slug": "nhl-who-will-win-islanders-vspt-stars-scheduled-for-march-19-200-pm-et",
+  "question": "NHL: Who will win Islanders vs. Stars, scheduled for March 19, 2:00 PM ET?"
+}

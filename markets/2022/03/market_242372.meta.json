@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242372",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-22T09:03:44.828000Z",
+  "market_createdAt": "2022-03-22T09:03:44.828Z",
+  "market_updatedAt": "2024-04-24T23:26:59.058781Z",
+  "market_startDate": "2022-03-22T16:29:47.207Z",
+  "market_endDate": "2022-03-22T00:00:00Z",
+  "market_closedTime": "2022-03-23 17:44:14+00",
+  "conditionId": "0xf35e1a1cd73f64518b29b6b246f411dde4ab95cb5b2e04823fb4de7e67fd9045",
+  "slug": "nhl-will-the-capitals-beat-the-blues-by-more-than-1pt5-goals-in-their-march-22-700-pm-et-matchup",
+  "question": "NHL: Will the Capitals beat the Blues by more than 1.5 goals in their March 22, 7:00 PM ET matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242120",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-16T00:46:42.695000Z",
+  "market_createdAt": "2022-03-16T00:46:42.695Z",
+  "market_updatedAt": "2023-01-31T21:15:18.809Z",
+  "market_startDate": "2022-03-16T17:43:18.954Z",
+  "market_endDate": "2022-04-30T00:00:00Z",
+  "market_closedTime": "2022-05-01 07:03:34+00",
+  "conditionId": "0x48b6175d6585d96d4ef9c14722a3a3cf97bbfc66e1e0341cec228e09c5063f3e",
+  "slug": "will-the-bill-making-daylight-savings-time-permanent-be-signed-into-law-by-april-30-2022",
+  "question": "Will the bill making Daylight Savings Time permanent be signed into law by April 30, 2022?"
+}

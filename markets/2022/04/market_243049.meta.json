@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243049",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-09T00:49:43.295000Z",
+  "market_createdAt": "2022-04-09T00:49:43.295Z",
+  "market_updatedAt": "2023-01-31T20:53:24.722Z",
+  "market_startDate": "2022-04-11T16:00:56.874Z",
+  "market_endDate": "2022-04-30T00:00:00Z",
+  "market_closedTime": "2022-05-01 20:00:51+00",
+  "conditionId": "0x94eb622b2218403990905c7b66ede7706b5816586132daf10e7234da00857872",
+  "slug": "will-ethereums-price-have-a-10-or-more-daily-change-on-any-day-in-april-2022",
+  "question": "Will Ethereum's price have a 10% or more daily change on any day in April 2022?"
+}

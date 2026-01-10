@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243212",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-13T06:45:40.154000Z",
+  "market_createdAt": "2022-04-13T06:45:40.154Z",
+  "market_updatedAt": "2023-01-31T14:32:59.687Z",
+  "market_startDate": "2022-04-13T14:38:49.074Z",
+  "market_endDate": "2022-05-31T00:00:00Z",
+  "market_closedTime": "2022-05-31 00:30:45+00",
+  "conditionId": "0xe10596f71fb8496f782e81e5c3ba3a6036cb3dfb6e217d76ec070a2fedd00613",
+  "slug": "2022-nba-playoffs-will-the-boston-celtics-win-the-eastern-conference",
+  "question": "2022 NBA Playoffs: Will the Boston Celtics win the Eastern Conference?"
+}

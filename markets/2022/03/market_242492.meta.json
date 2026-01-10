@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242492",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-25T18:21:41.670000Z",
+  "market_createdAt": "2022-03-25T18:21:41.67Z",
+  "market_updatedAt": "2024-04-22T22:40:07.230198Z",
+  "market_startDate": "2022-03-25T18:48:52.058Z",
+  "market_endDate": "2022-03-27T00:00:00Z",
+  "market_closedTime": "2022-03-28 09:47:55+00",
+  "conditionId": "0x8354b859e0172f46e0d54276975ca35db2ef1610a674512163c3d6fd63216ae9",
+  "slug": "oscars-2022-will-licorice-pizza-win-the-best-original-screenplay",
+  "question": "Oscars 2022: Will Licorice Pizza win Best Original Screenplay?"
+}

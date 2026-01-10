@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242310",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-20T09:04:54.425000Z",
+  "market_createdAt": "2022-03-20T09:04:54.425Z",
+  "market_updatedAt": "2024-04-22T22:41:18.73762Z",
+  "market_startDate": "2022-03-20T17:49:54.742Z",
+  "market_endDate": "2022-03-20T00:00:00Z",
+  "market_closedTime": "2022-03-21 20:42:37+00",
+  "conditionId": "0xff615f30de1046a1c461418176ec632ddada8dd73aa6c018e2c7557608cd5fdf",
+  "slug": "nba-who-will-win-magic-vspt-thunder-scheduled-for-march-20-610-pm-et",
+  "question": "NBA: Who will win Magic vs. Thunder, scheduled for March 20, 6:10 PM ET?"
+}

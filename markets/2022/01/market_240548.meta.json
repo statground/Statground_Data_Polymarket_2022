@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240548",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T18:53:27.348000Z",
+  "market_createdAt": "2022-01-11T18:53:27.348Z",
+  "market_updatedAt": "2024-04-22T22:26:25.659084Z",
+  "market_startDate": "2022-01-12T21:15:36.146Z",
+  "market_endDate": "2022-03-31T00:00:00Z",
+  "market_closedTime": "2022-04-02 06:45:32+00",
+  "conditionId": "0xb3cf5f975a80d2ecf1cbaf945108d46598c2c81974f10210148b2e6dc2e50c0c",
+  "slug": "will-nifty-gateway-airdrop-a-native-token-by-march-31st-2022",
+  "question": "Will Nifty Gateway airdrop a native token by March 31st, 2022?"
+}

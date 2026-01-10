@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246774",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-20T20:04:16.947000Z",
+  "market_createdAt": "2022-07-20T20:04:16.947Z",
+  "market_updatedAt": "2023-01-31T20:55:51.533Z",
+  "market_startDate": "2022-07-20T21:13:29.301Z",
+  "market_endDate": "2022-08-02T00:00:00Z",
+  "market_closedTime": "2022-08-03 16:45:42+00",
+  "conditionId": "0xc4e49e8350c1af5e31856d4cbda475c94f99c21fc5327a42a2382a861dc3851c",
+  "slug": "will-the-kansas-value-them-both-anti-abortion-amendment-pass",
+  "question": "Will the Kansas \"Value Them Both\" anti-abortion amendment pass?"
+}

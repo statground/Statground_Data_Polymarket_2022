@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218594",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-21T17:05:01.243000Z",
+  "market_createdAt": "2021-06-21T17:05:01.243Z",
+  "market_updatedAt": "2024-04-22T23:05:29.135254Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-22T00:00:00Z",
+  "market_closedTime": "2021-07-01 19:40:43+00",
+  "conditionId": "0x7e05ba72a2d2fddc387e779aef1640488d378c1d277cf3c46c0beceb42372c0c",
+  "slug": "will-the-clippers-win-the-2021-nba-finals-1",
+  "question": "Will the Clippers win the 2021 NBA Finals?"
+}

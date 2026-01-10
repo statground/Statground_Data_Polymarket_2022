@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "76",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-11-06T21:50:06.493000Z",
+  "market_createdAt": "2020-11-06T21:50:06.493Z",
+  "market_updatedAt": "2024-04-22T23:09:22.841848Z",
+  "market_startDate": null,
+  "market_endDate": "2021-01-01T00:00:00Z",
+  "market_closedTime": "2020-12-16 13:56:46+00",
+  "conditionId": "0xa670159e0a8868ed1ca0013cf026805c1c5ffbf778a1d5030218471620211222",
+  "slug": "will-btc-break-20k-before-2021",
+  "question": "Will $BTC break $20k before 2021?"
+}

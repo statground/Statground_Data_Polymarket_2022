@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243355",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-17T10:38:42.376000Z",
+  "market_createdAt": "2022-04-17T10:38:42.376Z",
+  "market_updatedAt": "2023-01-31T21:16:35.916Z",
+  "market_startDate": "2022-04-17T15:00:23.965Z",
+  "market_endDate": "2022-04-17T00:00:00Z",
+  "market_closedTime": "2022-04-18 06:30:42+00",
+  "conditionId": "0x1f6be2de979c250d6ca90a281f419eb5b1f33b8f722f8f4f262f0c712e574003",
+  "slug": "mlb-who-will-win-brewers-vs-cardinals-game-on-april-17",
+  "question": "MLB: Who will win Brewers vs. Cardinals game on April 17?"
+}

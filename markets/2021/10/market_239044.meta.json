@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239044",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-20T17:45:45.114000Z",
+  "market_createdAt": "2021-10-20T17:45:45.114Z",
+  "market_updatedAt": "2024-04-24T23:35:36.490752Z",
+  "market_startDate": "2021-10-21T03:45:59.15Z",
+  "market_endDate": "2021-10-21T00:00:00Z",
+  "market_closedTime": "2021-10-22 04:44:47+00",
+  "conditionId": "0xcf3c490242ee04bc4b801741af0b1d72ea78c1b12e283546abeb6486680c33cc",
+  "slug": "who-will-win-the-clippers-v-warriors-game-on-october-21st",
+  "question": "(In-Game Trading) Who will win the Clippers v. Warriors game on October 21st?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247693",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-18T20:06:25.166000Z",
+  "market_createdAt": "2022-10-18T20:06:25.166Z",
+  "market_updatedAt": "2023-01-31T21:06:30.689Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-20T00:00:00Z",
+  "market_closedTime": "2022-10-21 07:00:51+00",
+  "conditionId": "0x8aca0d3726a22c47e6a0b1e50a86eac32eeb43ff415f16105220d87311b53f9e",
+  "slug": "nfl-thursday-saints-vs-cardinals",
+  "question": "NFL Thursday: Saints vs. Cardinals"
+}

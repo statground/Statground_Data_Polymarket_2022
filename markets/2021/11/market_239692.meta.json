@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239692",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-30T11:10:38.916000Z",
+  "market_createdAt": "2021-11-30T11:10:38.916Z",
+  "market_updatedAt": "2024-04-22T22:23:25.734893Z",
+  "market_startDate": "2021-11-30T18:25:11.628Z",
+  "market_endDate": "2021-11-30T00:00:00Z",
+  "market_closedTime": "2021-12-02 06:43:40+00",
+  "conditionId": "0xebc94f386a579ab4b7f06130c558cf3d484224f2823810cfefb54cffc6b39573",
+  "slug": "nba-will-the-trail-blazers-beat-the-pistons-by-more-than-9pt5-points-in-their-november-30th-matchup",
+  "question": "NBA: Will the Trail Blazers beat the Pistons by more than 9.5 points in their November 30th matchup?"
+}

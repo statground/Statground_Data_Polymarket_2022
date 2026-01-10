@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241923",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-05T14:28:52.985000Z",
+  "market_createdAt": "2022-03-05T14:28:52.985Z",
+  "market_updatedAt": "2024-04-23T00:57:28.368419Z",
+  "market_startDate": "2022-03-05T15:15:27.708Z",
+  "market_endDate": "2022-03-05T00:00:00Z",
+  "market_closedTime": "2022-03-06 19:00:38+00",
+  "conditionId": "0x4a53b9d4a988ae75dc45dd4e4b549c61308d429092678c937ef960a3ace81754",
+  "slug": "nhl-will-the-senators-beat-the-coyotes-by-more-than-1pt5-goals-in-their-march-5-matchup-4-pm-et",
+  "question": "NHL: Will the Senators beat the Coyotes by more than 1.5 goals in their March 5 matchup (4 PM ET)?"
+}

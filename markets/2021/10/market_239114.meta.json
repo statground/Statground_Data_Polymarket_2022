@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239114",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-28T09:11:13.018000Z",
+  "market_createdAt": "2021-10-28T09:11:13.018Z",
+  "market_updatedAt": "2024-04-22T22:52:54.986243Z",
+  "market_startDate": "2021-10-28T17:23:39.269Z",
+  "market_endDate": "2021-10-28T00:00:00Z",
+  "market_closedTime": "2021-10-29 17:01:49+00",
+  "conditionId": "0x3ed1938382c8eb28c9b8c3a9d2aac895d61e99715641bc42d47a9de2fc148dbd",
+  "slug": "will-the-jazz-beat-the-rockets-by-more-than-9pt5-points-in-their-october-28th-matchup",
+  "question": "Will the Jazz beat the Rockets by more than 9.5 points in their October 28th matchup?"
+}

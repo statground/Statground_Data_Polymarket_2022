@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242086",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-15T01:50:08.611000Z",
+  "market_createdAt": "2022-03-15T01:50:08.611Z",
+  "market_updatedAt": "2024-04-23T00:13:59.749673Z",
+  "market_startDate": "2022-03-15T18:45:15.473Z",
+  "market_endDate": "2022-05-11T00:00:00Z",
+  "market_closedTime": "2022-05-06 07:23:48+00",
+  "conditionId": "0x117b9f0d7af8858fb71370ce7f69367525a8797f0cb7ad3ae3031b30a61fa9c5",
+  "slug": "will-the-fed-set-interest-rates-above-0pt75-after-their-scheduled-may-meeting",
+  "question": "Will the Fed set interest rates above 0.75% after their scheduled May meeting?"
+}

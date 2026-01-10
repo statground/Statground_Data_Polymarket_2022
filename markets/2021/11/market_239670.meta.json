@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239670",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-29T10:29:09.400000Z",
+  "market_createdAt": "2021-11-29T10:29:09.4Z",
+  "market_updatedAt": "2024-04-22T23:23:13.803339Z",
+  "market_startDate": "2021-11-29T17:28:36.366Z",
+  "market_endDate": "2021-11-29T00:00:00Z",
+  "market_closedTime": "2021-11-30 13:54:44+00",
+  "conditionId": "0x556c528a71f8a2f40558b2da6bae289dac10a1b821c32a66355fe5599260e075",
+  "slug": "nba-will-the-jazz-beat-the-trail-blazers-by-more-than-7pt5-points-in-their-november-29th-matchup",
+  "question": "NBA: Will the Jazz beat the Trail Blazers by more than 7.5 points in their November 29th matchup?"
+}

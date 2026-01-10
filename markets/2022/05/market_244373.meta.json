@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244373",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-06T20:41:46.411000Z",
+  "market_createdAt": "2022-05-06T20:41:46.411Z",
+  "market_updatedAt": "2023-01-31T21:05:57.024Z",
+  "market_startDate": "2022-05-07T01:44:32.331Z",
+  "market_endDate": "2022-07-14T00:00:00Z",
+  "market_closedTime": "2022-07-05 19:01:01+00",
+  "conditionId": "0x2fa60febf3ab1087566f1c6f05105581251f35d0a5464b651f879888b60e8742",
+  "slug": "will-hugo-duminil-copin-win-the-2022-fields-medal",
+  "question": "Will Hugo Duminil-Copin win the 2022 Fields Medal?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239331",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-10T09:46:57.556000Z",
+  "market_createdAt": "2021-11-10T09:46:57.556Z",
+  "market_updatedAt": "2024-04-23T00:01:43.640077Z",
+  "market_startDate": "2021-11-10T17:38:02.207Z",
+  "market_endDate": "2021-11-10T00:00:00Z",
+  "market_closedTime": "2021-11-11 22:17:46+00",
+  "conditionId": "0xcf03cefbf913ba904852a883f1747aa53135454f8f6ef868bf4e2077d79ef3b6",
+  "slug": "nba-will-the-wizards-beat-the-cavaliers-by-more-than-3pt5-points-in-their-november-10th-matchup",
+  "question": "NBA: Will the Wizards beat the Cavaliers by more than 3.5 points in their November 10th matchup?"
+}

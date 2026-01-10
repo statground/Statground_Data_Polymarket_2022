@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243056",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-09T16:41:09.986000Z",
+  "market_createdAt": "2022-04-09T16:41:09.986Z",
+  "market_updatedAt": "2023-01-31T17:38:39.918Z",
+  "market_startDate": "2022-04-09T17:40:54.574Z",
+  "market_endDate": "2022-04-09T00:00:00Z",
+  "market_closedTime": "2022-04-10 06:47:17+00",
+  "conditionId": "0x95485b8010ebd4e9a4d3d76523f34fc3ae104276c04bcd203b728423d8f4a399",
+  "slug": "nba-will-the-grizzlies-beat-the-pelicans-by-more-than-6pt5-points-in-their-april-9-6-pm-et-matchup",
+  "question": "NBA: Will the Grizzlies beat the Pelicans by more than 6.5 points in their April 9 (6 PM ET) matchup?"
+}

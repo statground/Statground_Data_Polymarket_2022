@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240178",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-23T20:38:13.131000Z",
+  "market_createdAt": "2021-12-23T20:38:13.131Z",
+  "market_updatedAt": "2024-04-23T00:28:43.520391Z",
+  "market_startDate": "2021-12-25T07:25:26.279Z",
+  "market_endDate": "2021-12-25T00:00:00Z",
+  "market_closedTime": "2021-12-26 14:32:11+00",
+  "conditionId": "0x0da4b80a0ee6a6465ee0ee9f736dd04edb0865037206cd57e79983768891f2e1",
+  "slug": "nba-will-the-jazz-beat-the-mavericks-by-more-than-4pt5-points-in-their-december-25-matchup",
+  "question": "NBA: Will the Jazz beat the Mavericks by more than 4.5 points in their December 25 matchup?"
+}

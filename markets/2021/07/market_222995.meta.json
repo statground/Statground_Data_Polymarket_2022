@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "222995",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-08T21:15:01.077000Z",
+  "market_createdAt": "2021-07-08T21:15:01.077Z",
+  "market_updatedAt": "2024-04-22T23:56:14.143749Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-19T00:00:00Z",
+  "market_closedTime": "2021-07-19 22:11:13+00",
+  "conditionId": "0x3c82772ec524dcb3d4562af28c80ca9f1ca080a518af440b68f463c977d2286c",
+  "slug": "what-will-the-price-of-eth-be-on-july-19",
+  "question": "What will the price of $ETH be on July 19?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "245023",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-19T08:04:53.869000Z",
+  "market_createdAt": "2022-05-19T08:04:53.869Z",
+  "market_updatedAt": "2023-01-31T20:44:33.687Z",
+  "market_startDate": "2022-05-19T14:47:25.68Z",
+  "market_endDate": "2022-05-19T00:00:00Z",
+  "market_closedTime": "2022-05-20 07:00:48+00",
+  "conditionId": "0x85849a1e9a07287a8c17b876ba735af9c1c8fc4b79ca4b3d99b9cc0c4ad2358b",
+  "slug": "nba-who-will-win-heat-vs-celtics-scheduled-for-may-19-830-pm-et",
+  "question": "NBA: Who will win Heat vs. Celtics, scheduled for May 19, 8:30 PM ET?"
+}

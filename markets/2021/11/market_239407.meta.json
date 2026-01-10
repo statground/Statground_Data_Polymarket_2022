@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239407",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-13T01:47:45.597000Z",
+  "market_createdAt": "2021-11-13T01:47:45.597Z",
+  "market_updatedAt": "2024-04-22T23:27:58.239642Z",
+  "market_startDate": "2021-11-15T18:06:45.002Z",
+  "market_endDate": "2021-11-27T00:00:00Z",
+  "market_closedTime": "2021-11-27 21:07:50+00",
+  "conditionId": "0xd24cd7105315cbf7574d4cd9c9cc4d4c565c358b463295b040f80e287cbeb079",
+  "slug": "will-total-value-locked-in-defi-be-115-billion-or-higher-on-november-27th",
+  "question": "Will total value locked in DeFi be $115 billion or higher on November 27th?"
+}

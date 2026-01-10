@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243060",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-09T16:53:41.676000Z",
+  "market_createdAt": "2022-04-09T16:53:41.676Z",
+  "market_updatedAt": "2023-01-31T15:30:21.137Z",
+  "market_startDate": "2022-04-09T17:41:46.455Z",
+  "market_endDate": "2022-04-09T00:00:00Z",
+  "market_closedTime": "2022-04-10 06:48:09+00",
+  "conditionId": "0x77a34649e389967e57d84c3ab5e2ff3f3130de7d7071761c686809635948fb1c",
+  "slug": "nhl-will-the-maple-leafs-beat-the-canadiens-by-more-than-2pt5-goals-in-their-april-9-matchup-7-pm-et",
+  "question": "NHL: Will the Maple Leafs beat the Canadiens by more than 2.5 goals in their April 9 matchup (7 PM ET)?"
+}

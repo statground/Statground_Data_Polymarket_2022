@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "86514",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-14T01:55:02.133000Z",
+  "market_createdAt": "2021-02-14T01:55:02.133Z",
+  "market_updatedAt": "2024-04-22T23:11:00.489889Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-14T00:00:00Z",
+  "market_closedTime": "2021-02-15 18:46:32+00",
+  "conditionId": "0xc771be9564f5db205a7f1c1f0bfb79c906445d3f4604cc635840f193c002e15a",
+  "slug": "will-the-lakers-or-the-nuggets-win-their-february-14th-matchup",
+  "question": "Will the Lakers or the Nuggets win their February 14th matchup?"
+}

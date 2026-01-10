@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239198",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-02T09:47:21.907000Z",
+  "market_createdAt": "2021-11-02T09:47:21.907Z",
+  "market_updatedAt": "2024-04-26T02:49:19.404766Z",
+  "market_startDate": "2021-11-02T16:59:13.068Z",
+  "market_endDate": "2021-11-07T00:00:00Z",
+  "market_closedTime": "2021-11-08 12:55:01+00",
+  "conditionId": "0xa8b12fc11d1842456af718aacc5e5017eb9be72adaf8efb1be0bc490097e68f6",
+  "slug": "formula-one-will-max-verstappen-finish-ahead-of-lewis-hamilton-in-the-mexican-grand-prix",
+  "question": "Formula One: Will Max Verstappen finish ahead of Lewis Hamilton in the Mexican Grand Prix?"
+}

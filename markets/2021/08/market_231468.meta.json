@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "231468",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-09T21:00:01.545000Z",
+  "market_createdAt": "2021-08-09T21:00:01.545Z",
+  "market_updatedAt": "2024-04-22T22:54:24.511137Z",
+  "market_startDate": "2021-08-11T16:40:52.541Z",
+  "market_endDate": "2021-08-24T00:00:00Z",
+  "market_closedTime": "2021-08-27 16:21:24+00",
+  "conditionId": "0x0041067f48f7168d9065847d8ced235bd60e57c3009e2f3c7e225107e8ac81f3",
+  "slug": "how-many-new-us-residential-sales-will-the-us-census-bureau-report-for-july",
+  "question": "How many new US residential sales will the U.S. Census Bureau report for July?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218858",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-24T16:10:01.135000Z",
+  "market_createdAt": "2021-06-24T16:10:01.135Z",
+  "market_updatedAt": "2024-04-24T23:59:33.630906Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-25T00:00:00Z",
+  "market_closedTime": "2021-06-27 03:26:19+00",
+  "conditionId": "0x6950d09f82ea2f6531c241d6fff711248cfb401713f1844be47cf8965463bbdb",
+  "slug": "who-will-win-bucks-v-hawks-eastern-conference-finals-game-2",
+  "question": "Who will win Bucks v. Hawks: Eastern Conference Finals Game 2?"
+}

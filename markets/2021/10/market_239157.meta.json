@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239157",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-30T13:39:53.155000Z",
+  "market_createdAt": "2021-10-30T13:39:53.155Z",
+  "market_updatedAt": "2024-04-23T00:08:31.179332Z",
+  "market_startDate": "2021-10-30T19:13:24.012Z",
+  "market_endDate": "2021-10-30T00:00:00Z",
+  "market_closedTime": "2021-10-31 16:43:41+00",
+  "conditionId": "0x7e97d0eb92208ba9780216591236247426d8d413dc7a2d22c3226dd8ce97c97c",
+  "slug": "will-the-grizzlies-beat-the-heat-by-more-than-2pt5-points-in-their-october-30th-matchup",
+  "question": "Will the Grizzlies beat the Heat by more than 2.5 points in their October 30th matchup?"
+}

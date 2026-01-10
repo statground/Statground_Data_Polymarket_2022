@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239886",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-07T11:38:50.835000Z",
+  "market_createdAt": "2021-12-07T11:38:50.835Z",
+  "market_updatedAt": "2024-04-22T23:53:20.882884Z",
+  "market_startDate": "2021-12-09T18:47:03.324Z",
+  "market_endDate": "2021-12-09T00:00:00Z",
+  "market_closedTime": "2021-12-10 13:12:15+00",
+  "conditionId": "0xe9c8cb0970d3e4686ffac4e2ddc2d3deb71bfbe3682a111ca1a46a90e5bba49b",
+  "slug": "nfl-will-the-sum-of-points-in-vikings-v-steelers-be-more-than-44pt5",
+  "question": "NFL: Will the sum of points in Vikings v. Steelers be more than 44.5?"
+}

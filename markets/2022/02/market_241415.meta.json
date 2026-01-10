@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241415",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-11T09:56:22.177000Z",
+  "market_createdAt": "2022-02-11T09:56:22.177Z",
+  "market_updatedAt": "2024-04-22T23:55:34.295094Z",
+  "market_startDate": "2022-02-11T20:02:39.314Z",
+  "market_endDate": "2022-02-11T00:00:00Z",
+  "market_closedTime": "2022-02-13 05:08:54+00",
+  "conditionId": "0x02b26b963d461015770548057dc1d7068fcf4bb4057f26f27a8859d0d7ad7797",
+  "slug": "nba-who-will-win-the-celtics-vs-nuggets-scheduled-for-february-11-730-pm-et",
+  "question": "NBA: Who will win the Celtics vs. Nuggets, scheduled for February 11 (7.30 PM ET)?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241109",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-27T12:35:01.906000Z",
+  "market_createdAt": "2022-01-27T12:35:01.906Z",
+  "market_updatedAt": "2023-08-20T19:56:47.015Z",
+  "market_startDate": "2022-01-27T21:20:51.007Z",
+  "market_endDate": "2022-01-27T00:00:00Z",
+  "market_closedTime": "2022-01-31 18:43:25+00",
+  "conditionId": "0x4c589474dc37ca37b8d467f447b55067fd8dedd3ac9d02dae281489ff2006c6d",
+  "slug": "nhl-will-the-blues-beat-the-flames-by-more-than-1p5-goals-in-their-january-27-matchup-8-pm-et",
+  "question": "NHL: Will the Blues beat the Flames by more than 1.5 goals in their January 27 matchup (8 PM ET)?"
+}

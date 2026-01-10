@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243609",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-23T08:11:49.190000Z",
+  "market_createdAt": "2022-04-23T08:11:49.19Z",
+  "market_updatedAt": "2023-01-31T18:46:10.746Z",
+  "market_startDate": "2022-04-23T16:33:32.659Z",
+  "market_endDate": "2022-04-23T00:00:00Z",
+  "market_closedTime": "2022-04-24 07:17:01+00",
+  "conditionId": "0x718e13a4d22bb20b09619e3c5945ac0eec081196653ab3af8d0a7a62322fe960",
+  "slug": "nba-will-the-jazz-beat-the-mavericks-by-more-than-5pt5-points-in-their-april-23-430-pm-et-matchup",
+  "question": "NBA: Will the Jazz beat the Mavericks by more than 5.5 points in their April 23, 4:30 PM ET matchup?"
+}

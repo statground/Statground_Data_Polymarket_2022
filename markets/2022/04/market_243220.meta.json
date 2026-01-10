@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243220",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-13T13:30:48.428000Z",
+  "market_createdAt": "2022-04-13T13:30:48.428Z",
+  "market_updatedAt": "2023-01-31T21:25:30.017Z",
+  "market_startDate": "2022-04-13T15:28:33.562Z",
+  "market_endDate": "2022-04-13T00:00:00Z",
+  "market_closedTime": "2022-04-14 06:30:58+00",
+  "conditionId": "0x6b229b57efecbf8e537625d169f3cb2429a73ce6ced6077d1070edcacd36d368",
+  "slug": "mlb-who-will-win-guardians-vs-reds-game-on-april-13",
+  "question": "MLB: Who will win Guardians vs. Reds game on April 13?"
+}

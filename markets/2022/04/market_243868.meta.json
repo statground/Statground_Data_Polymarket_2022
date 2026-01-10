@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243868",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-28T02:22:54.345000Z",
+  "market_createdAt": "2022-04-28T02:22:54.345Z",
+  "market_updatedAt": "2023-01-31T19:56:16.635Z",
+  "market_startDate": "2022-04-28T03:05:04.53Z",
+  "market_endDate": "2022-04-30T00:00:00Z",
+  "market_closedTime": "2022-04-29 07:18:01+00",
+  "conditionId": "0x820ec49a23a3409dd47b97e1f530d2ddb0bbbad0361287c5ba77ba38070e95a6",
+  "slug": "2022-nfl-draft-will-ahmad-gardner-be-in-the-top-4-picks",
+  "question": "2022 NFL Draft: Will Ahmad Gardner be in the top 4 picks?"
+}

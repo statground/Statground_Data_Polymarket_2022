@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "214802",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-09T19:15:01.046000Z",
+  "market_createdAt": "2021-06-09T19:15:01.046Z",
+  "market_updatedAt": "2024-04-23T00:56:57.892525Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-12T00:00:00Z",
+  "market_closedTime": "2021-06-13 17:46:23+00",
+  "conditionId": "0x0d6515b6417ffb3a11e56d2c2e3a24a86f7c0e89352d26707015827c51852eb8",
+  "slug": "will-vinnie-hacker-ko-tko-or-retire-deji",
+  "question": "Will Vinnie Hacker KO, TKO, or retire Deji? "
+}

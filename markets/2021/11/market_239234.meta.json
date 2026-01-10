@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239234",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-03T17:22:42.284000Z",
+  "market_createdAt": "2021-11-03T17:22:42.284Z",
+  "market_updatedAt": "2024-04-23T00:27:46.606875Z",
+  "market_startDate": "2021-11-03T17:35:39.008Z",
+  "market_endDate": "2021-11-13T00:00:00Z",
+  "market_closedTime": "2021-11-14 19:54:25+00",
+  "conditionId": "0x8016ee0747caee9a29cca93ed01eaeed69e6e8c3d967215c21c78c757121ccfa",
+  "slug": "will-daily-atmospheric-co2-be-above-414-ppm-on-november-13-2021",
+  "question": "Will daily atmospheric CO2 be above 414 ppm on November 13, 2021?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244269",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-05T08:02:42.812000Z",
+  "market_createdAt": "2022-05-05T08:02:42.812Z",
+  "market_updatedAt": "2023-01-31T20:59:49.024Z",
+  "market_startDate": "2022-05-05T16:01:26.446Z",
+  "market_endDate": "2022-05-05T00:00:00Z",
+  "market_closedTime": "2022-05-06 07:15:40+00",
+  "conditionId": "0x2cdc64cc31f953d716e9f61dc508e1e6db701b606ef728bcec1f2a6b90a5abeb",
+  "slug": "nhl-who-will-win-avalanche-vs-predators-scheduled-for-may-5-930-pm-et",
+  "question": "NHL: Who will win Avalanche vs. Predators, scheduled for May 5, 9:30 PM ET?"
+}

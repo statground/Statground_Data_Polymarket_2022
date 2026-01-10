@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248125",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-22T19:50:00.290000Z",
+  "market_createdAt": "2022-11-22T19:50:00.29Z",
+  "market_updatedAt": "2023-01-31T17:06:25.021Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-31T00:00:00Z",
+  "market_closedTime": "2023-01-02 22:00:43+00",
+  "conditionId": "0xcef21341148a96ca68ccbeeb0401cb62eaa4ea9b9ec46b9ee5a5fc9aaa6505c9",
+  "slug": "will-eth-dip-below-1000-before-2023",
+  "question": "Will $ETH dip below $1000 by EOY?"
+}

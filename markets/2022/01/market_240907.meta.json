@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240907",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-21T10:53:03.428000Z",
+  "market_createdAt": "2022-01-21T10:53:03.428Z",
+  "market_updatedAt": "2024-04-26T02:45:05.661816Z",
+  "market_startDate": "2022-01-21T21:46:42.673Z",
+  "market_endDate": "2022-01-21T00:00:00Z",
+  "market_closedTime": "2022-01-24 21:57:22+00",
+  "conditionId": "0x39393011b513296315520930554bbedae14e742c91d66452b1b08aeeec7b7a1e",
+  "slug": "nba-will-the-nets-beat-the-spurs-by-more-than-2p5-points-in-their-january-21-matchup",
+  "question": "NBA: Will the Nets beat the Spurs by more than 2.5 points in their January 21 matchup?"
+}

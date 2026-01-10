@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238729",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-09T18:30:01.655000Z",
+  "market_createdAt": "2021-09-09T18:30:01.655Z",
+  "market_updatedAt": "2024-04-22T22:55:28.026856Z",
+  "market_startDate": "2021-09-09T22:51:10.845Z",
+  "market_endDate": "2021-09-12T00:00:00Z",
+  "market_closedTime": "2021-09-12 21:42:40+00",
+  "conditionId": "0x30d3ce3e152376c08a4ac322f44b54afcec95c405e90dc5a1796f00a5471369c",
+  "slug": "seahawks-3-v-colts-spread",
+  "question": "Seahawks (-3) v. Colts Spread"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244404",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-08T08:02:36.476000Z",
+  "market_createdAt": "2022-05-08T08:02:36.476Z",
+  "market_updatedAt": "2023-01-31T02:45:00.342Z",
+  "market_startDate": "2022-05-08T15:39:27.815Z",
+  "market_endDate": "2022-05-08T00:00:00Z",
+  "market_closedTime": "2022-05-09 06:45:57+00",
+  "conditionId": "0x1817d965cf8639e8f12b751b043f4054fed09ef98d20e30d679a1fe0da3bbdbd",
+  "slug": "nhl-who-will-win-blues-vs-wild-scheduled-for-may-8-430-pm-et",
+  "question": "NHL: Who will win Blues vs. Wild, scheduled for May 8, 4:30 PM ET?"
+}

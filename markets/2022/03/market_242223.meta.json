@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242223",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-18T12:11:37.353000Z",
+  "market_createdAt": "2022-03-18T12:11:37.353Z",
+  "market_updatedAt": "2024-04-22T23:37:51.774057Z",
+  "market_startDate": "2022-03-18T16:15:40.527Z",
+  "market_endDate": "2022-03-18T00:00:00Z",
+  "market_closedTime": "2022-03-19 12:15:29+00",
+  "conditionId": "0x279b5c847ac33e3c0b29247eeec9a8d110c82f0f4db7020955ca51471a14064d",
+  "slug": "nba-will-the-suns-beat-the-bulls-by-more-than-6pt5-points-in-their-march-18-1010-pm-et-matchup",
+  "question": "NBA: Will the Suns beat the Bulls by more than 6.5 points in their March 18, 10:10 PM ET matchup?"
+}

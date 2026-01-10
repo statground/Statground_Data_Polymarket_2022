@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239280",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-06T19:37:43.292000Z",
+  "market_createdAt": "2021-11-06T19:37:43.292Z",
+  "market_updatedAt": "2024-04-22T22:59:48.793875Z",
+  "market_startDate": "2021-11-07T01:03:41.271Z",
+  "market_endDate": "2021-11-07T00:00:00Z",
+  "market_closedTime": "2021-11-08 13:37:17+00",
+  "conditionId": "0x3fe4f11eb03aeef2df9b7565a51df3d9f51e883fbaf2c38bbba888ab25c6d716",
+  "slug": "nfl-will-the-dolphins-beat-the-texans-by-more-than-5pt5-points-in-their-november-7th-matchup",
+  "question": "NFL: Will the Dolphins beat the Texans by more than 5.5 points in their November 7th matchup?"
+}

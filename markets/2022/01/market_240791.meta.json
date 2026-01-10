@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240791",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-17T16:52:55.655000Z",
+  "market_createdAt": "2022-01-17T16:52:55.655Z",
+  "market_updatedAt": "2024-04-22T23:26:33.865103Z",
+  "market_startDate": "2022-01-17T17:49:37.212Z",
+  "market_endDate": "2022-01-17T00:00:00Z",
+  "market_closedTime": "2022-01-19 21:33:36+00",
+  "conditionId": "0x50322625c8bb3501e8f2ccd2a3db8fda7bcebafdbfdfab6746cb20cbf77ed6f3",
+  "slug": "nba-will-the-mavericks-beat-the-thunder-by-more-than-10p5-points-in-their-january-17-matchup",
+  "question": "NBA: Will the Mavericks beat the Thunder by more than 10.5 points in their January 17 matchup?"
+}

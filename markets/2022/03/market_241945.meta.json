@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241945",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-07T10:08:21.280000Z",
+  "market_createdAt": "2022-03-07T10:08:21.28Z",
+  "market_updatedAt": "2024-04-22T23:24:00.36769Z",
+  "market_startDate": null,
+  "market_endDate": "2022-03-07T00:00:00Z",
+  "market_closedTime": "2022-03-08 19:02:50+00",
+  "conditionId": "0x9d58e1c8652558b9488670d1503be455bd438b691a12790a72c4e55d90e1df7e",
+  "slug": "nhl-will-the-avalanche-beat-the-islanders-by-more-than-1pt5-goals-in-their-march-7-matchup-7pt30-pm-et",
+  "question": "NHL: Will the Avalanche beat the Islanders by more than 1.5 goals in their March 7 matchup (7.30 PM ET)?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241416",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-11T09:57:42.164000Z",
+  "market_createdAt": "2022-02-11T09:57:42.164Z",
+  "market_updatedAt": "2024-04-22T23:26:05.718161Z",
+  "market_startDate": "2022-02-11T20:03:51.316Z",
+  "market_endDate": "2022-02-11T00:00:00Z",
+  "market_closedTime": "2022-02-13 04:50:12+00",
+  "conditionId": "0xa3574fc07f6b45e12d9be65efe235406961d2e65b52a33c40410fc130d83a10d",
+  "slug": "nhl-will-the-oilers-beat-the-islanders-by-more-than-1p5-goals-in-their-february-11-matchup-9-pm-et",
+  "question": "NHL: Will the Oilers beat the Islanders by more than 1.5 goals in their February 11 matchup (9 PM ET)?"
+}

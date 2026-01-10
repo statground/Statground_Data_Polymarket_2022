@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "90486",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-17T18:25:03.480000Z",
+  "market_createdAt": "2021-02-17T18:25:03.48Z",
+  "market_updatedAt": "2024-04-23T00:37:53.670718Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-18T00:00:00Z",
+  "market_closedTime": "2021-02-22 15:53:18+00",
+  "conditionId": "0xa0bdddf897491e2a1a3f27c0b8934812139bbd0ad02e83379c399c64a5a95890",
+  "slug": "will-the-raptors-or-the-bucks-win-their-february-18th-matchup",
+  "question": "Will the Raptors or the Bucks win their February 18th matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218574",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-21T16:25:01.380000Z",
+  "market_createdAt": "2021-06-21T16:25:01.38Z",
+  "market_updatedAt": "2024-04-22T23:32:14.069722Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-22T00:00:00Z",
+  "market_closedTime": "2021-06-23 14:51:19+00",
+  "conditionId": "0xede3798d9f37d8d47f969b8136d7605bed0353b4992e4bddc2d563acbcfcd308",
+  "slug": "will-croatia-or-scotland-win-their-euro-2020-match-1",
+  "question": "Will Croatia or Scotland win their Euro 2020 match?"
+}

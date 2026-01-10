@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240969",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-23T14:06:07.558000Z",
+  "market_createdAt": "2022-01-23T14:06:07.558Z",
+  "market_updatedAt": "2024-04-24T23:57:52.176291Z",
+  "market_startDate": "2022-01-23T17:33:43.508Z",
+  "market_endDate": "2022-01-23T00:00:00Z",
+  "market_closedTime": "2022-01-24 22:14:13+00",
+  "conditionId": "0xcf5625c8f7311ebdb2506f42ddb1c7cfc2f8317cc4e0a7d7ed64e11a7d115442",
+  "slug": "nfl-who-will-win-chiefs-v-bills",
+  "question": "NFL: Who will win Chiefs v. Bills?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238684",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-30T21:18:01.317000Z",
+  "market_createdAt": "2021-08-30T21:18:01.317Z",
+  "market_updatedAt": "2024-04-23T00:24:56.417887Z",
+  "market_startDate": "2021-08-31T02:02:32.94Z",
+  "market_endDate": "2021-08-31T00:00:00Z",
+  "market_closedTime": "2021-09-01 19:12:26+00",
+  "conditionId": "0x9ce95a55ddb4aa651dd9ff75397d5662fc3ad9ec87d69a5a84d62a62d56e23e6",
+  "slug": "will-faze-or-navi-win-their-esl-pro-league-season-14-matchup-on-august-31-2021",
+  "question": "Will FaZe or Na’Vi win their ESL matchup on August 31?"
+}

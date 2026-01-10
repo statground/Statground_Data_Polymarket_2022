@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241569",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-16T19:19:25.009000Z",
+  "market_createdAt": "2022-02-16T19:19:25.009Z",
+  "market_updatedAt": "2024-04-22T22:42:17.51838Z",
+  "market_startDate": "2022-02-16T19:38:48.165Z",
+  "market_endDate": "2022-02-16T00:00:00Z",
+  "market_closedTime": "2022-02-17 20:22:27+00",
+  "conditionId": "0x1bfac2cb83c8dd3ce0904e63c32e8d8dc0e07d876ebeda5eec7ea5207829e48c",
+  "slug": "nba-will-the-jazz-beat-the-lakers-by-more-than-4p5-points-in-their-february-16-10-pm-et-matchup",
+  "question": "NBA: Will the Jazz beat the Lakers by more than 4.5 points in their February 16 (10 PM ET) matchup?"
+}

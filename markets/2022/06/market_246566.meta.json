@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246566",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-18T03:01:27.108000Z",
+  "market_createdAt": "2022-06-18T03:01:27.108Z",
+  "market_updatedAt": "2024-04-22T22:56:22.233804Z",
+  "market_startDate": "2022-06-18T13:06:10.065Z",
+  "market_endDate": "2022-07-05T00:00:00Z",
+  "market_closedTime": "2022-07-05 01:45:59+00",
+  "conditionId": "0x1c630b47cc30e1d8db925db2f306fdb98d2ecda66e9a4f07b8c470490e7f964f",
+  "slug": "2022-chess-candidates-tournament-will-firouzja-or-rapport-finish-higher",
+  "question": "2022 Chess Candidates Tournament: Will Firouzja or Rapport finish higher?"
+}

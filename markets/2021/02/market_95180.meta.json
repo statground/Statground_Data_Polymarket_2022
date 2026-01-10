@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "95180",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-22T18:00:03.127000Z",
+  "market_createdAt": "2021-02-22T18:00:03.127Z",
+  "market_updatedAt": "2023-01-31T20:25:17.089Z",
+  "market_startDate": null,
+  "market_endDate": "2021-03-16T00:00:00Z",
+  "market_closedTime": "2021-03-17 15:11:28+00",
+  "conditionId": "0xb49f38f99e4c8acc9c8464fb00acd28b7a7a36a2bc566098c694e3347b283d07",
+  "slug": "will-joe-bidens-approval-rating-be-54-or-higher-on-march-15-2021",
+  "question": "Will Joe Biden's approval rating be 54% or higher on March 15, 2021?"
+}

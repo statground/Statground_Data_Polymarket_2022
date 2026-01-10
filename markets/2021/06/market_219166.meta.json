@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "219166",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-25T18:40:01.623000Z",
+  "market_createdAt": "2021-06-25T18:40:01.623Z",
+  "market_updatedAt": "2024-04-22T23:02:43.501438Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-29T00:00:00Z",
+  "market_closedTime": "2021-06-29 21:25:19+00",
+  "conditionId": "0x8ecaa2f9c0ea700638acd8d457061fd3edd484fc1a9267cc5b4ba659d622c1cd",
+  "slug": "will-england-or-germany-win-their-euro-2020-match",
+  "question": "Will England or Germany qualify for the Euro 2020 Quarterfinals?"
+}

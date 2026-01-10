@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240368",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T01:36:49.508000Z",
+  "market_createdAt": "2022-01-11T01:36:49.508Z",
+  "market_updatedAt": "2023-01-31T16:32:43.24Z",
+  "market_startDate": "2022-01-12T20:54:17.162Z",
+  "market_endDate": "2022-06-20T00:00:00Z",
+  "market_closedTime": "2022-06-28 22:00:45+00",
+  "conditionId": "0x9fbaa329a657698df4338a92d5ea4ce26fe088d2b52d7efc0f6f9212ba4f7650",
+  "slug": "will-the-tampa-bay-lightning-win-the-nhl-2021-22-stanley-cup",
+  "question": "Will the Tampa Bay Lightning win the NHL 2021-22 Stanley Cup?"
+}

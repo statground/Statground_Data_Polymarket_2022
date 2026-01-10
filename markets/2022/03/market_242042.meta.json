@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242042",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-13T13:03:28.040000Z",
+  "market_createdAt": "2022-03-13T13:03:28.04Z",
+  "market_updatedAt": "2024-04-22T23:04:06.486918Z",
+  "market_startDate": "2022-03-13T17:55:06.715Z",
+  "market_endDate": "2022-03-13T00:00:00Z",
+  "market_closedTime": "2022-03-14 09:45:28+00",
+  "conditionId": "0x0590350643873e9ab348b793ba7dfad23554347db4ebad8b808a49a6f9960105",
+  "slug": "nba-who-will-win-the-celtics-vspt-mavericks-scheduled-for-march-13-3pt30-pm-et",
+  "question": "NBA: Who will win the Celtics vs. Mavericks, scheduled for March 13 (3.30 PM ET)?"
+}

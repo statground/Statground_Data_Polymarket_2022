@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242441",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-24T18:21:03.833000Z",
+  "market_createdAt": "2022-03-24T18:21:03.833Z",
+  "market_updatedAt": "2024-04-22T23:23:09.374207Z",
+  "market_startDate": "2022-03-24T19:33:59.961Z",
+  "market_endDate": "2022-03-24T00:00:00Z",
+  "market_closedTime": "2022-03-25 15:28:51+00",
+  "conditionId": "0x8e5fbc702c674c8fcd23f6d80abf8e64c617e8cec7e32f902c52474e151a3b32",
+  "slug": "march-madness-who-will-win-the-villanova-vs-michigan-scheduled-for-march-24-8-pm-et",
+  "question": "March Madness: Who will win Villanova vs. Michigan, scheduled for March 24 (7:29 PM ET)?"
+}

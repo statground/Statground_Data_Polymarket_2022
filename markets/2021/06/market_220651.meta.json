@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "220651",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-30T20:20:01.200000Z",
+  "market_createdAt": "2021-06-30T20:20:01.2Z",
+  "market_updatedAt": "2024-04-22T22:58:38.143544Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-30T00:00:00Z",
+  "market_closedTime": "2021-07-01 20:05:13+00",
+  "conditionId": "0x0be5bbd748ac890bc36ee1321a1a0d4c274c72144fddc433bbc94c499857ff82",
+  "slug": "in-game-trading-who-will-win-suns-v-clippers-western-conference-finals-game-6",
+  "question": "(In-Game Trading) Who will win Suns v. Clippers: Western Conference Finals Game 6?"
+}

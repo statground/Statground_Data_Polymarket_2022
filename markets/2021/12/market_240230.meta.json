@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240230",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-28T18:31:29.910000Z",
+  "market_createdAt": "2021-12-28T18:31:29.91Z",
+  "market_updatedAt": "2024-04-22T22:57:46.143782Z",
+  "market_startDate": "2021-12-28T20:29:23.549Z",
+  "market_endDate": "2021-12-28T00:00:00Z",
+  "market_closedTime": "2021-12-30 22:24:26+00",
+  "conditionId": "0xed1a7ee888fe96df6e34c5648b6e477dc1c8edf9a96c29f4c22de2048d109345",
+  "slug": "nba-will-the-warriors-beat-the-nuggets-by-more-than-6pt5-points-in-their-december-28-matchup",
+  "question": "NBA: Will the Warriors beat the Nuggets by more than 6.5 points in their December 28 matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239855",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-06T15:42:14.330000Z",
+  "market_createdAt": "2021-12-06T15:42:14.33Z",
+  "market_updatedAt": "2024-04-23T00:42:18.299479Z",
+  "market_startDate": "2021-12-06T17:46:21.078Z",
+  "market_endDate": "2021-12-06T00:00:00Z",
+  "market_closedTime": "2021-12-07 18:26:01+00",
+  "conditionId": "0x94aef3cbab2480e16cb4ad72de69e8e29d7f5cf4ae3c93ee643ed327d3d3687a",
+  "slug": "nba-will-the-clippers-beat-the-trail-blazers-by-more-than-3pt5-points-in-their-december-6-matchup",
+  "question": "NBA: Will the Clippers beat the Trail Blazers by more than 3.5 points in their December 6 matchup?"
+}

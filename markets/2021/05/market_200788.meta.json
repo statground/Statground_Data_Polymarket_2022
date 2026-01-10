@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "200788",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-18T16:50:15.370000Z",
+  "market_createdAt": "2021-05-18T16:50:15.37Z",
+  "market_updatedAt": "2024-04-22T22:50:51.402733Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-29T00:00:00Z",
+  "market_closedTime": "2021-05-23 19:06:32+00",
+  "conditionId": "0x84d9554b4b443bd222add101a7528ef0c09b91d4fecc7d4d6d2f61548619e522",
+  "slug": "will-chelsea-qualify-for-next-seasons-champions-league",
+  "question": "Will Chelsea qualify for next season's Champions League?"
+}

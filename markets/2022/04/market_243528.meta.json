@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243528",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-21T07:54:52.021000Z",
+  "market_createdAt": "2022-04-21T07:54:52.021Z",
+  "market_updatedAt": "2023-01-31T19:20:08.812Z",
+  "market_startDate": "2022-04-21T14:12:15.946Z",
+  "market_endDate": "2022-04-21T00:00:00Z",
+  "market_closedTime": "2022-04-22 07:16:37+00",
+  "conditionId": "0x5a02c3dbffe9f02d5d81c829fe8258532105101abd1ed3007a9e1d3732c3bf21",
+  "slug": "nba-will-the-grizzlies-beat-the-timberwolves-by-more-than-1pt5-points-in-their-april-21-730-pm-et-matchup",
+  "question": "NBA: Will the Grizzlies beat the Timberwolves by more than 1.5 points in their April 21, 7:30 PM ET matchup?"
+}

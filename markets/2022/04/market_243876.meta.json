@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243876",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-28T08:11:42.007000Z",
+  "market_createdAt": "2022-04-28T08:11:42.007Z",
+  "market_updatedAt": "2023-01-30T15:14:28.016Z",
+  "market_startDate": "2022-04-28T14:39:08.571Z",
+  "market_endDate": "2022-04-28T00:00:00Z",
+  "market_closedTime": "2022-04-29 07:17:43+00",
+  "conditionId": "0xe14123134f5a72c2b042951c4f801dce9efd7a466192d36b44abaf910b23f625",
+  "slug": "nhl-will-the-wild-beat-the-flames-by-more-than-1pt5-goals-in-their-april-28-800-pm-et-matchup",
+  "question": "NHL: Will the Wild beat the Flames by more than 1.5 goals in their April 28, 8:00 PM ET matchup?"
+}

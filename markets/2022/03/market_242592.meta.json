@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242592",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-28T21:23:24.183000Z",
+  "market_createdAt": "2022-03-28T21:23:24.183Z",
+  "market_updatedAt": "2024-04-22T22:59:40.119954Z",
+  "market_startDate": "2022-03-28T21:44:27.05Z",
+  "market_endDate": "2022-11-01T00:00:00Z",
+  "market_closedTime": "2022-11-02 17:47:11+00",
+  "conditionId": "0xb66dcb6240daa5ad976577cd813b19437a03fa07110d87e72a46d13157f433a7",
+  "slug": "will-russia-remain-in-g20-through-november-1-2022",
+  "question": "Will Russia remain in G20 through November 1, 2022?"
+}

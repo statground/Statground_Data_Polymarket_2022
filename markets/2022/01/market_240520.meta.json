@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240520",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T18:15:09.202000Z",
+  "market_createdAt": "2022-01-11T18:15:09.202Z",
+  "market_updatedAt": "2024-04-22T23:55:52.152333Z",
+  "market_startDate": "2022-01-12T21:31:55.375Z",
+  "market_endDate": "2023-01-01T00:00:00Z",
+  "market_closedTime": "2023-01-03 02:15:43+00",
+  "conditionId": "0x3012fb563d5443d6bd8c02549a6fa1d6528d0211dc75f15c2b469951af4fe1f5",
+  "slug": "will-eth-flip-btc-in-market-cap-in-2022",
+  "question": "Will $ETH flip $BTC in market cap in 2022?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239672",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-29T10:34:29.775000Z",
+  "market_createdAt": "2021-11-29T10:34:29.775Z",
+  "market_updatedAt": "2024-04-23T00:33:31.319521Z",
+  "market_startDate": "2021-11-29T17:29:26.134Z",
+  "market_endDate": "2021-11-29T00:00:00Z",
+  "market_closedTime": "2021-11-30 13:53:26+00",
+  "conditionId": "0x20ffef39a172fff0cdaff3dd24d11e385977bfcffe252d698da896a9d9f6b9a2",
+  "slug": "nba-will-the-sum-of-points-in-rockets-v-thunder-be-greater-than-216pt5",
+  "question": "NBA: Will the sum of points in Rockets v. Thunder be greater than 216.5?"
+}

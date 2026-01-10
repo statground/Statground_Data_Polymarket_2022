@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242636",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-30T09:05:54.489000Z",
+  "market_createdAt": "2022-03-30T09:05:54.489Z",
+  "market_updatedAt": "2024-04-22T23:50:54.497666Z",
+  "market_startDate": "2022-03-30T17:13:30.939Z",
+  "market_endDate": "2022-03-30T00:00:00Z",
+  "market_closedTime": "2022-03-31 20:40:10+00",
+  "conditionId": "0xbc6cab966bea78d677207338bf31526d74989731d8652b85f79f1c19caa95973",
+  "slug": "nba-who-will-win-hornets-vs-knicks-scheduled-for-march-30-740-pm-et",
+  "question": "NBA: Who will win Hornets vs. Knicks, scheduled for March 30, 7:40 PM ET?"
+}

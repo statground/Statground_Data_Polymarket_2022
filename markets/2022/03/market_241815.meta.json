@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241815",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-02T13:18:33.044000Z",
+  "market_createdAt": "2022-03-02T13:18:33.044Z",
+  "market_updatedAt": "2024-04-23T00:39:58.061318Z",
+  "market_startDate": null,
+  "market_endDate": "2022-03-02T00:00:00Z",
+  "market_closedTime": "2022-03-03 18:15:54+00",
+  "conditionId": "0x1efed78cd1c1beb72684076af68dbdbe466818ae739f0c0f00e4b4b7d2b55c3b",
+  "slug": "nba-who-will-win-the-76ers-vspt-knicks-scheduled-for-march-2-7pt30-pm-et",
+  "question": "NBA: Who will win the 76ers vs. Knicks, scheduled for March 2 (7.30 PM ET)?"
+}

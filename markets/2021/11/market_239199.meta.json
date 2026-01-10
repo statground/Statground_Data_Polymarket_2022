@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239199",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-02T10:02:48.307000Z",
+  "market_createdAt": "2021-11-02T10:02:48.307Z",
+  "market_updatedAt": "2024-04-26T02:50:36.055965Z",
+  "market_startDate": "2021-11-02T17:01:00.891Z",
+  "market_endDate": "2021-11-02T00:00:00Z",
+  "market_closedTime": "2021-11-03 17:29:37+00",
+  "conditionId": "0xc280f3c59e8d9695eda84b55daf3c5d913ba891e4eaf715dffece8c3b74d9ccb",
+  "slug": "2021-world-series-who-will-win-braves-v-astros-game-6-on-november-2nd",
+  "question": "2021 World Series: Who will win Braves v. Astros Game 6 on November 2nd?"
+}

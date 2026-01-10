@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239708",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-30T21:07:58.188000Z",
+  "market_createdAt": "2021-11-30T21:07:58.188Z",
+  "market_updatedAt": "2023-07-17T23:12:44.753Z",
+  "market_startDate": "2021-12-01T19:30:51.548Z",
+  "market_endDate": "2021-12-07T00:00:00Z",
+  "market_closedTime": "2021-12-08 18:44:43+00",
+  "conditionId": "0x004c4bbd387c89ec48f5930e75c2c7c778b4c7dde92d37d37acf58d946c5b5a6",
+  "slug": "will-the-price-of-wolf-game-wool-wool-be-above-10-cents-at-noon-on-december-7th",
+  "question": "Will the price of Wolf Game Wool ($WOOL) be above 10 cents at noon on December 7th?"
+}

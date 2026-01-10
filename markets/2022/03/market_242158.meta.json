@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242158",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-17T12:50:43.617000Z",
+  "market_createdAt": "2022-03-17T12:50:43.617Z",
+  "market_updatedAt": "2024-04-22T23:11:37.14566Z",
+  "market_startDate": "2022-03-17T17:01:09.153Z",
+  "market_endDate": "2022-03-17T00:00:00Z",
+  "market_closedTime": "2022-03-18 10:30:23+00",
+  "conditionId": "0xa832c6620cd9822d35721ac36d26d2b00e65f462983e2fbbec388110c09df222",
+  "slug": "ncaab-who-will-win-bulldogs-vspt-panthers-scheduled-for-march-17-415-pm-et",
+  "question": "NCAAB: Who will win Bulldogs vs. Panthers, scheduled for March 17, 4:15 PM ET?"
+}

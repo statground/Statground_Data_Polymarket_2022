@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242115",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-15T19:23:35.852000Z",
+  "market_createdAt": "2022-03-15T19:23:35.852Z",
+  "market_updatedAt": "2023-01-31T12:37:57.891Z",
+  "market_startDate": "2022-03-15T19:39:45.816Z",
+  "market_endDate": "2022-03-25T00:00:00Z",
+  "market_closedTime": "2022-03-26 16:21:17+00",
+  "conditionId": "0x46942c79865c264bf1de2dab5b269ac94b9a6be3777f155dd8bf6aa6d8c97f57",
+  "slug": "will-the-price-of-wheat-close-above-1200-on-march-25-2022",
+  "question": "Will the price of wheat close above $1200 on March 25, 2022?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240500",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T17:18:45.948000Z",
+  "market_createdAt": "2022-01-11T17:18:45.948Z",
+  "market_updatedAt": "2024-04-26T03:02:45.62643Z",
+  "market_startDate": "2023-03-28T21:08:33.784Z",
+  "market_endDate": "2022-10-01T00:00:00Z",
+  "market_closedTime": "2022-10-02 07:15:51+00",
+  "conditionId": "0xaf4ae17e643d4456dbdccfa77d79607bb4ae8a59fd5a9637b3a1c7cfce340506",
+  "slug": "will-donald-j-trump-be-indicted-by-october-1-2022",
+  "question": "Will Donald J. Trump be indicted by October 1, 2022?"
+}

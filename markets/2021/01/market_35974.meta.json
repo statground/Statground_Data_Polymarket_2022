@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "35974",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-01-11T17:15:10.225000Z",
+  "market_createdAt": "2021-01-11T17:15:10.225Z",
+  "market_updatedAt": "2024-04-22T23:04:10.269209Z",
+  "market_startDate": null,
+  "market_endDate": null,
+  "market_closedTime": "2021-02-15 18:38:20+00",
+  "conditionId": "0x0faf43bffe9cbba6b42ea5272fd96d3a84e5a82832390c5e45a1ab1c80c84d94",
+  "slug": "will-the-senate-convict-donald-trump-on-impeachment-before-june-1-2021",
+  "question": "Will the Senate convict Donald Trump on impeachment by April 29, 2021?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "224609",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-19T17:25:01.059000Z",
+  "market_createdAt": "2021-07-19T17:25:01.059Z",
+  "market_updatedAt": "2024-04-26T03:11:53.238749Z",
+  "market_startDate": null,
+  "market_endDate": "2022-01-08T00:00:00Z",
+  "market_closedTime": "2021-08-02 14:47:01+00",
+  "conditionId": "0x0ed7b4566c3572ae83be33a54869a64ef1fd7f531a2518dcf5e20697ceedee2b",
+  "slug": "will-any-us-state-report-record-high-7-day-average-covid-19-cases-before-january-1-2022",
+  "question": "Will any US state report a record high 7-day COVID-19 case average before January 1, 2022?"
+}

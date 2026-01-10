@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240624",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-12T16:16:03.943000Z",
+  "market_createdAt": "2022-01-12T16:16:03.943Z",
+  "market_updatedAt": "2024-04-23T00:44:37.729787Z",
+  "market_startDate": "2022-01-12T21:06:36.952Z",
+  "market_endDate": "2022-01-12T00:00:00Z",
+  "market_closedTime": "2022-01-14 00:18:11+00",
+  "conditionId": "0xf295f17237b8c0719b87d40ae5d14d33df023607e38da7b13bb76bd532704fea",
+  "slug": "nba-will-the-celtics-beat-the-pacers-by-more-than-25-points-in-their-january-12-matchup",
+  "question": "NBA: Will the Celtics beat the Pacers by more than 2.5 points in their January 12 matchup?"
+}

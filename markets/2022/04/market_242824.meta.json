@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242824",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-04T18:25:41.833000Z",
+  "market_createdAt": "2022-04-04T18:25:41.833Z",
+  "market_updatedAt": "2024-04-22T23:58:19.133002Z",
+  "market_startDate": "2022-04-04T20:01:35.111Z",
+  "market_endDate": "2022-04-09T00:00:00Z",
+  "market_closedTime": "2022-04-11 02:00:29+00",
+  "conditionId": "0xa76a790a27a962540cebda50871a5bec21449419d330a28a6e3eccdf71c1dedf",
+  "slug": "ufc-273-who-will-win-alexander-volkanovski-or-chan-sung-jung",
+  "question": "UFC 273: Who will win - Alexander Volkanovski or Chan Sung Jung (Korean Zombie)?"
+}

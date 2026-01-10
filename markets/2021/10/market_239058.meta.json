@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239058",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-20T19:49:07.827000Z",
+  "market_createdAt": "2021-10-20T19:49:07.827Z",
+  "market_updatedAt": "2024-04-22T22:25:25.840898Z",
+  "market_startDate": "2021-10-24T17:44:23.883Z",
+  "market_endDate": "2021-10-24T00:00:00Z",
+  "market_closedTime": "2021-10-25 03:05:01+00",
+  "conditionId": "0xe0b2b0becaabf5e658fcc3653110c4293707b0b5e879ce2ed744ca34412de0e8",
+  "slug": "will-the-buccaneers-beat-the-bears-by-more-than-12pt5-points-in-their-october-24th-matchup",
+  "question": "Will the Buccaneers beat the Bears by more than 12.5 points in their October 24th matchup?"
+}

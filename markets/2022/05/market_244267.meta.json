@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244267",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-05T01:02:54.431000Z",
+  "market_createdAt": "2022-05-05T01:02:54.431Z",
+  "market_updatedAt": "2023-01-31T21:23:15.582Z",
+  "market_startDate": "2022-05-05T16:38:33.099Z",
+  "market_endDate": "2022-05-20T00:00:00Z",
+  "market_closedTime": "2022-05-21 06:00:36+00",
+  "conditionId": "0x186f806240eaedbc21590517cfab7539a805256dbd333801df814b7315646280",
+  "slug": "will-natural-gas-close-above-8-on-may-20-2022",
+  "question": "Will natural gas close above $8 on May 20, 2022?"
+}

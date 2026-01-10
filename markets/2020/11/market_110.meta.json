@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "110",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-11-23T19:00:09.757000Z",
+  "market_createdAt": "2020-11-23T19:00:09.757Z",
+  "market_updatedAt": "2024-04-23T00:25:06.307345Z",
+  "market_startDate": null,
+  "market_endDate": null,
+  "market_closedTime": "2021-01-08 21:49:44+00",
+  "conditionId": "0xea1cd8e9df99aba5bec306a63074175da203509d7e4a749643da6fc8367e57df",
+  "slug": "which-party-will-win-the-u-s-senate-runoff-in-georgia-ossoff-d-vs-perdue-r",
+  "question": "Which party will win the U.S. Senate runoff in Georgia? (Ossoff - D vs. Perdue - R)"
+}

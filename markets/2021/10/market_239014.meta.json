@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239014",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-14T22:10:47.267000Z",
+  "market_createdAt": "2021-10-14T22:10:47.267Z",
+  "market_updatedAt": "2023-01-31T19:34:54.616Z",
+  "market_startDate": null,
+  "market_endDate": "2021-10-16T00:00:00Z",
+  "market_closedTime": "2021-10-16 19:46:29+00",
+  "conditionId": "0x41828faf66a1e9d90f8d7854280fd322aab68a4887f37c3f5610e82710f2346f",
+  "slug": "will-rookiexbt-or-loomdart-win-the-amir-khan-crypto-fight-night",
+  "question": "Will Rookiexbt or Loomdart win the Amir Khan Crypto Fight Night?"
+}

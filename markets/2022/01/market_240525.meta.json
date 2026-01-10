@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240525",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T18:24:37.957000Z",
+  "market_createdAt": "2022-01-11T18:24:37.957Z",
+  "market_updatedAt": "2024-04-23T00:27:12.356767Z",
+  "market_startDate": "2022-01-12T20:45:58.862Z",
+  "market_endDate": "2022-02-20T00:00:00Z",
+  "market_closedTime": "2022-02-20 20:30:32+00",
+  "conditionId": "0x045ef268772d2215026bc9ed90fd01f49d0a41557b53bdb752a1e0bedf68eb87",
+  "slug": "who-will-have-a-higher-net-worth-on-february-20-mark-zuckerberg-or-larry-page",
+  "question": "Who will have a higher net worth on February 20: Mark Zuckerberg or Larry Page?"
+}

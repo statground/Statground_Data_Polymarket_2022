@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238731",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-09T18:32:01.328000Z",
+  "market_createdAt": "2021-09-09T18:32:01.328Z",
+  "market_updatedAt": "2024-04-22T23:28:21.287881Z",
+  "market_startDate": "2021-09-09T22:51:27.11Z",
+  "market_endDate": "2021-09-12T00:00:00Z",
+  "market_closedTime": "2021-09-12 21:42:40+00",
+  "conditionId": "0x2a60160d6645a316dc0802e9ff900ee9b813e8b9a429a0e3b9bc24cccb27559a",
+  "slug": "falcons-3-v-eagles-spread",
+  "question": "Falcons (-3) v. Eagles Spread"
+}

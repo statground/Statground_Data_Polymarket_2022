@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "226073",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-26T16:20:01.386000Z",
+  "market_createdAt": "2021-07-26T16:20:01.386Z",
+  "market_updatedAt": "2024-04-22T22:38:33.244108Z",
+  "market_startDate": "2021-07-27T16:00:11.722Z",
+  "market_endDate": null,
+  "market_closedTime": "2022-01-04 00:23:57+00",
+  "conditionId": "0xb941082e5aaf0e5d7d294ef1a608b4207ae01c17c86c5c2f3bd629f2fc4f56b5",
+  "slug": "will-donald-trump-be-the-2024-republican-presidential-nominee",
+  "question": "(OLD MARKET - See new market) Will Donald Trump be the 2024 Republican presidential nominee?"
+}

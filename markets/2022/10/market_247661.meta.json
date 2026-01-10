@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247661",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-14T15:03:44.279000Z",
+  "market_createdAt": "2022-10-14T15:03:44.279Z",
+  "market_updatedAt": "2023-01-31T16:12:43.199Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-21T00:00:00Z",
+  "market_closedTime": "2022-10-21 18:15:26+00",
+  "conditionId": "0x3964ce3f2579e9314df67b1e5b7e8611c34866114bf261bb1a39eeb37c33f6e0",
+  "slug": "will-the-price-of-eth-be-above-1300-on-october-21",
+  "question": "Will the price of $ETH be above $1300 on October 21?"
+}

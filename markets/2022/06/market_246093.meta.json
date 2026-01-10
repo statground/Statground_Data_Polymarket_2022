@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246093",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-02T08:00:16.440000Z",
+  "market_createdAt": "2022-06-02T08:00:16.44Z",
+  "market_updatedAt": "2023-01-31T19:34:54.27Z",
+  "market_startDate": "2022-06-02T14:51:16.973Z",
+  "market_endDate": "2022-06-02T00:00:00Z",
+  "market_closedTime": "2022-06-03 06:30:38+00",
+  "conditionId": "0xb9c0304c156c74d9296a26828c3b144cd0af1a7c93b7262f15b87e98a560342b",
+  "slug": "nhl-who-will-win-avalanche-vs-oilers-scheduled-for-june-2-800-pm-et",
+  "question": "NHL: Who will win Avalanche vs. Oilers, scheduled for June 2, 8:00 PM ET?"
+}

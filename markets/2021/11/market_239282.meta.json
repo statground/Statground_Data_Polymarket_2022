@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239282",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-07T00:53:39.102000Z",
+  "market_createdAt": "2021-11-07T00:53:39.102Z",
+  "market_updatedAt": "2024-04-22T23:04:53.653776Z",
+  "market_startDate": "2021-11-07T00:58:23.062Z",
+  "market_endDate": "2021-11-07T00:00:00Z",
+  "market_closedTime": "2021-11-08 12:53:57+00",
+  "conditionId": "0x945bb99fd3fb2550ba3b13b2aae7d1eaf8327e2f6379a0ac9532ba7864a5bf31",
+  "slug": "what-will-the-outcome-of-elon-musks-6th-november-twitter-poll-be",
+  "question": "What will the outcome of Elon Musk’s November 6th Twitter Poll be?"
+}

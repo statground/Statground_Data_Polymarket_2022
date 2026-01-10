@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "95135",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-22T16:50:02.461000Z",
+  "market_createdAt": "2021-02-22T16:50:02.461Z",
+  "market_updatedAt": "2024-04-23T00:01:28.025277Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-22T00:00:00Z",
+  "market_closedTime": "2021-02-23 20:44:04+00",
+  "conditionId": "0x6b72b3990ec9d87c854f64101c363d522620998166a517b0ab11446e704444b2",
+  "slug": "will-the-suns-or-the-blazers-win-their-february-22nd-matchup",
+  "question": "Will the Suns or the Blazers win their February 22nd matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240155",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-23T14:06:24.293000Z",
+  "market_createdAt": "2021-12-23T14:06:24.293Z",
+  "market_updatedAt": "2024-04-23T00:59:02.176176Z",
+  "market_startDate": "2021-12-23T18:06:41.78Z",
+  "market_endDate": "2021-12-23T00:00:00Z",
+  "market_closedTime": "2021-12-24 17:24:14+00",
+  "conditionId": "0x3a98bef0a261482d2e45d9c040f7feacbe5105cb16243da53c23b15a39838f1d",
+  "slug": "nba-will-the-bucks-beat-the-mavericks-by-more-than-5pt5-points-in-their-december-23-matchup",
+  "question": "NBA: Will the Bucks beat the Mavericks by more than 5.5 points in their December 23 matchup?"
+}

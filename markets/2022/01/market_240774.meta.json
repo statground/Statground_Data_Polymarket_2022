@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240774",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-16T13:21:20.766000Z",
+  "market_createdAt": "2022-01-16T13:21:20.766Z",
+  "market_updatedAt": "2024-04-22T22:48:08.669999Z",
+  "market_startDate": "2022-01-16T21:23:46.713Z",
+  "market_endDate": "2022-01-16T00:00:00Z",
+  "market_closedTime": "2022-01-18 19:32:24+00",
+  "conditionId": "0xcb05e177fcda4626d26690ded5bce1e6c7a7592766840bd582ae3ae5fe0c286b",
+  "slug": "nba-will-the-kings-beat-the-rockets-by-more-than-5p5-points-in-their-january-16-matchup",
+  "question": "NBA: Will the Kings beat the Rockets by more than 5.5 points in their January 16 matchup?"
+}

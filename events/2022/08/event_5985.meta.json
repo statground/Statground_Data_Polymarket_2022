@@ -1,0 +1,22 @@
+{
+  "entity": "event",
+  "event_id": "5985",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2022-08-10T22:29:09.406000Z",
+  "event_createdAt": "2022-08-10T22:29:09.406Z",
+  "event_creationDate": "2022-08-10T00:00:00Z",
+  "event_startDate": "2022-08-10T00:00:00Z",
+  "event_endDate": "2022-09-13T00:00:00Z",
+  "event_updatedAt": "2024-03-22T01:57:13.897025Z",
+  "markets_len": 3,
+  "market_ids": [
+    "246968",
+    "246969",
+    "246970"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "5"
+  ],
+  "series_slug": "us-inflation"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243565",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-22T07:28:08.392000Z",
+  "market_createdAt": "2022-04-22T07:28:08.392Z",
+  "market_updatedAt": "2023-01-31T20:55:51.929Z",
+  "market_startDate": "2022-04-22T14:45:10.247Z",
+  "market_endDate": "2022-04-22T00:00:00Z",
+  "market_closedTime": "2022-04-23 07:16:22+00",
+  "conditionId": "0xa26edf31651edb4879a5166e0a2ae330d15f924551bd501ab05d97f0578b9a03",
+  "slug": "mlb-who-will-win-st-louis-cardinals-vs-cincinnati-reds-scheduled-for-april-22-641-pm-et",
+  "question": "MLB: Who will win St. Louis Cardinals vs. Cincinnati Reds, scheduled for April 22, 6:41 PM ET?"
+}

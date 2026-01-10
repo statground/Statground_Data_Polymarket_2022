@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247255",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-12T20:57:16.986000Z",
+  "market_createdAt": "2022-09-12T20:57:16.986Z",
+  "market_updatedAt": "2023-01-31T10:55:13.767Z",
+  "market_startDate": "2022-09-13T15:49:31.756Z",
+  "market_endDate": "2022-09-13T00:00:00Z",
+  "market_closedTime": "2022-09-14 01:31:04+00",
+  "conditionId": "0xeeb6f6cc6a3d504a68310f7ba16429de9048a3212761fbcbb13d26860f85116e",
+  "slug": "champions-league-who-will-win-the-bayern-vs-barcelona-game-on-september-13",
+  "question": "Champions League: Who will win the Bayern vs. Barcelona game on September 13?"
+}

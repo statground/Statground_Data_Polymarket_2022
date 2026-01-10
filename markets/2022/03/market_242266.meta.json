@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242266",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-19T09:03:26.218000Z",
+  "market_createdAt": "2022-03-19T09:03:26.218Z",
+  "market_updatedAt": "2024-04-23T00:32:03.829115Z",
+  "market_startDate": "2022-03-19T17:19:27.721Z",
+  "market_endDate": "2022-03-19T00:00:00Z",
+  "market_closedTime": "2022-03-20 21:29:25+00",
+  "conditionId": "0x4d9234f43fc837d753faccc245baa8aa4284f7558e3a2950f546106e8362838f",
+  "slug": "nhl-will-the-islanders-beat-the-stars-by-more-than-1pt5-goals-in-their-march-19-200-pm-et-matchup",
+  "question": "NHL: Will the Islanders beat the Stars by more than 1.5 goals in their March 19, 2:00 PM ET matchup?"
+}

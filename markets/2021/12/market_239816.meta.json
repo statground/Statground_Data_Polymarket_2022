@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239816",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-03T20:12:08.186000Z",
+  "market_createdAt": "2021-12-03T20:12:08.186Z",
+  "market_updatedAt": "2024-04-22T23:51:45.232621Z",
+  "market_startDate": "2021-12-04T19:46:40.512Z",
+  "market_endDate": "2021-12-05T00:00:00Z",
+  "market_closedTime": "2021-12-06 20:33:04+00",
+  "conditionId": "0xdb0dcd9cab08ed5f110f56296d9ea4d2f2260fb9978dfd544f33c9cf2b58b761",
+  "slug": "nfl-will-the-rams-beat-the-jaguars-by-more-than-15pt5-points-in-their-december-5-matchup",
+  "question": "NFL: Will the Rams beat the Jaguars by more than 15.5 points in their December 5 matchup?"
+}

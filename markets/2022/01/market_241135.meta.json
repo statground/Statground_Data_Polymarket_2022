@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241135",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-28T12:03:48.376000Z",
+  "market_createdAt": "2022-01-28T12:03:48.376Z",
+  "market_updatedAt": "2024-04-22T23:27:04.050127Z",
+  "market_startDate": "2022-01-28T16:58:54.748Z",
+  "market_endDate": "2022-01-28T00:00:00Z",
+  "market_closedTime": "2022-01-30 19:40:40+00",
+  "conditionId": "0xb50691c0fef891f7c1f23da33eb2d82a30810c5e6245720880fa3a67e6b64ccf",
+  "slug": "nba-who-will-win-the-hornets-vs-lakers-scheduled-for-january-28-730-pm-et",
+  "question": "NBA: Who will win the Hornets vs. Lakers, scheduled for January 28 (7.30 PM ET)?"
+}

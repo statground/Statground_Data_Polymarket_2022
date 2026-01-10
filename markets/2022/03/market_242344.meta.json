@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242344",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-21T09:04:40.653000Z",
+  "market_createdAt": "2022-03-21T09:04:40.653Z",
+  "market_updatedAt": "2024-04-23T00:25:16.001955Z",
+  "market_startDate": "2022-03-21T17:07:23.079Z",
+  "market_endDate": "2022-03-21T00:00:00Z",
+  "market_closedTime": "2022-03-22 10:00:36+00",
+  "conditionId": "0xeb4b906b2f8cb838c75d28ddc856e22b789cb30af49a7d4490a89e70d86e4dda",
+  "slug": "nba-who-will-win-bulls-vspt-raptors-scheduled-for-march-21-810-pm-et",
+  "question": "NBA: Who will win Bulls vs. Raptors, scheduled for March 21, 8:10 PM ET?"
+}

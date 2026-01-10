@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242249",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-18T12:19:18.944000Z",
+  "market_createdAt": "2022-03-18T12:19:18.944Z",
+  "market_updatedAt": "2023-01-30T02:35:31.256Z",
+  "market_startDate": null,
+  "market_endDate": "2022-03-18T00:00:00Z",
+  "market_closedTime": "2022-03-19 13:00:21+00",
+  "conditionId": "0x1de260ec6e4d7ad3fdad2d7810ea7e85a41b632ca9ebfc3c042783699386fa85",
+  "slug": "ncaab-will-the-arizona-wildcats-beat-the-wright-st-raiders-by-more-than-21pt5-points-in-their-march-18-727-pm-et-matchup",
+  "question": "NCAAB: Will the Arizona Wildcats beat the Wright St Raiders by more than 21.5 points in their March 18, 7:27 PM ET matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238727",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-09T18:28:02.058000Z",
+  "market_createdAt": "2021-09-09T18:28:02.058Z",
+  "market_updatedAt": "2024-04-23T00:47:12.931701Z",
+  "market_startDate": "2021-09-09T22:50:56.103Z",
+  "market_endDate": "2021-09-12T00:00:00Z",
+  "market_closedTime": "2021-09-13 03:29:11+00",
+  "conditionId": "0x5f2a67209bf574916cc32c0bcf5ebf72c5fe80ba8022cdfb508f535138439a34",
+  "slug": "chiefs-6-v-browns-spread",
+  "question": "Chiefs (-6) v. Browns Spread"
+}

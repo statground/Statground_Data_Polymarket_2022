@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239521",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-20T15:26:10.795000Z",
+  "market_createdAt": "2021-11-20T15:26:10.795Z",
+  "market_updatedAt": "2024-04-25T00:09:00.129118Z",
+  "market_startDate": "2021-11-20T20:12:36.336Z",
+  "market_endDate": "2021-11-20T00:00:00Z",
+  "market_closedTime": "2021-11-21 15:54:27+00",
+  "conditionId": "0xc96c1861bb84fa3ca017518b20545e6e6c05af49ef67b2e6f3c757df620cd550",
+  "slug": "nba-will-the-trail-blazers-beat-the-76ers-by-more-than-6pt5-points-in-their-november-20th-matchup",
+  "question": "NBA: Will the Trail Blazers beat the 76ers by more than 6.5 points in their November 20th matchup?"
+}

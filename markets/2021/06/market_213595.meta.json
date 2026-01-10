@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "213595",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-08T18:30:01.171000Z",
+  "market_createdAt": "2021-06-08T18:30:01.171Z",
+  "market_updatedAt": "2024-04-22T23:18:11.377426Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-13T00:00:00Z",
+  "market_closedTime": "2021-06-14 16:23:48+00",
+  "conditionId": "0xac7ef09ea87f12d32e76c81ae171196b1a72c86c09fce23f2bd0af6fb017d5cd",
+  "slug": "will-ukraine-or-the-netherlands-win-their-euro-2020-match",
+  "question": "Will Ukraine or the Netherlands win their Euro 2020 match?"
+}

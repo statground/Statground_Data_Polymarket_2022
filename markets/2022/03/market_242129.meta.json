@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242129",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-16T11:30:40.663000Z",
+  "market_createdAt": "2022-03-16T11:30:40.663Z",
+  "market_updatedAt": "2024-04-23T00:16:56.814855Z",
+  "market_startDate": "2022-03-16T17:07:37.803Z",
+  "market_endDate": "2022-03-16T00:00:00Z",
+  "market_closedTime": "2022-03-17 11:45:36+00",
+  "conditionId": "0x4c46395d9426699f49bbe841806f1b9fe4ad3c9ef3110d3dca58ba5f89416778",
+  "slug": "nba-who-will-win-the-warriors-vspt-celtics-scheduled-for-march-16-10-pm-et",
+  "question": "NBA: Who will win the Warriors vs. Celtics, scheduled for March 16 (10 PM ET)?"
+}

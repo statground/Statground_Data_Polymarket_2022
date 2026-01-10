@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "119066",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-08T21:55:03.191000Z",
+  "market_createdAt": "2021-04-08T21:55:03.191Z",
+  "market_updatedAt": "2024-04-26T02:47:27.686475Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-15T00:00:00Z",
+  "market_closedTime": "2021-04-16 14:34:27+00",
+  "conditionId": "0x1dd58c2fca1f60ed4ec0e2803d55406cf35643bc26f922a867e05ce3d427f4f3",
+  "slug": "will-weekly-jobless-claims-exceed-720k-for-the-week-ending-on-april-10",
+  "question": "Will weekly jobless claims exceed 720K for the week ending on April 10?"
+}

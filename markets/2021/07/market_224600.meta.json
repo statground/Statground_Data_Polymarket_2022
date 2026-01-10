@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "224600",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-15T23:50:01.178000Z",
+  "market_createdAt": "2021-07-15T23:50:01.178Z",
+  "market_updatedAt": "2024-04-23T00:36:11.374921Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-20T00:00:00Z",
+  "market_closedTime": "2021-07-21 16:03:09+00",
+  "conditionId": "0x237d6bb8fadb8da9978ac9a2fbb992c0fc87acbb4d470e985cc50f565d2c1af0",
+  "slug": "will-space-jam-a-new-legacy-or-black-widow-gross-more-domestically-on-the-july-16-18-weekend",
+  "question": "Will Space Jam: A New Legacy or Black Widow gross more domestically on the July 16-18 weekend? "
+}

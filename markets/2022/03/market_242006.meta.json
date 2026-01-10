@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242006",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-10T12:21:04.081000Z",
+  "market_createdAt": "2022-03-10T12:21:04.081Z",
+  "market_updatedAt": "2024-04-22T23:27:24.077962Z",
+  "market_startDate": "2022-03-10T17:17:23.004Z",
+  "market_endDate": "2022-03-10T00:00:00Z",
+  "market_closedTime": "2022-03-12 01:15:50+00",
+  "conditionId": "0xb9875e368e316ddd598836356bc8db861ff13c1171a61f1b24891a97a135dae4",
+  "slug": "nhl-will-the-blues-beat-the-rangers-by-more-than-1pt5-goals-in-their-march-10-matchup-8-pm-et",
+  "question": "NHL: Will the Blues beat the Rangers by more than 1.5 goals in their March 10 matchup (8 PM ET)?"
+}

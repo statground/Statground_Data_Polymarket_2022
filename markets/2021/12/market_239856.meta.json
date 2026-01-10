@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239856",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-06T15:47:26.820000Z",
+  "market_createdAt": "2021-12-06T15:47:26.82Z",
+  "market_updatedAt": "2024-04-22T23:48:46.799135Z",
+  "market_startDate": "2021-12-06T17:46:45.453Z",
+  "market_endDate": "2021-12-06T00:00:00Z",
+  "market_closedTime": "2021-12-07 18:20:39+00",
+  "conditionId": "0x3e2ab695a32e6a102228116e7d898cba3a4c150e44148f4c197170e8c0974122",
+  "slug": "nba-will-the-warriors-beat-the-magic-by-more-than-14pt5-points-in-their-december-6-matchup",
+  "question": "NBA: Will the Warriors beat the Magic by more than 14.5 points in their December 6 matchup?"
+}

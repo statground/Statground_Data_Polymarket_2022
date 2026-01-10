@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243366",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-17T13:41:37.989000Z",
+  "market_createdAt": "2022-04-17T13:41:37.989Z",
+  "market_updatedAt": "2023-01-31T21:16:35.441Z",
+  "market_startDate": "2022-04-17T14:59:25.103Z",
+  "market_endDate": "2022-04-17T00:00:00Z",
+  "market_closedTime": "2022-04-18 06:32:18+00",
+  "conditionId": "0xe950f05c9d07e682e11fbf261f2d4a150dc04935ebf23e8a5b60626df7bac9ec",
+  "slug": "nhl-will-the-sabres-beat-the-flyers-by-more-than-1pt5-goals-in-their-april-17-matchup-3-pm-et",
+  "question": "NHL: Will the Sabres beat the Flyers by more than 1.5 goals in their April 17 matchup (5 PM ET)?"
+}

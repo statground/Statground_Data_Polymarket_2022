@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "212350",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-07T16:50:02.348000Z",
+  "market_createdAt": "2021-06-07T16:50:02.348Z",
+  "market_updatedAt": "2024-04-23T00:01:13.672455Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-09T00:00:00Z",
+  "market_closedTime": "2021-06-10 14:32:24+00",
+  "conditionId": "0x29a7ebb7c532f95fd791c9fca7748893501666cb868112bcfbfb938b063ff434",
+  "slug": "who-will-win-suns-v-nuggets-conference-semifinal-game-2",
+  "question": "Who will win Suns v. Nuggets: Conference Semifinal Game 2?"
+}

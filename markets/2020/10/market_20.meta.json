@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "20",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-10-02T19:20:04.249000Z",
+  "market_createdAt": "2020-10-02T19:20:04.249Z",
+  "market_updatedAt": "2024-04-22T23:09:41.355362Z",
+  "market_startDate": null,
+  "market_endDate": "2021-01-02T00:00:00Z",
+  "market_closedTime": "2021-01-02 21:43:06+00",
+  "conditionId": "0x5d1a1ab716fd06943441fe27cde0089651ce769bec55e191b6953468a0e9f0d0",
+  "slug": "will-coinbase-begin-publicly-trading-before-jan-1-2021",
+  "question": "Will Coinbase begin publicly trading before Jan 1, 2021?"
+}

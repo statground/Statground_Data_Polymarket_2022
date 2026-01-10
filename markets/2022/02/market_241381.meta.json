@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241381",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-09T08:55:24.634000Z",
+  "market_createdAt": "2022-02-09T08:55:24.634Z",
+  "market_updatedAt": "2024-04-23T00:34:48.253872Z",
+  "market_startDate": "2022-02-09T17:26:51.506Z",
+  "market_endDate": "2022-02-09T00:00:00Z",
+  "market_closedTime": "2022-02-11 07:11:21+00",
+  "conditionId": "0xa84db2b7e18ea49bd08c46c1a20f8cf2b40c52aefe1656f7b8a7400aa157cac5",
+  "slug": "nba-who-will-win-the-bulls-vs-hornets-scheduled-for-february-9-730-pm-et",
+  "question": "NBA: Who will win the Bulls vs. Hornets, scheduled for February 9 (7.30 PM ET)?"
+}

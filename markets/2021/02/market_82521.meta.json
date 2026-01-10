@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "82521",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-10T21:35:01.812000Z",
+  "market_createdAt": "2021-02-10T21:35:01.812Z",
+  "market_updatedAt": "2024-04-22T23:18:38.435731Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-11T00:00:00Z",
+  "market_closedTime": "2021-02-12 18:16:57+00",
+  "conditionId": "0x18de25c6d97f0b496c181363da4b7b5539265b215281b5186affc747c6d32d27",
+  "slug": "will-the-heat-or-the-rockets-win-their-february-11th-matchup",
+  "question": "Will the Heat or the Rockets win their February 11th matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247525",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-12T21:22:12.236000Z",
+  "market_createdAt": "2022-10-12T21:22:12.236Z",
+  "market_updatedAt": "2023-01-31T15:30:21.137Z",
+  "market_startDate": null,
+  "market_endDate": "2023-12-31T00:00:00Z",
+  "market_closedTime": "2022-12-30 17:31:11+00",
+  "conditionId": "0xf8eaf29627d7c290a963904d697724f0c53ffe5e1e2efe8a393cd02bafbe5d69",
+  "slug": "will-netanyahu-be-the-next-prime-minister-of-israel",
+  "question": "Will Netanyahu be the next Prime Minister of Israel?"
+}

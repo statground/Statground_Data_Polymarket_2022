@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246663",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-07T18:37:01.515000Z",
+  "market_createdAt": "2022-07-07T18:37:01.515Z",
+  "market_updatedAt": "2023-02-01T02:37:28.374Z",
+  "market_startDate": "2022-07-08T21:10:12.274Z",
+  "market_endDate": "2022-07-08T00:00:00Z",
+  "market_closedTime": "2022-07-08 21:07:47+00",
+  "conditionId": "0x6617fba8404d05fc408345d8831e6f9e5b006f103dc6f37d4774336106aa045e",
+  "slug": "2022-wimbledon-championships-who-will-win-djokovic-vs-norrie",
+  "question": "2022 Wimbledon Championships: Who will win Djokovic vs. Norrie?"
+}

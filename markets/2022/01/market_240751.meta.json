@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240751",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-14T19:34:40.744000Z",
+  "market_createdAt": "2022-01-14T19:34:40.744Z",
+  "market_updatedAt": "2024-04-24T23:56:53.053683Z",
+  "market_startDate": "2022-01-15T05:19:18.823Z",
+  "market_endDate": "2022-01-17T00:00:00Z",
+  "market_closedTime": "2022-01-20 21:48:27+00",
+  "conditionId": "0xc779ae5892eaeb905df4a9ec211ec60d195e302e47de97c72b57fcbeb243a986",
+  "slug": "how-much-will-scream-2022-gross-domestically-on-opening-weekend",
+  "question": "How much will “Scream” (2022) gross domestically on opening weekend?"
+}

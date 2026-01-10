@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247288",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-16T17:44:25.835000Z",
+  "market_createdAt": "2022-09-16T17:44:25.835Z",
+  "market_updatedAt": "2023-01-31T20:21:40.369Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-02T00:00:00Z",
+  "market_closedTime": "2022-11-03 06:16:04+00",
+  "conditionId": "0x8fcf6358347279cc27e026b0b157301f555178231901f14ab11ff1f22c29d1b7",
+  "slug": "will-the-fed-increase-interest-rates-by-75-bps-after-its-november-meeting",
+  "question": "Will the Fed increase interest rates by 75 bps after its November meeting?"
+}

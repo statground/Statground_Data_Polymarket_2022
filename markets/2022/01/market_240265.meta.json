@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240265",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-01T14:26:03.702000Z",
+  "market_createdAt": "2022-01-01T14:26:03.702Z",
+  "market_updatedAt": "2024-04-26T02:51:34.146329Z",
+  "market_startDate": "2022-01-03T15:16:47.849Z",
+  "market_endDate": "2022-01-15T00:00:00Z",
+  "market_closedTime": "2022-01-12 18:56:44+00",
+  "conditionId": "0x962adafe066c0309ae34953567183159edd852608dbc1f75605a614e7ccb08df",
+  "slug": "will-the-usa-report-a-7-day-covid-19-case-average-of-600k-or-more-by-january-8",
+  "question": "Will the USA report a 7-day COVID-19 case average of 600k or more by January 8?"
+}

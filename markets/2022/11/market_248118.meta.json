@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248118",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-21T20:09:31.904000Z",
+  "market_createdAt": "2022-11-21T20:09:31.904Z",
+  "market_updatedAt": "2023-01-31T20:39:11.623Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-28T00:00:00Z",
+  "market_closedTime": "2022-11-28 21:30:36+00",
+  "conditionId": "0xd7b8784c455f9f19309ea676ff03b825f7642716520e565a5bed110c2211f2ba",
+  "slug": "world-cup-2022-monday-will-brazil-beat-switzerland",
+  "question": "World Cup: Monday - Will Brazil beat Switzerland?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "202091",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-24T16:25:03.542000Z",
+  "market_createdAt": "2021-05-24T16:25:03.542Z",
+  "market_updatedAt": "2024-04-23T00:27:34.84888Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-30T00:00:00Z",
+  "market_closedTime": "2021-05-31 19:29:22+00",
+  "conditionId": "0x409cdc84ff694eca1dd8eb88cd26c9877c08ad502979fcbfb43768e653e543ce",
+  "slug": "who-will-win-nets-vs-celtics-game-4",
+  "question": "Who will win Nets vs. Celtics: Game 4?"
+}

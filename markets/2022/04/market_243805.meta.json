@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243805",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-26T17:48:46.837000Z",
+  "market_createdAt": "2022-04-26T17:48:46.837Z",
+  "market_updatedAt": "2023-01-31T16:54:57.551Z",
+  "market_startDate": "2022-04-26T18:04:42.059Z",
+  "market_endDate": "2022-05-03T00:00:00Z",
+  "market_closedTime": "2022-05-04 06:48:26+00",
+  "conditionId": "0x5edc4d8b839e60e0099d8fdf4c7660640d48b363ce142204b66f6c7e5be50b6f",
+  "slug": "will-matt-dolan-win-the-republican-nomination-for-the-2022-united-states-senate-election-in-ohio",
+  "question": "Will Matt Dolan win the Republican nomination for the 2022 United States Senate election in Ohio?"
+}

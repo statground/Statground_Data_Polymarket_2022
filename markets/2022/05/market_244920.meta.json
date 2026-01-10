@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244920",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-16T19:41:26.355000Z",
+  "market_createdAt": "2022-05-16T19:41:26.355Z",
+  "market_updatedAt": "2023-01-31T12:26:12.135Z",
+  "market_startDate": "2022-05-16T21:17:40.781Z",
+  "market_endDate": "2022-05-29T00:00:00Z",
+  "market_closedTime": "2022-06-05 21:21:44+00",
+  "conditionId": "0x64178857620c77b31bff43d8801500245320b7a66d3af1042a79da8bfd4c0ccf",
+  "slug": "will-joe-bidens-fivethirtyeight-approval-rating-be-41pt5-or-higher-on-may-28",
+  "question": "Will Joe Biden's FiveThirtyEight approval rating be 41.5% or higher on May 28?"
+}

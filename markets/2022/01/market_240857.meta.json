@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240857",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-19T15:46:51.116000Z",
+  "market_createdAt": "2022-01-19T15:46:51.116Z",
+  "market_updatedAt": "2024-04-23T00:59:07.239999Z",
+  "market_startDate": "2022-01-19T20:07:12.219Z",
+  "market_endDate": "2022-01-19T00:00:00Z",
+  "market_closedTime": "2022-01-24 15:06:48+00",
+  "conditionId": "0xfe76f7bec46970dd89d7685980a55c11bddfe775b02da8be52e3227c070cc027",
+  "slug": "nhl-will-the-avalanche-beat-the-ducks-by-more-than-15-goals-in-their-january-19-matchup",
+  "question": "NHL: Will the Avalanche beat the Ducks by more than 1.5 goals in their January 19 matchup?"
+}

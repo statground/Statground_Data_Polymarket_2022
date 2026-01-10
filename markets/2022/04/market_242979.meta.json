@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242979",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-06T20:28:00.588000Z",
+  "market_createdAt": "2022-04-06T20:28:00.588Z",
+  "market_updatedAt": "2024-04-22T23:32:48.152562Z",
+  "market_startDate": "2022-04-06T21:58:02.254Z",
+  "market_endDate": "2022-04-14T00:00:00Z",
+  "market_closedTime": "2022-04-14 22:15:53+00",
+  "conditionId": "0x6cce3cc36fa41d9f6e018b4023e6fb6f2893dfeb5998d6668d614f2eb9114935",
+  "slug": "will-the-price-of-bitcoin-btc-be-above-46000-on-april-14",
+  "question": "Will the price of Bitcoin (BTC) be above $46,000 on April 14?"
+}

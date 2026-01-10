@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246082",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-01T16:17:35.056000Z",
+  "market_createdAt": "2022-06-01T16:17:35.056Z",
+  "market_updatedAt": "2023-02-10T01:03:37.128Z",
+  "market_startDate": "2022-06-01T16:48:16.428Z",
+  "market_endDate": "2022-06-10T00:00:00Z",
+  "market_closedTime": "2022-06-11 07:15:48+00",
+  "conditionId": "0x0de4ed9c811667ff9485e0f7aa3788a8db7c2147050f33defef2e2a302665433",
+  "slug": "2022-nba-finals-who-will-win-celtics-vs-warriors-game-4",
+  "question": "2022 NBA Finals: Who will win Celtics vs. Warriors Game 4?"
+}

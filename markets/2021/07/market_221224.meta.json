@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "221224",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-02T19:20:01.265000Z",
+  "market_createdAt": "2021-07-02T19:20:01.265Z",
+  "market_updatedAt": "2024-04-24T23:46:51.268405Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-23T00:00:00Z",
+  "market_closedTime": "2021-07-23 21:49:39+00",
+  "conditionId": "0x843eabd7db6883cbcb9fae9f3ae2c7603dbc9372cf801a48297f9281e8e68968",
+  "slug": "will-daily-atmospheric-co2-be-above-4185-ppm-on-july-22-2021",
+  "question": "Will daily atmospheric CO2 be above 418.5 ppm on July 22, 2021?"
+}

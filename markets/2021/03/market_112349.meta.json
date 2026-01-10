@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "112349",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-03-29T16:35:06.230000Z",
+  "market_createdAt": "2021-03-29T16:35:06.23Z",
+  "market_updatedAt": "2024-04-23T00:44:28.713039Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-20T00:00:00Z",
+  "market_closedTime": "2021-04-20 17:26:55+00",
+  "conditionId": "0xa6ea42717bf03d70b2d94d3d5ba048a7f29d49baacfa54e2786c3c81abef4bf2",
+  "slug": "will-there-be-more-than-140-million-confirmed-covid-19-cases-globally-by-april-20-2021-1",
+  "question": "Will there be more than 140 million confirmed COVID-19 cases globally by April 20, 2021?"
+}

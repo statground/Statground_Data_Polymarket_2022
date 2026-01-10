@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "120003",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-09T21:50:02.842000Z",
+  "market_createdAt": "2021-04-09T21:50:02.842Z",
+  "market_updatedAt": "2024-04-25T00:11:55.674312Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-30T00:00:00Z",
+  "market_closedTime": "2021-06-14 16:21:10+00",
+  "conditionId": "0xb62f71aef4c9972ddb75ec977b48156e1cc72e30f0e36b0f12c14de7fd94c777",
+  "slug": "will-benjamin-netanyahu-remain-prime-minister-of-israel-through-june-30-2021",
+  "question": "Will Benjamin Netanyahu remain prime minister of Israel through June 30, 2021?"
+}

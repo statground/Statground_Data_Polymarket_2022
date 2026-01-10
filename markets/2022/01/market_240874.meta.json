@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240874",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-19T20:56:43.749000Z",
+  "market_createdAt": "2022-01-19T20:56:43.749Z",
+  "market_updatedAt": "2024-04-23T00:56:04.031869Z",
+  "market_startDate": "2022-01-20T20:12:49.104Z",
+  "market_endDate": "2022-02-06T00:00:00Z",
+  "market_closedTime": "2022-02-03 18:14:22+00",
+  "conditionId": "0xd53ea4c3a323f8470e3f3542b482bc3fb3d97891786a8b8dc5a4e389c7ed053e",
+  "slug": "africa-cup-of-nations-will-morocco-win-the-tournament",
+  "question": "Africa Cup of Nations: Will Morocco win the tournament?"
+}

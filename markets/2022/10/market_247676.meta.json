@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247676",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-17T18:55:08.493000Z",
+  "market_createdAt": "2022-10-17T18:55:08.493Z",
+  "market_updatedAt": "2023-01-31T21:10:05.703Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-08T00:00:00Z",
+  "market_closedTime": "2022-11-09 17:31:02+00",
+  "conditionId": "0xb30bb792ac33351f3f26af20df8a31142b256fd43b0ea1d18dce965332018d82",
+  "slug": "2022-us-senate-elections-will-an-independent-or-republican-win-in-utah",
+  "question": "Senate: Will an Independent (McMullin) or Republican (Lee) win in Utah?"
+}

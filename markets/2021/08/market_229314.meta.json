@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "229314",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-06T20:20:01.446000Z",
+  "market_createdAt": "2021-08-06T20:20:01.446Z",
+  "market_updatedAt": "2023-01-31T21:05:50.757Z",
+  "market_startDate": "2021-08-06T21:10:42.715Z",
+  "market_endDate": "2021-09-01T00:00:00Z",
+  "market_closedTime": "2021-08-12 23:23:08+00",
+  "conditionId": "0xdc6b94f6b585e0c83df2d17bb12fd9880cf7d5b7507c15743140aac11cd87a06",
+  "slug": "will-lionel-messi-sign-for-paris-saint-germain-on-or-before-september-1",
+  "question": "Will Lionel Messi sign for Paris-Saint Germain on or before September 1?"
+}

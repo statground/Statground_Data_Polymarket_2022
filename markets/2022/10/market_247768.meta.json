@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247768",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-25T20:27:15.822000Z",
+  "market_createdAt": "2022-10-25T20:27:15.822Z",
+  "market_updatedAt": "2023-01-31T16:32:36.617Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-31T00:00:00Z",
+  "market_closedTime": "2022-11-01 07:00:56+00",
+  "conditionId": "0x204620e8136ed449280a368cb6d84055119fa9d7c244260d02a33ed781a6e107",
+  "slug": "nfl-monday-bengals-vs-browns",
+  "question": "NFL Monday: Bengals vs. Browns"
+}

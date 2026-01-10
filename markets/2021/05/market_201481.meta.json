@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "201481",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-19T21:25:03.892000Z",
+  "market_createdAt": "2021-05-19T21:25:03.892Z",
+  "market_updatedAt": "2024-04-22T22:23:49.019762Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-25T00:00:00Z",
+  "market_closedTime": "2021-05-25 16:47:21+00",
+  "conditionId": "0xa7cf4c7ead168d62b726e364e8f5151864568f2afd6c9eaac8c2cd3f4f5edf04",
+  "slug": "will-magnus-carlsen-or-hikaru-nakamura-win-in-their-ftx-crypto-cup-preliminary-match-1",
+  "question": "Will Magnus Carlsen or Hikaru Nakamura win in their FTX Crypto Cup preliminary match?"
+}

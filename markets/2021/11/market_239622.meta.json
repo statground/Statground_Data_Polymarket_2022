@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239622",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-26T09:45:14.528000Z",
+  "market_createdAt": "2021-11-26T09:45:14.528Z",
+  "market_updatedAt": "2024-04-23T00:57:51.532251Z",
+  "market_startDate": "2021-11-26T19:23:20.417Z",
+  "market_endDate": "2021-11-26T00:00:00Z",
+  "market_closedTime": "2021-11-27 20:54:42+00",
+  "conditionId": "0x7da3092cb4c2d803c416d83a7e108d2155120a14ca32cf433fe9b479d976d917",
+  "slug": "nba-will-the-lakers-beat-the-kings-by-more-than-7pt5-points-in-their-november-26th-matchup",
+  "question": "NBA: Will the Lakers beat the Kings by more than 7.5 points in their November 26th matchup?"
+}

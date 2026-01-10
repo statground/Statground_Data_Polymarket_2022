@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241294",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-03T10:12:21.888000Z",
+  "market_createdAt": "2022-02-03T10:12:21.888Z",
+  "market_updatedAt": "2024-04-22T22:52:11.833814Z",
+  "market_startDate": "2022-02-03T16:20:18.897Z",
+  "market_endDate": "2022-02-03T00:00:00Z",
+  "market_closedTime": "2022-02-07 02:51:16+00",
+  "conditionId": "0x60d55b0a9ef05802cf0f9fbd7cbbc66d72ea6901e93fe755b901879ec2324d30",
+  "slug": "nba-will-the-heat-beat-the-spurs-by-more-than-3p5-points-in-their-february-3-830-pm-et-matchup",
+  "question": "NBA: Will the Heat beat the Spurs by more than 3.5 points in their February 3 (8.30 PM ET) matchup?"
+}

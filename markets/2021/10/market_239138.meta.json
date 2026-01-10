@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239138",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-29T13:17:29.419000Z",
+  "market_createdAt": "2021-10-29T13:17:29.419Z",
+  "market_updatedAt": "2024-04-22T23:32:54.120083Z",
+  "market_startDate": "2021-10-29T18:31:04.745Z",
+  "market_endDate": "2021-11-03T00:00:00Z",
+  "market_closedTime": "2021-11-03 20:31:58+00",
+  "conditionId": "0xc8b045628b7b05eae207a97a20f3b0dad8c8118e7824cf3d4d731783709458ab",
+  "slug": "will-there-be-750000-or-more-total-eth-burned-before-november-4th-2021",
+  "question": "Will there be 750,000 or more total ETH burned before November 4th, 2021?"
+}

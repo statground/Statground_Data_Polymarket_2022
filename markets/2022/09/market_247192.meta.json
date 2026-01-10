@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247192",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-07T15:55:05.542000Z",
+  "market_createdAt": "2022-09-07T15:55:05.542Z",
+  "market_updatedAt": "2023-01-31T13:48:05.763Z",
+  "market_startDate": "2022-09-07T16:16:42.38Z",
+  "market_endDate": "2022-09-07T00:00:00Z",
+  "market_closedTime": "2022-09-08 01:15:49+00",
+  "conditionId": "0xe8c8e778bb56d1cae434859d53c43779ec261ae41af0d03eb9724144107ff89d",
+  "slug": "champions-league-who-will-win-the-napoli-vs-liverpool-game-on-september-7",
+  "question": "Champions League: Who will win the Napoli vs. Liverpool game on September 7?"
+}

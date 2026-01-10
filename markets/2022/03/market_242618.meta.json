@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242618",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-29T22:48:53Z",
+  "market_createdAt": "2022-03-29T22:48:53Z",
+  "market_updatedAt": "2023-01-31T14:45:27.333Z",
+  "market_startDate": "2022-03-29T23:15:40.97Z",
+  "market_endDate": "2022-04-14T00:00:00Z",
+  "market_closedTime": "2022-04-15 07:33:54+00",
+  "conditionId": "0xe7c4e65687185d06f4e52de387ce2ce691ebfd51d4ed9edf79df832843f79d6a",
+  "slug": "will-the-ronin-network-hacker-return-90-or-more-of-exploited-funds-by-april-14",
+  "question": "Will the Ronin Network hacker return 90% or more of exploited funds by April 14?"
+}

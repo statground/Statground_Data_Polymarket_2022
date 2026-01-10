@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243832",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-27T08:00:21.896000Z",
+  "market_createdAt": "2022-04-27T08:00:21.896Z",
+  "market_updatedAt": "2023-01-31T20:55:51.595Z",
+  "market_startDate": "2022-04-27T15:44:34.296Z",
+  "market_endDate": "2022-04-27T00:00:00Z",
+  "market_closedTime": "2022-04-28 07:02:37+00",
+  "conditionId": "0x6a63be60d35978e721853505e7b9800db882df9aa2f87c877239cf39b748c26d",
+  "slug": "nhl-will-the-jets-beat-the-flyers-by-more-than-1pt5-goals-in-their-april-27-730-pm-et-matchup",
+  "question": "NHL: Will the Jets beat the Flyers by more than 1.5 goals in their April 27, 7:30 PM ET matchup?"
+}

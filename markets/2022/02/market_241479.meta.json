@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241479",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-14T10:05:13.122000Z",
+  "market_createdAt": "2022-02-14T10:05:13.122Z",
+  "market_updatedAt": "2024-04-22T23:27:13.80291Z",
+  "market_startDate": "2022-02-14T14:50:17.71Z",
+  "market_endDate": "2022-02-14T00:00:00Z",
+  "market_closedTime": "2022-02-15 19:02:16+00",
+  "conditionId": "0x536a0ae857e55761fb7063148e219a29ca0edc14931291b0a39ae9d0bcf67c1d",
+  "slug": "nba-will-the-raptors-beat-the-pelicans-by-more-than-4p5-points-in-their-february-14-8-pm-et-matchup",
+  "question": "NBA: Will the Raptors beat the Pelicans by more than 4.5 points in their February 14 (8 PM ET) matchup?"
+}

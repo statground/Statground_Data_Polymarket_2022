@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240494",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T17:04:29.191000Z",
+  "market_createdAt": "2022-01-11T17:04:29.191Z",
+  "market_updatedAt": "2024-04-24T23:16:25.002269Z",
+  "market_startDate": "2022-01-12T21:06:02.596Z",
+  "market_endDate": "2022-02-15T00:00:00Z",
+  "market_closedTime": "2022-02-16 20:13:07+00",
+  "conditionId": "0x657ac13a538ccc6e9b174c023e884572070e3687641c4e3001a9625e01c3c2a1",
+  "slug": "will-there-be-a-variant-that-overtakes-omicron-in-the-us-by-february-15th",
+  "question": "Will there be a variant that overtakes Omicron in the US by February 15th?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239926",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-08T10:20:45.869000Z",
+  "market_createdAt": "2021-12-08T10:20:45.869Z",
+  "market_updatedAt": "2024-04-22T22:50:57.190132Z",
+  "market_startDate": "2021-12-08T21:20:08.928Z",
+  "market_endDate": "2021-12-08T00:00:00Z",
+  "market_closedTime": "2021-12-09 19:02:46+00",
+  "conditionId": "0x8675d0b2bcdb3cc1ebd51677d3e26e46677cbc01877134539d4692f536fb2f53",
+  "slug": "nba-will-the-clippers-beat-the-celtics-by-more-than-2pt5-points-in-their-december-8-matchup",
+  "question": "NBA: Will the Clippers beat the Celtics by more than 2.5 points in their December 8 matchup?"
+}

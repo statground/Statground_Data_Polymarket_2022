@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246772",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-20T17:55:01.730000Z",
+  "market_createdAt": "2022-07-20T17:55:01.73Z",
+  "market_updatedAt": "2023-01-31T21:16:34.899Z",
+  "market_startDate": "2022-07-20T21:08:27.87Z",
+  "market_endDate": "2023-01-06T00:00:00Z",
+  "market_closedTime": "2023-01-07 07:45:32+00",
+  "conditionId": "0x0e2716173aa1c6fa290406bbb07b57eb0fe636584368173a25a5e1459fbbfcb2",
+  "slug": "will-hunter-biden-be-federally-indicted-by-january-6-2023",
+  "question": "Will Hunter Biden be federally indicted by January 6, 2023?"
+}

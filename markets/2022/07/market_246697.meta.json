@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246697",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-12T20:08:23.257000Z",
+  "market_createdAt": "2022-07-12T20:08:23.257Z",
+  "market_updatedAt": "2023-01-31T18:41:07.872Z",
+  "market_startDate": "2022-07-12T21:43:01.718Z",
+  "market_endDate": "2022-12-31T00:00:00Z",
+  "market_closedTime": "2022-07-20 18:00:52+00",
+  "conditionId": "0x2d392b23118c49e5e9cd9d6b380178b015b6ea3ed6307d10cae671e39c7d989f",
+  "slug": "will-penny-mordaunt-be-the-next-uk-conservative-party-leader",
+  "question": "Will Penny Mordaunt be the next UK Conservative Party Leader?"
+}

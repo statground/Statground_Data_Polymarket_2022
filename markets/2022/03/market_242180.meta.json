@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242180",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-17T18:51:15.884000Z",
+  "market_createdAt": "2022-03-17T18:51:15.884Z",
+  "market_updatedAt": "2024-04-24T23:42:03.435613Z",
+  "market_startDate": "2022-03-17T19:15:08.587Z",
+  "market_endDate": "2022-03-20T00:00:00Z",
+  "market_closedTime": "2022-03-21 03:19:45+00",
+  "conditionId": "0x4fa92183e02d1b547a18b5da0771fd074b27285bb268191e03d88143b590a260",
+  "slug": "formula-1-who-will-finish-ahead-at-the-bahrain-grand-prix-max-verstappen-or-lewis-hamilton",
+  "question": "Formula 1: Who will finish ahead at the Bahrain Grand Prix: Max Verstappen or Lewis Hamilton?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239334",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-10T09:51:33.864000Z",
+  "market_createdAt": "2021-11-10T09:51:33.864Z",
+  "market_updatedAt": "2024-04-22T23:10:42.657118Z",
+  "market_startDate": "2021-11-10T17:39:56.527Z",
+  "market_endDate": "2021-11-10T00:00:00Z",
+  "market_closedTime": "2021-11-11 22:19:44+00",
+  "conditionId": "0x8aaf4b94a73e700efef57ac2f8648119db3653bed70e8dd6ba184f7e4bc762a1",
+  "slug": "nba-will-the-grizzlies-beat-the-hornets-by-more-than-4pt5-points-in-their-november-10th-matchup",
+  "question": "NBA: Will the Grizzlies beat the Hornets by more than 4.5 points in their November 10th matchup?"
+}

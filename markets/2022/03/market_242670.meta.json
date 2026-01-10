@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242670",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-31T09:06:05.398000Z",
+  "market_createdAt": "2022-03-31T09:06:05.398Z",
+  "market_updatedAt": "2024-04-23T00:41:24.752966Z",
+  "market_startDate": "2022-03-31T16:33:55.12Z",
+  "market_endDate": "2022-03-31T00:00:00Z",
+  "market_closedTime": "2022-04-01 06:45:36+00",
+  "conditionId": "0xa572b37b10f68bfac30f7b629209308b3974a40d6dea75e42cd56fc04696bb61",
+  "slug": "nba-who-will-win-bulls-vs-clippers-scheduled-for-march-31-800-pm-et",
+  "question": "NBA: Who will win Bulls vs. Clippers, scheduled for March 31, 8:00 PM ET?"
+}

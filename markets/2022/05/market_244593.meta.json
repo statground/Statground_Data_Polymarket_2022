@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244593",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-09T20:18:44.247000Z",
+  "market_createdAt": "2022-05-09T20:18:44.247Z",
+  "market_updatedAt": "2023-01-31T20:14:17.116Z",
+  "market_startDate": "2022-05-09T20:44:44.728Z",
+  "market_endDate": "2022-05-20T00:00:00Z",
+  "market_closedTime": "2022-05-20 18:30:45+00",
+  "conditionId": "0xeb9d43e96e28a9a09155dc21af6ccb9f1fb4791f5a9c7c558fa6752e1e9bfc4d",
+  "slug": "will-the-otherdeed-floor-price-be-above-3-eth-on-may-20",
+  "question": "Will the Otherdeed floor price be above 3 ETH on May 20?"
+}

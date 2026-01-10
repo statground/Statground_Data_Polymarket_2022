@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238933",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-02T05:03:03.701000Z",
+  "market_createdAt": "2021-10-02T05:03:03.701Z",
+  "market_updatedAt": "2024-04-23T00:22:48.649664Z",
+  "market_startDate": "2021-10-02T05:05:17.67Z",
+  "market_endDate": "2021-10-11T00:00:00Z",
+  "market_closedTime": "2021-10-12 02:48:19+00",
+  "conditionId": "0x38bc1c938830169b9dfdcd346b6c9a4892233c1c7f27749d27f63c8a571bce0e",
+  "slug": "which-movie-will-gross-more-domestically-on-opening-weekend-venom-2-or-no-time-to-die",
+  "question": "Which movie will gross more domestically on opening weekend: Venom 2 or No Time to Die?"
+}

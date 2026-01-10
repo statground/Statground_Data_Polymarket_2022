@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241129",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-27T20:13:30.651000Z",
+  "market_createdAt": "2022-01-27T20:13:30.651Z",
+  "market_updatedAt": "2024-04-23T00:12:01.353503Z",
+  "market_startDate": "2022-01-27T22:19:15.914Z",
+  "market_endDate": "2022-12-31T00:00:00Z",
+  "market_closedTime": "2022-02-25 22:03:19+00",
+  "conditionId": "0x97426536a8495431827651cc2b45ee3d9cfa4792eea92c2963e13476e856db32",
+  "slug": "will-j-michelle-childs-be-the-next-nominee-for-supreme-court-justice",
+  "question": "Will J. Michelle Childs be the next nominee for Supreme Court Justice?"
+}

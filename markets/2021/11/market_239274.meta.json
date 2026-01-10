@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239274",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-06T19:25:18.631000Z",
+  "market_createdAt": "2021-11-06T19:25:18.631Z",
+  "market_updatedAt": "2024-04-26T02:48:37.923303Z",
+  "market_startDate": "2021-11-07T01:00:18.05Z",
+  "market_endDate": "2021-11-07T00:00:00Z",
+  "market_closedTime": "2021-11-08 13:31:58+00",
+  "conditionId": "0xdac3e115240789574a33affaf76c3adc1feab24a431d6f362858be8a4e014679",
+  "slug": "nfl-who-will-win-the-bengals-v-browns-game-on-november-7th",
+  "question": "NFL: Who will win the Bengals v. Browns game on November 7th?"
+}

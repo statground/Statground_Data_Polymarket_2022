@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240002",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-12T13:43:34.359000Z",
+  "market_createdAt": "2021-12-12T13:43:34.359Z",
+  "market_updatedAt": "2024-04-23T00:21:04.703314Z",
+  "market_startDate": "2021-12-12T19:51:20.115Z",
+  "market_endDate": "2021-12-12T00:00:00Z",
+  "market_closedTime": "2021-12-13 17:26:45+00",
+  "conditionId": "0x28f6b4ac97b64d17d56f6475c151a174eebe057a892f8923842183752bc8ff84",
+  "slug": "nba-will-the-spurs-beat-the-pelicans-by-more-than-2pt5-points-in-their-december-12-matchup",
+  "question": "NBA: Will the Spurs beat the Pelicans by more than 2.5 points in their December 12 matchup?"
+}

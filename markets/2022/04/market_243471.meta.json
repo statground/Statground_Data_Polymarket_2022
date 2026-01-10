@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243471",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-19T10:03:50.151000Z",
+  "market_createdAt": "2022-04-19T10:03:50.151Z",
+  "market_updatedAt": "2023-01-31T13:01:26.813Z",
+  "market_startDate": "2022-04-19T15:04:34.656Z",
+  "market_endDate": "2022-04-19T00:00:00Z",
+  "market_closedTime": "2022-04-21 07:18:37+00",
+  "conditionId": "0x47ff1ec9fe32d560bb868eee1ff35c39c1f9cfd37835452889aad61d2d2e3145",
+  "slug": "mlb-who-will-win-white-sox-vs-guardians-game-on-april-19",
+  "question": "MLB: Who will win White Sox vs. Guardians game on April 19?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242050",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-13T13:28:45.500000Z",
+  "market_createdAt": "2022-03-13T13:28:45.5Z",
+  "market_updatedAt": "2024-04-22T22:56:18.928602Z",
+  "market_startDate": "2022-03-13T17:59:41.772Z",
+  "market_endDate": "2022-03-13T00:00:00Z",
+  "market_closedTime": "2022-03-14 11:30:26+00",
+  "conditionId": "0xf983fbf5b7837725e2e203dd24a2be884ca1544d6af2c3cc18df4de841068616",
+  "slug": "nhl-will-the-blues-beat-the-jets-by-more-than-1pt5-goals-in-their-march-13-matchup-7-pm-et",
+  "question": "NHL: Will the Blues beat the Jets by more than 1.5 goals in their March 13 matchup (7 PM ET)?"
+}

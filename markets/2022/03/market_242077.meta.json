@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242077",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-14T22:46:29.506000Z",
+  "market_createdAt": "2022-03-14T22:46:29.506Z",
+  "market_updatedAt": "2024-04-23T00:15:30.812076Z",
+  "market_startDate": "2022-03-15T18:45:50.611Z",
+  "market_endDate": "2022-04-04T00:00:00Z",
+  "market_closedTime": "2022-03-29 16:26:32+00",
+  "conditionId": "0x8a68e7bc2e24063060afaf4ab78fa2acccecc541b2ae840163b9e45a8e5f51d3",
+  "slug": "will-hikaru-nakamura-qualify-for-the-fide-2022-candidates-tournament",
+  "question": "Will Hikaru Nakamura Qualify for the FIDE 2022 Candidates Tournament?"
+}

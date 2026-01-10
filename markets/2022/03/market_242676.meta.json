@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242676",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-31T09:07:54.579000Z",
+  "market_createdAt": "2022-03-31T09:07:54.579Z",
+  "market_updatedAt": "2024-04-24T23:57:12.684866Z",
+  "market_startDate": "2022-03-31T16:55:26.53Z",
+  "market_endDate": "2022-03-31T00:00:00Z",
+  "market_closedTime": "2022-04-01 06:46:38+00",
+  "conditionId": "0x0a7b6b09b6d0346b46d007058e8b184cdcc23578d17973e741fecd9e94d6487d",
+  "slug": "nba-will-the-jazz-beat-the-lakers-by-more-than-11pt5-points-in-their-march-31-1000-pm-et-matchup",
+  "question": "NBA: Will the Jazz beat the Lakers by more than 11.5 points in their March 31, 10:00 PM ET matchup?"
+}

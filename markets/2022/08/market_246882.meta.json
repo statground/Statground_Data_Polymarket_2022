@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246882",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-01T15:59:41.058000Z",
+  "market_createdAt": "2022-08-01T15:59:41.058Z",
+  "market_updatedAt": "2023-02-01T04:12:28.487Z",
+  "market_startDate": "2022-08-03T19:12:26.761Z",
+  "market_endDate": "2022-08-02T00:00:00Z",
+  "market_closedTime": "2022-08-03 19:05:50+00",
+  "conditionId": "0xf931c37bc0d186095d0d06066f9a8372bccd82ccf12361809b631d9ddaeeee04",
+  "slug": "mlb-who-will-win-toronto-blue-jays-v-tampa-bay-rays-scheduled-for-august-2-710-pm-et",
+  "question": "MLB: Who will win Toronto Blue Jays v. Tampa Bay Rays, scheduled for August 2, 7:10 PM ET?"
+}

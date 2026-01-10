@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242225",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-18T12:11:55.640000Z",
+  "market_createdAt": "2022-03-18T12:11:55.64Z",
+  "market_updatedAt": "2023-01-31T21:10:01.509Z",
+  "market_startDate": null,
+  "market_endDate": "2022-03-18T00:00:00Z",
+  "market_closedTime": "2022-03-19 12:45:29+00",
+  "conditionId": "0x1a3a5f8b6da036471e5ec6fad629e8233860abcc662943e76b0a7b755d3c256b",
+  "slug": "ncaab-who-will-win-ohio-state-buckeyes-vspt-loyola-chi-ramblers-scheduled-for-march-18-1215-pm-et",
+  "question": "NCAAB: Who will win Ohio State Buckeyes vs. Loyola (Chi) Ramblers, scheduled for March 18, 12:15 PM ET?"
+}

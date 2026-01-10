@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240193",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-27T10:53:20.933000Z",
+  "market_createdAt": "2021-12-27T10:53:20.933Z",
+  "market_updatedAt": "2024-04-22T23:57:07.633787Z",
+  "market_startDate": "2021-12-27T19:08:35.848Z",
+  "market_endDate": "2021-12-27T00:00:00Z",
+  "market_closedTime": "2021-12-28 19:49:39+00",
+  "conditionId": "0x7e507b7ce7069c5f03284bcce3338a0ca551b68adee49af96d586338545c833e",
+  "slug": "nba-will-the-nets-beat-the-clippers-by-more-than-4pt5-points-in-their-december-27-matchup",
+  "question": "NBA: Will the Nets beat the Clippers by more than 4.5 points in their December 27 matchup?"
+}

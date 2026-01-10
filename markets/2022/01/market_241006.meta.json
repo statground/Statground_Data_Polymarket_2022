@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241006",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-24T23:41:00.694000Z",
+  "market_createdAt": "2022-01-24T23:41:00.694Z",
+  "market_updatedAt": "2024-04-22T23:42:58.063102Z",
+  "market_startDate": "2022-01-25T19:13:40.228Z",
+  "market_endDate": "2022-01-31T00:00:00Z",
+  "market_closedTime": "2022-02-01 19:31:48+00",
+  "conditionId": "0xe20f5847bcd7a5b1ae9e53ddead0bb076437e0d6837d206f95c628a613f01977",
+  "slug": "will-polygon-matic-be-1p80-or-higher-on-january-31-2022",
+  "question": "Will Polygon ($MATIC) be $1.80 or higher on January 31, 2022?"
+}

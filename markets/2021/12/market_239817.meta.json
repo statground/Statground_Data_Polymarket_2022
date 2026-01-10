@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239817",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-03T20:13:12.414000Z",
+  "market_createdAt": "2021-12-03T20:13:12.414Z",
+  "market_updatedAt": "2024-04-23T00:33:52.254054Z",
+  "market_startDate": "2021-12-04T19:47:49.023Z",
+  "market_endDate": "2021-12-05T00:00:00Z",
+  "market_closedTime": "2021-12-06 19:36:09+00",
+  "conditionId": "0xe4e7985bf34f241ab21882382b8e0f2b8c1cd85162235d92c00f4bc24342c47b",
+  "slug": "nfl-will-the-raiders-beat-the-washington-by-more-than-1pt5-points-in-their-december-5-matchup",
+  "question": "NFL: Will the Raiders beat the Washington by more than 1.5 points in their December 5 matchup?"
+}

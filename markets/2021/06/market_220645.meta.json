@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "220645",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-30T19:50:01.400000Z",
+  "market_createdAt": "2021-06-30T19:50:01.4Z",
+  "market_updatedAt": "2024-04-25T00:03:08.833665Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-18T00:00:00Z",
+  "market_closedTime": "2021-07-19 17:45:43+00",
+  "conditionId": "0x386449cbc1f91253b63cd6e2fc8f2482d99ca87d49be4c55beb2a9b74978121a",
+  "slug": "will-the-winning-margin-of-the-2021-tour-de-france-be-less-than-1-minute",
+  "question": "Will the winning margin of the 2021 Tour de France be less than 1 minute?"
+}

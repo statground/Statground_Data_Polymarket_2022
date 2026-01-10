@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "196485",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-13T21:45:02.585000Z",
+  "market_createdAt": "2021-05-13T21:45:02.585Z",
+  "market_updatedAt": "2024-04-22T23:02:38.133774Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-13T00:00:00Z",
+  "market_closedTime": "2021-05-14 16:37:05+00",
+  "conditionId": "0x4833dbc1bd14bb5f0ec1b0e2021dc809ba1193c86ef7c8c09ca25374f157e8db",
+  "slug": "will-mark-rothkos-untitled-sell-for-more-than-40-million-at-christies",
+  "question": "Will Mark Rothko’s “Untitled” sell for more than $40 million at Christie’s?"
+}

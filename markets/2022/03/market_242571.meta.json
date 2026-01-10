@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242571",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-27T09:12:39.548000Z",
+  "market_createdAt": "2022-03-27T09:12:39.548Z",
+  "market_updatedAt": "2024-04-23T00:57:03.373045Z",
+  "market_startDate": "2022-03-27T17:14:19.552Z",
+  "market_endDate": "2022-03-27T00:00:00Z",
+  "market_closedTime": "2022-03-28 09:21:41+00",
+  "conditionId": "0x1770b7659f5bc2a3cbaa45d2cdffa30c757df725e42f5c86be7241d19ee763be",
+  "slug": "ncaab-will-the-north-carolina-tar-heels-beat-the-saint-peters-peacocks-by-more-than-8pt5-points-in-their-march-27-505-pm-et-matchup",
+  "question": "NCAAB: Will the North Carolina Tar Heels beat the Saint Peter's Peacocks by more than 8.5 points in their March 27, 5:05 PM ET matchup?"
+}

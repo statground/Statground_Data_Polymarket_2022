@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243480",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-19T11:28:00.362000Z",
+  "market_createdAt": "2022-04-19T11:28:00.362Z",
+  "market_updatedAt": "2023-01-31T18:46:10.554Z",
+  "market_startDate": "2022-04-26T19:47:36.625Z",
+  "market_endDate": "2022-05-28T00:00:00Z",
+  "market_closedTime": "2022-05-25 10:45:35+00",
+  "conditionId": "0x294c95972f83a03328e127575d28175c62b812723d2a6f8f7e9b62a67a6f01c2",
+  "slug": "will-liverpool-fc-win-the-quadruple-this-season",
+  "question": "Will Liverpool FC win the quadruple this season?"
+}

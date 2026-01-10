@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240768",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-15T19:14:33.168000Z",
+  "market_createdAt": "2022-01-15T19:14:33.168Z",
+  "market_updatedAt": "2024-04-22T23:16:46.905813Z",
+  "market_startDate": "2022-01-15T20:29:48.389Z",
+  "market_endDate": "2022-01-15T00:00:00Z",
+  "market_closedTime": "2022-01-17 16:41:24+00",
+  "conditionId": "0xbeece4a28178f8e7f890bd25d19bfbcafa9573d575471f547f4c75c01bb26887",
+  "slug": "nhl-will-the-kings-beat-the-kraken-by-more-than-1p5-goals-in-their-january-15-matchup",
+  "question": "NHL: Will the Kings beat the Kraken by more than 1.5 goals in their January 15 matchup?"
+}

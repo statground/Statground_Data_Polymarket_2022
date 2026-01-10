@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "196276",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-13T18:10:02.828000Z",
+  "market_createdAt": "2021-05-13T18:10:02.828Z",
+  "market_updatedAt": "2024-04-22T23:17:50.586878Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-13T00:00:00Z",
+  "market_closedTime": "2021-05-14 16:11:56+00",
+  "conditionId": "0x9c851e52cf68f0488d2cb11c40cb8bd5dc930a3bf2a62c2d7c3f814ec529e406",
+  "slug": "will-joan-mirs-femme-femme-debout-sell-for-more-than-10-million-at-christies",
+  "question": "Will Joan Miró’s “Femme (Femme debout)” sell for more than $10 million at Christie’s?"
+}

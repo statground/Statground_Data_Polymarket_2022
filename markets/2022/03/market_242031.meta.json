@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242031",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-12T19:52:12.065000Z",
+  "market_createdAt": "2022-03-12T19:52:12.065Z",
+  "market_updatedAt": "2024-04-24T23:15:47.152866Z",
+  "market_startDate": "2022-03-12T21:34:23.279Z",
+  "market_endDate": "2022-03-12T00:00:00Z",
+  "market_closedTime": "2022-03-13 11:45:28+00",
+  "conditionId": "0x10227d5cc63664f22da4de0e65a536967e6ec9c2fc765554db569103ab59096b",
+  "slug": "nba-who-will-win-the-bucks-vspt-warriors-scheduled-for-march-12-8pt30-pm-et",
+  "question": "NBA: Who will win the Bucks vs. Warriors, scheduled for March 12 (8.30 PM ET)?"
+}

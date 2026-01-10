@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239126",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-28T23:02:39.189000Z",
+  "market_createdAt": "2021-10-28T23:02:39.189Z",
+  "market_updatedAt": "2024-04-22T23:02:55.846654Z",
+  "market_startDate": "2021-10-29T18:03:59.965Z",
+  "market_endDate": "2021-11-02T00:00:00Z",
+  "market_closedTime": "2021-11-02 20:03:44+00",
+  "conditionId": "0xbf4eb8e827492e427521a9630ef6ffffd4d57dd044f31eceade5a1f29e6a5425",
+  "slug": "will-the-air-quality-index-in-los-angeles-be-60-or-higher-on-november-1st",
+  "question": "Will the Air Quality Index in Los Angeles be 60 or higher on November 1st?"
+}

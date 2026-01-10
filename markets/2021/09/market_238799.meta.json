@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238799",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-19T16:18:44.576000Z",
+  "market_createdAt": "2021-09-19T16:18:44.576Z",
+  "market_updatedAt": "2024-04-22T23:47:01.580992Z",
+  "market_startDate": "2021-09-19T17:05:46.056Z",
+  "market_endDate": "2021-09-19T00:00:00Z",
+  "market_closedTime": "2021-09-21 16:54:32+00",
+  "conditionId": "0x68d82ff66bb3b4b803a68c0cbe70e924d58c8df66c08913b6eae9377611bfae6",
+  "slug": "in-game-trading-will-the-chiefs-or-the-ravens-win-their-nfl-week-2-matchup-1",
+  "question": "(In-Game Trading) Will the Chiefs or the Ravens win their NFL week 2 matchup?"
+}

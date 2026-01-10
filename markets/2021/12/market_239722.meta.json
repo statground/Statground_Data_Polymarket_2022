@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239722",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-01T10:05:15.458000Z",
+  "market_createdAt": "2021-12-01T10:05:15.458Z",
+  "market_updatedAt": "2024-04-24T23:42:27.082615Z",
+  "market_startDate": "2021-12-01T20:12:40.399Z",
+  "market_endDate": "2021-12-04T00:00:00Z",
+  "market_closedTime": "2021-12-05 20:39:49+00",
+  "conditionId": "0xb1490a314ace77779e7739c0456404a3eacd8a6f506fdb6d42dfdd1e833f498c",
+  "slug": "serie-a-who-will-win-the-roma-v-milan-game-on-december-4",
+  "question": "Serie A: Who will win the Roma v. Inter Milan game on December 4?"
+}

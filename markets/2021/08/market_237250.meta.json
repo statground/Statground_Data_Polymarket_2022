@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "237250",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-17T21:32:01.278000Z",
+  "market_createdAt": "2021-08-17T21:32:01.278Z",
+  "market_updatedAt": "2024-04-22T23:30:12.900203Z",
+  "market_startDate": "2021-08-18T00:05:22.475Z",
+  "market_endDate": "2021-10-01T00:00:00Z",
+  "market_closedTime": "2021-09-14 16:46:49+00",
+  "conditionId": "0x548213dec341d8587fd20c94f8fd7ac104e4da3a52263865c5b73e0566288abd",
+  "slug": "will-pnas-retract-dan-arielys-2012-paper-on-dishonesty-by-october-1-2021",
+  "question": "Will PNAS retract Dan Ariely’s 2012 paper on dishonesty by October 1, 2021?"
+}

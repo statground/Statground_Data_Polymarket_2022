@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246846",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-26T23:39:02.268000Z",
+  "market_createdAt": "2022-07-26T23:39:02.268Z",
+  "market_updatedAt": "2023-01-31T19:34:09.716Z",
+  "market_startDate": "2022-07-27T00:38:06.294Z",
+  "market_endDate": "2022-07-28T00:00:00Z",
+  "market_closedTime": "2022-07-28 17:15:55+00",
+  "conditionId": "0x1fa33bacc9f6cb9c60abe5cb641578dc940ab366f3c37cf4a283069584c53ef7",
+  "slug": "will-the-gorgosaurus-skeleton-sell-for-more-than-6-million-at-sothebys",
+  "question": "Will the Gorgosaurus skeleton sell for more than $6 million at Sotheby's?"
+}

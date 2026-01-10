@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240956",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-22T21:00:07.428000Z",
+  "market_createdAt": "2022-01-22T21:00:07.428Z",
+  "market_updatedAt": "2024-04-23T00:50:56.720158Z",
+  "market_startDate": "2022-01-22T21:13:05.581Z",
+  "market_endDate": "2022-01-22T00:00:00Z",
+  "market_closedTime": "2022-01-23 23:27:12+00",
+  "conditionId": "0xe5cfd97362980b3f68f3253d243d8377f2de3f2396010f19fc0b3f2e0ff51866",
+  "slug": "nfl-who-will-win-packers-v-49ers",
+  "question": "NFL: Who will win Packers v. 49ers"
+}

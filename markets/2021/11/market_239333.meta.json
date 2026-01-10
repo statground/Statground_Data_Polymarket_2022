@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239333",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-10T09:50:37.785000Z",
+  "market_createdAt": "2021-11-10T09:50:37.785Z",
+  "market_updatedAt": "2024-04-22T22:55:16.134302Z",
+  "market_startDate": "2021-11-10T17:39:41.692Z",
+  "market_endDate": "2021-11-10T00:00:00Z",
+  "market_closedTime": "2021-11-11 22:18:06+00",
+  "conditionId": "0xc58313455af12ff712f6f7dce616bd0acbf0486bfeeb8f604b369e65ae50f2e8",
+  "slug": "nba-will-the-celtics-beat-the-raptors-by-more-than-2pt5-points-in-their-november-10th-matchup",
+  "question": "NBA: Will the Celtics beat the Raptors by more than 2.5 points in their November 10th matchup?"
+}

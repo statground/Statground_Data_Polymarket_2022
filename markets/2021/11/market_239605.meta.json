@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239605",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-25T09:45:06.734000Z",
+  "market_createdAt": "2021-11-25T09:45:06.734Z",
+  "market_updatedAt": "2024-04-22T22:47:42.094202Z",
+  "market_startDate": "2021-11-25T16:51:01.05Z",
+  "market_endDate": "2021-11-25T00:00:00Z",
+  "market_closedTime": "2021-11-26 15:56:27+00",
+  "conditionId": "0xad26aac71743d06b9b5ed8e206b8712706d784b9e2d653d2694290bd2bb468a1",
+  "slug": "nfl-will-the-cowboys-beat-the-raiders-by-more-than-7pt5-points-in-their-november-25th-matchup",
+  "question": "NFL: Will the Cowboys beat the Raiders by more than 7.5 points in their November 25th matchup?"
+}

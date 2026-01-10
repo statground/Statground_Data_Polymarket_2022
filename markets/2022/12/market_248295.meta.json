@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248295",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-27T15:32:58.112000Z",
+  "market_createdAt": "2022-12-27T15:32:58.112Z",
+  "market_updatedAt": "2023-02-10T01:03:37.201Z",
+  "market_startDate": null,
+  "market_endDate": "2023-01-02T00:00:00Z",
+  "market_closedTime": "2023-01-10 07:15:48+00",
+  "conditionId": "0x80dcb010ea53350c0a67f018c861d11239e5638de7d7c779510a7177cf1a1974",
+  "slug": "nfl-monday-bills-vs-bengals",
+  "question": "NFL Monday: Bills vs. Bengals"
+}

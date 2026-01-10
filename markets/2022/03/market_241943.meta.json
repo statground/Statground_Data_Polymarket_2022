@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241943",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-07T09:47:15.191000Z",
+  "market_createdAt": "2022-03-07T09:47:15.191Z",
+  "market_updatedAt": "2024-04-23T00:26:21.681033Z",
+  "market_startDate": "2022-03-07T15:37:33.5Z",
+  "market_endDate": "2022-03-07T00:00:00Z",
+  "market_closedTime": "2022-03-08 19:15:42+00",
+  "conditionId": "0x3b133d1ce5f9267b132ebeaa1a5bbefe20f31b26ff4fe5b098e3c6c0a7b6db17",
+  "slug": "nba-will-the-nuggets-beat-the-warriors-by-more-than-8pt5-points-in-their-march-7-9-pm-et-matchup",
+  "question": "NBA: Will the Nuggets beat the Warriors by more than 8.5 points in their March 7 (9 PM ET) matchup?"
+}

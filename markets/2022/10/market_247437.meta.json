@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247437",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-03T20:03:38.686000Z",
+  "market_createdAt": "2022-10-03T20:03:38.686Z",
+  "market_updatedAt": "2023-01-31T09:05:04.476Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-31T00:00:00Z",
+  "market_closedTime": "2023-01-02 22:01:31+00",
+  "conditionId": "0x54947058f6b4a406a24d3acd143ed82b194b454fe6522eb126df5f24726e7de0",
+  "slug": "will-credit-suisse-announce-they-are-filing-for-bankruptcy-before-2023",
+  "question": "Will Credit Suisse announce they are filing for bankruptcy before 2023?"
+}

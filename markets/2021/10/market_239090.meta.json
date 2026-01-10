@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239090",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-25T23:16:04.972000Z",
+  "market_createdAt": "2021-10-25T23:16:04.972Z",
+  "market_updatedAt": "2024-04-23T00:33:44.50144Z",
+  "market_startDate": "2021-10-26T08:48:47.581Z",
+  "market_endDate": "2021-10-26T00:00:00Z",
+  "market_closedTime": "2021-10-27 04:51:38+00",
+  "conditionId": "0x230f5ba7ff4a97bb0f8578472a03944a93ee1520191e2bad01af4649fbb47f24",
+  "slug": "will-the-jazz-beat-the-nuggets-by-more-than-7pt5-points-in-their-october-26th-matchup",
+  "question": "(In-Game Trading) Will the Jazz beat the Nuggets by more than 7.5 points in their October 26th matchup?"
+}

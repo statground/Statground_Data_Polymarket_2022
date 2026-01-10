@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240077",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-16T23:11:57.536000Z",
+  "market_createdAt": "2021-12-16T23:11:57.536Z",
+  "market_updatedAt": "2024-04-26T02:49:47.276768Z",
+  "market_startDate": "2021-12-17T21:27:00.298Z",
+  "market_endDate": "2021-12-19T00:00:00Z",
+  "market_closedTime": "2021-12-20 14:02:50+00",
+  "conditionId": "0x1dd02b16a0161fd55b09a29ef51b404f9944be57a94b4fb02760511359d7c4b6",
+  "slug": "nfl-will-the-buccaneers-beat-the-saints-by-more-than-10pt5-points-in-their-december-19-matchup",
+  "question": "NFL: Will the Buccaneers beat the Saints by more than 10.5 points in their December 19 matchup?"
+}

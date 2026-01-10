@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241887",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-04T15:27:50.387000Z",
+  "market_createdAt": "2022-03-04T15:27:50.387Z",
+  "market_updatedAt": "2024-04-23T00:10:23.2961Z",
+  "market_startDate": "2022-03-04T17:33:49.441Z",
+  "market_endDate": "2022-03-04T00:00:00Z",
+  "market_closedTime": "2022-03-05 14:00:44+00",
+  "conditionId": "0xab907d438a81f0ee17c9b7d6573b4a2acaea9f9e1fc89ab53a5f626130fb6651",
+  "slug": "nba-who-will-win-the-bucks-vspt-bulls-scheduled-for-march-4-7pt30-pm-et",
+  "question": "NBA: Who will win the Bucks vs. Bulls, scheduled for March 4 (7.30 PM ET)?"
+}

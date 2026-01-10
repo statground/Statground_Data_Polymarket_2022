@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243278",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-14T18:48:51.589000Z",
+  "market_createdAt": "2022-04-14T18:48:51.589Z",
+  "market_updatedAt": "2023-01-31T20:25:17.089Z",
+  "market_startDate": "2022-04-14T18:58:43.536Z",
+  "market_endDate": "2022-06-01T00:00:00Z",
+  "market_closedTime": "2022-04-25 22:11:34+00",
+  "conditionId": "0xe45c288de90c16bab8358914da20991e17fd386a5691e338715117e50eec1edd",
+  "slug": "will-twitter-agree-to-a-musk-acquisition-by-june-1-2022",
+  "question": "Will Twitter announce a Musk acquisition by June 1, 2022?"
+}

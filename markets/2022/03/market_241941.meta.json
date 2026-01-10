@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241941",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-07T09:43:43.063000Z",
+  "market_createdAt": "2022-03-07T09:43:43.063Z",
+  "market_updatedAt": "2024-04-22T23:41:07.419053Z",
+  "market_startDate": "2022-03-07T15:28:02.281Z",
+  "market_endDate": "2022-03-07T00:00:00Z",
+  "market_closedTime": "2022-03-08 19:02:30+00",
+  "conditionId": "0x83fc070d5aa11f139ed527104371c73ed306d0479b8246594339a80844eb0922",
+  "slug": "nba-will-the-spurs-beat-the-lakers-by-more-than-2pt5-points-in-their-march-7-8pt30-pm-et-matchup",
+  "question": "NBA: Will the Spurs beat the Lakers by more than 2.5 points in their March 7 (8.30 PM ET) matchup?"
+}

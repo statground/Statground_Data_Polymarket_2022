@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239570",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-23T15:21:21.199000Z",
+  "market_createdAt": "2021-11-23T15:21:21.199Z",
+  "market_updatedAt": "2024-04-22T23:30:43.757291Z",
+  "market_startDate": "2021-11-23T17:56:20.085Z",
+  "market_endDate": "2021-11-23T00:00:00Z",
+  "market_closedTime": "2021-11-24 22:26:49+00",
+  "conditionId": "0xcd04546df83beb2f7f816b127bdf07d14a377aecefd628f287c51d78ace40bc2",
+  "slug": "nba-will-the-heat-beat-the-pistons-by-more-than-9pt5-points-in-their-23-november-matchup",
+  "question": "NBA: Will the Heat beat the Pistons by more than 9.5 points in their November 23 matchup?"
+}

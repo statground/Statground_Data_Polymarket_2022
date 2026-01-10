@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240586",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T22:57:22.844000Z",
+  "market_createdAt": "2022-01-11T22:57:22.844Z",
+  "market_updatedAt": "2024-04-22T22:46:31.087262Z",
+  "market_startDate": "2022-01-12T21:13:58.398Z",
+  "market_endDate": "2022-04-25T00:00:00Z",
+  "market_closedTime": "2022-04-13 06:01:58+00",
+  "conditionId": "0x12c5359aac3128b2df8bf11d81aa3afb75e60cbab035f3e8ec80ae109ee9c810",
+  "slug": "will-eric-zemmour-win-the-2022-french-presidential-election",
+  "question": "Will Eric Zemmour win the 2022 French presidential election?"
+}

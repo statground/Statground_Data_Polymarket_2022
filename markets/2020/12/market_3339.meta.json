@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "3339",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-12-07T18:45:12.184000Z",
+  "market_createdAt": "2020-12-07T18:45:12.184Z",
+  "market_updatedAt": "2024-04-24T23:27:14.366492Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-21T00:00:00Z",
+  "market_closedTime": "2021-05-02 16:24:47+00",
+  "conditionId": "0xc5c91389c94882189c8f29c371e1f4850818543cf7daed0d4fe482baff5b436d",
+  "slug": "will-floyd-mayweather-beat-logan-paul-in-their-boxing-exhibition-match",
+  "question": "Will Floyd Mayweather beat Logan Paul in their boxing exhibition match?"
+}

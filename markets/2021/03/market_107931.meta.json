@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "107931",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-03-22T15:45:06.050000Z",
+  "market_createdAt": "2021-03-22T15:45:06.05Z",
+  "market_updatedAt": "2023-01-31T20:31:45.463Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-05T00:00:00Z",
+  "market_closedTime": "2021-04-06 15:32:04+00",
+  "conditionId": "0xefbd9e3e86bd421453d5ca50e91dbfede6912d6922db97b58ee90c6646badf85",
+  "slug": "will-the-average-ethereum-gas-price-be-below-150-gwei-on-april-5",
+  "question": "Will the average Ethereum gas price be below 150 Gwei on April 5?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242917",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-05T23:28:03.066000Z",
+  "market_createdAt": "2022-04-05T23:28:03.066Z",
+  "market_updatedAt": "2024-04-22T22:29:37.240034Z",
+  "market_startDate": null,
+  "market_endDate": "2022-04-11T00:00:00Z",
+  "market_closedTime": "2022-04-11 03:00:56+00",
+  "conditionId": "0x740cce8b2a45c9fac10d97fc7310b3570100d2daf560ace22f96e154bf6f5728",
+  "slug": "golf-will-tiger-woods-win-the-2022-masters-tournament",
+  "question": "Golf: Will Tiger Woods win the 2022 Masters Tournament?"
+}

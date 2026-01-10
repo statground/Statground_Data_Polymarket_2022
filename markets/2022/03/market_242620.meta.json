@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242620",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-29T22:59:35.277000Z",
+  "market_createdAt": "2022-03-29T22:59:35.277Z",
+  "market_updatedAt": "2024-04-22T23:16:37.051035Z",
+  "market_startDate": "2022-03-29T23:11:32.866Z",
+  "market_endDate": "2022-05-01T00:00:00Z",
+  "market_closedTime": "2022-04-04 07:15:54+00",
+  "conditionId": "0x754a7f0bc98a14bab8c65c33ed242067a2b071f7e2c2fc05a584e8f2312170a7",
+  "slug": "grammys-2022-will-olivia-rodrigo-win-best-new-artist",
+  "question": "GRAMMYs 2022: Will Olivia Rodrigo win Best New Artist?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239092",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-25T23:19:52.917000Z",
+  "market_createdAt": "2021-10-25T23:19:52.917Z",
+  "market_updatedAt": "2024-04-23T00:40:19.616131Z",
+  "market_startDate": "2021-10-26T08:50:01.494Z",
+  "market_endDate": "2021-10-26T00:00:00Z",
+  "market_closedTime": "2021-10-27 05:06:00+00",
+  "conditionId": "0xc5800d84d7593ed1f31ab13db6da734d5d8a8528c3e49d6d330f356dbe766b00",
+  "slug": "will-the-mavericks-beat-the-rockets-by-more-than-10pt5-points-in-their-october-26th-matchup",
+  "question": "Will the Mavericks beat the Rockets by more than 10.5 points in their October 26th matchup?"
+}

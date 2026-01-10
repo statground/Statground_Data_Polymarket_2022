@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240038",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-14T23:28:51.165000Z",
+  "market_createdAt": "2021-12-14T23:28:51.165Z",
+  "market_updatedAt": "2023-01-31T19:58:10.563Z",
+  "market_startDate": "2021-12-16T22:55:46.875Z",
+  "market_endDate": "2021-12-31T00:00:00Z",
+  "market_closedTime": "2021-12-25 01:08:05+00",
+  "conditionId": "0xcb68a05a16ef6ee1ad287d39cbd541d94e2de4e46aba7f2c4f5bede18beb2ab6",
+  "slug": "will-the-fda-give-emergency-use-authorization-or-otherwise-approve-molnupiravir-before-2022",
+  "question": "Will the FDA give emergency use authorization or otherwise approve Molnupiravir before 2022?"
+}

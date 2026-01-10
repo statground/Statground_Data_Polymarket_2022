@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243942",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-29T06:17:46.346000Z",
+  "market_createdAt": "2022-04-29T06:17:46.346Z",
+  "market_updatedAt": "2023-01-31T20:40:15.737Z",
+  "market_startDate": "2022-04-29T14:06:07.299Z",
+  "market_endDate": "2022-04-29T00:00:00Z",
+  "market_closedTime": "2022-04-30 07:16:33+00",
+  "conditionId": "0x3e789c82c8b7d613bd9d81a030ba4aedeab29ad8bb852536b9122e85dba9accd",
+  "slug": "mlb-who-will-win-tampa-bay-rays-vs-minnesota-twins-scheduled-for-april-29-711-pm-et",
+  "question": "MLB: Who will win Tampa Bay Rays vs. Minnesota Twins, scheduled for April 29, 7:11 PM ET?"
+}

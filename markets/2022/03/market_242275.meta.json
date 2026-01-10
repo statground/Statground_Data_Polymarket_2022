@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242275",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-19T09:07:33.548000Z",
+  "market_createdAt": "2022-03-19T09:07:33.548Z",
+  "market_updatedAt": "2024-04-22T22:30:27.735368Z",
+  "market_startDate": "2022-03-19T17:14:53.706Z",
+  "market_endDate": "2022-03-19T00:00:00Z",
+  "market_closedTime": "2022-03-20 20:54:25+00",
+  "conditionId": "0xbdce916dc354c21e7c401c6746f745b30d71d20232f78cedb92a3dac3ecc585f",
+  "slug": "nba-who-will-win-cavaliers-vspt-pistons-scheduled-for-march-19-810-pm-et",
+  "question": "NBA: Who will win Cavaliers vs. Pistons, scheduled for March 19, 8:10 PM ET?"
+}

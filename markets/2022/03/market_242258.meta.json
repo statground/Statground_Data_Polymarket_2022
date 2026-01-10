@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242258",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-19T09:01:15.310000Z",
+  "market_createdAt": "2022-03-19T09:01:15.31Z",
+  "market_updatedAt": "2024-04-23T00:20:45.441048Z",
+  "market_startDate": "2022-03-19T17:19:02.371Z",
+  "market_endDate": "2022-03-19T00:00:00Z",
+  "market_closedTime": "2022-03-20 21:21:13+00",
+  "conditionId": "0x02d39aae2f43385ce19f51d1dbbe0b1c1a96faac137d11a0a0993666000c0f06",
+  "slug": "nhl-who-will-win-blues-vspt-jackets-scheduled-for-march-19-500-pm-et",
+  "question": "NHL: Who will win Blues vs. Jackets, scheduled for March 19, 5:00 PM ET?"
+}

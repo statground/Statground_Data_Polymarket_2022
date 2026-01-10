@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "236483",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-16T20:04:01.918000Z",
+  "market_createdAt": "2021-08-16T20:04:01.918Z",
+  "market_updatedAt": "2024-04-23T00:59:28.521154Z",
+  "market_startDate": "2021-08-16T21:57:44.268Z",
+  "market_endDate": "2021-09-20T00:00:00Z",
+  "market_closedTime": "2021-09-22 18:43:52+00",
+  "conditionId": "0x483169eff72d7ad87237bb6ebcfb146461e069fdece516b6be3e40db4dba3317",
+  "slug": "will-the-liberal-party-win-a-majority-in-the-2021-canadian-federal-election",
+  "question": "Will the Liberal Party win a majority in the 2021 Canadian federal election?"
+}

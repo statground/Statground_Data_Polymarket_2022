@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243896",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-28T08:57:49.860000Z",
+  "market_createdAt": "2022-04-28T08:57:49.86Z",
+  "market_updatedAt": "2023-01-31T17:45:20.321Z",
+  "market_startDate": "2022-04-28T15:20:01.823Z",
+  "market_endDate": "2022-04-28T00:00:00Z",
+  "market_closedTime": "2022-04-29 07:15:47+00",
+  "conditionId": "0x9ebfe8f71e19ec4fca69594c24b81d52d50d49552214eff995fa82313b2db469",
+  "slug": "mlb-who-will-win-los-angeles-angels-vs-cleveland-guardians-scheduled-for-april-28-408-pm-et",
+  "question": "MLB: Who will win Los Angeles Angels vs. Cleveland Guardians, scheduled for April 28, 4:08 PM ET?"
+}

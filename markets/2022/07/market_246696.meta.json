@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246696",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-12T20:01:55.547000Z",
+  "market_createdAt": "2022-07-12T20:01:55.547Z",
+  "market_updatedAt": "2023-01-31T19:26:38.743Z",
+  "market_startDate": "2022-07-12T21:42:49.139Z",
+  "market_endDate": "2022-12-31T00:00:00Z",
+  "market_closedTime": "2022-09-05 18:31:08+00",
+  "conditionId": "0xfadb7a7d78152eed30b09c5e1696044cef5ae9dcc2b5a1430a261a0d765f1e27",
+  "slug": "will-rishi-sunak-be-the-next-uk-conservative-party-leader",
+  "question": "Will Rishi Sunak be the next UK Conservative Party Leader?"
+}

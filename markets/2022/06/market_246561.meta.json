@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246561",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-17T15:47:00.420000Z",
+  "market_createdAt": "2022-06-17T15:47:00.42Z",
+  "market_updatedAt": "2023-01-31T14:37:28.786Z",
+  "market_startDate": "2022-06-17T15:58:28.605Z",
+  "market_endDate": "2022-06-24T00:00:00Z",
+  "market_closedTime": "2022-06-25 06:45:49+00",
+  "conditionId": "0x72c05b1accb02d19a6b18b1d52abf63d79cadd4d0fbd725dd53e5929255487bb",
+  "slug": "will-natural-gas-close-above-8-on-june-24-2022",
+  "question": "Will natural gas close above $8 on June 24, 2022?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242689",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-31T21:51:16.590000Z",
+  "market_createdAt": "2022-03-31T21:51:16.59Z",
+  "market_updatedAt": "2024-04-24T23:17:04.559589Z",
+  "market_startDate": "2022-04-02T18:52:43.589Z",
+  "market_endDate": "2022-04-07T00:00:00Z",
+  "market_closedTime": "2022-04-07 08:15:34+00",
+  "conditionId": "0xd4b20c19d5369e04814bd10cb33f76f7e86c96d3568cefd6ae71129994c4c1d8",
+  "slug": "triton-poker-will-phil-ivey-place-1st-in-at-least-one-event",
+  "question": "Triton Poker: Will Phil Ivey place 1st in at least one event?"
+}

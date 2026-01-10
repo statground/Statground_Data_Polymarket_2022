@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242794",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-03T09:11:10.431000Z",
+  "market_createdAt": "2022-04-03T09:11:10.431Z",
+  "market_updatedAt": "2024-04-23T00:29:13.706788Z",
+  "market_startDate": "2022-04-03T16:40:45.785Z",
+  "market_endDate": "2022-04-03T00:00:00Z",
+  "market_closedTime": "2022-04-04 07:17:06+00",
+  "conditionId": "0x615c78a734870633b7a0c5ecb263b3147c97d044ee9c02002d7ec3c51d08ac97",
+  "slug": "nba-who-will-win-raptors-vs-heat-scheduled-for-april-3-710-pm-et",
+  "question": "NBA: Who will win Raptors vs. Heat, scheduled for April 3, 7:10 PM ET?"
+}

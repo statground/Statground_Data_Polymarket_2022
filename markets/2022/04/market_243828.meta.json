@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243828",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-26T21:00:51.122000Z",
+  "market_createdAt": "2022-04-26T21:00:51.122Z",
+  "market_updatedAt": "2023-01-31T14:03:47.354Z",
+  "market_startDate": "2022-04-26T21:28:45.644Z",
+  "market_endDate": "2022-09-30T00:00:00Z",
+  "market_closedTime": "2022-10-02 07:01:11+00",
+  "conditionId": "0xc679ca1d345bec4e0aa608ee8af69d4aa8052b7219497d4e286cc71e66113e9a",
+  "slug": "will-jack-dorsey-return-as-ceo-of-twitter-by-september-30",
+  "question": "Will Jack Dorsey return as CEO of Twitter by September 30?"
+}

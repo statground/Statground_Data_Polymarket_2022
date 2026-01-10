@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242554",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-27T09:06:29.703000Z",
+  "market_createdAt": "2022-03-27T09:06:29.703Z",
+  "market_updatedAt": "2024-04-22T23:34:50.831293Z",
+  "market_startDate": "2022-03-27T17:14:42.272Z",
+  "market_endDate": "2022-03-27T00:00:00Z",
+  "market_closedTime": "2022-03-28 08:22:49+00",
+  "conditionId": "0xa927f7bffb501d76bdb8985e025d26674f37b25ed6d7913697b00ef5b4daa911",
+  "slug": "nba-who-will-win-knicks-vs-pistons-scheduled-for-march-27-340-pm-et",
+  "question": "NBA: Who will win Knicks vs. Pistons, scheduled for March 27, 3:40 PM ET?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "235095",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-14T21:44:01.111000Z",
+  "market_createdAt": "2021-08-14T21:44:01.111Z",
+  "market_updatedAt": "2024-04-22T23:25:33.666109Z",
+  "market_startDate": "2021-08-15T00:31:39.578Z",
+  "market_endDate": "2021-08-29T00:00:00Z",
+  "market_closedTime": "2021-08-30 17:47:21+00",
+  "conditionId": "0x450fc57076dc87fd9fd386777d8522af727b2841e41a1d97bfea59302e766793",
+  "slug": "will-jake-paul-or-tyron-woodley-win-their-bout-on-august-29th",
+  "question": "Will Jake Paul or Tyron Woodley win their boxing match?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "229274",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-06T17:05:01.381000Z",
+  "market_createdAt": "2021-08-06T17:05:01.381Z",
+  "market_updatedAt": "2024-04-22T23:00:46.655817Z",
+  "market_startDate": "2021-08-06T18:20:25.054Z",
+  "market_endDate": "2021-08-07T00:00:00Z",
+  "market_closedTime": "2021-08-08 18:06:01+00",
+  "conditionId": "0x5813ba4726fef23f8239f9ac2738c7b0b6b3605cd1452a62ff48aa767b07064d",
+  "slug": "will-eliud-kipchoge-win-gold-in-the-mens-marathon-at-the-2020-tokyo-olympics",
+  "question": "Will Eliud Kipchoge win gold in the Men's Marathon at the 2020 Tokyo Olympics?"
+}

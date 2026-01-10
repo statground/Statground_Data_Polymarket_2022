@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239347",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-10T19:06:29.767000Z",
+  "market_createdAt": "2021-11-10T19:06:29.767Z",
+  "market_updatedAt": "2024-04-24T23:22:32.824198Z",
+  "market_startDate": "2021-11-10T20:19:11.256Z",
+  "market_endDate": "2021-11-11T00:00:00Z",
+  "market_closedTime": "2021-11-12 19:52:43+00",
+  "conditionId": "0x796d122c82f2b5cc17697a392c8ff5b3a7198d6960864a5db6c354959c0aaf98",
+  "slug": "will-claude-monets-nymphas-fragment-lot-1c-sell-for-more-than-1m-at-christies-on-november-11",
+  "question": "Will Claude Monet’s “Nymphéas (fragment)” (Lot 1C) sell for more than $1m at Christie’s on November 11?"
+}

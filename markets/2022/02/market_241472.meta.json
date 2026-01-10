@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241472",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-14T09:57:48.764000Z",
+  "market_createdAt": "2022-02-14T09:57:48.764Z",
+  "market_updatedAt": "2024-04-22T23:10:35.823418Z",
+  "market_startDate": "2022-02-14T14:49:48.002Z",
+  "market_endDate": "2022-02-14T00:00:00Z",
+  "market_closedTime": "2022-02-15 17:55:26+00",
+  "conditionId": "0x2841e34ad1639e4dcca09298ab04964c4bb203de802fac7840e391af2dcb92d0",
+  "slug": "nba-who-will-win-the-raptors-vs-pelicans-scheduled-for-february-14-8-pm-et",
+  "question": "NBA: Who will win the Raptors vs. Pelicans, scheduled for February 14 (8 PM ET)?"
+}

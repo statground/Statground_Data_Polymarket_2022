@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239205",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-02T10:58:25.613000Z",
+  "market_createdAt": "2021-11-02T10:58:25.613Z",
+  "market_updatedAt": "2024-04-22T23:28:16.969173Z",
+  "market_startDate": "2021-11-02T17:03:36.64Z",
+  "market_endDate": "2021-11-02T00:00:00Z",
+  "market_closedTime": "2021-11-03 17:50:50+00",
+  "conditionId": "0x599c0e18e9ed8e64f7aafd6444f6835ea381f13d89167c8e576cb6b4e9875295",
+  "slug": "nba-will-the-lakers-beat-the-rockets-by-more-than-10pt5-points-in-their-november-2nd-matchup",
+  "question": "NBA: Will the Lakers beat the Rockets by more than 10.5 points in their November 2nd matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239860",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-06T16:39:54.316000Z",
+  "market_createdAt": "2021-12-06T16:39:54.316Z",
+  "market_updatedAt": "2024-04-22T22:24:14.568718Z",
+  "market_startDate": "2021-12-12T07:46:08.613Z",
+  "market_endDate": "2021-12-12T00:00:00Z",
+  "market_closedTime": "2021-12-13 20:35:46+00",
+  "conditionId": "0xe64965f53fc44d6311ac650ac2205dea335c9dfb7b0c426d88ac3b60ed7df551",
+  "slug": "formula-1-will-lewis-hamilton-finish-ahead-of-max-verstappen-in-the-abu-dhabi-grand-prix",
+  "question": "Formula 1: Will Lewis Hamilton finish ahead of Max Verstappen in the Abu Dhabi Grand Prix?"
+}

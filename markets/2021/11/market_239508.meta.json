@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239508",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-19T15:10:00.478000Z",
+  "market_createdAt": "2021-11-19T15:10:00.478Z",
+  "market_updatedAt": "2024-04-22T22:37:37.980413Z",
+  "market_startDate": "2021-11-19T19:42:24.11Z",
+  "market_endDate": "2021-11-19T00:00:00Z",
+  "market_closedTime": "2021-11-20 18:27:04+00",
+  "conditionId": "0x4b40793b3c2975388405a58feb4504e1d4bc5df98053866cbc3d81410ac8dfc3",
+  "slug": "nba-will-the-nets-beat-the-magic-by-more-than-12pt5-points-in-their-november-19th-matchup",
+  "question": "NBA: Will the Nets beat the Magic by more than 12.5 points in their November 19th matchup?"
+}

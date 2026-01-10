@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246626",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-29T23:28:11.454000Z",
+  "market_createdAt": "2022-06-29T23:28:11.454Z",
+  "market_updatedAt": "2023-01-31T18:28:01.218Z",
+  "market_startDate": "2022-06-29T23:55:41.921Z",
+  "market_endDate": "2022-07-31T00:00:00Z",
+  "market_closedTime": "2022-07-05 01:46:47+00",
+  "conditionId": "0xcd798697a2ef411c355cff425e4422a9c2a37d0d03767eeceb26085d46ba8236",
+  "slug": "will-ftxs-deal-with-blockfi-be-announced-by-july-31",
+  "question": "Will FTX's deal with BlockFi be announced by July 31?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246567",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-18T03:08:03.093000Z",
+  "market_createdAt": "2022-06-18T03:08:03.093Z",
+  "market_updatedAt": "2024-04-22T22:41:38.11359Z",
+  "market_startDate": "2022-06-18T13:07:35.205Z",
+  "market_endDate": "2022-07-05T00:00:00Z",
+  "market_closedTime": "2022-07-05 01:45:43+00",
+  "conditionId": "0x790da7830d87f1d096af864d2392a6ba081627312a4724f0f46e31f74dc6ab43",
+  "slug": "2022-chess-candidates-tournament-will-caruana-or-nakamura-finish-higher",
+  "question": "2022 Chess Candidates Tournament: Will Caruana or Nakamura finish higher?"
+}

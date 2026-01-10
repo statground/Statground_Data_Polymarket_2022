@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239193",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-01T10:58:07.102000Z",
+  "market_createdAt": "2021-11-01T10:58:07.102Z",
+  "market_updatedAt": "2024-04-23T00:51:28.020144Z",
+  "market_startDate": "2021-11-01T18:00:36.587Z",
+  "market_endDate": "2021-11-01T00:00:00Z",
+  "market_closedTime": "2021-11-02 13:40:44+00",
+  "conditionId": "0xf8486ca3e3eb920d13f14b05f6adec699ff15920d08dad31fdf7f547b2d689c1",
+  "slug": "nba-will-the-knicks-beat-the-raptors-by-more-than-6pt5-points-in-their-november-1st-matchup",
+  "question": "NBA: Will the Knicks beat the Raptors by more than 6.5 points in their November 1st matchup?"
+}

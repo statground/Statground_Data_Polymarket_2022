@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240218",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-28T09:33:18.225000Z",
+  "market_createdAt": "2021-12-28T09:33:18.225Z",
+  "market_updatedAt": "2024-04-26T02:49:21.355174Z",
+  "market_startDate": "2021-12-28T17:35:34.321Z",
+  "market_endDate": "2022-01-14T00:00:00Z",
+  "market_closedTime": "2022-01-15 00:23:40+00",
+  "conditionId": "0x8f668a21e2d746466e723090a43c5cea885e12459271e9ac1d79987ba754c6d2",
+  "slug": "will-solana-sol-reach-an-all-time-high-by-january-14",
+  "question": "Will Solana (SOL) reach an all-time high by January 14?"
+}

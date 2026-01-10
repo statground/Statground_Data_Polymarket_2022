@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247213",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-09T16:31:42.145000Z",
+  "market_createdAt": "2022-09-09T16:31:42.145Z",
+  "market_updatedAt": "2023-01-31T19:26:38.659Z",
+  "market_startDate": "2022-09-09T18:10:52.76Z",
+  "market_endDate": "2022-09-11T00:00:00Z",
+  "market_closedTime": "2022-09-12 01:00:44+00",
+  "conditionId": "0xf3bd43f216f57edc769622ea6a03b1c638f552946c17453df21efbb29e6692ca",
+  "slug": "formula-1-which-team-will-collect-more-points-at-the-2022-italian-grand-prix-mercedes-or-ferrari",
+  "question": "Formula 1: Which team will collect more points at the 2022 Italian Grand Prix, Mercedes or Ferrari?"
+}

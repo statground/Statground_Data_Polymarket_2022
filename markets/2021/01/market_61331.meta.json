@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "61331",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-01-27T13:50:03.989000Z",
+  "market_createdAt": "2021-01-27T13:50:03.989Z",
+  "market_updatedAt": "2024-04-22T22:57:47.766382Z",
+  "market_startDate": null,
+  "market_endDate": "2021-03-17T00:00:00Z",
+  "market_closedTime": "2021-04-27 16:01:21+00",
+  "conditionId": "0xf3e1b494b310a6b1a6b5385a9bfbff95e45d104bf102a4169e0e7df8eb18ec3b",
+  "slug": "will-there-be-enough-signatures-for-a-vote-on-recall-of-gov-newsom-by-march-17",
+  "question": "Will there be enough signatures for a vote on the recall of Gov. Newsom by March 17?"
+}

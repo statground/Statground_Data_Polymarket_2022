@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240574",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T19:21:56.917000Z",
+  "market_createdAt": "2022-01-11T19:21:56.917Z",
+  "market_updatedAt": "2024-04-22T23:32:36.993441Z",
+  "market_startDate": "2022-01-12T21:16:49.359Z",
+  "market_endDate": "2022-03-01T00:00:00Z",
+  "market_closedTime": "2022-03-03 23:51:44+00",
+  "conditionId": "0x402864b23380621d1dcd31e78a36126232616316348edf163bb35018326283a4",
+  "slug": "what-will-the-price-of-bitcoin-btc-be-on-march-1st-2022",
+  "question": "What will the price of Bitcoin ($BTC) be on March 1st, 2022?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248094",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-21T17:32:17.186000Z",
+  "market_createdAt": "2022-11-21T17:32:17.186Z",
+  "market_updatedAt": "2023-01-31T21:06:41.765Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-23T00:00:00Z",
+  "market_closedTime": "2022-11-23 17:30:37+00",
+  "conditionId": "0xb3bdc9426c7f856b1b3e1f23ecdf3176c167c859c783440e8185bc4a7589a128",
+  "slug": "world-cup-2022-wednesday-will-croatia-beat-morocco",
+  "question": "World Cup: Wednesday - Will Croatia beat Morocco?"
+}

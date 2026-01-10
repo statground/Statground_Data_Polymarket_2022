@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "245064",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-19T19:09:59.583000Z",
+  "market_createdAt": "2022-05-19T19:09:59.583Z",
+  "market_updatedAt": "2023-01-31T18:41:08.26Z",
+  "market_startDate": "2022-05-21T15:29:30.826Z",
+  "market_endDate": "2022-06-05T00:00:00Z",
+  "market_closedTime": "2022-06-01 07:30:43+00",
+  "conditionId": "0xc1389de8acdeb08ddaa403fce49d4fcfbe508ab015c6a1ffc229078fd4128951",
+  "slug": "will-novak-djokovic-win-the-2022-french-open-roland-garros-mens-singles",
+  "question": "Will Novak Djokovic win the 2022 French Open (Roland-Garros) Men's Singles?"
+}

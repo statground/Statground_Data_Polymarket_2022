@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241681",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-24T13:17:26.954000Z",
+  "market_createdAt": "2022-02-24T13:17:26.954Z",
+  "market_updatedAt": "2024-04-22T23:42:50.638817Z",
+  "market_startDate": "2022-02-24T14:29:55.609Z",
+  "market_endDate": "2022-02-24T00:00:00Z",
+  "market_closedTime": "2022-02-25 18:23:02+00",
+  "conditionId": "0x1e3cfefd83ed4c2c4b0f71920a2ab4181bc38e28880f53c2d2df0e45e227f112",
+  "slug": "nba-will-the-celtics-beat-the-nets-by-more-than-6p5-points-in-their-february-24-730-pm-et-matchup",
+  "question": "NBA: Will the Celtics beat the Nets by more than 6.5 points in their February 24 (7.30 PM ET) matchup?"
+}

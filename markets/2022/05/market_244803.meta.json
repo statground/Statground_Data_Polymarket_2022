@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244803",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-13T17:00:14.894000Z",
+  "market_createdAt": "2022-05-13T17:00:14.894Z",
+  "market_updatedAt": "2023-01-31T12:13:25.435Z",
+  "market_startDate": "2022-05-13T20:22:44.335Z",
+  "market_endDate": "2022-05-25T00:00:00Z",
+  "market_closedTime": "2022-05-26 06:01:35+00",
+  "conditionId": "0xf797b9350e629d07aac2bd90c4209f22c7eaed0be8484e80a2620f2290d6b8b2",
+  "slug": "poker-will-americans-win-6-or-more-events-at-triton-series-madrid-2022",
+  "question": "Poker: Will Americans win 6 or more events at Triton Series Madrid 2022?"
+}

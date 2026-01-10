@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238861",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-23T22:37:42.444000Z",
+  "market_createdAt": "2021-09-23T22:37:42.444Z",
+  "market_updatedAt": "2024-04-24T23:23:05.053729Z",
+  "market_startDate": "2021-09-23T22:43:08.884Z",
+  "market_endDate": "2021-09-23T00:00:00Z",
+  "market_closedTime": "2021-09-24 17:21:20+00",
+  "conditionId": "0xfd19dd2c7ebd94bdc0cacd56c7233a8b1dcb4c2c5747df328dd72f92573979bb",
+  "slug": "in-game-trading-panthers-7pt5-v-texans-spread",
+  "question": "(In-Game Trading) Panthers (-7.5) v. Texans Spread"
+}

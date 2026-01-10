@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241568",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-16T19:18:04.961000Z",
+  "market_createdAt": "2022-02-16T19:18:04.961Z",
+  "market_updatedAt": "2024-04-22T23:22:19.587486Z",
+  "market_startDate": null,
+  "market_endDate": "2022-03-14T00:00:00Z",
+  "market_closedTime": "2022-03-08 19:45:54+00",
+  "conditionId": "0xd3316387a5295b8947aa26b0d854672274d388ef5859348fb8e84a0d817180bb",
+  "slug": "fide-world-chess-grand-prix-2022-leg-2-will-anish-giri-win-pool-b",
+  "question": "FIDE World Chess Grand Prix 2022 Leg #2: Will Anish Giri win Pool B?"
+}

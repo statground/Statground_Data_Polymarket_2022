@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218549",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-17T05:45:02.858000Z",
+  "market_createdAt": "2021-06-17T05:45:02.858Z",
+  "market_updatedAt": "2024-04-23T00:22:52.680818Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-18T00:00:00Z",
+  "market_closedTime": "2021-06-18 18:08:18+00",
+  "conditionId": "0x451a6e0c48faaeec78114257008855370cc0dabe4bb5ef9ab3ca184d5fc92515",
+  "slug": "will-sweden-or-slovakia-win-their-euro-2020-match",
+  "question": "Will Sweden or Slovakia win their Euro 2020 match?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "132207",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-16T17:30:02.093000Z",
+  "market_createdAt": "2021-04-16T17:30:02.093Z",
+  "market_updatedAt": "2024-04-23T00:15:16.616618Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-25T00:00:00Z",
+  "market_closedTime": "2021-04-26 15:13:09+00",
+  "conditionId": "0x9bc24b0cfc76ed11b8d2e571d1e98824cdd64f954bab23d2d877f4ce51f39c20",
+  "slug": "which-film-will-win-best-picture-at-the-2021-oscars",
+  "question": "Which film will win Best Picture at the 2021 Oscars?"
+}

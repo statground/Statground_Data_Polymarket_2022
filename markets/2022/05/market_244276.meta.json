@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244276",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-05T15:27:54.882000Z",
+  "market_createdAt": "2022-05-05T15:27:54.882Z",
+  "market_updatedAt": "2023-01-31T17:27:10.333Z",
+  "market_startDate": null,
+  "market_endDate": "2022-05-05T00:00:00Z",
+  "market_closedTime": "2022-05-06 07:15:54+00",
+  "conditionId": "0x8119b98e9b0868ae0bc90e11c24d73a0493a9791cf3d6b633fe3e149668cb1ed",
+  "slug": "nhl-who-will-win-flames-vs-stars-scheduled-for-may-5-1000-pm-et",
+  "question": "NHL: Who will win Flames vs. Stars, scheduled for May 5, 10:00 PM ET?"
+}

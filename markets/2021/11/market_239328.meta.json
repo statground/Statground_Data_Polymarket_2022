@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239328",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-09T21:17:29.015000Z",
+  "market_createdAt": "2021-11-09T21:17:29.015Z",
+  "market_updatedAt": "2024-04-23T00:32:34.856415Z",
+  "market_startDate": "2021-11-09T21:44:07.593Z",
+  "market_endDate": "2021-11-15T00:00:00Z",
+  "market_closedTime": "2021-11-16 10:26:54+00",
+  "conditionId": "0x54802fc6c46c5029dc06b890299ca496c60a4c25974c2e5551221c71630533bf",
+  "slug": "will-227pt5-million-americans-have-received-at-least-one-dose-of-an-approved-covid-19-vaccination-by-november-15",
+  "question": "Will 227.5 million Americans have received at least one dose of an approved Covid-19 vaccination by November 15?"
+}

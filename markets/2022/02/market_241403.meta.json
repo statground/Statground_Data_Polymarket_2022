@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241403",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-10T07:15:39.947000Z",
+  "market_createdAt": "2022-02-10T07:15:39.947Z",
+  "market_updatedAt": "2024-04-24T23:30:16.884378Z",
+  "market_startDate": "2022-02-10T14:59:00.763Z",
+  "market_endDate": "2022-02-10T00:00:00Z",
+  "market_closedTime": "2022-02-11 10:22:49+00",
+  "conditionId": "0x1cba27f48dcdb17fcdeecd8f568742411bed162d930d75cc7fd03ef897d0cd3d",
+  "slug": "nba-who-will-win-the-mavericks-vs-clippers-scheduled-for-february-10-830-pm-et",
+  "question": "NBA: Who will win the Mavericks vs. Clippers, scheduled for February 10 (8.30 PM ET)?"
+}

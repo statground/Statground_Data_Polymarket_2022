@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246545",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-14T20:14:56.834000Z",
+  "market_createdAt": "2022-06-14T20:14:56.834Z",
+  "market_updatedAt": "2023-01-31T20:31:17.047Z",
+  "market_startDate": "2022-06-14T20:41:37.157Z",
+  "market_endDate": "2022-08-31T00:00:00Z",
+  "market_closedTime": "2022-09-01 06:45:51+00",
+  "conditionId": "0x90b0c3f433342df7b78f651bd8084b19e3787d55f887b119af3649f7e4be33c7",
+  "slug": "will-brian-armstrong-remain-ceo-of-coinbase-through-august",
+  "question": "Will Brian Armstrong remain CEO of Coinbase through August?"
+}

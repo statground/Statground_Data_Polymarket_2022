@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243862",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-27T23:34:27.626000Z",
+  "market_createdAt": "2022-04-27T23:34:27.626Z",
+  "market_updatedAt": "2023-01-31T17:06:35.549Z",
+  "market_startDate": "2022-04-29T19:11:11.753Z",
+  "market_endDate": "2022-09-01T00:00:00Z",
+  "market_closedTime": "2022-09-05 02:30:33+00",
+  "conditionId": "0xe9c84f6cd5852f8422ec3dd87f49b17f817c833a25965d343bfab11bfb33f37a",
+  "slug": "will-the-twitter-profile-elonjet-remain-active-through-september-1",
+  "question": "Will the Twitter profile @ElonJet remain active through September 1?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243536",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-21T08:13:05.416000Z",
+  "market_createdAt": "2022-04-21T08:13:05.416Z",
+  "market_updatedAt": "2023-01-31T09:05:15.524Z",
+  "market_startDate": "2022-04-21T14:13:33.11Z",
+  "market_endDate": "2022-04-21T00:00:00Z",
+  "market_closedTime": "2022-04-22 07:15:53+00",
+  "conditionId": "0x368617dd352f6e93986aa919b5b6fe6f3132ac0ac8e43eb6c15bad6cdba0dc19",
+  "slug": "mlb-who-will-win-oakland-athletics-vs-baltimore-orioles-scheduled-for-april-21-337-pm-et",
+  "question": "MLB: Who will win Oakland Athletics vs. Baltimore Orioles, scheduled for April 21, 3:37 PM ET?"
+}

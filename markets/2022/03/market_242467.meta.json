@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242467",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-25T09:03:38.777000Z",
+  "market_createdAt": "2022-03-25T09:03:38.777Z",
+  "market_updatedAt": "2024-04-22T23:49:46.247247Z",
+  "market_startDate": "2022-03-25T15:50:19.567Z",
+  "market_endDate": "2022-03-25T00:00:00Z",
+  "market_closedTime": "2022-03-26 16:17:29+00",
+  "conditionId": "0xb1d6c831a46947b177d9db146a01eac3d5b57a753c3ca7613ab9f265ae860c2d",
+  "slug": "nba-who-will-win-jazz-vs-hornets-scheduled-for-march-25-710-pm-et",
+  "question": "NBA: Who will win Jazz vs. Hornets, scheduled for March 25, 7:10 PM ET?"
+}

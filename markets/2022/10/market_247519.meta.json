@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247519",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-12T18:30:20.881000Z",
+  "market_createdAt": "2022-10-12T18:30:20.881Z",
+  "market_updatedAt": "2023-01-31T14:32:53.756Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-16T00:00:00Z",
+  "market_closedTime": "2022-10-17 03:00:35+00",
+  "conditionId": "0x1831121d7cf729a019a97068be98c44d873ee1ce4f8d2403fba574418b7914e3",
+  "slug": "nfl-sunday-bills-vs-chiefs",
+  "question": "NFL Sunday: Bills vs. Chiefs"
+}

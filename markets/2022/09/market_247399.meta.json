@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247399",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-29T20:17:03.409000Z",
+  "market_createdAt": "2022-09-29T20:17:03.409Z",
+  "market_updatedAt": "2023-01-31T20:26:40.108Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-31T00:00:00Z",
+  "market_closedTime": "2023-01-02 13:30:24+00",
+  "conditionId": "0xef6bfae070347280592bfcc728cf8cfae6458e7d77c8641bdcf3314f46c22b83",
+  "slug": "will-ali-khamenei-remain-supreme-leader-of-iran-through-2022",
+  "question": "Will Ali Khamenei remain Supreme Leader of Iran through 2022?"
+}

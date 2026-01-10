@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242360",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-21T22:23:47.908000Z",
+  "market_createdAt": "2022-03-21T22:23:47.908Z",
+  "market_updatedAt": "2024-04-23T00:10:24.660937Z",
+  "market_startDate": null,
+  "market_endDate": "2022-04-01T00:00:00Z",
+  "market_closedTime": "2022-04-01 21:15:48+00",
+  "conditionId": "0xd4e63c8eb920c5fdf79042c38f9b90d087597cd5a421e332290a49d1a729478f",
+  "slug": "will-the-price-of-1-eth-be-above-3000-on-april-1-2022",
+  "question": "Will $ETH be above $3,000 on April 1, 2022?"
+}

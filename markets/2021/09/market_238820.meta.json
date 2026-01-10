@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238820",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-21T19:53:38.056000Z",
+  "market_createdAt": "2021-09-21T19:53:38.056Z",
+  "market_updatedAt": "2024-04-24T23:57:49.165096Z",
+  "market_startDate": "2021-09-21T22:08:10.553Z",
+  "market_endDate": "2021-10-01T00:00:00Z",
+  "market_closedTime": "2021-10-01 18:43:57+00",
+  "conditionId": "0xcef402374dda9709c1ca6161a765e000183e20eba18729be0b450ea252a47df8",
+  "slug": "what-will-the-eth-floor-price-of-bored-apes-be-on-october-1-2021",
+  "question": "What will the ETH floor price of Bored Apes be on October 1, 2021?"
+}

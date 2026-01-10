@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241740",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-26T17:34:30.843000Z",
+  "market_createdAt": "2022-02-26T17:34:30.843Z",
+  "market_updatedAt": "2024-04-23T00:32:40.477826Z",
+  "market_startDate": "2022-02-26T18:13:49.622Z",
+  "market_endDate": "2022-02-26T00:00:00Z",
+  "market_closedTime": "2022-02-27 21:21:24+00",
+  "conditionId": "0x088067be49fb74381d92bc0f0dbb403d8710a8d9559e582f468aaabb167e8de5",
+  "slug": "nba-will-the-hawks-beat-the-raptors-by-more-than-3p5-points-in-their-february-26-730-pm-et-matchup",
+  "question": "NBA: Will the Hawks beat the Raptors by more than 3.5 points in their February 26 (7.30 PM ET) matchup?"
+}

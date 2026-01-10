@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242267",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-19T09:03:45.112000Z",
+  "market_createdAt": "2022-03-19T09:03:45.112Z",
+  "market_updatedAt": "2024-04-23T00:57:33.075746Z",
+  "market_startDate": "2022-03-19T17:19:39.247Z",
+  "market_endDate": "2022-03-19T00:00:00Z",
+  "market_closedTime": "2022-03-20 21:30:27+00",
+  "conditionId": "0x27b4da6a963694134a064eff8ef3f9199011f7b99baed2acc7e56c767cd63dee",
+  "slug": "nhl-will-the-oilers-beat-the-devils-by-more-than-1pt5-goals-in-their-march-19-300-pm-et-matchup",
+  "question": "NHL: Will the Oilers beat the Devils by more than 1.5 goals in their March 19, 3:00 PM ET matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248037",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T20:47:24.919000Z",
+  "market_createdAt": "2022-11-18T20:47:24.919Z",
+  "market_updatedAt": "2023-01-31T19:52:52.306Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-06T00:00:00Z",
+  "market_closedTime": "2022-11-29 02:31:51+00",
+  "conditionId": "0xbc64909d160d2768288f6baa297d9a4d239cff2609482702e627045d5148f3cb",
+  "slug": "will-brazil-qualify-from-group-g",
+  "question": "Will Brazil qualify from Group G?"
+}

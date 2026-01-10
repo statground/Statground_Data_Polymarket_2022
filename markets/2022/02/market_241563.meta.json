@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241563",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-16T19:13:48.781000Z",
+  "market_createdAt": "2022-02-16T19:13:48.781Z",
+  "market_updatedAt": "2024-04-22T22:34:05.19143Z",
+  "market_startDate": "2022-02-16T19:39:23.271Z",
+  "market_endDate": "2022-02-16T00:00:00Z",
+  "market_closedTime": "2022-02-17 20:02:20+00",
+  "conditionId": "0x3c929a37c9f6a7c65ce16d7b9a5328c25725b876923f1b764a34900a9f1b22dd",
+  "slug": "nhl-will-the-flames-beat-the-ducks-by-more-than-1p5-goals-in-their-february-16-matchup-930-pm-et",
+  "question": "NHL: Will the Flames beat the Ducks by more than 1.5 goals in their February 16 matchup (9.30 PM ET)?"
+}

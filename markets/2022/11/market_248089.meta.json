@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248089",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-19T18:49:59.995000Z",
+  "market_createdAt": "2022-11-19T18:49:59.995Z",
+  "market_updatedAt": "2023-01-31T09:05:15.355Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-19T00:00:00Z",
+  "market_closedTime": "2022-11-20 03:15:21+00",
+  "conditionId": "0x6addb386f3d910c4f0b73bbab8f355d10417437f0ce64bb348efc6f1870e2745",
+  "slug": "will-twitter-vote-yes-on-musks-poll-to-reinstate-realdonaldtrump",
+  "question": "Will Twitter vote \"Yes\" on Musk's poll to reinstate @realDonaldTrump?"
+}

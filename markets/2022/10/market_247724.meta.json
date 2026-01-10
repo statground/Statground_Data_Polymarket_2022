@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247724",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-21T16:19:28.316000Z",
+  "market_createdAt": "2022-10-21T16:19:28.316Z",
+  "market_updatedAt": "2023-01-31T21:09:58.4Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-31T00:00:00Z",
+  "market_closedTime": "2023-01-02 13:32:08+00",
+  "conditionId": "0x15d671f890c665b44717071f4829a3e9730daa7beec7af786110ba4f374f9660",
+  "slug": "will-arbitrum-airdrop-a-native-token-before-2023",
+  "question": "Will Arbitrum airdrop a native token before 2023?"
+}

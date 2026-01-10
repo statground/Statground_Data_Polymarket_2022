@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242633",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-30T09:03:29.880000Z",
+  "market_createdAt": "2022-03-30T09:03:29.88Z",
+  "market_updatedAt": "2024-04-22T23:39:01.579774Z",
+  "market_startDate": "2022-03-30T17:11:45.768Z",
+  "market_endDate": "2022-03-30T00:00:00Z",
+  "market_closedTime": "2022-03-31 08:45:40+00",
+  "conditionId": "0xa81c99cff409ea20790c28e76535ff28d379a49a8ec2533a9064d0cfeaf38987",
+  "slug": "nhl-will-the-oilers-beat-the-kings-by-more-than-1pt5-goals-in-their-march-30-930-pm-et-matchup",
+  "question": "NHL: Will the Oilers beat the Kings by more than 1.5 goals in their March 30, 9:30 PM ET matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241147",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-28T12:51:50.752000Z",
+  "market_createdAt": "2022-01-28T12:51:50.752Z",
+  "market_updatedAt": "2024-04-22T22:53:04.365079Z",
+  "market_startDate": "2022-01-28T20:33:43.259Z",
+  "market_endDate": "2022-01-28T00:00:00Z",
+  "market_closedTime": "2022-01-31 01:07:38+00",
+  "conditionId": "0x955574953af8169e7e89dde5a876e49d5bb84e73d12c8388d652d81599695135",
+  "slug": "nhl-will-the-bruins-beat-the-coyotes-by-more-than-1p5-goals-in-their-january-28-matchup-9-pm-et",
+  "question": "NHL: Will the Bruins beat the Coyotes by more than 1.5 goals in their January 28 matchup (9 PM ET)?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239022",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-19T16:40:32.375000Z",
+  "market_createdAt": "2021-10-19T16:40:32.375Z",
+  "market_updatedAt": "2024-04-26T02:45:16.112342Z",
+  "market_startDate": "2021-10-19T20:58:48.284Z",
+  "market_endDate": "2021-10-20T00:00:00Z",
+  "market_closedTime": "2021-10-20 21:00:02+00",
+  "conditionId": "0x1c8583c2650ce44ab284385029bafd82337a70d53157ac889397b1ba29ee76de",
+  "slug": "will-juventus-or-zenit-st-petersburg-win-their-champions-league-match-on-october-20th",
+  "question": "Will Juventus or Zenit St. Petersburg win their Champions League match on October 20th?"
+}

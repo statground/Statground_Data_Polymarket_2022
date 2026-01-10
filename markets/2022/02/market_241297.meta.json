@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241297",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-03T16:39:09.053000Z",
+  "market_createdAt": "2022-02-03T16:39:09.053Z",
+  "market_updatedAt": "2024-04-25T00:00:10.152023Z",
+  "market_startDate": null,
+  "market_endDate": "2022-02-17T00:00:00Z",
+  "market_closedTime": "2022-02-12 01:16:29+00",
+  "conditionId": "0xbefe2098886fc38a8c5b51476dea16e2b57bee4b6a3fa4fd685d36f5c9c6e492",
+  "slug": "fide-world-chess-grand-prix-2022-will-richard-rapport-win-pool-b",
+  "question": "FIDE World Chess Grand Prix 2022: Will Richard Rapport win Pool B?"
+}

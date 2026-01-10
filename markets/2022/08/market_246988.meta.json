@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246988",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-15T16:49:33.131000Z",
+  "market_createdAt": "2022-08-15T16:49:33.131Z",
+  "market_updatedAt": "2023-02-01T04:12:28.425Z",
+  "market_startDate": "2022-08-17T16:41:11.661Z",
+  "market_endDate": "2022-08-16T00:00:00Z",
+  "market_closedTime": "2022-08-17 05:45:49+00",
+  "conditionId": "0x37a9d3e59ab4bd3c622f74207d2179dc21a00a648a8bd98a64739a3a720c643b",
+  "slug": "mlb-who-will-win-new-york-mets-v-atlanta-braves-scheduled-for-august-16-720-pm-et",
+  "question": "MLB: Who will win New York Mets v. Atlanta Braves, scheduled for August 16, 7:20 PM ET?"
+}

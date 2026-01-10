@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "220313",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-29T17:25:01.197000Z",
+  "market_createdAt": "2021-06-29T17:25:01.197Z",
+  "market_updatedAt": "2024-04-22T23:48:43.697612Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-30T00:00:00Z",
+  "market_closedTime": "2021-07-01 16:00:26+00",
+  "conditionId": "0xf27fd511d898e8b36e8b89f75cc02760870ca551934a24b1610a489a4658c8ad",
+  "slug": "who-will-win-canadiens-v-lightning-stanley-cup-final-game-2",
+  "question": "Who will win Canadiens v. Lightning: Stanley Cup Final Game 2? "
+}

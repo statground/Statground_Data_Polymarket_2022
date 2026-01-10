@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242201",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-18T12:04:09.368000Z",
+  "market_createdAt": "2022-03-18T12:04:09.368Z",
+  "market_updatedAt": "2024-04-24T23:35:30.069231Z",
+  "market_startDate": "2022-03-18T16:11:53.626Z",
+  "market_endDate": "2022-03-18T00:00:00Z",
+  "market_closedTime": "2022-03-19 11:00:23+00",
+  "conditionId": "0x702e1dbfbf3df680a7b922d5c45d0cf0dda9bd6024be879ca65d05e78b5dc5df",
+  "slug": "nba-who-will-win-grizzlies-vspt-hawks-scheduled-for-march-18-740-pm-et",
+  "question": "NBA: Who will win Grizzlies vs. Hawks, scheduled for March 18, 7:40 PM ET?"
+}

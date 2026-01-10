@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244627",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-11T00:10:39.577000Z",
+  "market_createdAt": "2022-05-11T00:10:39.577Z",
+  "market_updatedAt": "2023-01-31T21:16:37.657Z",
+  "market_startDate": "2022-05-11T00:44:59.574Z",
+  "market_endDate": "2022-05-26T00:00:00Z",
+  "market_closedTime": "2022-05-26 21:15:32+00",
+  "conditionId": "0x17f943d88147ab1b5a16f470798c16662eceaec089d124b64f2a6033b43d7689",
+  "slug": "will-the-floor-price-of-cryptopunks-be-above-52-eth-on-may-26",
+  "question": "Will the floor price of CryptoPunks be above 52 ETH on May 26?"
+}

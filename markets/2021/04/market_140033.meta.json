@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "140033",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-19T20:35:03.204000Z",
+  "market_createdAt": "2021-04-19T20:35:03.204Z",
+  "market_updatedAt": "2024-04-22T22:53:08.164923Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-25T00:00:00Z",
+  "market_closedTime": "2021-04-26 15:13:57+00",
+  "conditionId": "0xc6e87c3d51ca96812560a2ee2584744a5d96fd3f1acef394fe9d4c16b3230686",
+  "slug": "will-chadwick-boseman-win-best-actor-at-the-2021-oscars",
+  "question": "Will Chadwick Boseman win Best Actor at the 2021 Oscars?"
+}

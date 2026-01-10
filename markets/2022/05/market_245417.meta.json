@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "245417",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-25T13:47:57.889000Z",
+  "market_createdAt": "2022-05-25T13:47:57.889Z",
+  "market_updatedAt": "2023-01-31T20:21:38.49Z",
+  "market_startDate": "2022-05-25T15:49:35.604Z",
+  "market_endDate": "2022-05-29T00:00:00Z",
+  "market_closedTime": "2022-05-29 22:15:43+00",
+  "conditionId": "0x5f989832aeacf879b784141f41e3ef3e9aa041f434d8a5a2f5912502131833b5",
+  "slug": "formula-1-who-will-finish-ahead-at-the-2022-monaco-grand-prix-max-verstappen-or-charles-leclerc",
+  "question": "Formula 1: Who will finish ahead at the 2022 Monaco Grand Prix, Max Verstappen or Charles Leclerc?"
+}

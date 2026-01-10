@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240414",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T14:09:18.139000Z",
+  "market_createdAt": "2022-01-11T14:09:18.139Z",
+  "market_updatedAt": "2024-04-26T02:49:55.773342Z",
+  "market_startDate": "2022-01-12T21:38:43.003Z",
+  "market_endDate": "2022-12-31T00:00:00Z",
+  "market_closedTime": "2023-01-03 02:00:47+00",
+  "conditionId": "0xae23e70ed544181b25a5d49b2da4ae80e1a0fcef704ba20987289363020df5b2",
+  "slug": "will-the-highest-corporate-tax-rate-be-raised-above-21-in-2022",
+  "question": "Will the highest corporate tax rate be raised above 21% in 2022?"
+}

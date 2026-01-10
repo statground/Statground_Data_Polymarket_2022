@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247760",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-25T18:43:14.983000Z",
+  "market_createdAt": "2022-10-25T18:43:14.983Z",
+  "market_updatedAt": "2023-01-31T18:53:28.892Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-30T00:00:00Z",
+  "market_closedTime": "2022-10-31 04:45:34+00",
+  "conditionId": "0xd785264907eef62eed11f3a3d41b0db29d40ef5f46be583cd80414d2fab84814",
+  "slug": "nba-who-will-win-knicks-vs-cavaliers-scheduled-for-october-30-600-pm-et",
+  "question": "NBA: Who will win Knicks vs. Cavaliers, scheduled for October 30 (6:00 PM ET)?"
+}

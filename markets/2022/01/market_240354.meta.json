@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240354",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T01:12:32.216000Z",
+  "market_createdAt": "2022-01-11T01:12:32.216Z",
+  "market_updatedAt": "2024-04-22T23:26:47.032633Z",
+  "market_startDate": "2022-01-12T20:49:39.411Z",
+  "market_endDate": "2022-05-28T00:00:00Z",
+  "market_closedTime": "2022-04-14 00:00:55+00",
+  "conditionId": "0xa36dd117e1f298e0e0470703761154f272a0f119aff53c674f2fa761db27e7f1",
+  "slug": "will-bayern-munich-win-the-2021-22-uefa-champions-league",
+  "question": "Will Bayern Munich win the 2021-22 UEFA Champions League?"
+}

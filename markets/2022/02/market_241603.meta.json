@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241603",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-18T16:07:29.501000Z",
+  "market_createdAt": "2022-02-18T16:07:29.501Z",
+  "market_updatedAt": "2024-04-22T22:53:02.965597Z",
+  "market_startDate": "2022-02-18T20:12:55.723Z",
+  "market_endDate": "2022-02-18T00:00:00Z",
+  "market_closedTime": "2022-02-19 18:31:58+00",
+  "conditionId": "0x7d86a37e06b590c3dfe1ad57d79d182acd184b8f22efdca0b8a09df978f04148",
+  "slug": "nhl-will-the-stars-beat-the-blackhawks-by-more-than-1p5-goals-in-their-february-18-matchup-830-pm-et",
+  "question": "NHL: Will the Stars beat the Blackhawks by more than 1.5 goals in their February 18 matchup (8.30 PM ET)?"
+}

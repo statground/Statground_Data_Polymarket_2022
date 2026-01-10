@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247436",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-03T18:51:07.824000Z",
+  "market_createdAt": "2022-10-03T18:51:07.824Z",
+  "market_updatedAt": "2023-01-31T11:08:30.692Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-31T00:00:00Z",
+  "market_closedTime": "2022-11-01 06:15:36+00",
+  "conditionId": "0x7832cf8392f60aa1620d433fa911e43e2eb4327635a6362d21d515fcefce9f95",
+  "slug": "will-there-be-another-1074th-nfl-scorigami-in-october",
+  "question": "Will there be another (1,074th) NFL Scorigami in October?"
+}

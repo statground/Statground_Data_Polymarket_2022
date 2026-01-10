@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240162",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-23T19:23:17.294000Z",
+  "market_createdAt": "2021-12-23T19:23:17.294Z",
+  "market_updatedAt": "2024-04-24T23:22:17.416209Z",
+  "market_startDate": "2021-12-26T08:49:19.184Z",
+  "market_endDate": "2021-12-26T00:00:00Z",
+  "market_closedTime": "2021-12-27 14:18:06+00",
+  "conditionId": "0xe0364438512dbcb8f49666f8cf0de4815141e7499323d5b7d0a113dbfc00d9c8",
+  "slug": "nfl-will-the-eagles-beat-the-giants-by-more-than-9pt5-points-in-their-december-26-matchup",
+  "question": "NFL: Will the Eagles beat the Giants by more than 9.5 points in their December 26 matchup?"
+}

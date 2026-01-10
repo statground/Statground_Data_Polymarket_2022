@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248213",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-15T18:14:11.861000Z",
+  "market_createdAt": "2022-12-15T18:14:11.861Z",
+  "market_updatedAt": "2023-02-10T01:03:41.207Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-15T00:00:00Z",
+  "market_closedTime": "2022-12-16 06:46:08+00",
+  "conditionId": "0xa7d59b976c95cd0254b93eda3ead34c3fd5cd5dca9242d3165f1bac29949c8c7",
+  "slug": "nfl-thursday-49ers-vs-seahawks",
+  "question": "NFL Thursday: 49ers vs. Seahawks"
+}

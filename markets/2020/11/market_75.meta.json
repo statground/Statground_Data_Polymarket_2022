@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "75",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-11-04T19:25:05.178000Z",
+  "market_createdAt": "2020-11-04T19:25:05.178Z",
+  "market_updatedAt": "2024-04-22T22:44:04.109439Z",
+  "market_startDate": null,
+  "market_endDate": "2020-12-02T00:00:00Z",
+  "market_closedTime": "2020-12-01 15:56:33+00",
+  "conditionId": "0xa415326794437d158e8e8a4d9db412b09a31e8b585996f1bad817ee3162588b0",
+  "slug": "will-the-ethereum-20-genesis-event-happen-successfully-on-december-1st-2020",
+  "question": "Will the Ethereum 2.0 Genesis Event happen successfully on December 1st, 2020?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247863",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-15T21:25:51.965000Z",
+  "market_createdAt": "2022-11-15T21:25:51.965Z",
+  "market_updatedAt": "2023-01-31T21:06:30.656Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-22T00:00:00Z",
+  "market_closedTime": "2022-11-16 21:45:25+00",
+  "conditionId": "0x0bd11463dd712c222029b7d82773a69ba7f1fc8ad988bd76b873239a459fc8f4",
+  "slug": "will-sbfs-tweet-storm-be-more-than-22-tweets",
+  "question": "Will SBF's tweet storm be more than 22 tweets?"
+}

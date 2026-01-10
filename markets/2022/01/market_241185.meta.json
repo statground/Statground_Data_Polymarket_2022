@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241185",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-29T10:37:58.626000Z",
+  "market_createdAt": "2022-01-29T10:37:58.626Z",
+  "market_updatedAt": "2024-04-22T23:40:13.093034Z",
+  "market_startDate": "2022-01-29T18:11:14.599Z",
+  "market_endDate": "2022-01-29T00:00:00Z",
+  "market_closedTime": "2022-01-31 01:09:00+00",
+  "conditionId": "0x166212f44285ef18e1fd39e5be69877cd2230e107d8020e3ef62ce7531df19fd",
+  "slug": "nba-will-the-warriors-beat-the-nets-by-more-than-65-points-in-their-january-29-830-pm-et-matchup",
+  "question": "NBA: Will the Warriors beat the Nets by more than 6.5 points in their January 29 (8.30 PM ET) matchup?"
+}

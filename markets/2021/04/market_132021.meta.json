@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "132021",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-16T15:45:02.615000Z",
+  "market_createdAt": "2021-04-16T15:45:02.615Z",
+  "market_updatedAt": "2024-04-25T00:15:42.253849Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-15T00:00:00Z",
+  "market_closedTime": "2021-06-15 16:50:18+00",
+  "conditionId": "0xc0c4ece61b1f7ec62d9412dbb8e938a7df42a5564c7783ed9b670d77de40d6e2",
+  "slug": "will-doge-reach-1-at-any-point-before-june-15-2021",
+  "question": "Will $DOGE reach $1 at any point before June 15, 2021?"
+}

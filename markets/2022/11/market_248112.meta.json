@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248112",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-21T19:37:49.107000Z",
+  "market_createdAt": "2022-11-21T19:37:49.107Z",
+  "market_updatedAt": "2023-01-31T20:26:40.358Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-27T00:00:00Z",
+  "market_closedTime": "2022-11-27 15:30:38+00",
+  "conditionId": "0x474571d7b88e013961959766d30a4cf9cdaad9387c88e6db610b14523c1e924c",
+  "slug": "world-cup-2022-sunday-will-japan-beat-costa-rica",
+  "question": "World Cup: Sunday - Will Japan beat Costa Rica?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242319",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-20T09:07:31.257000Z",
+  "market_createdAt": "2022-03-20T09:07:31.257Z",
+  "market_updatedAt": "2024-04-24T23:23:13.453147Z",
+  "market_startDate": null,
+  "market_endDate": "2022-03-20T00:00:00Z",
+  "market_closedTime": "2022-03-21 20:48:27+00",
+  "conditionId": "0x80e2661152b7aa3872cb06ad1aa25f26046e10b678f3ebe700dbbff76f4dd32a",
+  "slug": "nba-will-the-magic-beat-the-thunder-by-more-than-5pt5-points-in-their-march-20-610-pm-et-matchup",
+  "question": "NBA: Will the Magic beat the Thunder by more than 5.5 points in their March 20, 6:10 PM ET matchup?"
+}

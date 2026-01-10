@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243367",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-17T13:43:34.899000Z",
+  "market_createdAt": "2022-04-17T13:43:34.899Z",
+  "market_updatedAt": "2023-01-30T05:11:12.997Z",
+  "market_startDate": "2022-04-17T14:59:39.226Z",
+  "market_endDate": "2022-04-17T00:00:00Z",
+  "market_closedTime": "2022-04-18 06:31:42+00",
+  "conditionId": "0x21fd4fcaf1991df5d7e24c05e0f3f089c841e76a0f2271ef87cae1c6670cbf5d",
+  "slug": "nhl-will-the-blues-beat-the-predators-by-more-than-1pt5-goals-in-their-april-17-matchup-6-pm-et",
+  "question": "NHL: Will the Blues beat the Predators by more than 1.5 goals in their April 17 matchup (6 PM ET)?"
+}

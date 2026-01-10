@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238521",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-19T15:30:02.044000Z",
+  "market_createdAt": "2021-08-19T15:30:02.044Z",
+  "market_updatedAt": "2024-04-25T00:12:30.805661Z",
+  "market_startDate": "2021-08-20T01:50:42.576Z",
+  "market_endDate": null,
+  "market_closedTime": "2021-12-09 17:56:33+00",
+  "conditionId": "0xeb2a247d6f24cddf8ae3990cd2440731d309cf63db7791207e30a998a3e34bd6",
+  "slug": "will-armin-laschet-be-the-next-chancellor-of-germany",
+  "question": "Will Armin Laschet be the next chancellor of Germany?"
+}

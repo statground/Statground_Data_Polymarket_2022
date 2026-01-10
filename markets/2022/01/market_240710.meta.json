@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240710",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-13T23:06:43.037000Z",
+  "market_createdAt": "2022-01-13T23:06:43.037Z",
+  "market_updatedAt": "2024-04-23T00:58:19.985022Z",
+  "market_startDate": "2022-01-13T23:37:10.81Z",
+  "market_endDate": "2022-01-13T00:00:00Z",
+  "market_closedTime": "2022-01-15 23:01:58+00",
+  "conditionId": "0xd8b6f2087c6d8981c105faa4c441030ea6e3b8acb4bbb726506d8ec38890df60",
+  "slug": "nhl-will-the-bruins-beat-the-flyers-by-more-than-1p5-goals-in-their-january-13-matchup",
+  "question": "NHL: Will the Bruins beat the Flyers by more than 1.5 goals in their January 13 matchup?"
+}

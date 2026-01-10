@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242052",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-13T13:38:11.394000Z",
+  "market_createdAt": "2022-03-13T13:38:11.394Z",
+  "market_updatedAt": "2024-04-22T23:55:05.985458Z",
+  "market_startDate": "2022-03-13T17:59:58.099Z",
+  "market_endDate": "2022-03-13T00:00:00Z",
+  "market_closedTime": "2022-03-14 11:45:23+00",
+  "conditionId": "0xa5d78604bad8726b77a3227380ba60df2b7ce76f1de99649ee72e2cf7d51a6c4",
+  "slug": "nhl-will-the-lightning-beat-the-canucks-by-more-than-1pt5-goals-in-their-march-13-matchup-9-pm-et",
+  "question": "NHL: Will the Lightning beat the Canucks by more than 1.5 goals in their March 13 matchup (10 PM ET)?"
+}

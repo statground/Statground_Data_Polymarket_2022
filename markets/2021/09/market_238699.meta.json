@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238699",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-01T20:04:01.319000Z",
+  "market_createdAt": "2021-09-01T20:04:01.319Z",
+  "market_updatedAt": "2024-04-23T00:54:17.568376Z",
+  "market_startDate": "2021-09-01T20:50:46.509Z",
+  "market_endDate": "2021-09-16T00:00:00Z",
+  "market_closedTime": "2021-09-03 18:51:15+00",
+  "conditionId": "0x83b42abedef82132b22e193763bc920e24fc92c1041b5202b4c546ebc49cb29e",
+  "slug": "will-joe-bidens-disapproval-rating-be-48-or-higher-on-or-before-september-15",
+  "question": "Will Joe Biden’s disapproval rating be 48% or higher on or before September 15? "
+}

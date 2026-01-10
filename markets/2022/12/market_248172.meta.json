@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248172",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-05T18:42:56.115000Z",
+  "market_createdAt": "2022-12-05T18:42:56.115Z",
+  "market_updatedAt": "2023-01-31T20:31:46.255Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-05T00:00:00Z",
+  "market_closedTime": "2022-12-06 05:01:23+00",
+  "conditionId": "0x67f97415780ba0baece3fe773e3fb4aa13bf707eeb35bdb6c3c74405e0ebbe09",
+  "slug": "nba-who-will-win-celtics-vs-raptors-scheduled-for-december-5",
+  "question": "NBA: Who will win Celtics vs. Raptors, scheduled for December 5?"
+}

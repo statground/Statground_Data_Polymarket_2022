@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242637",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-30T09:06:09.117000Z",
+  "market_createdAt": "2022-03-30T09:06:09.117Z",
+  "market_updatedAt": "2024-04-23T00:23:14.75814Z",
+  "market_startDate": "2022-03-30T17:14:49.973Z",
+  "market_endDate": "2022-03-30T00:00:00Z",
+  "market_closedTime": "2022-03-31 07:30:36+00",
+  "conditionId": "0x7ca3aea12a6813236e51bbd9691e035dc79ccd0c257375da52a7942b5a841093",
+  "slug": "nba-who-will-win-raptors-vs-timberwolves-scheduled-for-march-30-740-pm-et",
+  "question": "NBA: Who will win Raptors vs. Timberwolves, scheduled for March 30, 7:40 PM ET?"
+}

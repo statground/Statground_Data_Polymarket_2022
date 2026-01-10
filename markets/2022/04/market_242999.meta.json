@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242999",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-07T09:16:12.136000Z",
+  "market_createdAt": "2022-04-07T09:16:12.136Z",
+  "market_updatedAt": "2024-04-22T23:59:11.421186Z",
+  "market_startDate": "2022-04-07T16:37:45.831Z",
+  "market_endDate": "2022-04-07T00:00:00Z",
+  "market_closedTime": "2022-04-08 06:46:41+00",
+  "conditionId": "0x2daf0d7db43264559d4df49e6b4c17505251785b978a1c9c24443a6e08fd9176",
+  "slug": "nhl-will-the-devils-beat-the-canadiens-by-more-than-1pt5-goals-in-their-april-7-700-pm-et-matchup",
+  "question": "NHL: Will the Devils beat the Canadiens by more than 1.5 goals in their April 7, 7:00 PM ET matchup?"
+}

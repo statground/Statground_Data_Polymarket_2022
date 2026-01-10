@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "203798",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-28T18:00:01.864000Z",
+  "market_createdAt": "2021-05-28T18:00:01.864Z",
+  "market_updatedAt": "2024-04-22T22:40:34.344354Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-01T00:00:00Z",
+  "market_closedTime": "2021-06-02 14:45:53+00",
+  "conditionId": "0x8fee42888548f86f753071dcdbf8ccc78176d03b0947dfe95ab356f57e7ed595",
+  "slug": "who-will-win-nuggets-v-trail-blazers-game-5",
+  "question": "Who will win Nuggets v. Trail Blazers: Game 5? "
+}

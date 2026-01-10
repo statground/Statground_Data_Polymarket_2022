@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218929",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-24T21:50:01.214000Z",
+  "market_createdAt": "2021-06-24T21:50:01.214Z",
+  "market_updatedAt": "2024-04-24T23:16:47.380861Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-24T00:00:00Z",
+  "market_closedTime": "2021-06-25 16:12:37+00",
+  "conditionId": "0x3dad1387013035e435a63de7ce12663b105e5719566406c4b989a663b6983b83",
+  "slug": "will-more-or-less-than-221-total-points-be-scored-in-suns-v-clippers-finals-game-3",
+  "question": "Will more or less than 221 total points be scored in Suns v. Clippers: Finals Game 3?"
+}

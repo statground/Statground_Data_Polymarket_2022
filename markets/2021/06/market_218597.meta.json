@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218597",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-21T17:05:01.247000Z",
+  "market_createdAt": "2021-06-21T17:05:01.247Z",
+  "market_updatedAt": "2024-04-23T00:10:41.613781Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-22T00:00:00Z",
+  "market_closedTime": "2021-07-21 16:06:31+00",
+  "conditionId": "0x88ea4e9aa1821b858201adc7dc2020436d4a2ca9b5beb09a3dbdc1f94131faba",
+  "slug": "will-the-suns-win-the-2021-nba-finals-1",
+  "question": "Will the Suns win the 2021 NBA Finals?"
+}

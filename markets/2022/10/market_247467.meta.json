@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247467",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-11T16:32:09.227000Z",
+  "market_createdAt": "2022-10-11T16:32:09.227Z",
+  "market_updatedAt": "2023-01-31T16:33:36.533Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-17T00:00:00Z",
+  "market_closedTime": "2022-10-16 18:15:49+00",
+  "conditionId": "0x39580cfbecc0c6e6ba5db13dbb540700e3c9b6da76e2fe2a79ae33500c0679db",
+  "slug": "nl-division-series-padres-vs-dodgers",
+  "question": "NL Division Series: Padres vs. Dodgers"
+}

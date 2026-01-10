@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "88546",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-15T17:05:04.880000Z",
+  "market_createdAt": "2021-02-15T17:05:04.88Z",
+  "market_updatedAt": "2024-04-23T00:50:06.761349Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-28T00:00:00Z",
+  "market_closedTime": "2021-02-28 21:50:35+00",
+  "conditionId": "0xb4a87d45b97d546e092be4f3dcc1119e7fa0dfa881c0935beabb15b560cd57dc",
+  "slug": "will-the-price-of-unisocks-be-above-100000-on-february-28-2021",
+  "question": "Will the price of Unisocks be above $100,000 on February 28, 2021?"
+}

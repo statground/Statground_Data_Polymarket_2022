@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240029",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-14T20:06:39.309000Z",
+  "market_createdAt": "2021-12-14T20:06:39.309Z",
+  "market_updatedAt": "2024-04-26T02:50:31.23852Z",
+  "market_startDate": "2021-12-15T01:58:26.674Z",
+  "market_endDate": "2022-01-08T00:00:00Z",
+  "market_closedTime": "2022-01-10 15:26:37+00",
+  "conditionId": "0xf4e9b17465743dbcbcd6c23647277cc3f134abf00621cb983cb27c59ee97071e",
+  "slug": "will-the-fide-top-3-chess-players-be-carlsen-firouzja-ding-on-january-8",
+  "question": "Will the FIDE Top 3 chess players be Carlsen, Firouzja, Ding in that order on January 8, 2022?"
+}

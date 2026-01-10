@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242686",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-31T21:11:06.508000Z",
+  "market_createdAt": "2022-03-31T21:11:06.508Z",
+  "market_updatedAt": "2023-01-31T18:53:29.109Z",
+  "market_startDate": "2022-03-31T23:23:52.194Z",
+  "market_endDate": "2022-04-03T00:00:00Z",
+  "market_closedTime": "2022-04-11 21:15:36+00",
+  "conditionId": "0x6fb05a5fdf462bc69fcbcc4e96970d02c5671f710a906878bf704c4d42238fdb",
+  "slug": "2022-hungarian-elections-will-fidesz-retain-at-least-113-parliamentary-seats",
+  "question": "2022 Hungarian elections: Will Fidesz win at least 113 parliamentary seats?"
+}

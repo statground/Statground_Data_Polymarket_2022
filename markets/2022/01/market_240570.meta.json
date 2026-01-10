@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240570",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T19:18:09.090000Z",
+  "market_createdAt": "2022-01-11T19:18:09.09Z",
+  "market_updatedAt": "2024-04-23T00:51:35.929177Z",
+  "market_startDate": "2022-01-12T21:16:30.418Z",
+  "market_endDate": "2022-03-01T00:00:00Z",
+  "market_closedTime": "2022-03-04 12:27:07+00",
+  "conditionId": "0xcf11f138883221ef9711df9272ac110a751847ff67b8d30064789c11ad8c3f6e",
+  "slug": "what-will-the-price-of-terra-luna-be-on-march-1st-2022",
+  "question": "What will the price of Terra ($LUNA) be on March 1st, 2022?"
+}

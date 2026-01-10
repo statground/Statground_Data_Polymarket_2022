@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242321",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-20T09:08:11.174000Z",
+  "market_createdAt": "2022-03-20T09:08:11.174Z",
+  "market_updatedAt": "2024-04-23T00:22:11.473438Z",
+  "market_startDate": "2022-03-20T17:52:41.989Z",
+  "market_endDate": "2022-03-20T00:00:00Z",
+  "market_closedTime": "2022-03-21 20:47:03+00",
+  "conditionId": "0x029c45a53a2205465a30f414a5f83e60c6280decf310b5c1d4bc7156044f490b",
+  "slug": "nba-will-the-celtics-beat-the-nuggets-by-more-than-2pt5-points-in-their-march-20-810-pm-et-matchup",
+  "question": "NBA: Will the Celtics beat the Nuggets by more than 2.5 points in their March 20, 8:10 PM ET matchup?"
+}

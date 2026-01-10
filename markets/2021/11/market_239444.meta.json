@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239444",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-15T11:23:05.697000Z",
+  "market_createdAt": "2021-11-15T11:23:05.697Z",
+  "market_updatedAt": "2024-04-22T22:29:33.931493Z",
+  "market_startDate": "2021-11-15T18:32:11.694Z",
+  "market_endDate": "2021-11-18T00:00:00Z",
+  "market_closedTime": "2021-11-20 17:46:32+00",
+  "conditionId": "0xed0619f7d9e9280a8bce4fb7acd086a769bfdb2d0444fd557edd2955b03e770a",
+  "slug": "nfl-will-the-patriots-beat-the-falcons-by-more-than-5pt5-points-in-their-november-18th-matchup",
+  "question": "NFL: Will the Patriots beat the Falcons by more than 5.5 points in their November 18th matchup?"
+}

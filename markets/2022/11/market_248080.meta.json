@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248080",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T22:57:07.004000Z",
+  "market_createdAt": "2022-11-18T22:57:07.004Z",
+  "market_updatedAt": "2023-01-31T20:16:21.427Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-18T00:00:00Z",
+  "market_closedTime": "2022-12-19 17:01:40+00",
+  "conditionId": "0x6e21064444d61caf3d1f9e0be0bd1bed3c067f1a436463cda3319854f7aba75e",
+  "slug": "will-the-2022-world-cup-winner-be-from-europe",
+  "question": "Will the 2022 World Cup winner be from Europe?"
+}

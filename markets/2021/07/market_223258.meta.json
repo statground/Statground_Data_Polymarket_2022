@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "223258",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-09T18:40:01.188000Z",
+  "market_createdAt": "2021-07-09T18:40:01.188Z",
+  "market_updatedAt": "2024-04-23T00:37:34.103654Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-30T00:00:00Z",
+  "market_closedTime": "2021-07-17 03:42:34+00",
+  "conditionId": "0x159e6f68974ca377121faf7ae812807eb324ef897668fd430456758ca93a63a7",
+  "slug": "will-19-states-have-high-or-substantial-covid19-community-spread-on-any-day-on-or-before-july-30-2021",
+  "question": "Will 19 states have high or substantial COVID-19 community spread on any day on or before July 30?"
+}

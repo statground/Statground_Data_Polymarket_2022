@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246773",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-20T19:57:36.991000Z",
+  "market_createdAt": "2022-07-20T19:57:36.991Z",
+  "market_updatedAt": "2024-04-23T00:10:30.986094Z",
+  "market_startDate": "2022-07-20T21:12:49.24Z",
+  "market_endDate": "2022-07-31T00:00:00Z",
+  "market_closedTime": "2022-08-01 06:45:45+00",
+  "conditionId": "0xd8e0d11beb6553c922bb46204191a9d7ba8c0fd17bd6b203b6d5c5557f31c063",
+  "slug": "will-matic-reach-1-by-july-31",
+  "question": "Will $MATIC reach $1 by July 31?"
+}

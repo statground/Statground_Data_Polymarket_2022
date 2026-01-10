@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238666",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-26T20:38:01.251000Z",
+  "market_createdAt": "2021-08-26T20:38:01.251Z",
+  "market_updatedAt": "2024-04-24T23:50:07.249995Z",
+  "market_startDate": "2021-09-22T20:53:45.788Z",
+  "market_endDate": "2021-09-26T00:00:00Z",
+  "market_closedTime": "2021-09-28 22:20:11+00",
+  "conditionId": "0x224fa7aa2bd4d5f1f920d6a0f7ffaa767f3a3fbfb64afeb6be58afc5b0680a20",
+  "slug": "who-will-win-the-2021-43rd-ryder-cup",
+  "question": "Who will win the 2021 43rd Ryder Cup?"
+}

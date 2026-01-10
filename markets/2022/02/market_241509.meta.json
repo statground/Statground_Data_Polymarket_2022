@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241509",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-16T02:44:45.358000Z",
+  "market_createdAt": "2022-02-16T02:44:45.358Z",
+  "market_updatedAt": "2024-04-23T00:24:32.889118Z",
+  "market_startDate": null,
+  "market_endDate": "2022-03-01T00:00:00Z",
+  "market_closedTime": "2022-03-01 23:21:45+00",
+  "conditionId": "0x9e4ce5e8e6cc3520d12b626c8770b010f8b9186f6c29109f95f3948ce885e505",
+  "slug": "will-ethereum-be-above-3000-on-march-1-2022",
+  "question": "Will Ethereum be above $3000 on March 1, 2022?"
+}

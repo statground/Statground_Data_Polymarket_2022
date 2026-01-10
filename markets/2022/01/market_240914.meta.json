@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240914",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-21T11:13:47.934000Z",
+  "market_createdAt": "2022-01-21T11:13:47.934Z",
+  "market_updatedAt": "2024-04-25T00:00:55.088669Z",
+  "market_startDate": "2022-01-21T21:48:41.57Z",
+  "market_endDate": "2022-01-21T00:00:00Z",
+  "market_closedTime": "2022-01-24 21:58:44+00",
+  "conditionId": "0xeaf4de35a0c3f3d8b88f73126f283010cf21e5b084a949b1066c64d551b6018d",
+  "slug": "nhl-will-the-wild-beat-the-blackhawks-by-more-than-1p5-points-in-their-january-21-matchup",
+  "question": "NHL: Will the Wild beat the Blackhawks by more than 1.5 points in their January 21 matchup?"
+}

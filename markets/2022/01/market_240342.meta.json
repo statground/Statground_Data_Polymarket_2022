@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240342",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T00:51:15.226000Z",
+  "market_createdAt": "2022-01-11T00:51:15.226Z",
+  "market_updatedAt": "2024-04-23T00:55:13.81625Z",
+  "market_startDate": "2022-01-12T20:45:29.988Z",
+  "market_endDate": "2022-02-13T00:00:00Z",
+  "market_closedTime": "2022-01-27 20:07:43+00",
+  "conditionId": "0xd134d6f7fc2b6f973ab854c7972671aca5aceb53027b65f1c0db6c1a4948e417",
+  "slug": "will-the-buffalo-bills-win-the-21-22-superbowl",
+  "question": "Will the Buffalo Bills win the ‘21-’22 Superbowl?"
+}

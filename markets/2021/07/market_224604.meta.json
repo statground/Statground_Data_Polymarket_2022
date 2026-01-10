@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "224604",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-16T21:05:01.649000Z",
+  "market_createdAt": "2021-07-16T21:05:01.649Z",
+  "market_updatedAt": "2024-04-24T23:51:06.427418Z",
+  "market_startDate": null,
+  "market_endDate": "2021-08-01T00:00:00Z",
+  "market_closedTime": "2021-08-02 14:43:53+00",
+  "conditionId": "0xe41a24517891a27b3a1316a81ad1460d82d4c484d8ef22c8e665625188e409fe",
+  "slug": "will-a-2nd-monkeypox-case-be-reported-in-the-us-by-august-1",
+  "question": "Will a 2nd monkeypox case be reported in the US by August 1?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "42404",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-01-15T19:35:04.127000Z",
+  "market_createdAt": "2021-01-15T19:35:04.127Z",
+  "market_updatedAt": "2024-04-23T00:41:07.240105Z",
+  "market_startDate": null,
+  "market_endDate": "2021-03-16T00:00:00Z",
+  "market_closedTime": "2021-02-06 21:00:44+00",
+  "conditionId": "0x74080a012fd9fd452ec61f12e7a97cff25cfb598dd458acce8cef9220a3205a0",
+  "slug": "will-yfi-total-supply-be-greater-than-30-000-by-march-15th",
+  "question": "Will YFI total supply be greater than 30,000 by March 15th?"
+}

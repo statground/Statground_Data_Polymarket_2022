@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239259",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-05T13:05:15.786000Z",
+  "market_createdAt": "2021-11-05T13:05:15.786Z",
+  "market_updatedAt": "2024-04-23T00:17:25.243659Z",
+  "market_startDate": "2021-11-05T19:55:37.818Z",
+  "market_endDate": "2021-11-05T00:00:00Z",
+  "market_closedTime": "2021-11-06 11:11:30+00",
+  "conditionId": "0xdf6bd15eaee23293bde4fc24f3c71c0ae51ae60230bea772ea00966c9dd7b590",
+  "slug": "nba-who-will-win-the-kings-v-hornets-game-on-november-5th",
+  "question": "NBA: Who will win the Kings v. Hornets game on November 5th?"
+}

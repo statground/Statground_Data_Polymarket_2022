@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240219",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-28T09:38:34.497000Z",
+  "market_createdAt": "2021-12-28T09:38:34.497Z",
+  "market_updatedAt": "2024-04-23T00:36:34.251873Z",
+  "market_startDate": "2021-12-28T17:37:17.717Z",
+  "market_endDate": "2022-01-10T00:00:00Z",
+  "market_closedTime": "2022-01-12 18:53:38+00",
+  "conditionId": "0x19f94db34f4d4cfe39d9b8053cdea10c87894c35768c31834ff47c6d4a78f599",
+  "slug": "will-terra-luna-reach-100-again-by-january-10",
+  "question": "Will Terra (LUNA) reach $100 again by January 10?"
+}

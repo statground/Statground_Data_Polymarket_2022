@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239498",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-18T11:19:28.807000Z",
+  "market_createdAt": "2021-11-18T11:19:28.807Z",
+  "market_updatedAt": "2024-04-24T23:56:49.76053Z",
+  "market_startDate": "2021-11-18T17:26:03.307Z",
+  "market_endDate": "2021-11-18T00:00:00Z",
+  "market_closedTime": "2021-11-19 19:54:10+00",
+  "conditionId": "0x0c1fe5eb71a9a44844d68f105ac9e4e59e279426240b57bb4b80d05d8cdfdf0c",
+  "slug": "nba-will-the-timberwolves-beat-the-spurs-by-more-than-2pt5-points-in-their-november-18th-matchup",
+  "question": "NBA: Will the Timberwolves beat the Spurs by more than 2.5 points in their November 18th matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "206089",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-01T17:00:03.342000Z",
+  "market_createdAt": "2021-06-01T17:00:03.342Z",
+  "market_updatedAt": "2024-04-22T23:25:46.096895Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-02T00:00:00Z",
+  "market_closedTime": "2021-06-03 15:09:37+00",
+  "conditionId": "0xadfc408d70d0b3c3be6c4601530961e8e9ff70020d66907b0a53a172745ebb31",
+  "slug": "who-will-win-76ers-v-wizards-game-5",
+  "question": "Who will win 76ers v. Wizards: Game 5?"
+}

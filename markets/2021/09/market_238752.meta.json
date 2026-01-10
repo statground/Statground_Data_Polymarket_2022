@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238752",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-14T17:20:01.347000Z",
+  "market_createdAt": "2021-09-14T17:20:01.347Z",
+  "market_updatedAt": "2024-04-22T23:34:23.349794Z",
+  "market_startDate": null,
+  "market_endDate": "2021-10-15T00:00:00Z",
+  "market_closedTime": "2021-10-05 18:28:25+00",
+  "conditionId": "0xf176683ce78d9455be83f928405cd67643a731278052efaf30e599ae1b2241e8",
+  "slug": "will-the-coldplay-and-bts-single-my-universe-debut-at-1-on-the-billboard-global-200-chart",
+  "question": "Will the Coldplay and BTS single 'My Universe' debut at  #1 on the Billboard Global 200 chart?"
+}

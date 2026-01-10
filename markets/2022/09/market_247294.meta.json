@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247294",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-19T17:13:26.002000Z",
+  "market_createdAt": "2022-09-19T17:13:26.002Z",
+  "market_updatedAt": "2023-01-31T11:51:58.414Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-08T00:00:00Z",
+  "market_closedTime": "2022-11-11 05:30:28+00",
+  "conditionId": "0xee1a2f7586032e87e6b3ecc8c9027f6deba04d6cdfdd062209ee5b208acf258a",
+  "slug": "2022-us-gubernatorial-elections-will-a-democrat-or-republican-win-in-oregon",
+  "question": "Governor: Will a Democrat (Kotek) or Republican (Drazan) win in Oregon?"
+}

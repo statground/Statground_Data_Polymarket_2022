@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218576",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-21T16:25:01.383000Z",
+  "market_createdAt": "2021-06-21T16:25:01.383Z",
+  "market_updatedAt": "2024-04-23T00:13:03.855867Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-21T00:00:00Z",
+  "market_closedTime": "2021-06-22 17:03:03+00",
+  "conditionId": "0xdaa3068e1bfd9b892419e125438d9583a8e4d3c1b7689be66a77b85053a9d8df",
+  "slug": "will-russia-or-denmark-win-their-euro-2020-match-1",
+  "question": "Will Russia or Denmark win their Euro 2020 match?"
+}

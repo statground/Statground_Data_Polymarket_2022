@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241666",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-23T22:23:56.709000Z",
+  "market_createdAt": "2022-02-23T22:23:56.709Z",
+  "market_updatedAt": "2024-04-22T23:56:20.043562Z",
+  "market_startDate": "2022-02-24T14:45:31.044Z",
+  "market_endDate": "2022-02-26T00:00:00Z",
+  "market_closedTime": "2022-02-27 21:22:05+00",
+  "conditionId": "0xac55a940f84d8b2cc443d0e8ea7b03acf4978b97f942adfde002c71328824e51",
+  "slug": "ufc-fight-night-feb-26-misha-cirkunov-vs-wellington-turman",
+  "question": "UFC Fight Night - Feb 26: Misha Cirkunov vs Wellington Turman"
+}

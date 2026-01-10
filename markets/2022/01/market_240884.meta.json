@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240884",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-19T21:56:11.184000Z",
+  "market_createdAt": "2022-01-19T21:56:11.184Z",
+  "market_updatedAt": "2023-01-30T19:09:43.821Z",
+  "market_startDate": "2022-01-20T20:06:28.006Z",
+  "market_endDate": "2022-01-22T00:00:00Z",
+  "market_closedTime": "2022-01-24 22:01:14+00",
+  "conditionId": "0x0af396ef1e4fe7443423bac9f3b6498e3ad12ddbc0f10d42193656c948d7471e",
+  "slug": "ufc-270-who-will-win-pereira-vs-fialho",
+  "question": "UFC 270: Who will win Pereira vs. Fialho?"
+}

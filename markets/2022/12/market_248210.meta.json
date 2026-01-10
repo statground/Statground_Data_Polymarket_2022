@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248210",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-15T17:41:38.521000Z",
+  "market_createdAt": "2022-12-15T17:41:38.521Z",
+  "market_updatedAt": "2023-03-02T18:05:39.308Z",
+  "market_startDate": null,
+  "market_endDate": "2023-02-28T00:00:00Z",
+  "market_closedTime": "2023-03-01 18:03:55+00",
+  "conditionId": "0x4279448e4182d54860c52b2ccb3f908c23d8524cb946d8cb55a46678e6937075",
+  "slug": "will-uniswaps-fee-switch-proposal-pass",
+  "question": "Will Uniswap's \"Fee Switch\" Proposal pass?"
+}

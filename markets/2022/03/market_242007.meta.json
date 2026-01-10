@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242007",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-10T12:24:04.483000Z",
+  "market_createdAt": "2022-03-10T12:24:04.483Z",
+  "market_updatedAt": "2024-04-23T00:23:53.822028Z",
+  "market_startDate": "2022-03-10T17:17:51.116Z",
+  "market_endDate": "2022-03-10T00:00:00Z",
+  "market_closedTime": "2022-03-12 01:45:24+00",
+  "conditionId": "0x580c481eb7b19221b7cb710efbc69e179815686249d67b973540e745151d461b",
+  "slug": "nhl-will-the-lightning-beat-the-flames-by-more-than-1pt5-goals-in-their-march-10-matchup-9-pm-et",
+  "question": "NHL: Will the Lightning beat the Flames by more than 1.5 goals in their March 10 matchup (9 PM ET)?"
+}

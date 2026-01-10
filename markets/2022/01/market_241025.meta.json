@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241025",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-25T10:14:36.172000Z",
+  "market_createdAt": "2022-01-25T10:14:36.172Z",
+  "market_updatedAt": "2024-04-23T00:54:54.990469Z",
+  "market_startDate": "2022-01-25T21:33:13.822Z",
+  "market_endDate": "2022-01-25T00:00:00Z",
+  "market_closedTime": "2022-01-27 01:30:37+00",
+  "conditionId": "0x136f9b7cc7fcaf94fec0ac7ead7a5bd2307a6e00f6570253c3503d17c1de93a5",
+  "slug": "nhl-will-the-oilers-beat-the-canucks-by-more-than-1p5-goals-in-their-january-25-matchup-10-pm-et",
+  "question": "NHL: Will the Oilers beat the Canucks by more than 1.5 goals in their January 25 matchup? (10 PM ET)?"
+}

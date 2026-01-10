@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241579",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-17T16:15:37.108000Z",
+  "market_createdAt": "2022-02-17T16:15:37.108Z",
+  "market_updatedAt": "2024-04-23T00:49:24.779605Z",
+  "market_startDate": "2022-02-17T18:15:19.117Z",
+  "market_endDate": "2022-02-17T00:00:00Z",
+  "market_closedTime": "2022-02-18 20:33:49+00",
+  "conditionId": "0x9d54642ea9286c493faddd18f92e2dba705235a5a1034edf3ec84b06f7536741",
+  "slug": "nba-who-will-win-the-mavericks-vs-pelicans-scheduled-for-february-17-8-pm-et",
+  "question": "NBA: Who will win the Mavericks vs. Pelicans, scheduled for February 17 (8 PM ET)?"
+}

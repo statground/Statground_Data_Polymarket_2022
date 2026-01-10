@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238658",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-26T19:46:01.230000Z",
+  "market_createdAt": "2021-08-26T19:46:01.23Z",
+  "market_updatedAt": "2023-01-31T19:08:42.043Z",
+  "market_startDate": "2021-08-28T17:18:45.255Z",
+  "market_endDate": "2021-08-28T00:00:00Z",
+  "market_closedTime": "2021-08-30 15:26:36+00",
+  "conditionId": "0xbc729ec61fd6922ad8f211280404b887a9825eb7bb52debc211617fc2319c53c",
+  "slug": "will-the-ravens-beat-the-washington-ft-by-more-than-3pt5-points-in-their-nfl-preseason-matchup",
+  "question": "Will the Ravens beat the Washington FT by more than 3.5 points in their NFL preseason matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241503",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-15T16:39:08.814000Z",
+  "market_createdAt": "2022-02-15T16:39:08.814Z",
+  "market_updatedAt": "2024-04-22T22:45:16.387358Z",
+  "market_startDate": "2022-02-15T16:54:41.472Z",
+  "market_endDate": "2022-03-17T00:00:00Z",
+  "market_closedTime": "2022-03-16 22:00:30+00",
+  "conditionId": "0xacf7b4aa8b1d11f1c3e2e40d5b6ac62278e66a2604a27a4cf1765846155ebf69",
+  "slug": "will-the-fed-set-interest-rates-above-0p5-following-their-scheduled-march-meeting",
+  "question": "Will the FED set interest rates above 0.5% following their scheduled March meeting?"
+}

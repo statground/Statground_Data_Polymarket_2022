@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "226648",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-28T16:05:01.212000Z",
+  "market_createdAt": "2021-07-28T16:05:01.212Z",
+  "market_updatedAt": "2024-04-22T22:53:29.925509Z",
+  "market_startDate": "2021-07-28T19:07:08.393Z",
+  "market_endDate": "2021-07-30T00:00:00Z",
+  "market_closedTime": "2021-07-29 18:02:04+00",
+  "conditionId": "0x10176790ee9a2dc04e947125811cd59d1865b48da09ec0b40ece7eb64a544e0b",
+  "slug": "will-cms-intern-make-it-to-the-final-table-of-the-cryptog-charity-poker-tournament",
+  "question": "Will CMS Intern make it to the final table of the CryptOG Charity Poker Tournament?"
+}

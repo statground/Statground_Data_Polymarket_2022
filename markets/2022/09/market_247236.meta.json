@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247236",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-12T16:15:25.588000Z",
+  "market_createdAt": "2022-09-12T16:15:25.588Z",
+  "market_updatedAt": "2023-01-31T21:23:11.01Z",
+  "market_startDate": "2022-09-12T16:27:49.36Z",
+  "market_endDate": "2022-09-12T00:00:00Z",
+  "market_closedTime": "2022-09-13 06:45:47+00",
+  "conditionId": "0x17af6df2aca91de845077ad30eed9970e7d8ac90686e7181f9b7146fa96152b6",
+  "slug": "nfl-broncos-6pt5-v-seahawks-spread",
+  "question": "Broncos (-6.5) v. Seahawks Spread"
+}

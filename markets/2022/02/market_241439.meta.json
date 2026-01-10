@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241439",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-12T10:57:05.953000Z",
+  "market_createdAt": "2022-02-12T10:57:05.953Z",
+  "market_updatedAt": "2024-04-23T00:24:39.882853Z",
+  "market_startDate": "2022-02-12T16:28:06.019Z",
+  "market_endDate": "2022-02-12T00:00:00Z",
+  "market_closedTime": "2022-02-13 11:18:19+00",
+  "conditionId": "0xa8ab0a9094fb430c4e383f54dd26192de236eb7267d54d04624761b9f853c08a",
+  "slug": "nba-will-the-knicks-beat-the-trail-blazers-by-more-than-4p5-points-in-their-february-12-5-pm-et-matchup",
+  "question": "NBA: Will the Knicks beat the Trail Blazers by more than 4.5 points in their February 12 (5 PM ET) matchup?"
+}

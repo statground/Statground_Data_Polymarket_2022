@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "245530",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-26T07:20:50.345000Z",
+  "market_createdAt": "2022-05-26T07:20:50.345Z",
+  "market_updatedAt": "2023-01-31T13:04:11.529Z",
+  "market_startDate": "2022-05-26T16:04:21.357Z",
+  "market_endDate": "2022-05-26T00:00:00Z",
+  "market_closedTime": "2022-05-27 07:15:33+00",
+  "conditionId": "0xc0f22a2ba7e32a38e87d765647c4f0d088e312a80df1477f35a7e231d3b6c984",
+  "slug": "nba-will-the-warriors-beat-the-mavericks-by-more-than-6pt5-points-in-their-may-26-900-pm-et-matchup",
+  "question": "NBA: Will the Warriors beat the Mavericks by more than 6.5 points in their May 26, 9:00 PM ET matchup?"
+}

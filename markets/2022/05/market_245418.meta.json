@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "245418",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-25T14:05:45.526000Z",
+  "market_createdAt": "2022-05-25T14:05:45.526Z",
+  "market_updatedAt": "2023-01-31T16:58:06.242Z",
+  "market_startDate": "2022-05-25T16:03:51.443Z",
+  "market_endDate": "2022-05-29T00:00:00Z",
+  "market_closedTime": "2022-05-29 22:45:29+00",
+  "conditionId": "0xeec98c0fa31b20025badfe80f613b5d13b7be6a85ca4551ff986163a38e66d3e",
+  "slug": "formula-1-will-there-be-2-or-more-safety-cars-at-2022-monaco-gran-prix",
+  "question": "Formula 1: Will there be 2 or more safety cars at 2022 Monaco Grand Prix?"
+}

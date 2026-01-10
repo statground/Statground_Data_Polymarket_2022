@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "101857",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-03-08T22:45:02.261000Z",
+  "market_createdAt": "2021-03-08T22:45:02.261Z",
+  "market_updatedAt": "2024-04-23T00:27:39.959497Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-01T00:00:00Z",
+  "market_closedTime": "2021-05-02 16:25:44+00",
+  "conditionId": "0x364504fdac0b5c56bc7ce08355d3cb3666d6acc1c2ff5d137681d58f99401b47",
+  "slug": "will-150-million-people-have-received-a-dose-of-an-approved-covid-19-vaccine-in-the-us-by-may-1-2021",
+  "question": "Will 150 million people have received a dose of an approved COVID-19 vaccine in the US by May 1, 2021?"
+}

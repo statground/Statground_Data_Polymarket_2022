@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248157",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-02T14:51:55.804000Z",
+  "market_createdAt": "2022-12-02T14:51:55.804Z",
+  "market_updatedAt": "2023-01-31T21:24:46.837Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-04T00:00:00Z",
+  "market_closedTime": "2022-12-04 07:00:51+00",
+  "conditionId": "0x12013fe5dfc73862e784c9b43e9d0860480bdeccfae8f51e9642fcbebef41182",
+  "slug": "ufc-fight-night-who-will-win-tuivasa-vs-pavlovich",
+  "question": "UFC Fight Night: Who will win - Tuivasa vs. Pavlovich"
+}

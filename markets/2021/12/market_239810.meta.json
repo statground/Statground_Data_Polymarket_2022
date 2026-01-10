@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239810",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-03T20:02:39.722000Z",
+  "market_createdAt": "2021-12-03T20:02:39.722Z",
+  "market_updatedAt": "2024-04-22T23:08:50.356056Z",
+  "market_startDate": "2021-12-04T19:41:45.823Z",
+  "market_endDate": "2021-12-05T00:00:00Z",
+  "market_closedTime": "2021-12-06 17:30:15+00",
+  "conditionId": "0xa2455f073d0a5d5766b05c3b1ac1f897b145e71e7c4f1c8afa60046196b12596",
+  "slug": "nfl-will-the-colts-beat-the-texans-by-more-than-10pt5-points-in-their-december-5-matchup",
+  "question": "NFL: Will the Colts beat the Texans by more than 10.5 points in their December 5 matchup?"
+}

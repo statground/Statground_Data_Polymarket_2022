@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "114954",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-04-02T20:45:02.747000Z",
+  "market_createdAt": "2021-04-02T20:45:02.747Z",
+  "market_updatedAt": "2024-04-22T22:56:37.836859Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-09T00:00:00Z",
+  "market_closedTime": "2021-04-12 17:04:27+00",
+  "conditionId": "0x04f25245f9b9f70f14b70748814c71fd41e269bdc87da146d68bac927a92f7c5",
+  "slug": "what-will-the-7-day-average-covid-19-case-count-in-the-us-be-on-april-9",
+  "question": "What will the 7-day average COVID-19 case count in the US be on April  9?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247181",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-02T16:40:11.492000Z",
+  "market_createdAt": "2022-09-02T16:40:11.492Z",
+  "market_updatedAt": "2023-01-31T17:22:23.8Z",
+  "market_startDate": "2022-09-02T17:02:53.516Z",
+  "market_endDate": "2022-09-15T00:00:00Z",
+  "market_closedTime": "2022-09-16 20:45:36+00",
+  "conditionId": "0xfc503f9c981b6b2dbf3e96561ca1a39f915a26876035035787e69e2180552e11",
+  "slug": "will-usd-be-worth-more-than-eur-on-september-15",
+  "question": "Will USD be worth more than EUR on September 15?"
+}

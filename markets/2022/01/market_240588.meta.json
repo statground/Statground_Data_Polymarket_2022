@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240588",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T23:24:40.330000Z",
+  "market_createdAt": "2022-01-11T23:24:40.33Z",
+  "market_updatedAt": "2024-04-25T00:04:14.941122Z",
+  "market_startDate": "2022-01-12T21:12:19.235Z",
+  "market_endDate": "2022-10-30T00:00:00Z",
+  "market_closedTime": "2022-11-01 01:14:22+00",
+  "conditionId": "0x731ac1bcbaf0e491816a4c9c953c4b6b37de93f92b191db774d416753c055146",
+  "slug": "will-jair-bolsonaro-win-2022-presidential-elections-in-brazil",
+  "question": "Will Jair Bolsonaro win 2022 Presidential Elections in Brazil?"
+}

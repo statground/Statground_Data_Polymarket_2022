@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239182",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-31T08:35:16.625000Z",
+  "market_createdAt": "2021-10-31T08:35:16.625Z",
+  "market_updatedAt": "2024-04-22T23:17:41.670338Z",
+  "market_startDate": "2021-10-31T09:22:52.212Z",
+  "market_endDate": "2021-11-07T00:00:00Z",
+  "market_closedTime": "2021-11-08 13:40:21+00",
+  "conditionId": "0x2187f00cf810ae39416b0e676b38ee4e5902d6a60af1f3fd0c7c4867a9252605",
+  "slug": "will-squid-game-be-the-1-netflix-show-worldwide-on-november-7",
+  "question": "Will Squid Game be the #1 Netflix show worldwide on November 7?"
+}

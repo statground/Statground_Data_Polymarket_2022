@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240221",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-28T10:45:09.820000Z",
+  "market_createdAt": "2021-12-28T10:45:09.82Z",
+  "market_updatedAt": "2024-04-26T02:49:53.814484Z",
+  "market_startDate": "2021-12-28T17:41:23.715Z",
+  "market_endDate": "2022-01-10T00:00:00Z",
+  "market_closedTime": "2022-01-11 02:12:04+00",
+  "conditionId": "0xe230e4fa0530238fb23210cd38e2ac74cac6635eb60f122d811422a07f46509b",
+  "slug": "will-daily-atmospheric-co2-be-above-417-ppm-on-january-9",
+  "question": "Will daily atmospheric CO2 be above 417 ppm on January 9?"
+}

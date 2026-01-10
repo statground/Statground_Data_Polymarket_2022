@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "213600",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-08T18:30:01.169000Z",
+  "market_createdAt": "2021-06-08T18:30:01.169Z",
+  "market_updatedAt": "2024-04-22T23:02:20.428506Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-13T00:00:00Z",
+  "market_closedTime": "2021-06-14 14:42:12+00",
+  "conditionId": "0x148044dcf3923394247d29f34d9ffb0aa6626e02da4848b52c963434cfd479bb",
+  "slug": "will-north-macedonia-or-austria-win-their-euro-2020-match",
+  "question": "Will North Macedonia or Austria win their Euro 2020 match?"
+}

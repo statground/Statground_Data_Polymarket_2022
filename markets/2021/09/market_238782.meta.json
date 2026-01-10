@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238782",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-16T15:32:01.903000Z",
+  "market_createdAt": "2021-09-16T15:32:01.903Z",
+  "market_updatedAt": "2024-04-23T00:09:37.019957Z",
+  "market_startDate": "2021-09-16T22:28:48.988Z",
+  "market_endDate": "2021-11-22T00:00:00Z",
+  "market_closedTime": "2021-10-29 02:38:00+00",
+  "conditionId": "0x416f06bcb53be2fffe82f76a2d00873649f4580dcd86820d8c39af70eb9e96be",
+  "slug": "will-the-united-states-average-less-than-75k-covid-cases-by-november-15",
+  "question": "Will the United States average less than 75k Covid cases by November 15?"
+}

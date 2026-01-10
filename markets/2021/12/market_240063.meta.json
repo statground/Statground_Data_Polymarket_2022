@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240063",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-16T11:49:46.216000Z",
+  "market_createdAt": "2021-12-16T11:49:46.216Z",
+  "market_updatedAt": "2024-04-22T22:43:56.726192Z",
+  "market_startDate": "2021-12-16T17:55:39.501Z",
+  "market_endDate": "2021-12-16T00:00:00Z",
+  "market_closedTime": "2021-12-17 21:53:09+00",
+  "conditionId": "0x9bb12af8f51cf2ff83d4e4a2c8a3311af6b4916e81869668c2cb208d9e2d3008",
+  "slug": "nhl-will-the-lightning-beat-the-senators-by-more-than-1pt5-goals-in-their-december-16-matchup",
+  "question": "NHL: Will the Lightning beat the Senators by more than 1.5 goals in their December 16 matchup?"
+}

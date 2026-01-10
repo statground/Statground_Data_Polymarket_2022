@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241146",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-28T12:46:30.427000Z",
+  "market_createdAt": "2022-01-28T12:46:30.427Z",
+  "market_updatedAt": "2024-04-22T23:11:53.52231Z",
+  "market_startDate": "2022-01-28T20:33:28.271Z",
+  "market_endDate": "2022-01-28T00:00:00Z",
+  "market_closedTime": "2022-01-31 01:05:34+00",
+  "conditionId": "0x0aacd7baa4fbbdd3d529fe9292ba452ab69aa566560f5d3d1af7ba0c2926760c",
+  "slug": "nhl-will-the-avalanche-beat-the-blackhawks-by-more-than-1p5-goals-in-their-january-28-matchup-830-pm-et",
+  "question": "NHL: Will the Avalanche beat the Blackhawks by more than 1.5 goals in their January 28 matchup (8.30 PM ET)?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238738",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-12T00:36:01.443000Z",
+  "market_createdAt": "2021-09-12T00:36:01.443Z",
+  "market_updatedAt": "2024-04-25T00:12:20.147197Z",
+  "market_startDate": "2021-09-12T02:11:20.979Z",
+  "market_endDate": null,
+  "market_closedTime": "2021-10-22 21:37:46+00",
+  "conditionId": "0xf6cfeb88cd539605edb0943ee24919fe7ad00ea09784832ff38faf52a33f1b27",
+  "slug": "what-will-the-margin-be-in-newsoms-recall-election-1",
+  "question": "What will the margin be in Newsom’s recall election?"
+}

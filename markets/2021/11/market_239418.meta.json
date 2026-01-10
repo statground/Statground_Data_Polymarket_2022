@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239418",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-13T12:56:04.087000Z",
+  "market_createdAt": "2021-11-13T12:56:04.087Z",
+  "market_updatedAt": "2024-04-26T02:50:54.253837Z",
+  "market_startDate": "2021-11-13T19:51:47.379Z",
+  "market_endDate": "2021-11-13T00:00:00Z",
+  "market_closedTime": "2021-11-14 19:46:33+00",
+  "conditionId": "0x1123b913e081bfc6ef1b885253833951119bfa3598013e0b1eb8edb147533765",
+  "slug": "nba-will-the-clippers-beat-the-timberwolves-by-more-than-6pt5-points-in-their-november-13th-matchup",
+  "question": "NBA: Will the Clippers beat the Timberwolves by more than 6.5 points in their November 13th matchup?"
+}

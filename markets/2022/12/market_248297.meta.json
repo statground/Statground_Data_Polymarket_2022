@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248297",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-27T21:02:10.941000Z",
+  "market_createdAt": "2022-12-27T21:02:10.941Z",
+  "market_updatedAt": "2023-02-10T01:03:37.13Z",
+  "market_startDate": null,
+  "market_endDate": "2023-01-03T00:00:00Z",
+  "market_closedTime": "2023-01-03 19:16:19+00",
+  "conditionId": "0x5557f9db4a4c65eedec3590a96b010be9480bc2f7eb6a268265b5bd9cb1cd83a",
+  "slug": "will-the-price-of-sol-be-above-11-on-january-3",
+  "question": "Will the price of $SOL be above $11 on January 3?"
+}

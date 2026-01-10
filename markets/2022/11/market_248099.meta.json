@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248099",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-21T18:10:19.629000Z",
+  "market_createdAt": "2022-11-21T18:10:19.629Z",
+  "market_updatedAt": "2023-01-31T18:28:01.286Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-24T00:00:00Z",
+  "market_closedTime": "2022-11-25 01:31:15+00",
+  "conditionId": "0xacb0d39798890a5661c63ed6e87f5e7982c251a0e55709573e381a30af9e583a",
+  "slug": "world-cup-2022-thursday-will-uruguay-beat-south-korea",
+  "question": "World Cup: Thursday - Will Uruguay beat South Korea?"
+}

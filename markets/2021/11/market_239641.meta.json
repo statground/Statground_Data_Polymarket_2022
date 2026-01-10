@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239641",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-28T16:02:50.284000Z",
+  "market_createdAt": "2021-11-28T16:02:50.284Z",
+  "market_updatedAt": "2024-04-23T00:09:34.231206Z",
+  "market_startDate": "2021-11-28T16:48:05.923Z",
+  "market_endDate": "2021-11-28T00:00:00Z",
+  "market_closedTime": "2021-11-29 14:05:54+00",
+  "conditionId": "0x7148c752fd9e4ddc7a1d4989fea24fa70a362f97e2f2a1a205775a51af06b015",
+  "slug": "nfl-will-the-eagles-beat-the-giants-by-more-than-4pt5-points-in-their-november-28th-matchup",
+  "question": "NFL: Will the Eagles beat the Giants by more than 4.5 points in their November 28th matchup?"
+}

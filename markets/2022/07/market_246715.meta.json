@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246715",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-13T19:20:23.615000Z",
+  "market_createdAt": "2022-07-13T19:20:23.615Z",
+  "market_updatedAt": "2023-01-31T20:55:18.04Z",
+  "market_startDate": "2022-07-13T20:25:49.634Z",
+  "market_endDate": "2022-07-31T00:00:00Z",
+  "market_closedTime": "2022-08-01 06:45:37+00",
+  "conditionId": "0x6fdd9985f421d4a91c19d0520e5365ba3eb7b03428d56c4b20f78ade69be6c3c",
+  "slug": "will-eth-fall-below-1000-by-july-31",
+  "question": "Will $ETH fall below $1,000 by July 31?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240004",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-12T13:46:46.488000Z",
+  "market_createdAt": "2021-12-12T13:46:46.488Z",
+  "market_updatedAt": "2024-04-22T22:55:55.056519Z",
+  "market_startDate": "2021-12-12T19:52:01.688Z",
+  "market_endDate": "2021-12-12T00:00:00Z",
+  "market_closedTime": "2021-12-13 17:27:35+00",
+  "conditionId": "0x4fa467ceee0c4eb91ed355051f5c1691e826483b2774003af8603d225849b7dd",
+  "slug": "nba-will-the-lakers-beat-the-magic-by-more-than-10pt5-points-in-their-december-12-matchup",
+  "question": "NBA: Will the Lakers beat the Magic by more than 10.5 points in their December 12 matchup?"
+}

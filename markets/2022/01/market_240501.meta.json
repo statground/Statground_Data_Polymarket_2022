@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240501",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T17:25:54.332000Z",
+  "market_createdAt": "2022-01-11T17:25:54.332Z",
+  "market_updatedAt": "2024-04-24T23:39:11.427956Z",
+  "market_startDate": "2022-01-12T21:31:38.818Z",
+  "market_endDate": "2022-11-08T00:00:00Z",
+  "market_closedTime": "2022-11-15 16:28:16+00",
+  "conditionId": "0xb64d594902541c903b4e456e02cdca182d4fedcb0d6cd802a3a622d7935818a7",
+  "slug": "from-nate-silver-will-there-be-a-federal-mask-requirement-on-us-domestic-flights-on-november-8-2022",
+  "question": "[From Nate Silver] Will there be a federal mask requirement on US domestic flights on November 8, 2022?"
+}

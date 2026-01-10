@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243107",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-11T22:52:18.402000Z",
+  "market_createdAt": "2022-04-11T22:52:18.402Z",
+  "market_updatedAt": "2023-01-31T17:34:23.547Z",
+  "market_startDate": "2022-04-11T23:25:36.283Z",
+  "market_endDate": "2022-08-08T00:00:00Z",
+  "market_closedTime": "2022-05-06 07:26:20+00",
+  "conditionId": "0xd73cdc48d2e75c4bf36fda966c485448664c899b46e00953d50b4b5b374f30d4",
+  "slug": "will-the-7-day-covid-19-case-average-in-the-usa-be-above-50000-again-by-august-1-2022",
+  "question": "Will the 7-day COVID-19 case average in the USA be above 50,000 again by August 1, 2022?"
+}

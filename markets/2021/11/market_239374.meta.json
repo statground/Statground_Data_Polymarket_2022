@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239374",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-11T18:45:21.823000Z",
+  "market_createdAt": "2021-11-11T18:45:21.823Z",
+  "market_updatedAt": "2024-04-25T00:09:32.193478Z",
+  "market_startDate": "2021-11-11T23:54:11.801Z",
+  "market_endDate": "2021-11-19T00:00:00Z",
+  "market_closedTime": "2021-11-20 17:49:38+00",
+  "conditionId": "0x2130e40e092a5a13262d3031dca8071df19f54df2672f897d32d8e963e0e30fe",
+  "slug": "what-will-the-price-of-terra-luna-be-at-noon-on-november-19-2021-1",
+  "question": "What will the price of Terra ($LUNA) be at noon on November 19, 2021? "
+}

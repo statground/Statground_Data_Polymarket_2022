@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239429",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-14T13:07:32.639000Z",
+  "market_createdAt": "2021-11-14T13:07:32.639Z",
+  "market_updatedAt": "2024-04-24T23:49:54.863234Z",
+  "market_startDate": "2021-11-15T19:11:15.739Z",
+  "market_endDate": "2021-11-16T00:00:00Z",
+  "market_closedTime": "2021-11-18 00:41:26+00",
+  "conditionId": "0x7afcb1360a6dd1ef8f24a622db2fb76e086afbc3e800ceab8120e9e1d9d8306f",
+  "slug": "who-will-win-the-canada-v-mexico-soccer-game-on-november-16",
+  "question": "Who will win the Canada v. Mexico soccer game on November 16?"
+}

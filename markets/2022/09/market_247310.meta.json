@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247310",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-20T17:37:59.058000Z",
+  "market_createdAt": "2022-09-20T17:37:59.058Z",
+  "market_updatedAt": "2023-01-31T20:21:33.252Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-08T00:00:00Z",
+  "market_closedTime": "2022-11-11 09:15:19+00",
+  "conditionId": "0xd8d14bdc459a08d9d3dd76fb53f1c530cfed6614bace6daf8e47ecb2219709bc",
+  "slug": "prop-26-will-california-legalize-sports-betting-on-tribal-lands",
+  "question": "Prop 26: Will California legalize sports betting on tribal lands?"
+}

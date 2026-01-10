@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243924",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-29T05:36:32.053000Z",
+  "market_createdAt": "2022-04-29T05:36:32.053Z",
+  "market_updatedAt": "2023-01-31T21:25:30.123Z",
+  "market_startDate": "2022-04-29T14:05:30.054Z",
+  "market_endDate": "2022-04-29T00:00:00Z",
+  "market_closedTime": "2022-04-30 07:17:41+00",
+  "conditionId": "0x337594adafdbd4fe2de6bd290d9434ea757550a4fcc175f4247ceff1448631b0",
+  "slug": "nhl-will-the-penguins-beat-the-jackets-by-more-than-1pt5-goals-in-their-april-29-700-pm-et-matchup",
+  "question": "NHL: Will the Penguins beat the Jackets by more than 1.5 goals in their April 29, 7:00 PM ET matchup?"
+}

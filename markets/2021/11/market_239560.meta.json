@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239560",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-22T16:45:53.879000Z",
+  "market_createdAt": "2021-11-22T16:45:53.879Z",
+  "market_updatedAt": "2024-04-24T23:36:50.96114Z",
+  "market_startDate": "2021-11-22T19:35:10.321Z",
+  "market_endDate": "2021-11-22T00:00:00Z",
+  "market_closedTime": "2021-11-23 13:50:30+00",
+  "conditionId": "0x059694f9c347581b5e58be252fe77b9b24afd66543197054b844938734c1c442",
+  "slug": "nba-will-the-timberwolves-beat-the-pelicans-by-more-than-3pt5-points-in-their-november-22-matchup",
+  "question": "NBA: Will the Timberwolves beat the Pelicans by more than 3.5 points in their November 22 matchup?"
+}

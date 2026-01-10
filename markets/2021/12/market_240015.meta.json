@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240015",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-13T10:21:13.721000Z",
+  "market_createdAt": "2021-12-13T10:21:13.721Z",
+  "market_updatedAt": "2024-04-22T23:05:05.193606Z",
+  "market_startDate": "2021-12-13T19:14:56.341Z",
+  "market_endDate": "2021-12-13T00:00:00Z",
+  "market_closedTime": "2021-12-14 15:26:17+00",
+  "conditionId": "0x466b90f9bf1c498e34d632085596211a78057f120449d4cdcf23408ef3eb286a",
+  "slug": "nba-will-the-nuggets-beat-the-wizards-by-more-than-4pt5-points-in-their-december-13-matchup",
+  "question": "NBA: Will the Nuggets beat the Wizards by more than 4.5 points in their December 13 matchup?"
+}

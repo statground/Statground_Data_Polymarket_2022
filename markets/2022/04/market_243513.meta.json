@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243513",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-21T00:17:45.073000Z",
+  "market_createdAt": "2022-04-21T00:17:45.073Z",
+  "market_updatedAt": "2024-04-22T22:53:37.951907Z",
+  "market_startDate": null,
+  "market_endDate": "2022-04-20T00:00:00Z",
+  "market_closedTime": "2022-04-21 07:18:27+00",
+  "conditionId": "0xaf650de3bdcba5237bddae9581ef5e63704fa61959d91b9eebbbf35eb30d18b9",
+  "slug": "will-proposal-100-for-compound-finance-pass",
+  "question": "Will Proposal 100 for Compound Finance pass?"
+}

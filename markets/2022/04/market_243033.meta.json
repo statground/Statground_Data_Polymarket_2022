@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243033",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-08T14:40:58.569000Z",
+  "market_createdAt": "2022-04-08T14:40:58.569Z",
+  "market_updatedAt": "2023-01-31T10:16:12.404Z",
+  "market_startDate": "2022-04-08T18:00:28.338Z",
+  "market_endDate": "2022-04-08T00:00:00Z",
+  "market_closedTime": "2022-04-09 18:43:17+00",
+  "conditionId": "0x83bedad81890b7518f696a3e3ad6ca678860e78df809fc53348958603461e93e",
+  "slug": "nhl-will-the-lightning-beat-the-bruins-by-more-than-1pt5-goals-in-their-april-8-matchup-7-pm-et",
+  "question": "NHL: Will the Lightning beat the Bruins by more than 1.5 goals in their April 8 matchup (7 PM ET)?"
+}

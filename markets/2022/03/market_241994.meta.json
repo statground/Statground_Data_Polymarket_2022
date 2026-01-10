@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241994",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-09T10:25:12.110000Z",
+  "market_createdAt": "2022-03-09T10:25:12.11Z",
+  "market_updatedAt": "2024-04-23T00:30:57.035747Z",
+  "market_startDate": "2022-03-09T16:52:42.871Z",
+  "market_endDate": "2022-03-09T00:00:00Z",
+  "market_closedTime": "2022-03-10 11:48:04+00",
+  "conditionId": "0xe7f55c0c2fc16d667e2d91b74e108480beabd3c943950ab9482ff8c65d8e1831",
+  "slug": "nhl-will-the-canucks-beat-the-canadiens-by-more-than-1pt5-goals-in-their-march-9-matchup-10pt30-pm-et",
+  "question": "NHL: Will the Canucks beat the Canadiens by more than 1.5 goals in their March 9 matchup (10.30 PM ET)?"
+}

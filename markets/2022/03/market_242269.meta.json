@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242269",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-19T09:04:17.203000Z",
+  "market_createdAt": "2022-03-19T09:04:17.203Z",
+  "market_updatedAt": "2024-04-23T00:39:41.796209Z",
+  "market_startDate": "2022-03-19T17:19:56.416Z",
+  "market_endDate": "2022-03-19T00:00:00Z",
+  "market_closedTime": "2022-03-20 21:27:33+00",
+  "conditionId": "0x6fff7b51e8801604f641e3e4d2ce1642f9dd3f00eef008fde04a57b3f5aab9f0",
+  "slug": "nhl-will-the-blues-beat-the-jackets-by-more-than-1pt5-goals-in-their-march-19-500-pm-et-matchup",
+  "question": "NHL: Will the Blues beat the Jackets by more than 1.5 goals in their March 19, 5:00 PM ET matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242029",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-12T19:44:01.267000Z",
+  "market_createdAt": "2022-03-12T19:44:01.267Z",
+  "market_updatedAt": "2024-04-24T23:20:08.534154Z",
+  "market_startDate": "2022-03-12T21:31:33.848Z",
+  "market_endDate": "2022-03-12T00:00:00Z",
+  "market_closedTime": "2022-03-13 11:45:52+00",
+  "conditionId": "0x76fcc4f8bf8ad4885855de102efc91d464049adc95c8fd10f13a98b6492e8f21",
+  "slug": "nba-who-will-win-the-cavaliers-vspt-bulls-scheduled-for-march-12-8-pm-et",
+  "question": "NBA: Who will win the Cavaliers vs. Bulls, scheduled for March 12 (8 PM ET)?"
+}

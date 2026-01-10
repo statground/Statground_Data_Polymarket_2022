@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241598",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-17T21:22:24.136000Z",
+  "market_createdAt": "2022-02-17T21:22:24.136Z",
+  "market_updatedAt": "2024-04-23T00:41:31.101716Z",
+  "market_startDate": "2022-02-17T22:52:50.082Z",
+  "market_endDate": "2022-02-25T00:00:00Z",
+  "market_closedTime": "2022-02-26 19:19:53+00",
+  "conditionId": "0x1aa1430fd472f84d65c983286b0bec028c08eb4a867779db115f2f3935dc6a64",
+  "slug": "will-president-biden-issue-an-executive-order-mentioning-cryptocurrency-by-february-25",
+  "question": "Will President Biden issue an executive order mentioning cryptocurrency by February 25?"
+}

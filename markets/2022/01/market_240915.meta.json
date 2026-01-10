@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240915",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-21T11:15:36.006000Z",
+  "market_createdAt": "2022-01-21T11:15:36.006Z",
+  "market_updatedAt": "2024-04-25T00:00:38.00594Z",
+  "market_startDate": "2022-01-21T21:48:51.805Z",
+  "market_endDate": "2022-01-21T00:00:00Z",
+  "market_closedTime": "2022-01-24 21:55:34+00",
+  "conditionId": "0xe7fe573a9a283b4dc3b32b6f47da7ec2d5dbf9a6ca4b2862b0521e610c170b61",
+  "slug": "nhl-will-the-panthers-beat-the-canucks-by-more-than-1p5-points-in-their-january-21-matchup",
+  "question": "NHL: Will the Panthers beat the Canucks by more than 1.5 points in their January 21 matchup?"
+}

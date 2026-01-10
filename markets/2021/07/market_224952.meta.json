@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "224952",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-22T19:15:01.289000Z",
+  "market_createdAt": "2021-07-22T19:15:01.289Z",
+  "market_updatedAt": "2024-04-23T00:15:10.586118Z",
+  "market_startDate": "2021-07-23T01:43:12.119Z",
+  "market_endDate": "2021-07-27T00:00:00Z",
+  "market_closedTime": "2021-07-28 19:40:53+00",
+  "conditionId": "0xf105da065ca483b42e19c200776d3909b0f009ef814622f4ca791f618146f191",
+  "slug": "will-snake-eyes-or-old-gross-more-domestically-opening-weekend",
+  "question": "Will Snake Eyes or Old gross more domestically opening weekend?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247178",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-30T22:45:23.637000Z",
+  "market_createdAt": "2022-08-30T22:45:23.637Z",
+  "market_updatedAt": "2024-04-23T00:32:24.040814Z",
+  "market_startDate": "2022-08-31T17:39:57.123Z",
+  "market_endDate": "2022-09-11T00:00:00Z",
+  "market_closedTime": "2022-09-04 23:46:37+00",
+  "conditionId": "0x5bb07ac955b7bd75aa53f3a7449e6652f682df06c91c2a6e7218d42196dbc6fb",
+  "slug": "ufc-fight-night-paris-chirico-vs-kopylov",
+  "question": "UFC Fight Night Paris: Chirico vs. Kopylov?"
+}

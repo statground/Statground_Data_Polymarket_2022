@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248052",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T21:53:50.432000Z",
+  "market_createdAt": "2022-11-18T21:53:50.432Z",
+  "market_updatedAt": "2023-01-31T18:16:57.44Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-18T00:00:00Z",
+  "market_closedTime": "2022-12-02 19:21:04+00",
+  "conditionId": "0x7347ebb5a1ed6ca846d2c83f5deabeb57ff8e919d0ff72fa9c8c7935eda3ff25",
+  "slug": "will-germany-win-the-2022-world-cup",
+  "question": "Will Germany win the 2022 World Cup?"
+}

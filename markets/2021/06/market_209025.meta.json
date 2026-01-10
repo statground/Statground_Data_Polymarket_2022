@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "209025",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-04T19:50:01.221000Z",
+  "market_createdAt": "2021-06-04T19:50:01.221Z",
+  "market_updatedAt": "2024-04-23T00:12:52.711867Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-05T00:00:00Z",
+  "market_closedTime": "2021-06-06 18:56:38+00",
+  "conditionId": "0x50c1ef6563e708018e1c1150051a0649d009a6622a98dc75f7cb0233f2975f73",
+  "slug": "who-will-win-nets-v-bucks-game-1",
+  "question": "Who will win Nets v. Bucks: Game 1?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239937",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-09T11:09:41.976000Z",
+  "market_createdAt": "2021-12-09T11:09:41.976Z",
+  "market_updatedAt": "2024-04-22T23:33:45.264514Z",
+  "market_startDate": "2021-12-09T18:29:38.09Z",
+  "market_endDate": "2021-12-09T00:00:00Z",
+  "market_closedTime": "2021-12-10 13:13:51+00",
+  "conditionId": "0x8059e2677db3e7180226b9af8e2aba9b879d16a2cda88d2cc72371adfe45e984",
+  "slug": "nba-will-the-nuggets-beat-the-spurs-by-more-than-1pt5-points-in-their-december-9-matchup",
+  "question": "NBA: Will the Nuggets beat the Spurs by more than 1.5 points in their December 9 matchup?"
+}

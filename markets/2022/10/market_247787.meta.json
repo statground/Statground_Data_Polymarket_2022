@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247787",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-26T18:13:16.603000Z",
+  "market_createdAt": "2022-10-26T18:13:16.603Z",
+  "market_updatedAt": "2024-05-15T23:38:07.106793Z",
+  "market_startDate": "2023-05-08T19:02:28.329Z",
+  "market_endDate": "2023-03-01T00:00:00Z",
+  "market_closedTime": "2023-03-02 22:30:27+00",
+  "conditionId": "0x0ff8e3d77ec16a0d42fcfaa1b1b082687ef6723e42f2eaefc186148817076d82",
+  "slug": "will-donald-trump-be-president-of-the-usa-on-march-1-2023",
+  "question": "Will Donald Trump be President of the USA on March 1, 2023?"
+}

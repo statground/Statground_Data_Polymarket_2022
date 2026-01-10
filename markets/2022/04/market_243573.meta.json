@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243573",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-22T07:46:21.683000Z",
+  "market_createdAt": "2022-04-22T07:46:21.683Z",
+  "market_updatedAt": "2023-01-31T15:28:47.846Z",
+  "market_startDate": null,
+  "market_endDate": "2022-04-22T00:00:00Z",
+  "market_closedTime": "2022-04-23 07:15:46+00",
+  "conditionId": "0x1a6ccd25758aa3b4c99be2bfec14b064251b582f5f1ddfe8279c63b68a662ce3",
+  "slug": "mlb-who-will-win-los-angeles-angels-vs-baltimore-orioles-scheduled-for-april-22-939-pm-et",
+  "question": "MLB: Who will win Los Angeles Angels vs. Baltimore Orioles, scheduled for April 22, 9:39 PM ET?"
+}

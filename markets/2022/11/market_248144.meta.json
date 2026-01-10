@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248144",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-28T16:44:24.499000Z",
+  "market_createdAt": "2022-11-28T16:44:24.499Z",
+  "market_updatedAt": "2023-01-31T20:21:33.009Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-02T00:00:00Z",
+  "market_closedTime": "2022-12-02 20:16:11+00",
+  "conditionId": "0x55f251f26db29d7fd52dc2bcffa3f8dddbb98864d0f712a1e40854d05a98eae7",
+  "slug": "world-cup-friday-will-portugal-beat-south-korea",
+  "question": "World Cup: Friday - Will Portugal beat South Korea?"
+}

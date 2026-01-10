@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "215905",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-11T17:25:01.678000Z",
+  "market_createdAt": "2021-06-11T17:25:01.678Z",
+  "market_updatedAt": "2024-04-24T23:27:55.029562Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-12T00:00:00Z",
+  "market_closedTime": "2021-06-13 17:48:15+00",
+  "conditionId": "0xdd281e4a9f4d16ae1583cbc87c7259a38d096f33a5c2968b629cab3d3327c1dd",
+  "slug": "who-will-win-ufc-263-paul-craig-vs-jamahal-hill",
+  "question": "Who will win UFC 263: Paul Craig vs. Jamahal Hill"
+}

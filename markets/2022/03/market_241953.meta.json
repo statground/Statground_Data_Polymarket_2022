@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241953",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-08T00:09:06.947000Z",
+  "market_createdAt": "2022-03-08T00:09:06.947Z",
+  "market_updatedAt": "2024-04-23T00:01:39.276653Z",
+  "market_startDate": "2022-03-08T00:20:39.559Z",
+  "market_endDate": "2022-07-07T00:00:00Z",
+  "market_closedTime": "2022-04-16 13:50:28+00",
+  "conditionId": "0xbe15a4607e164485d858a914ae007449d30f517ba63e3b1bcff2e55b36821cdd",
+  "slug": "will-russian-chess-player-sergey-karjakin-be-removed-or-withdraw-from-the-fide-2022-candidates-tournament",
+  "question": "Will Russian Chess Player Sergey Karjakin be removed or withdraw from the FIDE 2022 Candidates Tournament?"
+}

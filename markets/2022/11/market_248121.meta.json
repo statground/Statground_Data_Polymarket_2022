@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248121",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-21T22:35:41.937000Z",
+  "market_createdAt": "2022-11-21T22:35:41.937Z",
+  "market_updatedAt": "2023-01-31T19:22:08.753Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-18T00:00:00Z",
+  "market_closedTime": "2022-11-25 17:15:36+00",
+  "conditionId": "0xce02a7e7df0f79528ca8d089ad74d13b587a9438cbbf7b7de430c8a3ae03a42c",
+  "slug": "world-cup-will-qatar-score-a-goal",
+  "question": "World Cup: Will Qatar score a goal?"
+}

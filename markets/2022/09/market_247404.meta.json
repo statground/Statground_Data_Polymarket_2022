@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247404",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-30T14:30:39.633000Z",
+  "market_createdAt": "2022-09-30T14:30:39.633Z",
+  "market_updatedAt": "2023-01-31T18:41:07.84Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-08T00:00:00Z",
+  "market_closedTime": "2022-11-10 07:45:36+00",
+  "conditionId": "0x12bfcdec80c328840703602b664b8061743c3a12024f598c5d675ba9d14c7247",
+  "slug": "2022-us-tx-34-house-election-will-a-democrat-or-republican-win",
+  "question": "TX-34 House: Will a Democrat (Gonzalez) or Republican (Flores) win?"
+}

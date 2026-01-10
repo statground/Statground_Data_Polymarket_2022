@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239411",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-13T12:09:45.639000Z",
+  "market_createdAt": "2021-11-13T12:09:45.639Z",
+  "market_updatedAt": "2024-04-23T00:54:49.430455Z",
+  "market_startDate": "2021-11-15T18:55:24.435Z",
+  "market_endDate": "2021-11-30T00:00:00Z",
+  "market_closedTime": "2021-12-01 22:45:18+00",
+  "conditionId": "0x83a7a8101803547b22e7ebb6fbc6830f4180e8db0258ff29dc22867b0dd0c1c5",
+  "slug": "will-the-us-7-day-covid-19-case-average-on-november-23rd-be-higher-than-it-was-a-week-earlier",
+  "question": "Will the U.S. 7-day COVID-19 case average on November 23rd be higher than it was a week earlier?"
+}

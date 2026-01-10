@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247740",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-21T19:02:28.694000Z",
+  "market_createdAt": "2022-10-21T19:02:28.694Z",
+  "market_updatedAt": "2023-01-31T21:15:18.809Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-31T00:00:00Z",
+  "market_closedTime": "2023-01-02 22:02:51+00",
+  "conditionId": "0x9c839d7b673b481f41d25933662a827368f76878186d792de1f01c9d1f1d5344",
+  "slug": "will-there-be-a-negotiated-settlement-between-russia-and-ukraine-by-dec-31",
+  "question": "Will there be a negotiated settlement between Russia and Ukraine by Dec 31?"
+}

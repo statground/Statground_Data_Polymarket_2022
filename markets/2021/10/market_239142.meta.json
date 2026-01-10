@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239142",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-30T12:26:01.763000Z",
+  "market_createdAt": "2021-10-30T12:26:01.763Z",
+  "market_updatedAt": "2024-04-22T23:43:03.600453Z",
+  "market_startDate": "2021-10-30T19:38:21.865Z",
+  "market_endDate": "2021-10-30T00:00:00Z",
+  "market_closedTime": "2021-10-31 16:34:43+00",
+  "conditionId": "0xf993d786ae715564695538b674e4648a16c11b78ac6c4f4b4838a8693e58d49b",
+  "slug": "who-will-win-ufc-267-yan-vs-sandhagen",
+  "question": "Who will win UFC 267: Yan vs Sandhagen?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238630",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-20T01:18:01.135000Z",
+  "market_createdAt": "2021-08-20T01:18:01.135Z",
+  "market_updatedAt": "2024-04-22T23:22:52.833403Z",
+  "market_startDate": "2021-08-20T01:24:42.474Z",
+  "market_endDate": "2021-08-23T00:00:00Z",
+  "market_closedTime": "2021-08-24 16:12:52+00",
+  "conditionId": "0x5b2fb3aa8ad07d106e3473059452112f2b44242d3fffb549f949e034c6cf07f2",
+  "slug": "will-paw-patrol-the-movie-and-the-protege-have-a-combined-domestic-opening-weekend-gross-of-over-17m",
+  "question": "Will PAW Patrol: The Movie and The Protege have a combined domestic opening weekend gross of over 17M?"
+}

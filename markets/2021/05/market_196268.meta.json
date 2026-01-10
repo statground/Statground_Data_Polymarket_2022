@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "196268",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-13T18:05:05.669000Z",
+  "market_createdAt": "2021-05-13T18:05:05.669Z",
+  "market_updatedAt": "2024-04-24T23:51:51.038181Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-13T00:00:00Z",
+  "market_closedTime": "2021-05-14 16:04:32+00",
+  "conditionId": "0xc56c90c9349a2d3eb71f75636ea009d45fa1a5ad86b24cf6286ad003e5aa02dd",
+  "slug": "will-andy-warhols-two-marilyns-sell-for-more-than-18-million-at-christies",
+  "question": "Will Andy Warhol’s “Two Marilyns” sell for more than $18 million at Christie’s?"
+}

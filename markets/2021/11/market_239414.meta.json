@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239414",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-13T12:48:27.622000Z",
+  "market_createdAt": "2021-11-13T12:48:27.622Z",
+  "market_updatedAt": "2024-04-23T00:30:43.158355Z",
+  "market_startDate": "2021-11-13T19:49:37.034Z",
+  "market_endDate": "2021-11-13T00:00:00Z",
+  "market_closedTime": "2021-11-14 19:47:29+00",
+  "conditionId": "0x964c873ea9a24e1a2b846d343241cb758521ae5e88927f8e899e2e401b19bd0b",
+  "slug": "nba-will-the-pacers-beat-the-76ers-by-more-than-2pt5-points-in-their-november-13th-matchup",
+  "question": "NBA: Will the Pacers beat the 76ers by more than 2.5 points in their November 13th matchup?"
+}

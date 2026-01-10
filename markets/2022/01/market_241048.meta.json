@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241048",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-26T19:14:12.688000Z",
+  "market_createdAt": "2022-01-26T19:14:12.688Z",
+  "market_updatedAt": "2024-04-22T23:01:07.405336Z",
+  "market_startDate": "2022-01-26T21:11:18.19Z",
+  "market_endDate": "2022-05-17T00:00:00Z",
+  "market_closedTime": "2022-06-09 15:45:45+00",
+  "conditionId": "0x84addb775dd293cd1b6333ae1bb08889b784fc73f1ce857f8ccdcfde8bd92992",
+  "slug": "will-david-mccormick-win-the-republican-nomination-for-the-2022-united-states-senate-election-in-pennsylvania",
+  "question": "Will David McCormick win the Republican nomination for the 2022 United States Senate election in Pennsylvania?"
+}

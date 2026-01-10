@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247187",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-06T18:50:00.364000Z",
+  "market_createdAt": "2022-09-06T18:50:00.364Z",
+  "market_updatedAt": "2023-01-31T09:05:04.303Z",
+  "market_startDate": "2022-09-06T19:22:44.088Z",
+  "market_endDate": "2022-09-06T00:00:00Z",
+  "market_closedTime": "2022-09-07 21:45:39+00",
+  "conditionId": "0xf56e8c019332ea303274b2051269505e4ae380560497942f7b77571f5c7a8bfa",
+  "slug": "2022-us-open-who-will-win-kyrgios-vs-khachanov",
+  "question": "2022 US Open: Who will win Kyrgios vs. Khachanov?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "106221",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-03-19T22:05:02.455000Z",
+  "market_createdAt": "2021-03-19T22:05:02.455Z",
+  "market_updatedAt": "2024-04-24T23:27:06.564595Z",
+  "market_startDate": null,
+  "market_endDate": "2021-03-25T00:00:00Z",
+  "market_closedTime": "2021-03-26 18:02:12+00",
+  "conditionId": "0x4d8762f48ed39ae9b7e7468f75da0e80c2ba560f3b14cfc9e69237a0f286dcad",
+  "slug": "will-kygo-s-nifty-gateway-drop-generate-over-5-m-in-total-sales",
+  "question": "Will Kygo's Nifty Gateway drop generate over $5M in total sales?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247222",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-09T22:35:10.803000Z",
+  "market_createdAt": "2022-09-09T22:35:10.803Z",
+  "market_updatedAt": "2024-04-23T00:51:57.752Z",
+  "market_startDate": "2022-09-10T16:22:16.286Z",
+  "market_endDate": "2022-09-13T00:00:00Z",
+  "market_closedTime": "2022-09-13 17:45:38+00",
+  "conditionId": "0xde128667fe941511abbbf9483d7f370383ae6db6a8a33f2d8aa35bbd798a02dc",
+  "slug": "emmys-2022-will-ted-lasso-win-outstanding-comedy-series",
+  "question": "Emmys 2022: Will ‘Ted Lasso’ win Outstanding Comedy Series?"
+}

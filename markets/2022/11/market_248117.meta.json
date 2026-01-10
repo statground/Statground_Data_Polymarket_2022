@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248117",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-21T20:04:25.581000Z",
+  "market_createdAt": "2022-11-21T20:04:25.581Z",
+  "market_updatedAt": "2023-01-31T15:40:41.959Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-28T00:00:00Z",
+  "market_closedTime": "2022-11-28 18:15:37+00",
+  "conditionId": "0x428b3ebfdcb0bf7714b7129e0030e3f28e09273ff7107c62daae9a59bb9c68bc",
+  "slug": "world-cup-2022-monday-will-south-korea-beat-ghana",
+  "question": "World Cup: Monday - Will South Korea beat Ghana?"
+}

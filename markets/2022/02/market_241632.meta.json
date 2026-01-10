@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241632",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-21T13:21:25.942000Z",
+  "market_createdAt": "2022-02-21T13:21:25.942Z",
+  "market_updatedAt": "2023-08-20T19:56:47.482Z",
+  "market_startDate": "2022-02-21T18:24:43.925Z",
+  "market_endDate": "2022-02-21T00:00:00Z",
+  "market_closedTime": "2022-02-22 17:31:11+00",
+  "conditionId": "0xc9535ba6ba6fa3cec89998ab8a26277052a308b67b608d2cb57978a8b5d3349e",
+  "slug": "nhl-will-the-flames-beat-the-jets-by-more-than-1p5-goals-in-their-february-21-matchup-4-pm-et",
+  "question": "NHL: Will the Flames beat the Jets by more than 1.5 goals in their February 21 matchup (4 PM ET)?"
+}

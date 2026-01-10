@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241970",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-08T12:16:50.648000Z",
+  "market_createdAt": "2022-03-08T12:16:50.648Z",
+  "market_updatedAt": "2024-04-22T22:43:48.604679Z",
+  "market_startDate": "2022-03-08T21:21:58.15Z",
+  "market_endDate": "2022-03-08T00:00:00Z",
+  "market_closedTime": "2022-03-09 19:17:27+00",
+  "conditionId": "0x845810b50e955566345dcc79ca05832f2d83f52655633d5136bb9f8df92738ca",
+  "slug": "nba-will-the-warriors-beat-the-clippers-by-more-than-7pt5-points-in-their-march-8-10-pm-et-matchup",
+  "question": "NBA: Will the Warriors beat the Clippers by more than 7.5 points in their March 8 (10 PM ET) matchup?"
+}

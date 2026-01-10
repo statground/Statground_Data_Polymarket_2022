@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242725",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-01T09:12:43.410000Z",
+  "market_createdAt": "2022-04-01T09:12:43.41Z",
+  "market_updatedAt": "2024-04-23T00:59:30.425575Z",
+  "market_startDate": null,
+  "market_endDate": "2022-04-01T00:00:00Z",
+  "market_closedTime": "2022-04-02 07:20:00+00",
+  "conditionId": "0x5a584c90f030cf522a21fa7ad96011a2c7b45740173778ccacf12304dd87fb3a",
+  "slug": "nba-will-the-suns-beat-the-grizzlies-by-more-than-7pt5-points-in-their-april-1-810-pm-et-matchup",
+  "question": "NBA: Will the Suns beat the Grizzlies by more than 7.5 points in their April 1, 8:10 PM ET matchup?"
+}

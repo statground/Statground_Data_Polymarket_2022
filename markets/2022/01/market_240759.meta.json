@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240759",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-15T18:07:13.553000Z",
+  "market_createdAt": "2022-01-15T18:07:13.553Z",
+  "market_updatedAt": "2024-04-22T23:53:16.327919Z",
+  "market_startDate": "2022-01-15T19:15:03.952Z",
+  "market_endDate": "2022-01-15T00:00:00Z",
+  "market_closedTime": "2022-01-17 16:32:38+00",
+  "conditionId": "0xf54ce26ac03fca0f5c833a17363bfef61ad90530274a73ad5d76a397ebf177ba",
+  "slug": "nba-will-the-spurs-beat-the-clippers-by-more-than-2p5-points-in-their-january-15-matchup",
+  "question": "NBA: Will the Spurs beat the Clippers by more than 2.5 points in their January 15 matchup?"
+}

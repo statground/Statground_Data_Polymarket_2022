@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239627",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-27T18:45:42.322000Z",
+  "market_createdAt": "2021-11-27T18:45:42.322Z",
+  "market_updatedAt": "2024-04-26T02:48:17.037396Z",
+  "market_startDate": "2021-11-27T19:09:59.588Z",
+  "market_endDate": "2021-11-27T00:00:00Z",
+  "market_closedTime": "2021-11-28 20:28:24+00",
+  "conditionId": "0x2c7578f803792df46249b50c66c29ed10c6008beaea2caa33680c121091a00dd",
+  "slug": "nba-will-the-nets-beat-the-suns-by-more-than-1pt5-points-in-their-november-27th-matchup",
+  "question": "NBA: Will the Nets beat the Suns by more than 1.5 points in their November 27th matchup?"
+}

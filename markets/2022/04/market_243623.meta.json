@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243623",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-23T08:43:42.673000Z",
+  "market_createdAt": "2022-04-23T08:43:42.673Z",
+  "market_updatedAt": "2023-01-31T18:01:57.745Z",
+  "market_startDate": "2022-04-23T16:30:18.022Z",
+  "market_endDate": "2022-04-23T00:00:00Z",
+  "market_closedTime": "2022-04-24 07:15:49+00",
+  "conditionId": "0x9444388b778e0c7d74c53b9888be691d3f1ce70475288b086498f331f10d2d47",
+  "slug": "mlb-who-will-win-los-angeles-dodgers-vs-san-diego-padres-scheduled-for-april-23-841-pm-et",
+  "question": "MLB: Who will win Los Angeles Dodgers vs. San Diego Padres, scheduled for April 23, 8:41 PM ET?"
+}

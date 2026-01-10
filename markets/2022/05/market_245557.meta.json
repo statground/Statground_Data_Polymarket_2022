@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "245557",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-27T13:37:27.163000Z",
+  "market_createdAt": "2022-05-27T13:37:27.163Z",
+  "market_updatedAt": "2023-01-31T21:06:30.688Z",
+  "market_startDate": "2022-05-27T20:26:25.222Z",
+  "market_endDate": "2022-05-28T00:00:00Z",
+  "market_closedTime": "2022-05-28 20:15:40+00",
+  "conditionId": "0x6e124f92646967dee2fbb15650417c0d03900d5c728fa49e88ac21b1b387e9e8",
+  "slug": "2022-french-open-who-will-win-kecmanovic-vs-medvedev",
+  "question": "2022 French Open: Who will win Kecmanovic vs. Medvedev?"
+}

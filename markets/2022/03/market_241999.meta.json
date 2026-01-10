@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241999",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-10T11:13:16.930000Z",
+  "market_createdAt": "2022-03-10T11:13:16.93Z",
+  "market_updatedAt": "2024-04-22T23:10:17.368826Z",
+  "market_startDate": null,
+  "market_endDate": "2022-03-10T00:00:00Z",
+  "market_closedTime": "2022-03-12 01:00:38+00",
+  "conditionId": "0xa407a4bda27d48db40ef3babbecf4a95acfd4b8e4a217ed408b1e0d8c2a4d09c",
+  "slug": "nba-who-will-win-the-76ers-vspt-nets-scheduled-for-march-10-7pt30-pm-et",
+  "question": "NBA: Who will win the 76ers vs. Nets, scheduled for March 10 (7.30 PM ET)?"
+}

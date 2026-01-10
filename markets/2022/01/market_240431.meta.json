@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240431",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T15:39:43.782000Z",
+  "market_createdAt": "2022-01-11T15:39:43.782Z",
+  "market_updatedAt": "2023-01-31T20:14:17.054Z",
+  "market_startDate": "2022-01-12T20:51:11.492Z",
+  "market_endDate": "2022-02-25T00:00:00Z",
+  "market_closedTime": "2022-02-26 19:20:37+00",
+  "conditionId": "0x5f677bd56a6dce815c3261b9ad234cfbd8c68282110b0f2d29907bf77b4a0124",
+  "slug": "will-the-us-7-day-average-of-covid-19-cases-on-february-11-be-higher-than-on-february-18",
+  "question": "Will the US 7-day average of Covid-19 cases on February 11 be higher than on February 18?"
+}

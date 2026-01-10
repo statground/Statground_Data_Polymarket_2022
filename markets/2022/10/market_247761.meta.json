@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247761",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-25T18:55:43.208000Z",
+  "market_createdAt": "2022-10-25T18:55:43.208Z",
+  "market_updatedAt": "2023-01-31T21:15:18.809Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-26T00:00:00Z",
+  "market_closedTime": "2022-10-27 19:30:57+00",
+  "conditionId": "0xe350924b920bc33b766492a104f24f2dcc81c91d433f6d183000c61924baf18e",
+  "slug": "nba-who-will-win-lakers-vs-nuggets-scheduled-for-october-26-1000-pm-et",
+  "question": "NBA: Who will win Lakers vs. Nuggets, scheduled for October 26 (10:00 PM ET)?"
+}

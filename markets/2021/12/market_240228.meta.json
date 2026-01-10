@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240228",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-28T18:26:53.635000Z",
+  "market_createdAt": "2021-12-28T18:26:53.635Z",
+  "market_updatedAt": "2024-04-24T23:44:56.881736Z",
+  "market_startDate": "2021-12-28T20:28:19.175Z",
+  "market_endDate": "2021-12-28T00:00:00Z",
+  "market_closedTime": "2021-12-29 16:21:41+00",
+  "conditionId": "0xb3d0ec1d1a087d7cab87850cc2584315148d4c51881f8473a3a7099948bc78b6",
+  "slug": "nba-will-the-bucks-beat-the-magic-by-more-than-13pt5-points-in-their-december-28-matchup",
+  "question": "NBA: Will the Bucks beat the Magic by more than 13.5 points in their December 28 matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239593",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-24T14:19:14.666000Z",
+  "market_createdAt": "2021-11-24T14:19:14.666Z",
+  "market_updatedAt": "2024-04-22T22:55:41.52602Z",
+  "market_startDate": "2021-11-26T19:29:19.683Z",
+  "market_endDate": "2021-12-07T00:00:00Z",
+  "market_closedTime": "2021-12-08 18:51:59+00",
+  "conditionId": "0x80143bea34b6c444a7b0cb35f97fad50f317b436150b6b11c5ecc06a21ba0b54",
+  "slug": "will-a-picture-surface-of-kim-kardashian-and-pete-davidson-kissing-before-december-8th-2021",
+  "question": "Will a picture surface of Kim Kardashian and Pete Davidson kissing before December 8th, 2021?"
+}

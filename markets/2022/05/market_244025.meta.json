@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244025",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-02T22:16:04.087000Z",
+  "market_createdAt": "2022-05-02T22:16:04.087Z",
+  "market_updatedAt": "2023-01-31T20:26:40.358Z",
+  "market_startDate": null,
+  "market_endDate": "2022-05-17T00:00:00Z",
+  "market_closedTime": "2022-05-07 20:04:49+00",
+  "conditionId": "0x4da3f5741f145c7d7928520c26790ad5b90a7d946c04659615807308722648af",
+  "slug": "will-taiwan-report-40000-or-more-daily-covid-19-cases-by-may-16",
+  "question": "Will Taiwan report 40,000 or more daily COVID-19 cases by May 16?"
+}

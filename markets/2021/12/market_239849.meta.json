@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239849",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-06T15:21:09.198000Z",
+  "market_createdAt": "2021-12-06T15:21:09.198Z",
+  "market_updatedAt": "2024-04-22T23:16:40.222314Z",
+  "market_startDate": "2021-12-06T17:41:52.518Z",
+  "market_endDate": "2021-12-06T00:00:00Z",
+  "market_closedTime": "2021-12-07 18:21:57+00",
+  "conditionId": "0x55da82479d9297494468bda4aa79638cdfd7256b092f4e249cb8fd1288f435b3",
+  "slug": "nba-will-the-heat-beat-the-grizzlies-by-more-than-4pt5-points-in-their-december-6-matchup",
+  "question": "NBA: Will the Heat beat the Grizzlies by more than 4.5 points in their December 6 matchup?"
+}

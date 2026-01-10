@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241682",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-24T13:21:28.480000Z",
+  "market_createdAt": "2022-02-24T13:21:28.48Z",
+  "market_updatedAt": "2024-04-24T23:40:07.77374Z",
+  "market_startDate": "2022-02-24T14:34:36.245Z",
+  "market_endDate": "2022-02-24T00:00:00Z",
+  "market_closedTime": "2022-02-25 16:31:22+00",
+  "conditionId": "0x3eeb7a1926c31f50ebc142ff83eb8bef0fee42136fc67479f3d1b6ff83735046",
+  "slug": "nba-will-the-grizzlies-beat-the-timberwolves-by-more-than-2p5-points-in-their-february-24-8-pm-et-matchup",
+  "question": "NBA: Will the Grizzlies beat the Timberwolves by more than 2.5 points in their February 24 (8 PM ET) matchup?"
+}

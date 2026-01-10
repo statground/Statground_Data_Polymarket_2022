@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243309",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-15T15:22:37.126000Z",
+  "market_createdAt": "2022-04-15T15:22:37.126Z",
+  "market_updatedAt": "2023-01-31T13:53:28.341Z",
+  "market_startDate": "2022-04-15T16:39:30.52Z",
+  "market_endDate": "2022-04-15T00:00:00Z",
+  "market_closedTime": "2022-04-16 07:47:06+00",
+  "conditionId": "0xd14aef1b2042d52d3b2d37188cb2307722f36d84e5904ba2332c4c6403379834",
+  "slug": "nba-who-will-win-clippers-vs-pelicans-scheduled-for-april-15-10-pm-et",
+  "question": "NBA: Who will win Clippers vs. Pelicans, scheduled for April 15 (10 PM ET)?"
+}

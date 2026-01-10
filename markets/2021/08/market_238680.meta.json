@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238680",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-30T16:12:01.711000Z",
+  "market_createdAt": "2021-08-30T16:12:01.711Z",
+  "market_updatedAt": "2023-06-24T23:16:34.005Z",
+  "market_startDate": "2021-08-30T18:33:46.384Z",
+  "market_endDate": "2021-12-31T00:00:00Z",
+  "market_closedTime": "2022-01-02 21:09:54+00",
+  "conditionId": "0x6e6724881444b4a6472e7a5d650be9073610cf5d78e21750e0b7e53102c59546",
+  "slug": "will-opensea-launch-a-token-by-end-of-year",
+  "question": "Will OpenSea launch a token by the end of 2021?"
+}

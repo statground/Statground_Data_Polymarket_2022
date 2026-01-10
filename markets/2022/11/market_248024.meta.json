@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248024",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T20:20:35.390000Z",
+  "market_createdAt": "2022-11-18T20:20:35.39Z",
+  "market_updatedAt": "2023-01-31T19:35:11.523Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-06T00:00:00Z",
+  "market_closedTime": "2022-12-01 19:31:10+00",
+  "conditionId": "0x6cb04f20ff1c979c7ad801e612e4c91fe9efc121d52a444c8abcec329b24d980",
+  "slug": "will-saudi-arabia-qualify-from-group-c",
+  "question": "Will Saudi Arabia qualify from Group C?"
+}

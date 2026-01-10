@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239308",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-09T11:06:50.838000Z",
+  "market_createdAt": "2021-11-09T11:06:50.838Z",
+  "market_updatedAt": "2024-04-23T00:07:11.923027Z",
+  "market_startDate": "2021-11-09T16:50:30.461Z",
+  "market_endDate": "2021-11-11T00:00:00Z",
+  "market_closedTime": "2021-11-12 19:24:01+00",
+  "conditionId": "0xed29490be263b36305da389693c942e48b4abd0b775805140d8a24ec6faf6bdd",
+  "slug": "international-soccer-will-there-be-4-or-more-goals-in-germany-v-liechtenstein-game-on-november-11",
+  "question": "International soccer: Will there be 4 or more goals in Germany v. Liechtenstein game on November 11?"
+}

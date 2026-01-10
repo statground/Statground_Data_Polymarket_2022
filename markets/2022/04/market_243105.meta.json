@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243105",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-11T21:55:47.158000Z",
+  "market_createdAt": "2022-04-11T21:55:47.158Z",
+  "market_updatedAt": "2023-01-31T18:28:00.267Z",
+  "market_startDate": "2022-04-11T22:18:44.706Z",
+  "market_endDate": "2022-06-01T00:00:00Z",
+  "market_closedTime": "2022-06-01 14:00:50+00",
+  "conditionId": "0x96298ceee8ed23fcac099a1c1774c2564bb616f7964cb3e64cf8dd69bb0ffaf5",
+  "slug": "will-russias-ambassador-to-any-eu-country-be-recalled-or-expelled-before-june-1",
+  "question": "Will Russia's ambassador to any EU country be recalled or expelled before June 1?"
+}

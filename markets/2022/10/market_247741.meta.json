@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247741",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-21T19:13:37.288000Z",
+  "market_createdAt": "2022-10-21T19:13:37.288Z",
+  "market_updatedAt": "2023-01-31T20:26:40.285Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-22T00:00:00Z",
+  "market_closedTime": "2022-10-23 07:15:26+00",
+  "conditionId": "0x56babca0b66c232836f96bec0d25ff9323829d0b78f465dbbf5b9c6de33063cf",
+  "slug": "nba-who-will-win-grizzlies-vs-mavericks-scheduled-for-october-22-830-pm-et",
+  "question": "NBA: Who will win Grizzlies vs. Mavericks, scheduled for October 22 (8:30 PM ET)?"
+}

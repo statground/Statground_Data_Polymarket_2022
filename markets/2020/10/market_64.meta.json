@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "64",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-10-23T21:10:04.397000Z",
+  "market_createdAt": "2020-10-23T21:10:04.397Z",
+  "market_updatedAt": "2024-04-22T22:47:24.301401Z",
+  "market_startDate": null,
+  "market_endDate": "2020-10-25T00:00:00Z",
+  "market_closedTime": "2020-10-25 20:25:48+00",
+  "conditionId": "0x128dd10748d92137d5057bed92b6c187c0a000a9a94f1a75d4a618b09eac629b",
+  "slug": "will-khabib-win-his-ufc-254-fight",
+  "question": "Will Khabib win his UFC 254 Fight?"
+}

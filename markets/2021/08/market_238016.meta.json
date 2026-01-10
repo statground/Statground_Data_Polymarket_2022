@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238016",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-18T22:48:01.119000Z",
+  "market_createdAt": "2021-08-18T22:48:01.119Z",
+  "market_updatedAt": "2024-04-22T23:15:38.704709Z",
+  "market_startDate": "2021-08-20T01:49:53.292Z",
+  "market_endDate": "2021-10-15T00:00:00Z",
+  "market_closedTime": "2021-10-15 22:06:07+00",
+  "conditionId": "0xc4fdb1ef1534e3d44bbc494709b5699490761f41f7c94aca2d55567c0bdc339e",
+  "slug": "will-medina-spirit-be-disqualified-from-the-2021-kentucky-derby-by-october-15",
+  "question": "Will Medina Spirit be disqualified from the 2021 Kentucky Derby by October 15?"
+}

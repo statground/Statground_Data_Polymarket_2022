@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241113",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-27T12:48:30.646000Z",
+  "market_createdAt": "2022-01-27T12:48:30.646Z",
+  "market_updatedAt": "2023-01-31T20:44:31.948Z",
+  "market_startDate": "2022-01-27T21:21:02.902Z",
+  "market_endDate": "2022-01-27T00:00:00Z",
+  "market_closedTime": "2022-01-30 01:13:34+00",
+  "conditionId": "0xe28b34851b0ddaa4b627dcb73073242e098e64ca660912943df6aa19cb76b276",
+  "slug": "nhl-will-the-oilers-beat-the-predators-by-more-than-1p5-goals-in-their-january-27-matchup-10-pm-et",
+  "question": "NHL: Will the Oilers beat the Predators by more than 1.5 goals in their January 27 matchup (10 PM ET)?"
+}

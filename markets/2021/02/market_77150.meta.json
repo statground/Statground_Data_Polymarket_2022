@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "77150",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-07T01:00:02.438000Z",
+  "market_createdAt": "2021-02-07T01:00:02.438Z",
+  "market_updatedAt": "2024-04-22T23:50:03.342729Z",
+  "market_startDate": null,
+  "market_endDate": "2021-02-06T00:00:00Z",
+  "market_closedTime": "2021-02-07 20:55:18+00",
+  "conditionId": "0xb8e23b7177f3bfaa36f34f3f8656fae7aafa3e0bcba7fa63c679b2a7d5f95573",
+  "slug": "will-the-memphis-grizzlies-or-the-pelicans-win-their-february-6th-matchup",
+  "question": "Will the Grizzlies or the Pelicans win their February 6th matchup?"
+}

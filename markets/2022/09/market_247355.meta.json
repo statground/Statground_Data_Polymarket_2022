@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247355",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-23T18:11:57.053000Z",
+  "market_createdAt": "2022-09-23T18:11:57.053Z",
+  "market_updatedAt": "2024-04-23T00:39:25.956131Z",
+  "market_startDate": null,
+  "market_endDate": "2022-09-30T00:00:00Z",
+  "market_closedTime": "2022-09-30 18:31:10+00",
+  "conditionId": "0x71d754a592e25f158c4a6acf201a7c5c31beb760c87ec3e6b439702c5ed0dc5e",
+  "slug": "will-the-price-of-eth-be-above-1300-on-september-30",
+  "question": "Will the price of $ETH be above $1300 on Sept 30?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248290",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-22T20:55:02.373000Z",
+  "market_createdAt": "2022-12-22T20:55:02.373Z",
+  "market_updatedAt": "2023-02-10T01:03:40.972Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-30T00:00:00Z",
+  "market_closedTime": "2022-12-30 19:01:37+00",
+  "conditionId": "0x07d12a9048efaa37e41802960a3beae89344d666697c4d96bd83183d6ca98eae",
+  "slug": "will-joe-bidens-fivethirtyeight-approval-rating-be-43-or-higher-on-december-29",
+  "question": "Will Joe Biden's FiveThirtyEight approval rating be 43.0% or higher on December 29?"
+}

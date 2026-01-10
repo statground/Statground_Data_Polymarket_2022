@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241471",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-14T09:54:20.590000Z",
+  "market_createdAt": "2022-02-14T09:54:20.59Z",
+  "market_updatedAt": "2024-04-23T00:36:48.661528Z",
+  "market_startDate": "2022-02-14T14:49:42.453Z",
+  "market_endDate": "2022-02-14T00:00:00Z",
+  "market_closedTime": "2022-02-15 17:54:40+00",
+  "conditionId": "0x455b397814a4ac3d6cf37addd1b060a13684a534c79a30707473eb22758385c5",
+  "slug": "nba-who-will-win-the-bulls-vs-spurs-scheduled-for-february-14-8-pm-et",
+  "question": "NBA: Who will win the Bulls vs. Spurs, scheduled for February 14 (8 PM ET)?"
+}

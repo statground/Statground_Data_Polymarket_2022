@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248115",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-21T19:51:48.957000Z",
+  "market_createdAt": "2022-11-21T19:51:48.957Z",
+  "market_updatedAt": "2023-01-31T21:09:58.438Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-27T00:00:00Z",
+  "market_closedTime": "2022-11-28 05:00:20+00",
+  "conditionId": "0x08c083252e6474152cf9acc2a3b394566c61cfbd295cbee1b47c8ce829964bc2",
+  "slug": "world-cup-2022-sunday-will-spain-beat-germany",
+  "question": "World Cup: Sunday - Will Spain beat Germany?"
+}

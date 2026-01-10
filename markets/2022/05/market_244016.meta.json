@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244016",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-02T14:17:10.358000Z",
+  "market_createdAt": "2022-05-02T14:17:10.358Z",
+  "market_updatedAt": "2023-01-31T12:26:12.135Z",
+  "market_startDate": "2022-05-02T15:30:15.895Z",
+  "market_endDate": "2022-05-15T00:00:00Z",
+  "market_closedTime": "2022-05-16 09:12:02+00",
+  "conditionId": "0x5a7a84e672dc0ed1c715a9b1e3558eddb41f223310b0d1af5e367f1e8360a935",
+  "slug": "2022-nhl-stanley-cup-playoffs-round-1-who-will-win-flames-vs-stars",
+  "question": "2022 NHL Stanley Cup Playoffs, Round 1: Who will win Flames vs. Stars?"
+}

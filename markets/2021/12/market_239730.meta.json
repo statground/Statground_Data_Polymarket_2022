@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239730",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-01T12:59:18.429000Z",
+  "market_createdAt": "2021-12-01T12:59:18.429Z",
+  "market_updatedAt": "2024-04-24T23:42:44.107788Z",
+  "market_startDate": "2021-12-01T19:34:01.316Z",
+  "market_endDate": "2021-12-01T00:00:00Z",
+  "market_closedTime": "2021-12-02 06:58:09+00",
+  "conditionId": "0x80916d7a865a1c93736efbb4ddfac653bc5f868b57d90904fda2934f00d44651",
+  "slug": "nba-will-the-nuggets-beat-the-magic-by-more-than-8pt5-points-in-their-december-1-matchup",
+  "question": "NBA: Will the Nuggets beat the Magic by more than 8.5 points in their December 1 matchup?"
+}

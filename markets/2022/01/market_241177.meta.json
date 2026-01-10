@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241177",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-29T10:04:28.911000Z",
+  "market_createdAt": "2022-01-29T10:04:28.911Z",
+  "market_updatedAt": "2024-04-23T00:34:30.305779Z",
+  "market_startDate": "2022-01-29T18:03:09.71Z",
+  "market_endDate": "2022-01-29T00:00:00Z",
+  "market_closedTime": "2022-01-31 01:09:24+00",
+  "conditionId": "0xc45b6a157438e96b3f1e31c771b23a5847fb958696f996e0a942928048d27b69",
+  "slug": "nba-will-the-grizzlies-beat-the-wizards-by-more-than-55-points-in-their-january-29-8-pm-et-matchup",
+  "question": "NBA: Will the Grizzlies beat the Wizards by more than 5.5 points in their January 29 (8 PM ET) matchup?"
+}

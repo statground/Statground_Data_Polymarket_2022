@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247215",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-09T16:37:44.594000Z",
+  "market_createdAt": "2022-09-09T16:37:44.594Z",
+  "market_updatedAt": "2023-01-31T18:21:38.144Z",
+  "market_startDate": "2022-09-09T18:12:28.012Z",
+  "market_endDate": "2022-09-11T00:00:00Z",
+  "market_closedTime": "2022-09-11 22:31:06+00",
+  "conditionId": "0xc281cd7db89f5b6854c12e682000f328134bedf5aa7978c6ff1f345669770687",
+  "slug": "formula-1-will-17-or-more-drivers-complete-the-2022-italian-grand-prix",
+  "question": "Formula 1: Will 17 or more drivers complete the 2022 Italian Grand Prix?"
+}

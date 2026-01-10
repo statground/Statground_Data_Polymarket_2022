@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246675",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-09T15:39:02.056000Z",
+  "market_createdAt": "2022-07-09T15:39:02.056Z",
+  "market_updatedAt": "2023-01-31T13:53:28.341Z",
+  "market_startDate": "2022-07-11T15:37:06.401Z",
+  "market_endDate": "2022-07-25T00:00:00Z",
+  "market_closedTime": "2022-07-25 19:15:40+00",
+  "conditionId": "0x0dd44f96dacd1207472fecfb28c5b77d0455ef6d34cb367876993e61ad3c53be",
+  "slug": "will-nope-get-a-90-or-higher-tomatometer-score",
+  "question": "Will 'Nope' get a 90% or higher Tomatometer Score?"
+}

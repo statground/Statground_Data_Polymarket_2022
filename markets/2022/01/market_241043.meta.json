@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241043",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-26T12:29:44.978000Z",
+  "market_createdAt": "2022-01-26T12:29:44.978Z",
+  "market_updatedAt": "2024-04-22T23:25:25.698356Z",
+  "market_startDate": "2022-01-26T19:06:48.983Z",
+  "market_endDate": "2022-01-26T00:00:00Z",
+  "market_closedTime": "2022-01-27 23:56:33+00",
+  "conditionId": "0xa5cf078ff4c30b138f41b5c8f7ca16e8bc0fdaff60661caeaac191f8ca6c81e1",
+  "slug": "nba-will-the-mavericks-beat-the-trail-blazers-by-more-than-4p5-points-in-their-january-26-10-pm-et-matchup",
+  "question": "NBA: Will the Mavericks beat the Trail Blazers by more than 4.5 points in their January 26 (10 PM ET) matchup?"
+}

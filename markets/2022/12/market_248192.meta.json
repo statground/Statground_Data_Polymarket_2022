@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248192",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-07T16:17:38.261000Z",
+  "market_createdAt": "2022-12-07T16:17:38.261Z",
+  "market_updatedAt": "2023-01-31T10:56:42.926Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-10T00:00:00Z",
+  "market_closedTime": "2022-12-11 07:00:42+00",
+  "conditionId": "0x34a0de8d302ce85bdec2abfabbf1527f503d8c89624f09ae85237216e7ffc8ba",
+  "slug": "ufc-282-who-will-win-till-vs-du-plessis",
+  "question": "UFC 282: Who will win - Till vs. Du Plessis"
+}

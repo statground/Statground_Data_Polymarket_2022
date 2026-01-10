@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246929",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-06T00:44:40.094000Z",
+  "market_createdAt": "2022-08-06T00:44:40.094Z",
+  "market_updatedAt": "2023-01-31T18:02:11.054Z",
+  "market_startDate": "2022-08-06T01:43:33.122Z",
+  "market_endDate": "2022-08-23T00:00:00Z",
+  "market_closedTime": "2022-08-24 16:31:40+00",
+  "conditionId": "0xe6af79572e25fe9b418badd1de1f1032ae677600915460d68dd0776b1a36c108",
+  "slug": "will-yuh-line-niou-win-the-democratic-nomination-for-the-ny-10-house-election",
+  "question": "Will Yuh-Line Niou win the Democratic nomination for the NY-10 House election?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "232887",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-11T19:34:01.266000Z",
+  "market_createdAt": "2021-08-11T19:34:01.266Z",
+  "market_updatedAt": "2024-04-25T00:13:06.291377Z",
+  "market_startDate": "2021-08-11T21:06:22.186Z",
+  "market_endDate": null,
+  "market_closedTime": "2021-10-22 21:44:42+00",
+  "conditionId": "0xab973da1185e8817cd905d7596ec33d04954a1796147f130a0fc23f8daf70a3e",
+  "slug": "who-will-come-in-2nd-place-in-the-2021-california-recall-election",
+  "question": "Who will come in 2nd place in the 2021 California recall election?"
+}

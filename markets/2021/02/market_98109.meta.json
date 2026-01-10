@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "98109",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-25T20:25:02.148000Z",
+  "market_createdAt": "2021-02-25T20:25:02.148Z",
+  "market_updatedAt": "2024-04-24T23:50:33.316714Z",
+  "market_startDate": null,
+  "market_endDate": "2021-03-11T00:00:00Z",
+  "market_closedTime": "2021-03-11 17:38:31+00",
+  "conditionId": "0x35cbb80a6266e9ce3509e70bd6a441c3a9f5c2a5e112b589ca6582b5619a4e1e",
+  "slug": "will-beeple-s-everydays-the-first-5000-days-sell-for-more-than-10-million-in-its-christie-s-auction",
+  "question": "Will Beeple's \"Everydays: The First 5000 Days\" sell for more than $10 million in its Christie's auction?"
+}

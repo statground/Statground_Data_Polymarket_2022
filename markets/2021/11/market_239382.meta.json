@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239382",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-12T11:25:31.428000Z",
+  "market_createdAt": "2021-11-12T11:25:31.428Z",
+  "market_updatedAt": "2024-04-26T02:47:54.795412Z",
+  "market_startDate": "2021-11-12T20:19:08.23Z",
+  "market_endDate": "2021-11-12T00:00:00Z",
+  "market_closedTime": "2021-11-14 00:04:25+00",
+  "conditionId": "0xc01e4f66dabc12877f3ae4e416c0edd95f8531d1651794b19f4e9e0ff8f03abd",
+  "slug": "nba-will-the-lakers-beat-the-timberwolves-by-more-than-3pt5-points-in-their-november-12th-matchup",
+  "question": "NBA: Will the Lakers beat the Timberwolves by more than 3.5 points in their November 12th matchup?"
+}

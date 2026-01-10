@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242972",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-06T15:24:21.192000Z",
+  "market_createdAt": "2022-04-06T15:24:21.192Z",
+  "market_updatedAt": "2024-04-22T23:47:36.61078Z",
+  "market_startDate": "2022-04-06T16:25:19.171Z",
+  "market_endDate": "2022-04-06T00:00:00Z",
+  "market_closedTime": "2022-04-07 07:17:30+00",
+  "conditionId": "0x9ebadc0bdb8bb52ac44143d2a095bfbff1f8c59020ef0af268e05db8a1a7cdb6",
+  "slug": "will-the-lightning-beat-the-capitals-by-more-than-1pt5-goals-in-their-april-6-matchup-7pt30-pm-et",
+  "question": "Will the Lightning beat the Capitals by more than 1.5 goals in their April 6 matchup (7.30 PM ET)?"
+}

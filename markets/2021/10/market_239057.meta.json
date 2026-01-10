@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239057",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-20T19:47:10.065000Z",
+  "market_createdAt": "2021-10-20T19:47:10.065Z",
+  "market_updatedAt": "2024-04-26T02:45:32.989638Z",
+  "market_startDate": "2021-10-24T17:51:22.183Z",
+  "market_endDate": "2021-10-24T00:00:00Z",
+  "market_closedTime": "2021-10-25 02:20:23+00",
+  "conditionId": "0xb8898034bde80b5c06bd7f685ac24e01aca9073c12a63ce7c73047a0c320c007",
+  "slug": "will-the-rams-beat-the-lions-by-more-than-15pt5-points-in-their-october-24th-matchup",
+  "question": "Will the Rams beat the Lions by more than 15.5 points in their October 24th matchup?"
+}

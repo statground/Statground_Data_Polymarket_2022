@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "98014",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-25T18:05:05.373000Z",
+  "market_createdAt": "2021-02-25T18:05:05.373Z",
+  "market_updatedAt": "2024-04-22T23:40:05.809883Z",
+  "market_startDate": null,
+  "market_endDate": "2021-04-30T00:00:00Z",
+  "market_closedTime": "2021-05-03 13:54:35+00",
+  "conditionId": "0xcc73f11a07a657b1d4319a18cd3e34eecc5f28d3cf135ae0478957a6a93efa35",
+  "slug": "will-joe-biden-be-president-of-the-usa-on-april-30-2021",
+  "question": "Will Joe Biden be President of the USA on April 30, 2021?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238957",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-06T19:00:52.305000Z",
+  "market_createdAt": "2021-10-06T19:00:52.305Z",
+  "market_updatedAt": "2024-04-22T23:28:14.33358Z",
+  "market_startDate": "2021-10-06T19:31:26.978Z",
+  "market_endDate": "2021-11-29T00:00:00Z",
+  "market_closedTime": "2021-10-18 15:58:35+00",
+  "conditionId": "0xf9b96bb566c2bcfd683ae8784136e288f3bfe5370c0bd4d786b1c42627b24a25",
+  "slug": "will-kourtney-kardashian-and-travis-barker-publicly-get-engaged",
+  "question": "Will Kourtney Kardashian and Travis Barker publicly get engaged by November 29th?"
+}

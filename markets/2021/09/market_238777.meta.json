@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238777",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-15T19:06:21.032000Z",
+  "market_createdAt": "2021-09-15T19:06:21.032Z",
+  "market_updatedAt": "2024-04-26T02:50:13.262601Z",
+  "market_startDate": "2021-09-17T04:44:34.279Z",
+  "market_endDate": "2021-09-19T00:00:00Z",
+  "market_closedTime": "2021-09-21 06:53:56+00",
+  "conditionId": "0x87b77af397d6d772a63580a0ec870df6292e8feef0fd777cbf5a87cedfd3aea6",
+  "slug": "chargers-35-v-cowboys-spread",
+  "question": "Chargers (-3.5) v. Cowboys Spread"
+}

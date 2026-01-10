@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240788",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-17T16:47:19.263000Z",
+  "market_createdAt": "2022-01-17T16:47:19.263Z",
+  "market_updatedAt": "2024-04-22T23:15:06.978594Z",
+  "market_startDate": "2022-01-17T17:49:02.506Z",
+  "market_endDate": "2022-01-17T00:00:00Z",
+  "market_closedTime": "2022-01-20 17:48:05+00",
+  "conditionId": "0x98860cec0a8bc30df38473f05980f4973a2d53be5cba333a68d6f44cdd1dac43",
+  "slug": "nba-will-the-bucks-beat-the-hawks-by-more-than-5p5-points-in-their-january-17-matchup",
+  "question": "NBA: Will the Bucks beat the Hawks by more than 5.5 points in their January 17 matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241434",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-11T23:07:29.210000Z",
+  "market_createdAt": "2022-02-11T23:07:29.21Z",
+  "market_updatedAt": "2024-04-24T23:34:58.331471Z",
+  "market_startDate": "2022-02-12T00:07:08.692Z",
+  "market_endDate": "2022-02-12T00:00:00Z",
+  "market_closedTime": "2022-02-13 23:08:04+00",
+  "conditionId": "0x3d5d8fee64e4a9c2b922906e121fa3344b85efd70e838c99381bd8a9dbcf91d6",
+  "slug": "ufc-271-who-will-win-jared-cannonier-or-derek-brunson",
+  "question": "UFC 271: Who will win - Jared Cannonier or Derek Brunson?"
+}

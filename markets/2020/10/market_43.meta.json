@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "43",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2020-10-12T22:00:05.791000Z",
+  "market_createdAt": "2020-10-12T22:00:05.791Z",
+  "market_updatedAt": "2024-04-23T00:15:27.877266Z",
+  "market_startDate": null,
+  "market_endDate": "2021-01-02T00:00:00Z",
+  "market_closedTime": "2021-01-02 21:45:52+00",
+  "conditionId": "0x7333b6e016f7f60d86f15f11ed0b41b69deec0b6d73b86933639b1f39a545d87",
+  "slug": "what-will-the-total-value-locked-tvl-in-defi-be-at-the-end-of-2020-according-to-defipulse",
+  "question": "What will the total value locked (TVL) in DeFi be at the end of 2020, according to DefiPulse?"
+}

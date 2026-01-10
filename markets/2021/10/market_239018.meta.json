@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239018",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-18T15:11:14.394000Z",
+  "market_createdAt": "2021-10-18T15:11:14.394Z",
+  "market_updatedAt": "2024-04-22T23:17:38.516225Z",
+  "market_startDate": "2021-10-26T19:53:41.858Z",
+  "market_endDate": "2021-11-07T00:00:00Z",
+  "market_closedTime": "2021-11-08 13:44:01+00",
+  "conditionId": "0x1717f57ffd124745006174fd1a7de6f31ca1bbf8d32e88554d78581e8fbeb723",
+  "slug": "will-the-winner-of-the-2021-fide-chesscom-grand-swiss-tournament-represent-the-united-states-or-russia",
+  "question": "Will the winner of the 2021 FIDE Chess.com Grand Swiss Tournament represent the United States/Russia?"
+}

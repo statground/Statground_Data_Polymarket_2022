@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239887",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-07T11:41:10.970000Z",
+  "market_createdAt": "2021-12-07T11:41:10.97Z",
+  "market_updatedAt": "2024-04-26T02:50:58.700996Z",
+  "market_startDate": "2021-12-09T18:47:37.614Z",
+  "market_endDate": "2021-12-09T00:00:00Z",
+  "market_closedTime": "2021-12-10 13:13:07+00",
+  "conditionId": "0xbedaa054c163accacd4c5ba721b565761961c6ece26eb766cdb3c77b3b468e18",
+  "slug": "nfl-will-the-sum-of-points-in-vikings-v-steelers-be-an-even-or-an-odd-number",
+  "question": "NFL: Will the sum of points in Vikings v. Steelers be an even or an odd number?"
+}

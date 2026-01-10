@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248059",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T22:12:37.438000Z",
+  "market_createdAt": "2022-11-18T22:12:37.438Z",
+  "market_updatedAt": "2023-01-31T20:21:33.252Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-18T00:00:00Z",
+  "market_closedTime": "2022-12-03 01:18:37+00",
+  "conditionId": "0x1fb19a748dde04a7a853910557335a7fe27ebc896805f0be0f3a4eeebf9e031e",
+  "slug": "will-serbia-win-the-2022-world-cup",
+  "question": "Will Serbia win the 2022 World Cup?"
+}

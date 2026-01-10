@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241150",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-28T13:22:48.059000Z",
+  "market_createdAt": "2022-01-28T13:22:48.059Z",
+  "market_updatedAt": "2024-04-22T23:41:49.787232Z",
+  "market_startDate": "2022-01-28T20:34:03.763Z",
+  "market_endDate": "2022-01-28T00:00:00Z",
+  "market_closedTime": "2022-01-30 21:13:52+00",
+  "conditionId": "0xec5d894db8cd4fec5fc8890eb7878649614050d26eb48d103a02435e13c0fa85",
+  "slug": "nhl-will-the-capitals-beat-the-stars-by-more-than-1p5-goals-in-their-january-28-matchup-9-pm-et",
+  "question": "NHL: Will the Capitals beat the Stars by more than 1.5 goals in their January 28 matchup (9 PM ET)?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242648",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-30T23:33:16.961000Z",
+  "market_createdAt": "2022-03-30T23:33:16.961Z",
+  "market_updatedAt": "2024-04-23T00:33:04.671029Z",
+  "market_startDate": "2022-04-04T16:08:03.309Z",
+  "market_endDate": "2022-04-15T00:00:00Z",
+  "market_closedTime": "2022-04-16 07:48:04+00",
+  "conditionId": "0x7c39412687368e400c321bd93642b9180784a66fea3178471ca1e7940313fd98",
+  "slug": "will-lost-ark-be-in-the-top-5-most-played-games-on-steam-on-april-15-2022",
+  "question": "Will Lost Ark be in the top 5 most played games on Steam on April 15, 2022?"
+}

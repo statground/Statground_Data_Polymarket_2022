@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244624",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-10T22:41:51.212000Z",
+  "market_createdAt": "2022-05-10T22:41:51.212Z",
+  "market_updatedAt": "2023-01-31T06:41:44.855Z",
+  "market_startDate": "2022-05-11T00:43:47.537Z",
+  "market_endDate": "2022-06-01T00:00:00Z",
+  "market_closedTime": "2022-06-06 18:15:25+00",
+  "conditionId": "0xac59ed9f6dd7ffe43b77780eb5f2e72d95dce09c975df6f39c02164d53fdec07",
+  "slug": "will-there-be-a-named-tropical-system-storm-hurricane-alex-that-forms-by-may-31-2022",
+  "question": "Will there be a named tropical system (storm, hurricane) Alex that forms by May 31, 2022?"
+}

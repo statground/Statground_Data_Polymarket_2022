@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "234182",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-12T17:00:01.358000Z",
+  "market_createdAt": "2021-08-12T17:00:01.358Z",
+  "market_updatedAt": "2024-04-22T23:03:48.899247Z",
+  "market_startDate": "2021-08-12T18:36:28.501Z",
+  "market_endDate": "2021-12-31T00:00:00Z",
+  "market_closedTime": "2022-01-06 19:05:25+00",
+  "conditionId": "0x2a4025d6af236bdf9663ed971b2bdaba426b6b9140244c6a41095b54a45a9c51",
+  "slug": "what-will-the-fully-diluted-market-cap-of-foundations-token-be-1-week-after-it-starts-trading",
+  "question": "What will the fully diluted market cap of Foundation’s token be 1 week after it starts trading?"
+}

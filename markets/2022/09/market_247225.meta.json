@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247225",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-10T15:23:50.262000Z",
+  "market_createdAt": "2022-09-10T15:23:50.262Z",
+  "market_updatedAt": "2024-04-24T23:46:11.259863Z",
+  "market_startDate": "2022-09-10T16:22:52.486Z",
+  "market_endDate": "2022-09-13T00:00:00Z",
+  "market_closedTime": "2022-09-13 17:46:10+00",
+  "conditionId": "0x4c62208653f17da7fe5e5944c7439b4948465dc397e9dcb4a610897ce0c93c18",
+  "slug": "emmys-2022-will-white-lotus-win-outstanding-limited-series",
+  "question": "Emmys 2022: Will ‘White Lotus’ win Outstanding Limited Series?"
+}

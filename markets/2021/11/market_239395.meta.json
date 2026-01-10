@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239395",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-12T22:17:09.700000Z",
+  "market_createdAt": "2021-11-12T22:17:09.7Z",
+  "market_updatedAt": "2024-04-22T23:51:14.79742Z",
+  "market_startDate": "2021-11-14T05:01:09.446Z",
+  "market_endDate": "2021-11-14T00:00:00Z",
+  "market_closedTime": "2021-11-16 01:47:43+00",
+  "conditionId": "0xdeceaccbc044b70b9464041996c51a7968a793f6323da523ae5ae321985399f4",
+  "slug": "nfl-will-the-chargers-beat-the-vikings-by-more-than-3pt5-points-in-their-november-14th-matchup",
+  "question": "NFL: Will the Chargers beat the Vikings by more than 3.5 points in their November 14th matchup?"
+}

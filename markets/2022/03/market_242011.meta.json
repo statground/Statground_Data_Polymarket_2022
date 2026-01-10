@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242011",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-11T10:55:19.784000Z",
+  "market_createdAt": "2022-03-11T10:55:19.784Z",
+  "market_updatedAt": "2024-04-23T00:16:55.18803Z",
+  "market_startDate": "2022-03-11T20:36:49.362Z",
+  "market_endDate": "2022-03-11T00:00:00Z",
+  "market_closedTime": "2022-03-12 10:45:27+00",
+  "conditionId": "0x6751cb219bb00d16fba64b92b0b9b4dbfba439c2bcbdac26c4e6dc7bd583c8d1",
+  "slug": "nba-who-will-win-the-lakers-vspt-wizards-scheduled-for-march-11-10pt30-pm-et",
+  "question": "NBA: Who will win the Lakers vs. Wizards, scheduled for March 11 (10.30 PM ET)?"
+}

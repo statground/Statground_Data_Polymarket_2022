@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239676",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-29T11:06:27.346000Z",
+  "market_createdAt": "2021-11-29T11:06:27.346Z",
+  "market_updatedAt": "2023-01-31T17:22:14.207Z",
+  "market_startDate": "2021-11-29T17:44:50.683Z",
+  "market_endDate": "2021-12-07T00:00:00Z",
+  "market_closedTime": "2021-12-08 18:50:25+00",
+  "conditionId": "0x5a6c1f0c1f378dff99e3cda2b0419b83d906a9cc095a8fcf0d2dcd20c523fb61",
+  "slug": "will-bitcoin-btc-price-be-above-60000-at-noon-on-december-7-2021",
+  "question": "Will Bitcoin ($BTC) price be above $60,000 at noon on December 7, 2021?"
+}

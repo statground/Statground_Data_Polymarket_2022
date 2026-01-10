@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241466",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-13T16:29:24.147000Z",
+  "market_createdAt": "2022-02-13T16:29:24.147Z",
+  "market_updatedAt": "2024-04-24T23:46:27.968736Z",
+  "market_startDate": "2022-02-13T17:02:00.574Z",
+  "market_endDate": "2022-02-13T00:00:00Z",
+  "market_closedTime": "2022-02-14 11:53:48+00",
+  "conditionId": "0x20bbddc8ff8ae7ed4c37bc5b8b2dc4c164e62abc877c43c92dc68c333a25bb52",
+  "slug": "nba-who-will-win-the-timberwolves-vs-pacers-scheduled-for-february-13-3-pm-et",
+  "question": "NBA: Who will win the Timberwolves vs. Pacers, scheduled for February 13 (3 PM ET)?"
+}

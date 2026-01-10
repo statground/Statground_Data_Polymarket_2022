@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "202087",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-24T16:20:03.024000Z",
+  "market_createdAt": "2021-05-24T16:20:03.024Z",
+  "market_updatedAt": "2024-04-22T23:09:10.153119Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-29T00:00:00Z",
+  "market_closedTime": "2021-05-31 19:23:26+00",
+  "conditionId": "0x5040ae90da9c6325ebd48705bc447377bc3e80365c6cb8fbd941d756d76b115b",
+  "slug": "who-will-win-bucks-vs-heat-game-4",
+  "question": "Who will win Bucks vs. Heat: Game 4?"
+}

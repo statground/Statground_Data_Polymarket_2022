@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "18286",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-01-01T20:45:51.960000Z",
+  "market_createdAt": "2021-01-01T20:45:51.96Z",
+  "market_updatedAt": "2024-04-22T22:29:29.909326Z",
+  "market_startDate": null,
+  "market_endDate": "2021-01-22T00:00:00Z",
+  "market_closedTime": "2021-01-20 17:43:10+00",
+  "conditionId": "0x83a5e4d3cc2a5347a190304f2c057747fd234aa9c0b721bba468427924a0ed18",
+  "slug": "will-donald-trump-pardon-a-family-member-before-inauguration-day-2",
+  "question": "Will Donald Trump pardon a family member before Inauguration Day?"
+}

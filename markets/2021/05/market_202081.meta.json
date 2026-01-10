@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "202081",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-24T16:20:03.011000Z",
+  "market_createdAt": "2021-05-24T16:20:03.011Z",
+  "market_updatedAt": "2024-04-23T00:44:15.919332Z",
+  "market_startDate": null,
+  "market_endDate": "2021-05-29T00:00:00Z",
+  "market_closedTime": "2021-05-31 19:24:02+00",
+  "conditionId": "0x8472248147d6cfabe172a62d96fb9b30203c7a986f43288b0ece9afd57b82b86",
+  "slug": "who-will-win-nuggets-vs-trail-blazers-game-4",
+  "question": "Who will win Nuggets vs. Trail Blazers: Game 4?"
+}

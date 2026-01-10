@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243392",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-18T08:07:06.455000Z",
+  "market_createdAt": "2022-04-18T08:07:06.455Z",
+  "market_updatedAt": "2023-01-31T21:16:30.358Z",
+  "market_startDate": "2022-04-18T14:01:43.95Z",
+  "market_endDate": "2022-04-18T00:00:00Z",
+  "market_closedTime": "2022-04-19 07:31:29+00",
+  "conditionId": "0x02fb1736b65087dc78ad19f2e6d06f2a93721d85b4323c532f2083ed2b64acbf",
+  "slug": "nhl-will-the-knights-beat-the-devils-by-more-than-1pt5-goals-in-their-april-18-1000-pm-et-matchup",
+  "question": "NHL: Will the Knights beat the Devils by more than 1.5 goals in their April 18, 10:00 PM ET matchup?"
+}

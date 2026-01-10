@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240966",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-23T13:08:03.600000Z",
+  "market_createdAt": "2022-01-23T13:08:03.6Z",
+  "market_updatedAt": "2024-04-22T23:32:46.604294Z",
+  "market_startDate": "2022-01-23T17:37:13.974Z",
+  "market_endDate": "2022-01-23T00:00:00Z",
+  "market_closedTime": "2022-01-24 22:13:41+00",
+  "conditionId": "0xe5366cdf6938f3bc205238831f908b1c91fe8b5374814ff490cd6caa9c6b345e",
+  "slug": "nba-will-the-timberwolves-beat-the-nets-by-more-than-2p5-points-in-their-january-23-matchup",
+  "question": "NBA: Will the Timberwolves beat the Nets by more than 2.5 points in their January 23 matchup?"
+}

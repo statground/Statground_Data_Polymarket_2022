@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242464",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-25T09:02:30.322000Z",
+  "market_createdAt": "2022-03-25T09:02:30.322Z",
+  "market_updatedAt": "2024-04-23T00:41:03.254512Z",
+  "market_startDate": "2022-03-25T15:55:21.205Z",
+  "market_endDate": "2022-03-25T00:00:00Z",
+  "market_closedTime": "2022-03-26 16:20:07+00",
+  "conditionId": "0xe0a065498d70fe0ca8b576e686d8bf16c6d033592f71b847aeefcb673a7caa43",
+  "slug": "nhl-will-the-jets-beat-the-jackets-by-more-than-1pt5-goals-in-their-march-25-800-pm-et-matchup",
+  "question": "NHL: Will the Jets beat the Jackets by more than 1.5 goals in their March 25, 8:00 PM ET matchup?"
+}

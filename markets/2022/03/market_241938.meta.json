@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241938",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-07T09:33:50.279000Z",
+  "market_createdAt": "2022-03-07T09:33:50.279Z",
+  "market_updatedAt": "2024-04-22T23:39:43.249291Z",
+  "market_startDate": "2022-03-07T15:25:10.09Z",
+  "market_endDate": "2022-03-07T00:00:00Z",
+  "market_closedTime": "2022-03-08 19:00:46+00",
+  "conditionId": "0x32166d20814a24858cf9d1312920fed27b388371ab18dc70600d24a604ce2837",
+  "slug": "nba-who-will-win-the-mavericks-vspt-jazz-scheduled-for-march-7-8pt30-pm-et",
+  "question": "NBA: Who will win the Mavericks vs. Jazz, scheduled for March 7 (8.30 PM ET)?"
+}

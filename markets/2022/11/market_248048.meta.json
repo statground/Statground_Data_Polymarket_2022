@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248048",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T21:45:35.833000Z",
+  "market_createdAt": "2022-11-18T21:45:35.833Z",
+  "market_updatedAt": "2023-02-10T01:03:38.235Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-18T00:00:00Z",
+  "market_closedTime": "2022-12-18 22:30:43+00",
+  "conditionId": "0x3990f55503d1f1b9c94153327210b8b8eec101006c47a0c1f754af80d813f128",
+  "slug": "will-argentina-win-the-2022-world-cup",
+  "question": "Will Argentina win the 2022 World Cup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "228789",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-05T02:00:01.261000Z",
+  "market_createdAt": "2021-08-05T02:00:01.261Z",
+  "market_updatedAt": "2024-04-24T23:42:01.308273Z",
+  "market_startDate": "2021-08-05T02:05:56.93Z",
+  "market_endDate": "2021-08-05T00:00:00Z",
+  "market_closedTime": "2021-08-05 15:07:14+00",
+  "conditionId": "0x2bb6713b49470f19ffaba732e07ec0d6e2b3cc8d250320b7138da7eb56680c27",
+  "slug": "in-game-trading-will-the-usa-beat-australia-by-10-or-more-points-in-the-mens-basketball-tokyo-2020-olympic-semifinals-match",
+  "question": "(In-Game Trading) Will the USA beat Australia by 10 or more points in the Men's Basketball Tokyo 2020 Olympic Semifinals match?"
+}

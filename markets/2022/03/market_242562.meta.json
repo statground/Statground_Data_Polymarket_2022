@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242562",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-27T09:08:50.488000Z",
+  "market_createdAt": "2022-03-27T09:08:50.488Z",
+  "market_updatedAt": "2024-04-23T00:31:40.667039Z",
+  "market_startDate": null,
+  "market_endDate": "2022-03-27T00:00:00Z",
+  "market_closedTime": "2022-03-28 09:12:21+00",
+  "conditionId": "0xa532d488368943bbe4c8339a78fbc432fde78ed038065b466f629b3cdea7fab3",
+  "slug": "nba-will-the-celtics-beat-the-timberwolves-by-more-than-6pt5-points-in-their-march-27-610-pm-et-matchup",
+  "question": "NBA: Will the Celtics beat the Timberwolves by more than 6.5 points in their March 27, 6:10 PM ET matchup?"
+}

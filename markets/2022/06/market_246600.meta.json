@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246600",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-28T10:17:49.276000Z",
+  "market_createdAt": "2022-06-28T10:17:49.276Z",
+  "market_updatedAt": "2023-01-31T19:34:09.916Z",
+  "market_startDate": "2022-06-28T16:45:05.052Z",
+  "market_endDate": "2022-06-29T00:00:00Z",
+  "market_closedTime": "2022-06-30 06:45:34+00",
+  "conditionId": "0x90be84628cb4c9284688e566378e56fa7cf4b3e92357bbe8824c43a2f25af777",
+  "slug": "will-sec-approve-bitwise-etf-by-june-29",
+  "question": "Will SEC approve Bitwise ETF by June 29?"
+}

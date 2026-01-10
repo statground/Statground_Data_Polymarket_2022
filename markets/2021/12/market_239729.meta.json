@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239729",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-01T12:57:26.258000Z",
+  "market_createdAt": "2021-12-01T12:57:26.258Z",
+  "market_updatedAt": "2024-04-22T23:28:37.461462Z",
+  "market_startDate": "2021-12-01T19:33:30.801Z",
+  "market_endDate": "2021-12-01T00:00:00Z",
+  "market_closedTime": "2021-12-02 07:06:13+00",
+  "conditionId": "0xd58206c0d9c3f755d102ee4275b76645e540db241e9dacd714e07d9c7c624e5c",
+  "slug": "nba-will-the-pacers-beat-the-hawks-by-more-than-1pt5-points-in-their-december-1-matchup",
+  "question": "NBA: Will the Pacers beat the Hawks by more than 1.5 points in their December 1 matchup?"
+}

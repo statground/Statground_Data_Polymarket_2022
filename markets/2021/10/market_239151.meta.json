@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239151",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-30T13:29:00.982000Z",
+  "market_createdAt": "2021-10-30T13:29:00.982Z",
+  "market_updatedAt": "2024-04-23T00:50:15.645287Z",
+  "market_startDate": "2021-10-30T19:06:13.304Z",
+  "market_endDate": "2021-10-30T00:00:00Z",
+  "market_closedTime": "2021-10-31 16:42:33+00",
+  "conditionId": "0x520577af46f289cfe17588b51ccbc38b88ba4968dc13df67ebddcb348bfb0d9e",
+  "slug": "will-the-pistons-beat-the-magic-by-more-than-5pt5-points-in-their-october-30th-matchup",
+  "question": "Will the Pistons beat the Magic by more than 5.5 points in their October 30th matchup?"
+}

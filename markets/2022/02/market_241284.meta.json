@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241284",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-02T21:35:52.213000Z",
+  "market_createdAt": "2022-02-02T21:35:52.213Z",
+  "market_updatedAt": "2023-01-31T17:27:06.408Z",
+  "market_startDate": "2022-02-02T21:45:51.673Z",
+  "market_endDate": "2022-02-09T00:00:00Z",
+  "market_closedTime": "2022-02-11 07:12:05+00",
+  "conditionId": "0x0c8a89afc2405d807009bb1fa602d675934ee669104d11b5416b42611c30c9f1",
+  "slug": "will-the-wormhole-hacker-return-69-or-more-of-the-exploited-funds-by-february-9th",
+  "question": "Will the Wormhole hacker return 69% or more of the exploited funds by February 9th?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238958",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-10-07T15:28:19.696000Z",
+  "market_createdAt": "2021-10-07T15:28:19.696Z",
+  "market_updatedAt": "2024-04-22T23:53:00.306862Z",
+  "market_startDate": "2021-10-07T17:10:03.91Z",
+  "market_endDate": "2021-10-10T00:00:00Z",
+  "market_closedTime": "2021-10-10 19:25:48+00",
+  "conditionId": "0x8fde7b4310dd8120576c47449f0917bec004f372c31dfef4ae35e482eaecbe90",
+  "slug": "will-the-jets-or-falcons-win-their-week-five-matchup",
+  "question": "(In-Game Trading) Will the Jets or Falcons win their week five matchup?"
+}

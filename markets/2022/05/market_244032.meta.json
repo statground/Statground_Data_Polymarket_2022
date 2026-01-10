@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244032",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-03T08:14:01.542000Z",
+  "market_createdAt": "2022-05-03T08:14:01.542Z",
+  "market_updatedAt": "2023-01-31T21:06:36.963Z",
+  "market_startDate": "2022-05-03T16:57:17.296Z",
+  "market_endDate": "2022-05-03T00:00:00Z",
+  "market_closedTime": "2022-05-04 06:46:34+00",
+  "conditionId": "0x06e0fc21ea5f813933ed0e94bf4031a937ee9f136c344df976488938a9d9caaa",
+  "slug": "nba-will-the-celtics-beat-the-bucks-by-more-than-4pt5-points-in-their-may-3-700-pm-et-matchup",
+  "question": "NBA: Will the Celtics beat the Bucks by more than 4.5 points in their May 3, 7:00 PM ET matchup?"
+}

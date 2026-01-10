@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239565",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-22T17:33:22.806000Z",
+  "market_createdAt": "2021-11-22T17:33:22.806Z",
+  "market_updatedAt": "2024-04-23T00:58:51.31802Z",
+  "market_startDate": "2021-11-22T19:38:53.839Z",
+  "market_endDate": "2021-11-22T00:00:00Z",
+  "market_closedTime": "2021-11-23 13:46:08+00",
+  "conditionId": "0x7314271860932ccc3ca8c6ff85517fc683e2dcc10bb1e2ee5d7778f230d436a8",
+  "slug": "nba-will-the-sum-of-points-in-76ers-v-kings-be-an-even-or-an-odd-number",
+  "question": "NBA: Will the sum of points in 76ers v Kings be an even or an odd number?"
+}

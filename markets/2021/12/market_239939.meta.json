@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239939",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-09T11:14:14.367000Z",
+  "market_createdAt": "2021-12-09T11:14:14.367Z",
+  "market_updatedAt": "2024-04-22T23:28:10.547038Z",
+  "market_startDate": "2021-12-09T18:31:43.372Z",
+  "market_endDate": "2021-12-09T00:00:00Z",
+  "market_closedTime": "2021-12-10 13:11:49+00",
+  "conditionId": "0xe28678f8b49bc84a828f98e7ce58f56617eaa1520406ef0ca4154a1dd1cd238e",
+  "slug": "nba-will-the-sum-of-points-in-jazz-v-76ers-be-an-even-or-an-odd-number",
+  "question": "NBA: Will the sum of points in Jazz v 76ers be an even or an odd number?"
+}

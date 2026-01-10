@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "98079",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-02-25T19:45:02.088000Z",
+  "market_createdAt": "2021-02-25T19:45:02.088Z",
+  "market_updatedAt": "2024-04-22T23:11:23.24233Z",
+  "market_startDate": null,
+  "market_endDate": "2021-03-04T00:00:00Z",
+  "market_closedTime": "2021-03-05 16:40:26+00",
+  "conditionId": "0x3fe9c72ab979230d171c6289b9180200d08a64eeb15c60d80de3a6d960a850d2",
+  "slug": "how-many-more-tweets-will-be-on-the-whcos-account-on-march-4-2021",
+  "question": "How many more tweets will be on the @WHCOS account on March 4, 2021?"
+}

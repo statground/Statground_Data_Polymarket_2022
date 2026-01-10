@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242303",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-20T09:02:26.634000Z",
+  "market_createdAt": "2022-03-20T09:02:26.634Z",
+  "market_updatedAt": "2024-04-25T00:01:34.034548Z",
+  "market_startDate": null,
+  "market_endDate": "2022-03-20T00:00:00Z",
+  "market_closedTime": "2022-03-21 20:51:43+00",
+  "conditionId": "0x84e8de1f3ce9581766fd6e89968bbb83178c63ee11f21374fa97301ab5a2c6d7",
+  "slug": "nhl-will-the-capitals-beat-the-stars-by-more-than-1pt5-goals-in-their-march-20-500-pm-et-matchup",
+  "question": "NHL: Will the Capitals beat the Stars by more than 1.5 goals in their March 20, 5:00 PM ET matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "222342",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-06T16:15:01.003000Z",
+  "market_createdAt": "2021-07-06T16:15:01.003Z",
+  "market_updatedAt": "2024-04-22T23:50:24.828372Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-07T00:00:00Z",
+  "market_closedTime": "2021-07-08 15:30:18+00",
+  "conditionId": "0xce42f48b0437b18b2dcd85fc5ace06e069c37bbc944367c8368cf78b645cc5ae",
+  "slug": "will-england-or-denmark-qualify-for-the-euro-2020-finals",
+  "question": "Will England or Denmark qualify for the Euro 2020 Finals?"
+}

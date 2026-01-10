@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "245079",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-19T19:52:57.511000Z",
+  "market_createdAt": "2022-05-19T19:52:57.511Z",
+  "market_updatedAt": "2023-01-31T19:34:54.395Z",
+  "market_startDate": "2022-05-19T20:51:37.369Z",
+  "market_endDate": "2022-06-19T00:00:00Z",
+  "market_closedTime": "2022-05-28 21:00:47+00",
+  "conditionId": "0x02ed4afa0cf9c9bf6c06b3ae937d26e6cf00ef63de665e9c24636f845fdbfa4f",
+  "slug": "will-the-dallas-mavericks-win-the-nba-21-22-championship",
+  "question": "Will the Dallas Mavericks win the NBA ‘21-’22 Championship?"
+}

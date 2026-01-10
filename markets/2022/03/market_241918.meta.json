@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241918",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-05T12:19:58.189000Z",
+  "market_createdAt": "2022-03-05T12:19:58.189Z",
+  "market_updatedAt": "2024-04-26T02:47:11.313542Z",
+  "market_startDate": "2022-03-05T15:20:53.147Z",
+  "market_endDate": "2022-03-05T00:00:00Z",
+  "market_closedTime": "2022-03-06 18:32:12+00",
+  "conditionId": "0x597066d5c3029ab21a800b3c1acb700cb98a0f28d92a4fc5ac78e9840c580cff",
+  "slug": "nba-will-the-mavericks-beat-the-kings-by-more-than-7pt5-points-in-their-march-5-5-pm-et-matchup",
+  "question": "NBA: Will the Mavericks beat the Kings by more than 7.5 points in their March 5 (5 PM ET) matchup?"
+}

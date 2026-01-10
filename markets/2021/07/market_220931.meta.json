@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "220931",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-01T18:55:01.070000Z",
+  "market_createdAt": "2021-07-01T18:55:01.07Z",
+  "market_updatedAt": "2024-04-22T23:29:07.480439Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-28T00:00:00Z",
+  "market_closedTime": "2021-07-02 17:08:39+00",
+  "conditionId": "0x9b61d404b8feeca923c6aecbc9e4c8c784b004e68c114394376b806f3e8521c3",
+  "slug": "will-tesla-report-more-than-200k-deliveries-for-q2-2021",
+  "question": "Will Tesla report more than 200k deliveries for Q2 2021?"
+}

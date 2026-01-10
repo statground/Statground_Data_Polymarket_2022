@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247210",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-08T19:43:56.142000Z",
+  "market_createdAt": "2022-09-08T19:43:56.142Z",
+  "market_updatedAt": "2023-01-31T16:17:52.184Z",
+  "market_startDate": "2022-09-08T19:53:14.927Z",
+  "market_endDate": "2022-09-11T00:00:00Z",
+  "market_closedTime": "2022-09-11 12:30:49+00",
+  "conditionId": "0x200c43f48419bc05b3be77635797df8b19ee408d8c67bfcd9dea4825d3bbeb63",
+  "slug": "ufc-279-will-chimaev-kotko-diaz",
+  "question": "UFC 279: Will Chimaev KO/TKO Diaz?"
+}

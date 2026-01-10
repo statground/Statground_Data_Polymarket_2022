@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240133",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-22T07:58:00.748000Z",
+  "market_createdAt": "2021-12-22T07:58:00.748Z",
+  "market_updatedAt": "2024-04-22T23:12:11.103536Z",
+  "market_startDate": "2021-12-22T19:07:56.34Z",
+  "market_endDate": "2021-12-22T00:00:00Z",
+  "market_closedTime": "2021-12-23 17:09:18+00",
+  "conditionId": "0x9d31105f0bbcfaf3a6fd0b7e26bbcc3d344d704adf5786d1237e2323bd36e163",
+  "slug": "nba-will-the-nuggets-beat-the-thunder-by-more-than-5pt5-points-in-their-december-22-matchup",
+  "question": "NBA: Will the Nuggets beat the Thunder by more than 5.5 points in their December 22 matchup?"
+}

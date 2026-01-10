@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241278",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-02T19:19:21.864000Z",
+  "market_createdAt": "2022-02-02T19:19:21.864Z",
+  "market_updatedAt": "2024-04-23T00:41:01.1798Z",
+  "market_startDate": "2022-02-07T17:45:21.9Z",
+  "market_endDate": "2022-02-13T00:00:00Z",
+  "market_closedTime": "2022-02-14 11:38:01+00",
+  "conditionId": "0x8b928d1258217b48322e35d845cbfce667e1008deb91a0b943d6e23cd3239adb",
+  "slug": "superbowl-lvi-will-the-point-difference-be-greater-than-5p5",
+  "question": "Superbowl LVI: Will the point difference be greater than 5.5?"
+}

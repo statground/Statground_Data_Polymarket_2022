@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239845",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-05T17:27:53.008000Z",
+  "market_createdAt": "2021-12-05T17:27:53.008Z",
+  "market_updatedAt": "2024-04-26T02:51:24.060635Z",
+  "market_startDate": "2021-12-05T20:46:52.645Z",
+  "market_endDate": "2021-12-05T00:00:00Z",
+  "market_closedTime": "2021-12-06 20:29:22+00",
+  "conditionId": "0x70dbb4469b915658f09025d481625a5144578089defb1b7c03992041043e7c39",
+  "slug": "nhl-will-the-leafs-beat-the-jets-by-more-than-1pt5-points-in-their-december-5-matchup",
+  "question": "NHL: Will the Leafs beat the Jets by more than 1.5 points in their December 5 matchup?"
+}

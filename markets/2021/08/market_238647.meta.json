@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238647",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-24T17:46:01.357000Z",
+  "market_createdAt": "2021-08-24T17:46:01.357Z",
+  "market_updatedAt": "2025-03-25T22:46:27.764808Z",
+  "market_startDate": "2021-08-26T21:59:58.986Z",
+  "market_endDate": "2021-10-04T12:00:00Z",
+  "market_closedTime": "2021-10-03 22:52:56+00",
+  "conditionId": "0x2bda19aa7231cefc6b5d7e0b2bf4a785e243d255986aedac0f13fb12433ac3a9",
+  "slug": "dodgers",
+  "question": "dodgers"
+}

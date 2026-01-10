@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239569",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-22T21:45:32.728000Z",
+  "market_createdAt": "2021-11-22T21:45:32.728Z",
+  "market_updatedAt": "2024-04-25T00:03:21.807374Z",
+  "market_startDate": "2021-11-22T22:23:31.745Z",
+  "market_endDate": "2021-11-23T00:00:00Z",
+  "market_closedTime": "2021-11-24 18:29:44+00",
+  "conditionId": "0xa1c188bdd09dae1eb75d73a802bb6e3daa8169022d033d56463d609e8c26b25d",
+  "slug": "will-lebron-james-play-against-the-new-york-knicks-on-tuesday",
+  "question": "Will Lebron James play against the New York Knicks on Tuesday?"
+}

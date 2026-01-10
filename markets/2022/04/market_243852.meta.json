@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243852",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-27T08:46:15.399000Z",
+  "market_createdAt": "2022-04-27T08:46:15.399Z",
+  "market_updatedAt": "2023-01-31T20:26:40.358Z",
+  "market_startDate": "2022-04-27T15:12:15.327Z",
+  "market_endDate": "2022-04-27T00:00:00Z",
+  "market_closedTime": "2022-04-28 07:01:13+00",
+  "conditionId": "0x145f9f12eb219927b15459965c1c9637a6b5207a074df1872ad249227df2df13",
+  "slug": "mlb-who-will-win-minnesota-twins-vs-detroit-tigers-scheduled-for-april-27-741-pm-et",
+  "question": "MLB: Who will win Minnesota Twins vs. Detroit Tigers, scheduled for April 27, 7:41 PM ET?"
+}

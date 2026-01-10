@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "219156",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-25T18:15:02.875000Z",
+  "market_createdAt": "2021-06-25T18:15:02.875Z",
+  "market_updatedAt": "2024-04-22T23:17:04.497994Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-27T00:00:00Z",
+  "market_closedTime": "2021-06-28 15:00:50+00",
+  "conditionId": "0x588b2dda57438f98587c9f3502b6ef8d5293b798b5182a64f7a5c4cfabe105ae",
+  "slug": "will-the-netherlands-or-the-czech-republic-win-their-euro-2020-match",
+  "question": "Will the Netherlands or the Czech Republic qualify for the Euro 2020 Quarterfinals?"
+}

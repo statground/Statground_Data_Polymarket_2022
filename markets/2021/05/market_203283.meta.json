@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "203283",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-27T20:40:02.680000Z",
+  "market_createdAt": "2021-05-27T20:40:02.68Z",
+  "market_updatedAt": "2024-04-22T23:29:41.786512Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-05T00:00:00Z",
+  "market_closedTime": "2021-06-18 20:22:49+00",
+  "conditionId": "0xa6ed392cc9183fbec69fc8de44cbaad8ad06650e022f0a80b23c8fb5e63cf834",
+  "slug": "will-25-us-states-administer-at-least-one-covid-19-vaccine-dose-to-50-of-residents-by-july-5",
+  "question": "Will 25 US States administer at least one COVID-19 vaccine dose to 50% of residents by July 5?"
+}

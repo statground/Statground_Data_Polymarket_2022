@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240527",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T18:26:33.844000Z",
+  "market_createdAt": "2022-01-11T18:26:33.844Z",
+  "market_updatedAt": "2024-04-24T23:38:33.309741Z",
+  "market_startDate": "2022-01-12T20:46:56.221Z",
+  "market_endDate": "2022-02-20T00:00:00Z",
+  "market_closedTime": "2022-02-20 21:00:30+00",
+  "conditionId": "0xd4dc38461bfc8b47a720470bff7e666e3d77bcd9ec7716303488d1834803d84d",
+  "slug": "who-will-have-a-higher-net-worth-on-february-20-bernard-arnault-or-jeff-bezos",
+  "question": "Who will have a higher net worth on February 20: Bernard Arnault or Jeff Bezos?"
+}

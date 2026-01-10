@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238892",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-26T06:53:38.871000Z",
+  "market_createdAt": "2021-09-26T06:53:38.871Z",
+  "market_updatedAt": "2024-04-23T00:54:07.229026Z",
+  "market_startDate": "2021-09-26T07:06:11.885Z",
+  "market_endDate": "2021-09-26T00:00:00Z",
+  "market_closedTime": "2021-09-27 16:44:23+00",
+  "conditionId": "0x4dc18198e0311867420fd010c7cb70795ab2fa5c2d13a6c65100c23dca0011fc",
+  "slug": "will-the-yankees-or-the-red-sox-win-their-game-on-september-26th",
+  "question": "Will the Yankees or the Red Sox win their game on September 26th?"
+}

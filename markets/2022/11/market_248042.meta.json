@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248042",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T20:54:53.813000Z",
+  "market_createdAt": "2022-11-18T20:54:53.813Z",
+  "market_updatedAt": "2023-01-31T19:34:09.739Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-06T00:00:00Z",
+  "market_closedTime": "2022-12-03 00:31:34+00",
+  "conditionId": "0xed741f03b8315cecdfc0fb803cebd70bd4eeabc15b04df34431b15a136536048",
+  "slug": "will-uruguay-qualify-from-group-h",
+  "question": "Will Uruguay qualify from Group H?"
+}

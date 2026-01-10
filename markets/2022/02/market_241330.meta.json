@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241330",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-04T15:27:59.584000Z",
+  "market_createdAt": "2022-02-04T15:27:59.584Z",
+  "market_updatedAt": "2024-04-22T23:38:44.562305Z",
+  "market_startDate": "2022-02-04T18:03:16.857Z",
+  "market_endDate": "2022-02-04T00:00:00Z",
+  "market_closedTime": "2022-02-07 02:52:42+00",
+  "conditionId": "0x19ab2dbbdd0da8d1340dc9e2b54d00ac6b0e879595539ab966da94926e853cd4",
+  "slug": "nba-will-the-mavericks-beat-the-76ers-by-more-than-15-points-in-their-february-4-10-pm-et-matchup",
+  "question": "NBA: Will the Mavericks beat the 76ers by more than 1.5 points in their February 4 (10 PM ET) matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241127",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-27T20:10:22.490000Z",
+  "market_createdAt": "2022-01-27T20:10:22.49Z",
+  "market_updatedAt": "2024-04-25T00:04:50.814916Z",
+  "market_startDate": "2022-01-27T22:17:59.754Z",
+  "market_endDate": "2022-12-31T00:00:00Z",
+  "market_closedTime": "2022-02-25 19:04:00+00",
+  "conditionId": "0x27abedf475861d47ba77a1624e7347f70fbf9c77955975e7da70a69cdaeba5e9",
+  "slug": "will-ketanji-brown-jackson-be-the-next-nominee-for-supreme-court-justice",
+  "question": "Will Ketanji Brown Jackson be the next nominee for Supreme Court Justice?"
+}

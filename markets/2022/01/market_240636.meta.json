@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240636",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-12T16:44:45.420000Z",
+  "market_createdAt": "2022-01-12T16:44:45.42Z",
+  "market_updatedAt": "2024-04-24T23:52:06.630331Z",
+  "market_startDate": "2022-01-12T21:07:07.155Z",
+  "market_endDate": "2022-01-12T00:00:00Z",
+  "market_closedTime": "2022-01-14 06:38:54+00",
+  "conditionId": "0x7fee3a8bfa7e19552349b83c1cacfb9179bb3bf4d9aac9638b30ec3934d24374",
+  "slug": "nba-will-the-lakers-beat-the-kings-by-more-than-3pt5-points-in-their-january-12-matchup",
+  "question": "NBA: Will the Lakers beat the Kings by more than 3.5 points in their January 12 matchup?"
+}

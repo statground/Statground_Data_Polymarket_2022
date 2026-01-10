@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239573",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-23T15:32:22.078000Z",
+  "market_createdAt": "2021-11-23T15:32:22.078Z",
+  "market_updatedAt": "2024-04-26T02:50:47.450191Z",
+  "market_startDate": "2021-11-23T20:06:25.196Z",
+  "market_endDate": "2021-11-23T00:00:00Z",
+  "market_closedTime": "2021-11-24 22:28:27+00",
+  "conditionId": "0x7fa1cca7f64f7d37825f48f6e914fe71f7a6cc7a041dec4877aa239609b1108f",
+  "slug": "nba-will-the-clippers-beat-the-mavericks-by-more-than-5pt5-points-in-their-november-23-matchup",
+  "question": "NBA: Will the Clippers beat the Mavericks by more than 5.5 points in their November 23rd matchup?"
+}

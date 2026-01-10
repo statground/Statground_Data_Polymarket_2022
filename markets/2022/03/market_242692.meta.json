@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242692",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-31T22:30:06.678000Z",
+  "market_createdAt": "2022-03-31T22:30:06.678Z",
+  "market_updatedAt": "2024-04-26T02:48:19.39729Z",
+  "market_startDate": "2023-08-24T16:35:28.203Z",
+  "market_endDate": "2022-04-15T00:00:00Z",
+  "market_closedTime": "2022-04-16 07:48:14+00",
+  "conditionId": "0x44199e96e6ece4142e73c2375c27325822d1170edae05ac9e45fc95a3afcd803",
+  "slug": "will-atlanta-hawks-qualify-to-the-2022-nba-playoffs",
+  "question": "Will the Atlanta Hawks make the 2022 NBA playoffs?"
+}

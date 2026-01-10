@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218562",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-17T18:25:01.733000Z",
+  "market_createdAt": "2021-06-17T18:25:01.733Z",
+  "market_updatedAt": "2024-04-23T00:11:55.593442Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-20T00:00:00Z",
+  "market_closedTime": "2021-06-20 21:00:42+00",
+  "conditionId": "0x10d7d9389c220f65df23c143db5dd7b643009546c351b90bbfb3712a6152b668",
+  "slug": "will-a-red-bull-or-mercedes-amg-petronas-car-win-the-french-grand-prix",
+  "question": "Will a Red Bull or Mercedes-AMG Petronas car win the French Grand Prix? "
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246811",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-25T15:32:34.667000Z",
+  "market_createdAt": "2022-07-25T15:32:34.667Z",
+  "market_updatedAt": "2023-02-10T01:03:37.13Z",
+  "market_startDate": "2022-07-26T13:07:31.506Z",
+  "market_endDate": "2022-07-25T00:00:00Z",
+  "market_closedTime": "2022-07-26 12:57:42+00",
+  "conditionId": "0xa8287c322d4cfe704b04c5367662cc884b1c75ee4651fbbf51e7f720ea53bbce",
+  "slug": "mlb-who-will-win-atlanta-braves-v-philadelphia-phillies-scheduled-for-july-25-705-pm-et",
+  "question": "MLB: Who will win Atlanta Braves v. Philadelphia Phillies, scheduled for July 25, 7:05 PM ET?"
+}

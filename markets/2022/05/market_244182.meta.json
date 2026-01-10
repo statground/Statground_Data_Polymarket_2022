@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244182",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-04T08:27:51.001000Z",
+  "market_createdAt": "2022-05-04T08:27:51.001Z",
+  "market_updatedAt": "2023-01-31T20:14:16.362Z",
+  "market_startDate": "2022-05-04T14:26:06.369Z",
+  "market_endDate": "2022-05-04T00:00:00Z",
+  "market_closedTime": "2022-05-05 06:46:09+00",
+  "conditionId": "0x0bd9f44f7f3c57b48e6b606aa66af5f75bca549d481d2e1ffe97c5f4e212dd76",
+  "slug": "mlb-who-will-win-tampa-bay-rays-vs-oakland-athletics-scheduled-for-may-4-337-pm-et",
+  "question": "MLB: Who will win Tampa Bay Rays vs. Oakland Athletics, scheduled for May 4, 3:37 PM ET?"
+}

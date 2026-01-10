@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239854",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-06T15:40:46.440000Z",
+  "market_createdAt": "2021-12-06T15:40:46.44Z",
+  "market_updatedAt": "2024-04-22T23:47:46.70251Z",
+  "market_startDate": "2021-12-06T17:45:49.188Z",
+  "market_endDate": "2021-12-06T00:00:00Z",
+  "market_closedTime": "2021-12-07 18:23:11+00",
+  "conditionId": "0xbc25ddbf8da40e8ea092aab1f77633a20216b7b5ae4cdc5ba2cac8047d818507",
+  "slug": "nba-will-the-suns-beat-the-spurs-by-more-than-7pt5-points-in-their-december-6-matchup",
+  "question": "NBA: Will the Suns beat the Spurs by more than 7.5 points in their December 6 matchup?"
+}

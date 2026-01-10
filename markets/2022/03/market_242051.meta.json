@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242051",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-13T13:32:53.154000Z",
+  "market_createdAt": "2022-03-13T13:32:53.154Z",
+  "market_updatedAt": "2024-04-22T22:43:13.690087Z",
+  "market_startDate": null,
+  "market_endDate": "2022-03-13T00:00:00Z",
+  "market_closedTime": "2022-03-14 11:15:36+00",
+  "conditionId": "0x636778e8283298e38b8fd4713169921be6ad0b935d90bf9345bb10f5b0ad7a0c",
+  "slug": "nhl-will-the-avalanche-beat-the-flames-by-more-than-1pt5-goals-in-their-march-13-matchup-7-pm-et",
+  "question": "NHL: Will the Avalanche beat the Flames by more than 1.5 goals in their March 13 matchup (8 PM ET)?"
+}

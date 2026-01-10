@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247358",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-23T21:39:15.527000Z",
+  "market_createdAt": "2022-09-23T21:39:15.527Z",
+  "market_updatedAt": "2023-01-31T18:22:18.132Z",
+  "market_startDate": null,
+  "market_endDate": "2022-09-30T00:00:00Z",
+  "market_closedTime": "2022-09-30 22:15:41+00",
+  "conditionId": "0x880965455773b73e69d98c0fce469f334f1aa5dff164d5bbccef2005f94d954f",
+  "slug": "will-joe-bidens-fivethirtyeight-approval-rating-be-43-or-higher-on-september-29",
+  "question": "Will Joe Biden's FiveThirtyEight approval rating be 43% or higher on September 29?"
+}

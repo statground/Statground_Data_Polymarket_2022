@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248162",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-12-02T22:43:37.065000Z",
+  "market_createdAt": "2022-12-02T22:43:37.065Z",
+  "market_updatedAt": "2023-01-31T20:09:24.464Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-06T00:00:00Z",
+  "market_closedTime": "2022-12-06 23:15:48+00",
+  "conditionId": "0x81533311f86ba6c2ddf4e28596ed35b4f7640bb286d594e5f17173310def64c9",
+  "slug": "world-cup-tuesday-portugal-vs-switzerland",
+  "question": "World Cup: Tuesday - Portugal vs. Switzerland"
+}

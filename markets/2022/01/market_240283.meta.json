@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240283",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-02T16:58:35.175000Z",
+  "market_createdAt": "2022-01-02T16:58:35.175Z",
+  "market_updatedAt": "2024-04-23T00:47:39.46231Z",
+  "market_startDate": "2022-01-02T19:31:01.789Z",
+  "market_endDate": "2022-01-02T00:00:00Z",
+  "market_closedTime": "2022-01-03 15:16:19+00",
+  "conditionId": "0xb8c64dbed251c0930e22af3bca5e9fdf9156f3c8efb6b280dfbaa1ca54a47a72",
+  "slug": "nba-will-the-heat-beat-the-kings-by-more-than-3pt5-points-in-their-january-2-matchup",
+  "question": "NBA: Will the Heat beat the Kings by more than 3.5 points in their January 2 matchup?"
+}

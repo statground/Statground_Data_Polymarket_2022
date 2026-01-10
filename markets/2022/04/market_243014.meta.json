@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243014",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-07T09:40:13.238000Z",
+  "market_createdAt": "2022-04-07T09:40:13.238Z",
+  "market_updatedAt": "2024-04-22T23:05:32.869685Z",
+  "market_startDate": "2022-04-07T16:39:55.491Z",
+  "market_endDate": "2022-04-07T00:00:00Z",
+  "market_closedTime": "2022-04-08 06:45:41+00",
+  "conditionId": "0xa6f4a6e913de4a0912a05497922d246f0f3d20f016a86f0b23b6b8eba6d09756",
+  "slug": "nba-who-will-win-nuggets-vs-grizzlies-scheduled-for-april-7-910-pm-et",
+  "question": "NBA: Who will win Nuggets vs. Grizzlies, scheduled for April 7, 9:10 PM ET?"
+}

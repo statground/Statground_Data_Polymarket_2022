@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241683",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-24T13:27:54.951000Z",
+  "market_createdAt": "2022-02-24T13:27:54.951Z",
+  "market_updatedAt": "2024-04-22T23:12:29.752034Z",
+  "market_startDate": "2022-02-24T14:31:14.699Z",
+  "market_endDate": "2022-02-24T00:00:00Z",
+  "market_closedTime": "2022-02-25 18:03:03+00",
+  "conditionId": "0xbe461388b305231779448503928b71d6573ce77a322948ec6d6a32b48d302f10",
+  "slug": "nba-will-the-nuggets-beat-the-kings-by-more-than-4p5-points-in-their-february-24-10-pm-et-matchup",
+  "question": "NBA: Will the Nuggets beat the Kings by more than 4.5 points in their February 24 (10 PM ET) matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243679",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-26T07:28:08.715000Z",
+  "market_createdAt": "2022-04-26T07:28:08.715Z",
+  "market_updatedAt": "2023-01-31T20:44:34.041Z",
+  "market_startDate": "2022-04-26T15:16:55.227Z",
+  "market_endDate": "2022-04-26T00:00:00Z",
+  "market_closedTime": "2022-04-27 06:47:41+00",
+  "conditionId": "0x54301ea27d0a557ac72b1fa8f7c9fcb218e5693a0a6d444fac630694c113a96d",
+  "slug": "nhl-will-the-capitals-beat-the-islanders-by-more-than-1pt5-goals-in-their-april-26-700-pm-et-matchup",
+  "question": "NHL: Will the Capitals beat the Islanders by more than 1.5 goals in their April 26, 7:00 PM ET matchup?"
+}

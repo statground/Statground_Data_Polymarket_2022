@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246579",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-22T18:13:35.056000Z",
+  "market_createdAt": "2022-06-22T18:13:35.056Z",
+  "market_updatedAt": "2023-01-31T20:44:33.782Z",
+  "market_startDate": "2022-06-22T18:20:07.017Z",
+  "market_endDate": "2022-08-31T00:00:00Z",
+  "market_closedTime": "2022-09-01 09:00:35+00",
+  "conditionId": "0x49893bafc912c211070e6dedba898f78028d6ae0b0fc7014ce30781b5e618ab3",
+  "slug": "will-usdc-flip-usdt-in-market-cap-by-august-31",
+  "question": "Will USDC flip USDT in market cap by August 31?"
+}

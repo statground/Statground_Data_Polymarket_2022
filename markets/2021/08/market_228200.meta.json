@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "228200",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-08-03T00:25:01.752000Z",
+  "market_createdAt": "2021-08-03T00:25:01.752Z",
+  "market_updatedAt": "2024-04-25T00:12:23.098423Z",
+  "market_startDate": "2021-08-03T01:20:26.48Z",
+  "market_endDate": null,
+  "market_closedTime": "2021-08-31 15:58:20+00",
+  "conditionId": "0x742dd4ad4044966c70e15c25e9e66e056ace4bc5047a52ea817aba4a2fba0782",
+  "slug": "what-will-the-margin-of-victory-be-in-the-2021-oh-11-democratic-primary",
+  "question": "What will the margin of victory be in the 2021 OH-11 democratic primary?"
+}

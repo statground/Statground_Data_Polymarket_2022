@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238916",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-30T19:27:06.113000Z",
+  "market_createdAt": "2021-09-30T19:27:06.113Z",
+  "market_updatedAt": "2024-04-24T23:38:48.713407Z",
+  "market_startDate": "2021-10-04T21:34:25.622Z",
+  "market_endDate": "2021-10-09T00:00:00Z",
+  "market_closedTime": "2021-10-10 19:21:44+00",
+  "conditionId": "0xfd9dcaf4b810a192b28e728ec192b3c396b1050f511cf3c0e46fc8269ee86b62",
+  "slug": "will-a-team-from-a-minor-region-reach-the-2021-lol-worlds-group-stage",
+  "question": "Will a team from a minor region reach the 2021 LoL Worlds group stage?"
+}

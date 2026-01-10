@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "224608",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-07-19T17:15:01.661000Z",
+  "market_createdAt": "2021-07-19T17:15:01.661Z",
+  "market_updatedAt": "2024-04-24T23:30:23.396642Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-22T00:00:00Z",
+  "market_closedTime": "2021-07-23 17:07:07+00",
+  "conditionId": "0x41ee542dfb3b915fe1e090e42b5c71b333a0ddc25ea61ac57be947b4334d7fa9",
+  "slug": "will-weekly-jobless-claims-exceed-360k-for-the-week-ending-on-july-17",
+  "question": "Will weekly jobless claims exceed 360K for the week ending on July 17?"
+}

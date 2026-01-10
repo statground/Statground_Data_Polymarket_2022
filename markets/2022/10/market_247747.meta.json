@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247747",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-24T19:10:34.113000Z",
+  "market_createdAt": "2022-10-24T19:10:34.113Z",
+  "market_updatedAt": "2023-05-15T12:02:36.872Z",
+  "market_startDate": null,
+  "market_endDate": "2023-01-31T00:00:00Z",
+  "market_closedTime": "2023-02-02 18:00:31+00",
+  "conditionId": "0x9287b5377b76529a5bcfeef2d82848e20340d70f818f5be438371c33ad036c92",
+  "slug": "will-avatar-the-way-of-water-gross-more-than-650-million-domestically-by-january-31-2023",
+  "question": "Will 'Avatar: The Way of Water' gross more than $650 million domestically by January 31, 2023?"
+}

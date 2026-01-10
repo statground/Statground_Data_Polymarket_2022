@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247271",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-16T15:46:24.389000Z",
+  "market_createdAt": "2022-09-16T15:46:24.389Z",
+  "market_updatedAt": "2023-01-31T21:25:29.858Z",
+  "market_startDate": null,
+  "market_endDate": "2022-11-08T00:00:00Z",
+  "market_closedTime": "2022-11-24 03:46:04+00",
+  "conditionId": "0xf84cb2b82f0e0c71d67790f9521a120e8bbc99a4b688b82446462d34eaf91637",
+  "slug": "will-mary-peltola-win-alaskas-election-for-the-us-house",
+  "question": "Will Mary Peltola win Alaska's general at-large election for the U.S. House?"
+}

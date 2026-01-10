@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "35976",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-01-11T17:15:10.227000Z",
+  "market_createdAt": "2021-01-11T17:15:10.227Z",
+  "market_updatedAt": "2024-04-23T00:16:04.775925Z",
+  "market_startDate": null,
+  "market_endDate": "2021-01-21T00:00:00Z",
+  "market_closedTime": "2021-01-20 17:58:14+00",
+  "conditionId": "0x2552743e295cc1c0fcb8d1b1a1207cacd0702d22f6df27ad5b2a87288b0a1654",
+  "slug": "will-joe-biden-be-officially-inaugurated-as-president-in-person-outside-the-us-capitol-on-january-20th-2021",
+  "question": "Will Joe Biden be officially inaugurated as President in-person outside the US capitol on January 20th, 2021?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239874",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-07T11:08:53.162000Z",
+  "market_createdAt": "2021-12-07T11:08:53.162Z",
+  "market_updatedAt": "2024-04-24T23:56:56.861111Z",
+  "market_startDate": "2021-12-07T18:22:53.24Z",
+  "market_endDate": "2021-12-07T00:00:00Z",
+  "market_closedTime": "2021-12-08 18:51:39+00",
+  "conditionId": "0x7a53b1ad7ba86085451d396ebcc68abcbe8473d8667bd24c495ff4064f1967bf",
+  "slug": "nba-will-the-nets-beat-the-mavericks-by-more-than-2pt5-points-in-their-december-7-matchup",
+  "question": "NBA: Will the Nets beat the Mavericks by more than 2.5 points in their December 7 matchup?"
+}

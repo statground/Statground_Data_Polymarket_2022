@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246789",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-07-22T11:56:19.429000Z",
+  "market_createdAt": "2022-07-22T11:56:19.429Z",
+  "market_updatedAt": "2023-01-31T17:22:18.539Z",
+  "market_startDate": "2022-07-22T17:58:02.754Z",
+  "market_endDate": "2022-07-24T00:00:00Z",
+  "market_closedTime": "2022-07-25 03:15:36+00",
+  "conditionId": "0x9e7ac31c0deedbbd7b7f25a6cd62d3cb539a1f3d356cf09fd8e064c38dd6c2fe",
+  "slug": "formula-1-will-17-or-more-drivers-complete-the-2022-french-grand-prix",
+  "question": "Formula 1: Will 17 or more drivers complete the 2022 French Grand Prix?"
+}

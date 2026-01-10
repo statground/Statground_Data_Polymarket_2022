@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243475",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-19T10:22:40.463000Z",
+  "market_createdAt": "2022-04-19T10:22:40.463Z",
+  "market_updatedAt": "2023-01-31T18:53:39.427Z",
+  "market_startDate": null,
+  "market_endDate": "2022-04-19T00:00:00Z",
+  "market_closedTime": "2022-04-20 07:31:12+00",
+  "conditionId": "0x9581adc0ea071381718cfaf8616b4975b8a7c5a365fa00d8b702ab9605e160a0",
+  "slug": "mlb-who-will-win-rangers-vs-mariners-game-on-april-19",
+  "question": "MLB: Who will win Rangers vs. Mariners game on April 19?"
+}

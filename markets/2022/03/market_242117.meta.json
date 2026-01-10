@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242117",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-15T21:28:03.116000Z",
+  "market_createdAt": "2022-03-15T21:28:03.116Z",
+  "market_updatedAt": "2024-04-22T23:04:13.88637Z",
+  "market_startDate": "2022-03-15T21:42:33.197Z",
+  "market_endDate": "2022-04-04T00:00:00Z",
+  "market_closedTime": "2022-03-25 19:11:58+00",
+  "conditionId": "0x2d44beea7e5f6c16e6810687de65ee265282c6a0dab9011fe80840e47c2d9afb",
+  "slug": "ncaa-will-the-gonzaga-bulldogs-win-march-madness-2022",
+  "question": "NCAA: Will the Gonzaga Bulldogs win March Madness 2022?"
+}

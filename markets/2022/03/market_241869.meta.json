@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241869",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-03T17:20:39.424000Z",
+  "market_createdAt": "2022-03-03T17:20:39.424Z",
+  "market_updatedAt": "2024-04-22T23:12:21.680065Z",
+  "market_startDate": "2022-03-03T19:42:56.389Z",
+  "market_endDate": "2022-03-03T00:00:00Z",
+  "market_closedTime": "2022-03-04 16:01:43+00",
+  "conditionId": "0x754a26287d1285f9aa7567cf86e4a346e9de3a3c3be3cec8e8d2be80a82cc541",
+  "slug": "nba-will-the-bulls-beat-the-hawks-by-more-than-1pt5-points-in-their-march-3-7-pm-et-matchup",
+  "question": "NBA: Will the Bulls beat the Hawks by more than 1.5 points in their March 3 (7 PM ET) matchup?"
+}

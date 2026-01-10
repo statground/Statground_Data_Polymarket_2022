@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247304",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-19T20:16:53.585000Z",
+  "market_createdAt": "2022-09-19T20:16:53.585Z",
+  "market_updatedAt": "2023-01-31T17:06:31.731Z",
+  "market_startDate": null,
+  "market_endDate": "2022-09-25T00:00:00Z",
+  "market_closedTime": "2022-09-26 03:15:45+00",
+  "conditionId": "0x7a4d762c136ef8700c1a53d8d23505c4c6f2b76c1f67aba46b83c8cbd564a426",
+  "slug": "nfl-sunday-packers-vs-buccaneers",
+  "question": "NFL Sunday: Packers vs. Buccaneers"
+}

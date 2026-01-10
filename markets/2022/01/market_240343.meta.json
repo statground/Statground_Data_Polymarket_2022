@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240343",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T00:52:27.546000Z",
+  "market_createdAt": "2022-01-11T00:52:27.546Z",
+  "market_updatedAt": "2024-04-22T23:30:18.772662Z",
+  "market_startDate": "2022-01-12T20:45:55.608Z",
+  "market_endDate": "2022-02-13T00:00:00Z",
+  "market_closedTime": "2022-02-14 19:06:44+00",
+  "conditionId": "0x706d25903b569cdf3bef7720fbebf4bc8d80f67a67c221d0d769e9fa81b32af5",
+  "slug": "will-the-los-angeles-rams-win-the-21-22-superbowl",
+  "question": "Will the Los Angeles Rams win the ‘21-’22 Superbowl?"
+}

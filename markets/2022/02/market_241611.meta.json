@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241611",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-19T02:46:11.682000Z",
+  "market_createdAt": "2022-02-19T02:46:11.682Z",
+  "market_updatedAt": "2024-04-25T15:43:03.823646Z",
+  "market_startDate": "2022-02-19T16:48:03.735Z",
+  "market_endDate": "2022-02-28T00:00:00Z",
+  "market_closedTime": "2022-03-01 23:20:14+00",
+  "conditionId": "0x59a03bd2fff12c18983eabdb9556e954af26d23efbba557124584b16c04c866c",
+  "slug": "will-sergey-lavrov-and-anthony-blinken-meet-in-february-2022",
+  "question": "Will Sergey Lavrov and Antony Blinken meet in February 2022?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "219158",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-25T18:15:02.878000Z",
+  "market_createdAt": "2021-06-25T18:15:02.878Z",
+  "market_updatedAt": "2024-04-22T23:04:19.036623Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-27T00:00:00Z",
+  "market_closedTime": "2021-06-28 15:11:42+00",
+  "conditionId": "0xa52d812582180c207bf3f80af0d46caee2cfa682e18be38051690edee97ecbbc",
+  "slug": "will-belgium-or-portugal-win-their-euro-2020-match",
+  "question": "Will Belgium or Portugal qualify for the Euro 2020 Quarterfinals?"
+}

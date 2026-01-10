@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240366",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T01:33:57.546000Z",
+  "market_createdAt": "2022-01-11T01:33:57.546Z",
+  "market_updatedAt": "2024-04-22T23:38:55.065134Z",
+  "market_startDate": "2022-01-12T20:53:59.887Z",
+  "market_endDate": "2022-06-20T00:00:00Z",
+  "market_closedTime": "2022-05-27 16:15:39+00",
+  "conditionId": "0xfb4511453f557e5b764cdf78d7b1a6062f6d227b812c12f3f66b4fee6370df67",
+  "slug": "will-the-florida-panthers-win-the-nhl-2021-22-stanley-cup",
+  "question": "Will the Florida Panthers win the NHL 2021-22 Stanley Cup?"
+}

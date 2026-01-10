@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "207768",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-03T17:50:03.610000Z",
+  "market_createdAt": "2021-06-03T17:50:03.61Z",
+  "market_updatedAt": "2024-04-24T23:21:55.710232Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-08T00:00:00Z",
+  "market_closedTime": "2021-06-10 14:29:20+00",
+  "conditionId": "0xda9298741fe950def3601ebbabb0e0d818ff90dc32fac16de60a12b3bb47b696",
+  "slug": "will-the-conjuring-the-devil-made-me-do-it-gross-more-than-25m-domestically-on-opening-weekend",
+  "question": "Will The Conjuring: The Devil Made Me Do It gross more than $25M domestically on opening weekend?"
+}

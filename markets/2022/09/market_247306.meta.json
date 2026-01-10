@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247306",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-09-19T20:31:04.048000Z",
+  "market_createdAt": "2022-09-19T20:31:04.048Z",
+  "market_updatedAt": "2023-01-31T10:16:14.393Z",
+  "market_startDate": null,
+  "market_endDate": "2022-09-26T00:00:00Z",
+  "market_closedTime": "2022-09-27 07:15:46+00",
+  "conditionId": "0x5b60f058ac8ca42235719e8312e8eb3b2d8dc2f18f7116c0d02fac11f929d7ed",
+  "slug": "nfl-monday-cowboys-vs-giants",
+  "question": "NFL Monday: Cowboys vs. Giants"
+}

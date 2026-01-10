@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240346",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T00:56:39.543000Z",
+  "market_createdAt": "2022-01-11T00:56:39.543Z",
+  "market_updatedAt": "2024-04-25T00:08:55.945945Z",
+  "market_startDate": "2022-01-12T20:46:56.964Z",
+  "market_endDate": "2022-02-13T00:00:00Z",
+  "market_closedTime": "2022-01-25 19:53:59+00",
+  "conditionId": "0xcfc56fd49d902c1e1be38c2538936caae63262778b6e6f86c0ceafa3eb755622",
+  "slug": "will-the-tennessee-titans-win-the-21-22-superbowl",
+  "question": "Will the Tennessee Titans win the ‘21-’22 Superbowl?"
+}

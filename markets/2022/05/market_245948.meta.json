@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "245948",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-31T15:06:34.741000Z",
+  "market_createdAt": "2022-05-31T15:06:34.741Z",
+  "market_updatedAt": "2023-01-31T21:06:36.794Z",
+  "market_startDate": "2022-05-31T16:33:39.093Z",
+  "market_endDate": "2022-06-11T00:00:00Z",
+  "market_closedTime": "2022-06-11 21:45:31+00",
+  "conditionId": "0x9749f460b3ba6edb376b662d03c2c7cc377a7e2d1f47c347cc1ef20d36c99e2a",
+  "slug": "2022-norway-chess-will-magnus-carlsen-lose-any-game",
+  "question": "2022 Norway Chess: Will Magnus Carlsen lose any game?"
+}

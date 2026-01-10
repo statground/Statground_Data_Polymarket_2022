@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "248070",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-11-18T22:27:37.896000Z",
+  "market_createdAt": "2022-11-18T22:27:37.896Z",
+  "market_updatedAt": "2023-11-25T14:09:08.182Z",
+  "market_startDate": null,
+  "market_endDate": "2022-12-18T00:00:00Z",
+  "market_closedTime": "2022-12-14 23:45:20+00",
+  "conditionId": "0x9c4d05a5b1cec55d56626ede111048cb6c43ec8e8c777f794b605d33be0c82ec",
+  "slug": "will-morocco-win-the-2022-world-cup",
+  "question": "Will Morocco win the 2022 World Cup?"
+}

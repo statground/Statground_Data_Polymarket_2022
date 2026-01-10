@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246964",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-08-10T17:38:18.985000Z",
+  "market_createdAt": "2022-08-10T17:38:18.985Z",
+  "market_updatedAt": "2023-01-31T20:55:51.887Z",
+  "market_startDate": "2022-08-10T22:13:36.491Z",
+  "market_endDate": "2022-08-20T00:00:00Z",
+  "market_closedTime": "2022-08-21 08:15:49+00",
+  "conditionId": "0x358f11d0735758e468a1a9dfc3eb465e03ea09e5e5999f4e7ac90b161704bdee",
+  "slug": "ufc-278-who-will-win-usman-vs-edwards-2",
+  "question": "UFC 278: Who will win - Usman vs Edwards 2"
+}

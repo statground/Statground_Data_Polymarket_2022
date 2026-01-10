@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241422",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-11T10:39:32.599000Z",
+  "market_createdAt": "2022-02-11T10:39:32.599Z",
+  "market_updatedAt": "2024-04-25T00:08:22.570855Z",
+  "market_startDate": "2022-02-11T20:03:13.023Z",
+  "market_endDate": "2022-02-11T00:00:00Z",
+  "market_closedTime": "2022-02-13 05:07:14+00",
+  "conditionId": "0x91df8dcef5f53e452862eeb2d9406638dca843151e088d35c495fadeee1c1725",
+  "slug": "nba-will-the-celtics-beat-the-nuggets-by-more-than-4p5-points-in-their-february-11-730-pm-et-matchup",
+  "question": "NBA: Will the Celtics beat the Nuggets by more than 4.5 points in their February 11 (7.30 PM ET) matchup?"
+}

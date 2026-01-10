@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "202065",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-21T19:20:03.335000Z",
+  "market_createdAt": "2021-05-21T19:20:03.335Z",
+  "market_updatedAt": "2024-04-22T23:34:39.97387Z",
+  "market_startDate": null,
+  "market_endDate": "2021-06-06T00:00:00Z",
+  "market_closedTime": "2021-06-03 15:10:31+00",
+  "conditionId": "0xc24373725ba9b77c69b9d7ea3fc261336a811f641514c1d4b3abf2ea69b0d683",
+  "slug": "will-the-knicks-or-the-hawks-win-their-round-1-nba-playoff-series",
+  "question": "Will the Knicks or the Hawks win their Round 1 NBA Playoff Series?"
+}

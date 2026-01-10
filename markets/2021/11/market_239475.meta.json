@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239475",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-11-17T13:24:12.417000Z",
+  "market_createdAt": "2021-11-17T13:24:12.417Z",
+  "market_updatedAt": "2024-04-24T23:57:38.108145Z",
+  "market_startDate": "2021-11-17T19:18:33.553Z",
+  "market_endDate": "2021-11-17T00:00:00Z",
+  "market_closedTime": "2021-11-19 02:07:33+00",
+  "conditionId": "0xdd45c2bdbc49f6e7009c111ccfc0351c8c3fec34fb12b4eb401ec510bbed6dbd",
+  "slug": "nba-will-the-trail-blazers-beat-the-bulls-by-more-than-2pt5-points-in-their-november-17th-matchup",
+  "question": "NBA: Will the Trail Blazers beat the Bulls by more than 2.5 points in their November 17th matchup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238909",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-29T16:23:36.428000Z",
+  "market_createdAt": "2021-09-29T16:23:36.428Z",
+  "market_updatedAt": "2024-04-25T00:09:04.625966Z",
+  "market_startDate": "2021-09-29T17:54:25.35Z",
+  "market_endDate": "2021-11-05T00:00:00Z",
+  "market_closedTime": "2021-11-06 22:57:55+00",
+  "conditionId": "0x8fdb5885cc2b26e47d734496243456ddea3f01763bd57fda3e4750126bdfa08f",
+  "slug": "will-the-treasury-department-mint-the-trillion-dollar-coin",
+  "question": "Will the Treasury Department mint the trillion dollar coin by November 5th?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "243394",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-04-18T08:11:42.703000Z",
+  "market_createdAt": "2022-04-18T08:11:42.703Z",
+  "market_updatedAt": "2023-01-31T20:31:15.45Z",
+  "market_startDate": "2022-04-18T14:01:52.218Z",
+  "market_endDate": "2022-04-18T00:00:00Z",
+  "market_closedTime": "2022-04-19 07:15:42+00",
+  "conditionId": "0xd47c9ced1ec2a7a86568118fff7830c81d14bdd00d75192f5b90a4a5d7d6da55",
+  "slug": "nhl-will-the-stars-beat-the-canucks-by-more-than-1pt5-goals-in-their-april-18-1030-pm-et-matchup",
+  "question": "NHL: Will the Stars beat the Canucks by more than 1.5 goals in their April 18, 10:30 PM ET matchup?"
+}

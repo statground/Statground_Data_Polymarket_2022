@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "246495",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-06-06T20:28:58.198000Z",
+  "market_createdAt": "2022-06-06T20:28:58.198Z",
+  "market_updatedAt": "2023-01-31T21:24:47.34Z",
+  "market_startDate": null,
+  "market_endDate": "2022-06-08T00:00:00Z",
+  "market_closedTime": "2022-06-09 08:00:52+00",
+  "conditionId": "0x6c8cf88600dd58364341ec82d19207254137a17a92f50dcc014a7fd0993a4123",
+  "slug": "2022-nba-finals-who-will-score-more-points-in-game-3-steph-curry-or-jayson-tatum",
+  "question": "2022 NBA Finals: Who will score more points in Game 3, Steph Curry or Jayson Tatum?"
+}

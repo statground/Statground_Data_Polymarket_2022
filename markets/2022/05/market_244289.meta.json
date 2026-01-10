@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "244289",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-05-06T08:09:37.608000Z",
+  "market_createdAt": "2022-05-06T08:09:37.608Z",
+  "market_updatedAt": "2023-01-31T21:10:03.339Z",
+  "market_startDate": "2022-05-06T14:26:21.188Z",
+  "market_endDate": "2022-05-06T00:00:00Z",
+  "market_closedTime": "2022-05-07 06:45:58+00",
+  "conditionId": "0x83f9078ce9bbaabef8b3af1a9100797b0f15b926c967c0b0131cef3f888269ee",
+  "slug": "nba-who-will-win-heat-vs-76ers-scheduled-for-may-6-700-pm-et",
+  "question": "NBA: Who will win Heat vs. 76ers, scheduled for May 6, 7:00 PM ET?"
+}

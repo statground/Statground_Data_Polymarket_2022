@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247447",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-05T17:06:53.616000Z",
+  "market_createdAt": "2022-10-05T17:06:53.616Z",
+  "market_updatedAt": "2023-01-31T19:26:38.709Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-09T00:00:00Z",
+  "market_closedTime": "2022-10-10 07:00:38+00",
+  "conditionId": "0x1cf0303f90ce755cc03b77e2b608d1fdd521aac80b57bcef6659d8e7f833bb35",
+  "slug": "nfl-sunday-bengals-vs-ravens",
+  "question": "NFL Sunday: Bengals vs. Ravens"
+}

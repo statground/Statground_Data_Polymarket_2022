@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "240503",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-01-11T17:30:22.527000Z",
+  "market_createdAt": "2022-01-11T17:30:22.527Z",
+  "market_updatedAt": "2024-04-22T23:57:58.533294Z",
+  "market_startDate": "2022-01-12T21:29:36.529Z",
+  "market_endDate": "2022-02-21T00:00:00Z",
+  "market_closedTime": "2022-02-21 16:30:32+00",
+  "conditionId": "0x746b39f65c7fd696098b5172cc76f06e5b49db15c0c406c41c7ec4bedb90bd93",
+  "slug": "will-trumps-truth-social-launch-on-the-ios-app-store-by-february-21st",
+  "question": "Will Trump’s Truth Social launch on the iOS app store by February 21st?"
+}

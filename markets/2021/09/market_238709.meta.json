@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "238709",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-09-07T14:54:06.786000Z",
+  "market_createdAt": "2021-09-07T14:54:06.786Z",
+  "market_updatedAt": "2024-04-25T00:11:48.306935Z",
+  "market_startDate": "2021-09-07T16:03:29.589Z",
+  "market_endDate": "2021-09-08T00:00:00Z",
+  "market_closedTime": "2021-09-09 17:12:18+00",
+  "conditionId": "0x2d06a7ea0a8531c98e31dd996f5b28985c548484497d892c255d9a173af91257",
+  "slug": "will-forze-or-ence-esports-win-their-esl-pro-league-season-14-matchup-on-september-8-2021",
+  "question": "Will forZe or ENCE eSports win their ESL Pro League Season 14 matchup on September 8, 2021?"
+}

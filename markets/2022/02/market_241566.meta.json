@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "241566",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-02-16T19:16:13.390000Z",
+  "market_createdAt": "2022-02-16T19:16:13.39Z",
+  "market_updatedAt": "2024-04-24T23:26:17.77704Z",
+  "market_startDate": "2022-02-22T15:44:11.091Z",
+  "market_endDate": "2022-03-14T00:00:00Z",
+  "market_closedTime": "2022-03-08 19:45:34+00",
+  "conditionId": "0x51ee9ea6ab9c2731ecde93af588b38940ecd87518fd28d7f284aed271020a598",
+  "slug": "fide-world-chess-grand-prix-2022-leg-2-will-alexander-grischuk-win-pool-a",
+  "question": "FIDE World Chess Grand Prix 2022 Leg #2: Will Alexander Grischuk win Pool A?"
+}

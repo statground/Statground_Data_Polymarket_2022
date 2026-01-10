@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "247743",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-10-21T19:27:29.675000Z",
+  "market_createdAt": "2022-10-21T19:27:29.675Z",
+  "market_updatedAt": "2023-01-31T09:05:45.794Z",
+  "market_startDate": null,
+  "market_endDate": "2022-10-24T00:00:00Z",
+  "market_closedTime": "2022-10-25 16:59:47+00",
+  "conditionId": "0x965af1b7f4b28a12b7c20ae7657134ab63ce52f677685467871714f74b8cd37b",
+  "slug": "nba-who-will-win-raptors-vs-heat-scheduled-for-october-24-730-pm-et",
+  "question": "NBA: Who will win Raptors vs. Heat, scheduled for October 24 (7:30 PM ET)?"
+}

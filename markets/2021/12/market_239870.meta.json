@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "239870",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-12-06T23:56:57.119000Z",
+  "market_createdAt": "2021-12-06T23:56:57.119Z",
+  "market_updatedAt": "2024-04-24T23:30:40.936215Z",
+  "market_startDate": "2021-12-18T02:12:41.633Z",
+  "market_endDate": "2021-12-25T00:00:00Z",
+  "market_closedTime": "2021-12-26 01:18:17+00",
+  "conditionId": "0x5c5649f83128d99d43a38731f0ac9fc94c39ea92f8d2141141b5918c4a60a823",
+  "slug": "will-the-james-webb-telescope-be-launched-successfully-before-christmas",
+  "question": "Will the James Webb telescope be launched successfully before Christmas?"
+}

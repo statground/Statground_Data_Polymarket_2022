@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "218571",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-06-19T05:55:01.745000Z",
+  "market_createdAt": "2021-06-19T05:55:01.745Z",
+  "market_updatedAt": "2024-04-25T00:11:37.420474Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-02T00:00:00Z",
+  "market_closedTime": "2021-07-01 16:02:06+00",
+  "conditionId": "0xee1de48e5c37620f81551ad8fe7511286ac1c58ee1574174dfd39c8fc6753f5a",
+  "slug": "will-the-suns-or-clippers-win-their-2021-nba-western-conference-finals-series",
+  "question": "Will the Suns or Clippers win the 2021 NBA Western Conference Finals?"
+}

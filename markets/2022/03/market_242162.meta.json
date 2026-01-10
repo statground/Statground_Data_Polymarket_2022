@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "242162",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2022-03-17T12:51:45.431000Z",
+  "market_createdAt": "2022-03-17T12:51:45.431Z",
+  "market_updatedAt": "2024-04-25T00:01:15.956778Z",
+  "market_startDate": "2022-03-17T16:39:55.669Z",
+  "market_endDate": "2022-03-17T00:00:00Z",
+  "market_closedTime": "2022-03-18 11:15:27+00",
+  "conditionId": "0xa306478a8ae8b74d633e9384f6a3c992135e30aefb9160b18022dbeba5f372ae",
+  "slug": "ncaab-who-will-win-gaels-vspt-hoosiers-scheduled-for-march-17-720-pm-et",
+  "question": "NCAAB: Who will win Gaels vs. Hoosiers, scheduled for March 17, 7:20 PM ET?"
+}

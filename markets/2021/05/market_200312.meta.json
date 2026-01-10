@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "200312",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2021-05-17T21:10:03.446000Z",
+  "market_createdAt": "2021-05-17T21:10:03.446Z",
+  "market_updatedAt": "2024-04-23T00:17:10.932548Z",
+  "market_startDate": null,
+  "market_endDate": "2021-07-01T00:00:00Z",
+  "market_closedTime": "2021-06-04 16:00:06+00",
+  "conditionId": "0xe25d3073378c7b96bd2b753cd6b3dc2ad34478475d93f6c022fb024c6deb17d9",
+  "slug": "will-doge-be-available-to-trade-on-coinbase-by-july-1-2021",
+  "question": "Will $DOGE be available to trade on Coinbase by July 1, 2021?"
+}
