@@ -1,15 +1,15 @@
 {
   "entity": "series",
-  "series_id": "4",
-  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
   "folder_dt_utc": "2022-10-13T00:37:31.692000Z",
-  "series_createdAt": "2022-10-13T00:37:31.692Z",
-  "series_publishedAt": "2022-10-13 00:38:58.429+00",
-  "series_updatedAt": "2026-01-10T14:43:15.200885Z",
-  "slug": "nhl",
-  "ticker": "nhl",
-  "title": "NHL",
-  "startDate": null,
+  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
   "recurrence": "daily",
-  "seriesType": "single"
+  "seriesType": "single",
+  "series_createdAt": "2022-10-13T00:37:31.692Z",
+  "series_id": "4",
+  "series_publishedAt": "2022-10-13 00:38:58.429+00",
+  "series_updatedAt": "2026-01-10T15:53:42.995254Z",
+  "slug": "nhl",
+  "startDate": null,
+  "ticker": "nhl",
+  "title": "NHL"
 }
