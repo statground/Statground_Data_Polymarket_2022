@@ -1,14 +1,14 @@
 {
   "counts": {
-    "event_json": 0,
-    "event_meta": 0,
+    "event_json": 3171,
+    "event_meta": 3171,
     "json_files": 16073,
-    "market_json": 0,
-    "market_meta": 0,
-    "series_json": 0,
-    "series_meta": 0,
+    "market_json": 4860,
+    "market_meta": 4860,
+    "series_json": 5,
+    "series_meta": 5,
     "total_files": 16073
   },
   "repo": "Statground_Data_Polymarket_2022",
-  "updated_at_utc": "2026-01-11 02:29:16 UTC"
+  "updated_at_utc": "2026-01-11 03:55:16 UTC"
 }
